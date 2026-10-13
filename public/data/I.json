@@ -122,7 +122,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I want that more schools will join us in this project.",
+  "stem": "I <u>want</u> that more schools will join us in this project.",
   "secTitle": "名詞節の基本"
  },
  {
@@ -139,7 +139,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I said to my wife that I was thinking of leaving my job.",
+  "stem": "I <u>said to my wife</u> that I was thinking of leaving my job.",
   "secTitle": "名詞節の基本"
  },
  {
@@ -156,7 +156,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I decided that it would be best to tell him the truth.",
+  "stem": "I <u>decided</u> that it would be best to tell him the truth.",
   "secTitle": "名詞節の基本"
  },
  {
@@ -173,7 +173,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I offered that I would drive him to the airport.",
+  "stem": "I <u>offered</u> that I would drive him to the airport.",
   "secTitle": "名詞節の基本"
  },
  {
@@ -503,7 +503,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I said nothing about it because of that his wife was there.",
+  "stem": "I said nothing about it <u>because of that his wife was there</u>.",
   "secTitle": "名詞節の基本"
  },
  {
@@ -518,7 +518,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "This tea is unusual in that it contains roasted rice.",
+  "stem": "This tea is unusual <u>in that it contains roasted rice</u>.",
   "secTitle": "名詞節の基本"
  },
  {
@@ -611,7 +611,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "We are convinced of that he is innocent.",
+  "stem": "We are convinced <u>of that he is innocent</u>.",
   "secTitle": "名詞節の基本"
  },
  {
@@ -1298,7 +1298,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "It is dangerous that a woman walks alone in this area at night.",
+  "stem": "It is dangerous <u>that a woman walks</u> alone in this area at night.",
   "secTitle": "that 節 ③ ～ that 節の時制"
  },
  {
@@ -1313,7 +1313,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "It's fortunate that he has such understanding parents.",
+  "stem": "It's fortunate <u>that he has</u> such understanding parents.",
   "secTitle": "that 節 ③ ～ that 節の時制"
  },
  {
@@ -1334,7 +1334,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Do you know that they are coming over this weekend?",
+  "stem": "Do you know <u>that</u> they are coming over this weekend?",
   "secTitle": "間接疑問文 ① ～  if 節とwhether 節"
  },
  {
@@ -1351,7 +1351,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Do you know if they are coming over this weekend?",
+  "stem": "Do you know <u>if</u> they are coming over this weekend?",
   "secTitle": "間接疑問文 ① ～  if 節とwhether 節"
  },
  {
@@ -1368,7 +1368,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I don't know if that will happen, but if it does, I'll be very happy.",
+  "stem": "I don't know <u>if that will happen</u>, but if it does, I'll be very happy.",
   "secTitle": "間接疑問文 ① ～  if 節とwhether 節"
  },
  {
@@ -1385,7 +1385,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "Please let me know if you will find any errors or broken links.",
+  "stem": "Please let me know <u>if you will find any errors or broken links</u>.",
   "secTitle": "間接疑問文 ① ～  if 節とwhether 節"
  },
  {
@@ -1598,7 +1598,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I asked him how did he know about it.",
+  "stem": "I asked him <u>how did he know about it</u>.",
   "secTitle": "間接疑問文 ② ～ 疑問詞を用いる場合"
  },
  {
@@ -1615,7 +1615,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "Do you know when will it be available on DVD?",
+  "stem": "Do you know <u>when will it be available on DVD</u>?",
   "secTitle": "間接疑問文 ② ～ 疑問詞を用いる場合"
  },
  {
@@ -1632,7 +1632,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I don't know exactly how many people work here.",
+  "stem": "I don't know exactly <u>how many people work here</u>.",
   "secTitle": "間接疑問文 ② ～ 疑問詞を用いる場合"
  },
  {
@@ -1649,7 +1649,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "She asked me what was my astrological sign.",
+  "stem": "She asked me <u>what was my astrological sign</u>.",
   "secTitle": "間接疑問文 ② ～ 疑問詞を用いる場合"
  },
  {
@@ -2025,7 +2025,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Do you remember what you said to me when we got married?",
+  "stem": "Do you remember <u>what you said to me</u> when we got married?",
   "secTitle": "間接疑問文 ④ ～ what 節"
  },
  {
@@ -2042,7 +2042,7 @@
   ],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I regretted what I had told her the truth.",
+  "stem": "I regretted <u>what I had told her the truth</u>.",
   "secTitle": "間接疑問文 ④ ～ what 節"
  },
  {
@@ -2057,7 +2057,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "That seems easy at first often turns out to be difficult.",
+  "stem": "<u>That seems easy at first</u> often turns out to be difficult.",
   "secTitle": "間接疑問文 ④ ～ what 節"
  },
  {

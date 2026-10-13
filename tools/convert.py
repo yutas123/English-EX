@@ -34,6 +34,59 @@ def norm(s):
     return re.sub(r"\s+", " ", s.replace("　", " ")).strip()
 
 
+UL_S, UL_E = "", ""  # 下線の開始/終了マーカー（英文の行にだけ残す）
+
+
+def strip_ul(t):
+    return t.replace(UL_S, "").replace(UL_E, "")
+
+
+def page_lines(page):
+    """get_text() と同じ行分割で、下線（文字の直下に引かれた横線）部分を UL_S..UL_E で囲んで返す"""
+    segs = []
+    for d in page.get_drawings():
+        r = d["rect"]
+        if r.height < 1.5 and r.width > 3:
+            segs.append((r.x0, r.x1, (r.y0 + r.y1) / 2))
+    out = []
+    for b in page.get_text("rawdict")["blocks"]:
+        for ln in b.get("lines", []):
+            chars = [c for sp in ln["spans"] for c in sp["chars"]]
+            text, is_open, gap = "", False, ""
+            for c in chars:
+                ch = c["c"]
+                x0, y0, x1, y1 = c["bbox"]
+                cx = (x0 + x1) / 2
+                f = ch.strip() != "" and any(a - 1 <= cx <= e + 1 and abs(y - y1) <= 3.5 for a, e, y in segs)
+                if ch.strip() == "":
+                    if is_open:
+                        gap += ch
+                    else:
+                        text += ch
+                    continue
+                if f and not is_open:
+                    text += UL_S
+                    is_open = True
+                elif f and is_open:
+                    text += gap
+                elif not f and is_open:
+                    text += UL_E
+                    is_open = False
+                    text += gap
+                gap = "" if f or is_open is False and not f else gap
+                if not f and not is_open:
+                    gap = ""
+                text += ch
+                if f:
+                    gap = ""
+            if is_open:
+                text += UL_E + gap
+            text = re.sub(UL_S + r"(\d{2})" + UL_E, r"\1", text)  # 設問番号そのものの下線（装飾）は対象外
+            text = re.sub(r"^(\s*)" + UL_S + r"([a-h])" + UL_E + r"\)", r"\1\2)", text)  # a) b) の記号も同様
+            out.append(text)
+    return out
+
+
 def make_section(lines):
     """問題と問題の間にある説明文 -> {title, body}（先頭行が見出し）"""
     if not lines:
@@ -46,7 +99,7 @@ def make_section(lines):
 
 def parse_sheet(pdf_path):
     """-> {"09-a": {no, tags, sheetJp, en}}"""
-    pages = [[l.strip() for l in p.get_text().splitlines() if l.strip()] for p in pymupdf.open(pdf_path)]
+    pages = [[l.strip() for l in page_lines(p) if l.strip()] for p in pymupdf.open(pdf_path)]
     pages = [pg[3:] if "ENGLISH EX" in pg[:3] else pg for pg in pages]  # page numbers + running head
     freq = {}
     for pg in pages:
@@ -62,17 +115,17 @@ def parse_sheet(pdf_path):
         m = re.match(r"^(\d{2})(?:[\s　]+(.*))?$", lines[i])
         if not m:
             if not re.fullmatch(r"[ぁ-ん]{1,6}", lines[i]):  # ルビ（だいかこ 等）は除く
-                pending.append(lines[i])
+                pending.append(strip_ul(lines[i]))
             i += 1
             continue
         section, pending = make_section(pending), []
-        no, head = m.group(1), (m.group(2) or "").strip()
+        no, head = m.group(1), strip_ul(m.group(2) or "").strip()
         i += 1
         while head.count("（") > head.count("）") and i < n:  # tag wraps lines
-            head += " " + lines[i]
+            head += " " + strip_ul(lines[i])
             i += 1
         if not head and i < n and CJK.search(lines[i]) and not AB.match(lines[i]) and not lines[i].startswith("（"):
-            head = lines[i]  # "49<tab>" then JP on the next line
+            head = strip_ul(lines[i])  # "49<tab>" then JP on the next line
             i += 1
         tags = TAG.findall(head)
         head_jp = TAG.sub("", head).strip()
@@ -85,14 +138,14 @@ def parse_sheet(pdf_path):
             am = AB.match(ln)
             om = OPT.match(ln) if key is not None else None
             if om:
-                bank.append(om.group(2).strip())
+                bank.append(strip_ul(om.group(2)).strip())
             elif am:
                 key = am.group(1)
                 order.append(key)
                 subs[key] = {"jp": [], "en": [], "gloss": False}
                 rest = am.group(2).strip()
                 if rest:
-                    subs[key]["jp" if CJK.search(rest) else "en"].append(rest)
+                    (subs[key]["jp"].append(strip_ul(rest)) if CJK.search(rest) else subs[key]["en"].append(rest))
             else:
                 if key is None:
                     key = ""
@@ -103,7 +156,7 @@ def parse_sheet(pdf_path):
                     if (ln.startswith("（") or ln.startswith("→")) and (cur["en"] or ln.startswith("→")):
                         cur["gloss"] = True
                     elif not cur["en"]:
-                        cur["jp"].append(ln)
+                        cur["jp"].append(strip_ul(ln))
                     else:
                         break  # explanation text: block is over
                 elif ln.startswith("→"):
@@ -242,7 +295,9 @@ def main():
                 if sh_item.get("section"):
                     cur_sec = sh_item["section"]
                     item["section"] = cur_sec
-                en = sh_item["en"]
+                en_m = sh_item["en"]
+                en = norm(strip_ul(en_m))
+                stem_html = re.sub(UL_S + "(.*?)" + UL_E, lambda m: "<u>" + m.group(1) + "</u>", en_m)
                 tags = sh_item["tags"]
                 item["tags"] = tags
                 item["sheetJp"] = sh_item["sheetJp"]
@@ -250,7 +305,7 @@ def main():
                 has_slot = any(s["t"] != "text" for s in segs)
                 if any("和訳" in t for t in tags):
                     item["type"] = "translate"
-                    item["stem"] = en
+                    item["stem"] = stem_html
                 elif has_slot:
                     sols = []
                     for a in rv["answers"]:
@@ -273,7 +328,7 @@ def main():
                         item["type"] = "proof"
                     else:
                         item["type"] = "compose"
-                    item["stem"] = en
+                    item["stem"] = stem_html
             if cur_sec:
                 item["secTitle"] = cur_sec["title"]
             stat[item["type"]] += 1

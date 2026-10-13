@@ -229,7 +229,7 @@
   ],
   "sheetJp": true,
   "type": "proof",
-  "stem": "You never can tell what you can do till you try.",
+  "stem": "You <u>never can</u> tell what you can do till you try.",
   "secTitle": "never の使い方"
  },
  {
@@ -299,7 +299,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "I don't really like horror movies.",
+  "stem": "I <u>don't</u> really like horror movies.",
   "secTitle": "否定語の位置 ①"
  },
  {
@@ -316,7 +316,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "I really don't like horror movies.",
+  "stem": "I really <u>don't</u> like horror movies.",
   "secTitle": "否定語の位置 ①"
  },
  {
@@ -333,7 +333,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "He didn't clearly say anything about it.",
+  "stem": "He <u>didn't</u> clearly say anything about it.",
   "secTitle": "否定語の位置 ①"
  },
  {
@@ -350,7 +350,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "He clearly didn't say anything about it.",
+  "stem": "He clearly <u>didn't</u> say anything about it.",
   "secTitle": "否定語の位置 ①"
  },
  {
@@ -367,7 +367,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Success is not always easy to grasp.",
+  "stem": "Success is <u>not</u> always easy to grasp.",
   "secTitle": "否定語の位置 ①"
  },
  {
@@ -385,7 +385,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Success is always not easy to grasp.",
+  "stem": "Success is always <u>not</u> easy to grasp.",
   "secTitle": "否定語の位置 ①"
  },
  {
@@ -557,7 +557,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "He has no friend in his neighborhood.",
+  "stem": "He has <u>no friend</u> in his neighborhood.",
   "secTitle": "no とnone, neither の使い方"
  },
  {
@@ -574,7 +574,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "There were not clouds at all in the sky that day.",
+  "stem": "There were <u>not clouds</u> at all in the sky that day.",
   "secTitle": "no とnone, neither の使い方"
  },
  {
@@ -591,7 +591,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "He is no beginner at composing music.",
+  "stem": "He is <u>no beginner</u> at composing music.",
   "secTitle": "no とnone, neither の使い方"
  },
  {
@@ -608,7 +608,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "Any words can't express my feelings right now.",
+  "stem": "<u>Any words can't</u> express my feelings right now.",
   "secTitle": "no とnone, neither の使い方"
  },
  {
@@ -625,7 +625,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "Not anybody seemed to know what to do.",
+  "stem": "<u>Not anybody</u> seemed to know what to do.",
   "secTitle": "no とnone, neither の使い方"
  },
  {
@@ -640,7 +640,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "\"Do you have any money?\" \"No, nothing at all.\"",
+  "stem": "\"Do you have <u>any money</u>?\" \"No, <u>nothing</u> at all.\"",
   "secTitle": "no とnone, neither の使い方"
  },
  {
@@ -655,7 +655,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "Not any of us understood what he meant.",
+  "stem": "<u>Not any of us</u> understood what he meant.",
   "secTitle": "no とnone, neither の使い方"
  },
  {
@@ -670,7 +670,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I have two sisters but none of them is married.",
+  "stem": "I have two sisters but <u>none</u> of them is married.",
   "secTitle": "no とnone, neither の使い方"
  },
  {
@@ -1258,7 +1258,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "I barely caught the last plane home.",
+  "stem": "I <u>barely</u> caught the last plane home.",
   "secTitle": "barely の使い方"
  },
  {
@@ -1275,7 +1275,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "The White Sox barely won the game 6-5.",
+  "stem": "The White Sox <u>barely</u> won the game 6-5.",
   "secTitle": "barely の使い方"
  },
  {
@@ -1292,7 +1292,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "He was so drunk that he could barely stand.",
+  "stem": "He was so drunk that he could <u>barely</u> stand.",
   "secTitle": "barely の使い方"
  },
  {
@@ -1309,7 +1309,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "I can barely understand him because of his accent.",
+  "stem": "I can <u>barely</u> understand him because of his accent.",
   "secTitle": "barely の使い方"
  },
  {
@@ -1328,7 +1328,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I don't recognize all of the names here. Who are they?",
+  "stem": "I don't recognize <u>all</u> of the names here. Who are they?",
   "secTitle": "全体否定と部分否定"
  },
  {
@@ -1343,7 +1343,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I don't recognize some of the names here.",
+  "stem": "I don't recognize <u>some</u> of the names here.",
   "secTitle": "全体否定と部分否定"
  },
  {
@@ -1375,7 +1375,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "Pick either one. You can't have either.",
+  "stem": "Pick either one. You can't have <u>either</u>.",
   "secTitle": "全体否定と部分否定"
  },
  {
@@ -1390,7 +1390,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "My wife and I always don't agree.",
+  "stem": "My wife and I <u>always don't</u> agree.",
   "secTitle": "全体否定と部分否定"
  },
  {

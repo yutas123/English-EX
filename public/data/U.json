@@ -314,7 +314,7 @@
   ],
   "sheetJp": true,
   "type": "proof",
-  "stem": "\"What did you talk about?\" \"Oh, that and this.\"",
+  "stem": "\"What did you talk about?\" \"Oh, <u>that and this</u>.\"",
   "secTitle": "this とthat の使い分け"
  },
  {
@@ -329,7 +329,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "\"Hello, is this Ms. White?\" \"Yes. Who is this, please?\"",
+  "stem": "\"Hello, is <u>this</u> Ms. White?\" \"Yes. Who is <u>this</u>, please?\"",
   "secTitle": "this とthat の使い分け"
  },
  {
@@ -346,7 +346,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I love animals—that's why I'm a vegetarian.",
+  "stem": "I love animals—<u>that's</u> why I'm a vegetarian.",
   "secTitle": "this とthat の使い分け"
  },
  {
@@ -363,7 +363,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "That is what he said: \"I think that would be a mistake.\"",
+  "stem": "<u>That</u> is what he said: \"I think that would be a mistake.\"",
   "secTitle": "this とthat の使い分け"
  },
  {
@@ -418,7 +418,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I've looked everywhere for my passport, but I can't find it.",
+  "stem": "I've looked everywhere for my passport, but I can't find <u>it</u>.",
   "secTitle": "it とone の使い分け"
  },
  {
@@ -433,7 +433,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "\"Do you believe in ghosts?\" \"Yes, but I haven't seen it yet.\"",
+  "stem": "\"Do you believe in ghosts?\" \"Yes, but I haven't seen <u>it</u> yet.\"",
   "secTitle": "it とone の使い分け"
  },
  {
@@ -448,7 +448,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "Japan needs a clear vision. Does the new prime minister have it?",
+  "stem": "Japan needs a clear vision. Does the new prime minister have <u>it</u>?",
   "secTitle": "it とone の使い分け"
  },
  {
@@ -463,7 +463,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "My washing machine broke down and I bought new one.",
+  "stem": "My washing machine broke down and I bought <u>new one</u>.",
   "secTitle": "it とone の使い分け"
  },
  {
@@ -480,7 +480,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "Red peppers are sweeter than green ones.",
+  "stem": "Red peppers are sweeter than green <u>ones</u>.",
   "secTitle": "it とone の使い分け"
  },
  {
@@ -497,7 +497,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "\"Do you like strawberries?\" \"Yes, I love ones.\"",
+  "stem": "\"Do you like strawberries?\" \"Yes, I love <u>ones</u>.\"",
   "secTitle": "it とone の使い分け"
  },
  {
@@ -632,7 +632,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "This year's tax revenues exceeded that of last year.",
+  "stem": "This year's tax revenues exceeded <u>that</u> of last year.",
   "secTitle": "that, one, those の使い分け"
  },
  {
@@ -647,7 +647,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "The look on Julie's small face was one of surprise.",
+  "stem": "The look on Julie's small face was <u>one</u> of surprise.",
   "secTitle": "that, one, those の使い分け"
  },
  {
@@ -662,7 +662,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "It is not a light or easy book, but one that is worth reading.",
+  "stem": "It is not a light or easy book, but <u>one</u> that is worth reading.",
   "secTitle": "that, one, those の使い分け"
  },
  {
@@ -994,7 +994,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "We talk each other on the phone every night.",
+  "stem": "We talk <u>each other</u> on the phone every night.",
   "secTitle": "one, another, other の慣用表現"
  },
  {
@@ -1011,7 +1011,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "Her three sons left home, one after another.",
+  "stem": "Her three sons left home, <u>one after another</u>.",
   "secTitle": "one, another, other の慣用表現"
  },
  {
@@ -1128,7 +1128,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "I can't find some of these words in my dictionary.",
+  "stem": "I can't find <u>some</u> of these words in my dictionary.",
   "secTitle": "some とany の使い分け"
  },
  {
@@ -1145,7 +1145,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "I can't find any of these words in my dictionary.",
+  "stem": "I can't find <u>any</u> of these words in my dictionary.",
   "secTitle": "some とany の使い分け"
  },
  {
@@ -1246,7 +1246,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Is there any milk left in the fridge?",
+  "stem": "Is there <u>any</u> milk left in the fridge?",
   "secTitle": "some とany の使い分け"
  },
  {
@@ -1263,7 +1263,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Is there some milk left in the fridge?",
+  "stem": "Is there <u>some</u> milk left in the fridge?",
   "secTitle": "some とany の使い分け"
  },
  {
@@ -1388,7 +1388,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "There must be some way we can make this happen.",
+  "stem": "There must be <u>some</u> way we can make this happen.",
   "secTitle": "some とany の使い分け"
  },
  {
@@ -1405,7 +1405,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "The Great Wall was built some 2,000 years ago.",
+  "stem": "The Great Wall was built <u>some</u> 2,000 years ago.",
   "secTitle": "some とany の使い分け"
  },
  {
@@ -1422,7 +1422,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "I can't stand listening to him any longer.",
+  "stem": "I can't stand listening to him <u>any</u> longer.",
   "secTitle": "some とany の使い分け"
  },
  {
@@ -1439,7 +1439,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Come on, can't you walk any faster?",
+  "stem": "Come on, can't you walk <u>any</u> faster?",
   "secTitle": "some とany の使い分け"
  },
  {
@@ -1942,7 +1942,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "All of animals have to eat in order to live.",
+  "stem": "<u>All of</u> animals have to eat in order to live.",
   "secTitle": "both とall の使い方"
  },
  {
@@ -1959,7 +1959,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "Both of us are on a diet at the moment.",
+  "stem": "<u>Both of</u> us are on a diet at the moment.",
   "secTitle": "both とall の使い方"
  },
  {
@@ -1976,7 +1976,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "May all your dreams and wishes come true!",
+  "stem": "May <u>all your</u> dreams and wishes come true!",
   "secTitle": "both とall の使い方"
  },
  {
@@ -2315,7 +2315,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "\"Do you have any money?\" \"No, nothing at all.\"",
+  "stem": "\"Do you have any money?\" \"No, <u>nothing</u> at all.\"",
   "secTitle": "no とnone の使い方"
  },
  {
@@ -2332,7 +2332,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I have two daughters but none of them is married.",
+  "stem": "I have two daughters but <u>none</u> of them is married.",
   "secTitle": "no とnone の使い方"
  },
  {
@@ -2393,7 +2393,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "He's not a teacher.",
+  "stem": "He's <u>not</u> a teacher.",
   "secTitle": "no とnone の使い方"
  },
  {
@@ -2410,7 +2410,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "He is no teacher.",
+  "stem": "He is <u>no</u> teacher.",
   "secTitle": "no とnone の使い方"
  },
  {
@@ -2497,7 +2497,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "Many of Americans eat turkey on Thanksgiving Day.",
+  "stem": "<u>Many of Americans</u> eat turkey on Thanksgiving Day.",
   "secTitle": "「部分詞＋of」 の後ろに置かれる語"
  },
  {
@@ -2512,7 +2512,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "Few of Japanese students study hard with a clear purpose.",
+  "stem": "<u>Few of Japanese students</u> study hard with a clear purpose.",
   "secTitle": "「部分詞＋of」 の後ろに置かれる語"
  },
  {
@@ -2529,7 +2529,7 @@
   ],
   "sheetJp": true,
   "type": "proof",
-  "stem": "Some of the proceeds will go to local charities.",
+  "stem": "<u>Some of the proceeds</u> will go to local charities.",
   "secTitle": "「部分詞＋of」 の後ろに置かれる語"
  },
  {
@@ -2544,7 +2544,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "Some members objected on ethical grounds.",
+  "stem": "<u>Some members</u> objected on ethical grounds.",
   "secTitle": "「部分詞＋of」 の後ろに置かれる語"
  },
  {
@@ -2563,7 +2563,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I'd like you to meet a very special friend of mine.",
+  "stem": "I'd like <u>you</u> to meet a very special friend of mine.",
   "secTitle": "you と総称人称の代名詞"
  },
  {

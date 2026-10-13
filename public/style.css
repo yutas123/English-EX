@@ -76,3 +76,4 @@ dialog::backdrop { background: rgba(0,0,0,.45); }
 @media (prefers-color-scheme: dark) { .sec { background: #3b1f2b; color: #f5d3de; } }
 .gsec { grid-column: 1 / -1; font-size: 12px; font-weight: 600; color: #b03a63; background: #fde8ef; border-radius: 6px; padding: 2px 8px; margin-top: 6px; }
 @media (prefers-color-scheme: dark) { .gsec { background: #3b1f2b; color: #f5b8cc; } }
+.en u { text-decoration-thickness: 2px; text-underline-offset: 4px; }

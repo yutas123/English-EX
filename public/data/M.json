@@ -17,7 +17,7 @@
   ],
   "sheetJp": true,
   "type": "proof",
-  "stem": "If you mix yellow and blue, you get green.",
+  "stem": "If you <u>mix</u> yellow and blue, you <u>get</u> green.",
   "secTitle": "直説法の条件文"
  },
  {
@@ -32,7 +32,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "If it's her first baby, she can't help feeling anxious.",
+  "stem": "If <u>it's</u> her first baby, she <u>can't</u> help feeling anxious.",
   "secTitle": "直説法の条件文"
  },
  {
@@ -48,7 +48,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "If anyone will ask for me, tell them I'll be back soon.",
+  "stem": "If anyone <u>will ask</u> for me, tell them I'll be back soon.",
   "secTitle": "直説法の条件文"
  },
  {
@@ -63,7 +63,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "If she was disappointed, she didn't show it.",
+  "stem": "If she <u>was</u> disappointed, she <u>didn't</u> show it.",
   "secTitle": "直説法の条件文"
  },
  {
@@ -78,7 +78,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "If he was there that night, he must have seen everything.",
+  "stem": "If he <u>was</u> there that night, he <u>must have seen</u> everything.",
   "secTitle": "直説法の条件文"
  },
  {
@@ -97,7 +97,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "If I know where I left it, I am not looking for it.",
+  "stem": "If I <u>know</u> where I left it, I <u>am not looking</u> for it.",
   "secTitle": "仮定法過去 ① ～ 現在や未来の仮想"
  },
  {
@@ -112,7 +112,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "If I am you, I will take the money.",
+  "stem": "If I <u>am</u> you, I <u>will</u> take the money.",
   "secTitle": "仮定法過去 ① ～ 現在や未来の仮想"
  },
  {
@@ -183,7 +183,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "If your home was on fire and you can save only one thing, what would it be?",
+  "stem": "If your home <u>was</u> on fire and you <u>can</u> save only one thing, what <u>would</u> it be?",
   "secTitle": "仮定法過去 ① ～ 現在や未来の仮想"
  },
  {
@@ -355,7 +355,7 @@
   ],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I would appreciate it if you could reply promptly.",
+  "stem": "I would appreciate it if you <u>could</u> reply promptly.",
   "secTitle": "仮定法過去 ② ～ 控え目な言い方"
  },
  {
@@ -414,7 +414,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "It would be better if you left it unsaid.",
+  "stem": "It <u>would be</u> better if you <u>left</u> it unsaid.",
   "secTitle": "仮定法過去完了 ～ 過去の事実に反する仮想"
  },
  {
@@ -429,7 +429,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "We would have arrived much earlier if it weren't for the traffic jam.",
+  "stem": "We <u>would have arrived</u> much earlier if it <u>weren't</u> for the traffic jam.",
   "secTitle": "仮定法過去完了 ～ 過去の事実に反する仮想"
  },
  {
@@ -444,7 +444,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "If I hadn't been wearing a seatbelt, I may have been killed.",
+  "stem": "If I <u>hadn't been</u> wearing a seatbelt, I <u>may</u> have been killed.",
   "secTitle": "仮定法過去完了 ～ 過去の事実に反する仮想"
  },
  {
@@ -633,7 +633,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "If I were a good cook, I'd have invited them to lunch.",
+  "stem": "If I <u>were</u> a good cook, I'd have invited them to lunch.",
   "secTitle": "仮定法過去完了と仮定法過去の混合"
  },
  {
@@ -648,7 +648,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "If I knew how, I would have fixed it a long time ago.",
+  "stem": "If I <u>knew</u> how, I would have fixed it a long time ago.",
   "secTitle": "仮定法過去完了と仮定法過去の混合"
  },
  {
@@ -669,7 +669,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "If I had made a bit more effort, I might have won the game.",
+  "stem": "<u>If I had made</u> a bit more effort, I might have won the game.",
   "secTitle": "if 節の代用をする副詞（句）"
  },
  {
@@ -686,7 +686,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Our company would have gone bankrupt if it hadn't been for his leadership.",
+  "stem": "Our company would have gone bankrupt <u>if it hadn't been for</u> his leadership.",
   "secTitle": "if 節の代用をする副詞（句）"
  },
  {
@@ -704,7 +704,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "It wouldn't have hurt you if you had made a call. I was waiting for hours!",
+  "stem": "It wouldn't have hurt you <u>if you had made</u> a call. I was waiting for hours!",
   "secTitle": "if 節の代用をする副詞（句）"
  },
  {
@@ -721,7 +721,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "If you were to hear him talk, you'd think he was quite a religious man.",
+  "stem": "<u>If you were to</u> hear him talk, you'd think he was quite a religious man.",
   "secTitle": "if 節の代用をする副詞（句）"
  },
  {
@@ -738,7 +738,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "He must be fairly intelligent; if he weren't, he wouldn't have gotten into that university.",
+  "stem": "He must be fairly intelligent; <u>if he weren't</u>, he wouldn't have gotten into that university.",
   "secTitle": "if 節の代用をする副詞（句）"
  },
  {
@@ -755,7 +755,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "If it is used wisely, the Internet can be an effective sales and marketing tool.",
+  "stem": "<u>If it is used</u> wisely, the Internet can be an effective sales and marketing tool.",
   "secTitle": "if 節の代用をする副詞（句）"
  },
  {
@@ -777,7 +777,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Should you have any questions, please feel free to contact us.",
+  "stem": "<u>Should you have</u> any questions, please feel free to contact us.",
   "secTitle": "if 節での省略＋倒置"
  },
  {
@@ -795,7 +795,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Had you told me sooner that I wasn't the one you loved, I would have forgotten all about you.",
+  "stem": "<u>Had you told</u> me sooner that I wasn't the one you loved, I would have forgotten all about you.",
   "secTitle": "if 節での省略＋倒置"
  },
  {
@@ -813,7 +813,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Had it not been for the two men who rescued her, she would have drowned.",
+  "stem": "<u>Had it not been</u> for the two men who rescued her, she would have drowned.",
   "secTitle": "if 節での省略＋倒置"
  },
  {
@@ -831,7 +831,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "The police would probably have found more clues had the body been discovered sooner.",
+  "stem": "The police would probably have found more clues <u>had the body</u> <u>been discovered</u> sooner.",
   "secTitle": "if 節での省略＋倒置"
  },
  {
@@ -849,7 +849,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Were I not American, I would choose to be French.",
+  "stem": "<u>Were I not</u> American, I would choose to be French.",
   "secTitle": "if 節での省略＋倒置"
  },
  {

@@ -203,7 +203,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "Our world is but a small part of the universe.",
+  "stem": "Our world is but a small part of <u>the</u> universe.",
   "secTitle": "名詞の発音と冠詞（a, an, the）の使い分け"
  },
  {
@@ -220,7 +220,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "They competed for the honor of representing California.",
+  "stem": "They competed for <u>the</u> honor of representing California.",
   "secTitle": "名詞の発音と冠詞（a, an, the）の使い分け"
  },
  {
@@ -237,7 +237,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "This isn't any ordinary hamburger. This is THE hamburger!",
+  "stem": "This isn't any ordinary hamburger. This is <u>THE</u> hamburger!",
   "secTitle": "名詞の発音と冠詞（a, an, the）の使い分け"
  },
  {
@@ -258,7 +258,7 @@
   ],
   "sheetJp": true,
   "type": "proof",
-  "stem": "There's an another train due in 15 minutes.",
+  "stem": "There's <u>an another train</u> due in 15 minutes.",
   "secTitle": "冠詞と共に用いない語"
  },
  {
@@ -273,7 +273,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "\"Who's Fred?\" \"He's a my friend from college.\"",
+  "stem": "\"Who's Fred?\" \"He's <u>a my friend</u> from college.\"",
   "secTitle": "冠詞と共に用いない語"
  },
  {
@@ -290,7 +290,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "He is a Jack's teacher at Madison High School.",
+  "stem": "He is <u>a Jack's</u> teacher at Madison High School.",
   "secTitle": "冠詞と共に用いない語"
  },
  {
@@ -307,7 +307,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "A birthday is an important occasion in a child's life.",
+  "stem": "A birthday is an important occasion in <u>a child's</u> life.",
   "secTitle": "冠詞と共に用いない語"
  },
  {
@@ -324,7 +324,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "She is the Britain's most successful female vocalist.",
+  "stem": "She is <u>the Britain's</u> most successful female vocalist.",
   "secTitle": "冠詞と共に用いない語"
  },
  {
@@ -341,7 +341,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "The boy's name was not released because he was a minor.",
+  "stem": "<u>The boy's</u> name was not released because he was a minor.",
   "secTitle": "冠詞と共に用いない語"
  },
  {
@@ -358,7 +358,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "She teaches English at a boys' high school in Seoul.",
+  "stem": "She teaches English at <u>a boys'</u> high school in Seoul.",
   "secTitle": "冠詞と共に用いない語"
  },
  {
@@ -671,7 +671,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Money was a motive for the murder.",
+  "stem": "Money was <u>a motive</u> for the murder.",
   "secTitle": "可算名詞と冠詞（a, an, the）の使い分け"
  },
  {
@@ -688,7 +688,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Money was the motive for the murder.",
+  "stem": "Money was <u>the motive</u> for the murder.",
   "secTitle": "可算名詞と冠詞（a, an, the）の使い分け"
  },
  {
@@ -741,7 +741,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "This is a portrait that I painted of my grandfather.",
+  "stem": "This is <u>a portrait</u> that I painted of my grandfather.",
   "secTitle": "可算名詞と冠詞（a, an, the）の使い分け"
  },
  {
@@ -758,7 +758,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "This is the portrait I painted of my grandfather.",
+  "stem": "This is <u>the portrait</u> I painted of my grandfather.",
   "secTitle": "可算名詞と冠詞（a, an, the）の使い分け"
  },
  {
@@ -1091,7 +1091,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "They usually spend part of the year abroad.",
+  "stem": "They usually spend <u>part</u> of the year abroad.",
   "secTitle": "the の用法 ② ～「可算名詞＋of ...」 の場合"
  },
  {
@@ -1110,7 +1110,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I'm currently studying history of ancient Rome.",
+  "stem": "I'm currently studying <u>history</u> of ancient Rome.",
   "secTitle": "the の用法 ③ ～「不可算名詞＋of ...」 の場合"
  },
  {
@@ -1125,7 +1125,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "Lack of rain affects crops and livestock.",
+  "stem": "<u>Lack</u> of rain affects crops and livestock.",
   "secTitle": "the の用法 ③ ～「不可算名詞＋of ...」 の場合"
  },
  {
@@ -1140,7 +1140,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I marvel at growth of my grandchildren.",
+  "stem": "I marvel at <u>growth</u> of my grandchildren.",
   "secTitle": "the の用法 ③ ～「不可算名詞＋of ...」 の場合"
  },
  {
@@ -1154,7 +1154,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "Closure of a factory causes hardship for everyone involved.",
+  "stem": "<u>Closure</u> of a factory causes hardship for everyone involved.",
   "secTitle": "the の用法 ③ ～「不可算名詞＋of ...」 の場合"
  },
  {
@@ -1387,7 +1387,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "I graduated from Tokyo University with a literature degree.",
+  "stem": "I graduated from <u>Tokyo University</u> with a literature degree.",
   "secTitle": "the の用法 ④ ～ 固有名詞の場合"
  },
  {
@@ -1404,7 +1404,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "I graduated from a Tokyo university with a literature degree.",
+  "stem": "I graduated from <u>a Tokyo university</u> with a literature degree.",
   "secTitle": "the の用法 ④ ～ 固有名詞の場合"
  },
  {
@@ -1745,7 +1745,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "We offer you the chance to discover a new China!",
+  "stem": "We offer you the chance to discover <u>a new China</u>!",
   "secTitle": "a [an]＋ 固有名詞・不可算名詞"
  },
  {
@@ -1762,7 +1762,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "This is not the New York I know and I don't like it.",
+  "stem": "This is not <u>the New York</u> I know and I don't like it.",
   "secTitle": "a [an]＋ 固有名詞・不可算名詞"
  },
  {
@@ -1845,7 +1845,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "The FBI announced that members of Congress were being questioned in regard to the corruption scandal.",
+  "stem": "The FBI announced that <u>members</u> of Congress were being questioned in regard to the corruption scandal.",
   "secTitle": "the＋複数名詞"
  },
  {
@@ -1860,7 +1860,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "The FBI announced that the members of Congress were being questioned in regard to the corruption scandal.",
+  "stem": "The FBI announced that <u>the members</u> of Congress were being questioned in regard to the corruption scandal.",
   "secTitle": "the＋複数名詞"
  },
  {
@@ -1879,7 +1879,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "It was long ten minutes before the phone rang.",
+  "stem": "It was <u>long ten minutes</u> before the phone rang.",
   "secTitle": "a [an]＋修飾語＋複数名詞"
  },
  {
@@ -1894,7 +1894,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "The new project would create an additional 200 jobs.",
+  "stem": "The new project would create <u>an additional</u> 200 jobs.",
   "secTitle": "a [an]＋修飾語＋複数名詞"
  },
  {
@@ -2090,7 +2090,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Sorry, but you're asking the impossible.",
+  "stem": "Sorry, but you're asking <u>the impossible</u>.",
   "secTitle": "the＋形容詞"
  },
  {
@@ -2107,7 +2107,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "He had an eye for the beautiful in nature and art.",
+  "stem": "He had an eye for <u>the beautiful</u> in nature and art.",
   "secTitle": "the＋形容詞"
  },
  {
@@ -2124,7 +2124,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Plan for the expected and prepare for the unexpected.",
+  "stem": "Plan for <u>the expected</u> and prepare for <u>the unexpected</u>.",
   "secTitle": "the＋形容詞"
  },
  {
@@ -2145,7 +2145,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "President of Yale University was the guest speaker.",
+  "stem": "<u>President</u> of Yale University was the guest speaker.",
   "secTitle": "冠詞の省略 ① ～ 役職や身分を表す名詞の場合"
  },
  {
@@ -2162,7 +2162,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "Richard Levin, president of Yale University, was the guest speaker.",
+  "stem": "Richard Levin, <u>president</u> of Yale University, was the guest speaker.",
   "secTitle": "冠詞の省略 ① ～ 役職や身分を表す名詞の場合"
  },
  {
@@ -2179,7 +2179,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "He became president of Yale University in 1993.",
+  "stem": "He became <u>president</u> of Yale University in 1993.",
   "secTitle": "冠詞の省略 ① ～ 役職や身分を表す名詞の場合"
  },
  {
@@ -2196,7 +2196,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "He served as president of Yale University for eight years.",
+  "stem": "He served as <u>president</u> of Yale University for eight years.",
   "secTitle": "冠詞の省略 ① ～ 役職や身分を表す名詞の場合"
  },
  {
@@ -2213,7 +2213,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "Professor Levin was elected president of Yale University.",
+  "stem": "Professor Levin was elected <u>president</u> of Yale University.",
   "secTitle": "冠詞の省略 ① ～ 役職や身分を表す名詞の場合"
  },
  {
@@ -2234,7 +2234,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "A white butterfly was flitting from a flower to a flower.",
+  "stem": "A white butterfly was flitting <u>from a flower to a flower</u>.",
   "secTitle": "冠詞の省略 ② ～ 慣用表現"
  },
  {
@@ -2251,7 +2251,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "It was so funny I was laughing from beginning to end.",
+  "stem": "It was so funny I was laughing <u>from beginning to end</u>.",
   "secTitle": "冠詞の省略 ② ～ 慣用表現"
  },
  {
@@ -2268,7 +2268,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "We rehearsed from morning till night for an entire week.",
+  "stem": "We rehearsed <u>from morning till night</u> for an entire week.",
   "secTitle": "冠詞の省略 ② ～ 慣用表現"
  },
  {
@@ -2285,7 +2285,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "He was walking side by side with his girlfriend.",
+  "stem": "He was walking <u>side by side</u> with his girlfriend.",
   "secTitle": "冠詞の省略 ② ～ 慣用表現"
  },
  {
@@ -2302,7 +2302,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I now pronounce you a husband and wife.",
+  "stem": "I now pronounce you <u>a husband and wife</u>.",
   "secTitle": "冠詞の省略 ② ～ 慣用表現"
  },
  {
@@ -2353,7 +2353,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I don't go to church very often these days.",
+  "stem": "I don't go to <u>church</u> very often these days.",
   "secTitle": "無冠詞の用法 ～ 機能・目的などを表す"
  },
  {
@@ -2370,7 +2370,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "Should I go to college if I'm not very interested in it?",
+  "stem": "Should I go to <u>college</u> if I'm not very interested in it?",
   "secTitle": "無冠詞の用法 ～ 機能・目的などを表す"
  },
  {
@@ -2387,7 +2387,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "He goes to library every day and reads the newspapers.",
+  "stem": "He goes to <u>library</u> every day and reads the newspapers.",
   "secTitle": "無冠詞の用法 ～ 機能・目的などを表す"
  },
  {
@@ -2404,7 +2404,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "Go to bed early and get up early.",
+  "stem": "Go to <u>bed</u> early and get up early.",
   "secTitle": "無冠詞の用法 ～ 機能・目的などを表す"
  },
  {
@@ -2421,7 +2421,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "Go to bed and look under the covers.",
+  "stem": "Go to <u>bed</u> and look under the covers.",
   "secTitle": "無冠詞の用法 ～ 機能・目的などを表す"
  },
  {
@@ -2438,7 +2438,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "Do you ride your bike to school?",
+  "stem": "Do you ride your bike to <u>school</u>?",
   "secTitle": "無冠詞の用法 ～ 機能・目的などを表す"
  },
  {
@@ -2455,7 +2455,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "My parents went to school to talk to the principal.",
+  "stem": "My parents went to <u>school</u> to talk to the principal.",
   "secTitle": "無冠詞の用法 ～ 機能・目的などを表す"
  },
  {
@@ -2472,7 +2472,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "We currently live in Taiwan and our son goes to local school.",
+  "stem": "We currently live in Taiwan and our son goes to <u>local school</u>.",
   "secTitle": "無冠詞の用法 ～ 機能・目的などを表す"
  },
  {
@@ -2489,7 +2489,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "I was told off for talking in class.",
+  "stem": "I was told off for talking <u>in class</u>.",
   "secTitle": "無冠詞の用法 ～ 機能・目的などを表す"
  },
  {
@@ -2506,7 +2506,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Her son is in prison for drug trafficking.",
+  "stem": "Her son is <u>in prison</u> for drug trafficking.",
   "secTitle": "無冠詞の用法 ～ 機能・目的などを表す"
  },
  {
@@ -2523,7 +2523,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "This is one of the most expensive restaurants in town.",
+  "stem": "This is one of the most expensive restaurants in <u>town</u>.",
   "secTitle": "無冠詞の用法 ～ 機能・目的などを表す"
  },
  {
@@ -2540,7 +2540,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "She left her home when she was 16 to escape the abuse.",
+  "stem": "She left <u>her home</u> when she was 16 to escape the abuse.",
   "secTitle": "無冠詞の用法 ～ 機能・目的などを表す"
  }
 ]

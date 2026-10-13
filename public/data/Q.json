@@ -17,7 +17,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I had a very bad cold last week, but I'm feeling better now.",
+  "stem": "I had a very bad cold last week, but I'm feeling <u>better</u> now.",
   "secTitle": "規則変化と不規則変化"
  },
  {
@@ -34,7 +34,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "They didn't play very well, but we played even worse.",
+  "stem": "They didn't play very well, but we played even <u>worse</u>.",
   "secTitle": "規則変化と不規則変化"
  },
  {
@@ -51,7 +51,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "Who scored the most goals at World Cup 2006?",
+  "stem": "Who scored the <u>most</u> goals at World Cup 2006?",
   "secTitle": "規則変化と不規則変化"
  },
  {
@@ -68,7 +68,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "She chose the dish that had the least meat in it.",
+  "stem": "She chose the dish that had the <u>least</u> meat in it.",
   "secTitle": "規則変化と不規則変化"
  },
  {
@@ -123,7 +123,7 @@
   ],
   "sheetJp": true,
   "type": "proof",
-  "stem": "His eldest daughter is elder than his current wife.",
+  "stem": "His <u>eldest</u> daughter is <u>elder</u> than his current wife.",
   "secTitle": "規則変化と不規則変化"
  },
  {
@@ -995,7 +995,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "There is probably no one who is as a good talker as he is.",
+  "stem": "There is probably no one who is <u>as a good talker as he is</u>.",
   "secTitle": "「as＋原級＋as」 の使い方"
  },
  {
@@ -1016,7 +1016,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "My son is as tall as me, and maybe stronger.",
+  "stem": "My son is <u>as tall as me</u>, and maybe stronger.",
   "secTitle": "「as＋原級＋as」 の２つの意味"
  },
  {
@@ -1033,7 +1033,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "My son is as tall as a pro basketball player.",
+  "stem": "My son is <u>as tall as a pro basketball player</u>.",
   "secTitle": "「as＋原級＋as」 の２つの意味"
  },
  {
@@ -1050,7 +1050,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Iceland is nearly as large as the State of New York.",
+  "stem": "Iceland is nearly <u>as large as the State of New York</u>.",
   "secTitle": "「as＋原級＋as」 の２つの意味"
  },
  {
@@ -1067,7 +1067,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "The heart of a blue whale is as large as a small car.",
+  "stem": "The heart of a blue whale is <u>as large as a small car</u>.",
   "secTitle": "「as＋原級＋as」 の２つの意味"
  },
  {
@@ -2335,7 +2335,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "\"What gives you most happiness?\" \"I'm the happiest when I'm singing.\"",
+  "stem": "\"What gives you <u>most happiness</u>?\" \"I'm <u>the happiest</u> when I'm singing.\"",
   "secTitle": "最上級の表現"
  },
  {
@@ -2352,7 +2352,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "That was a most enjoyable evening and I can't wait for the next one!",
+  "stem": "That was a <u>most enjoyable</u> evening and I can't wait for the next one!",
   "secTitle": "最上級の表現"
  },
  {
@@ -2825,7 +2825,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I spend much more hours at work than anywhere else.",
+  "stem": "I spend <u>much more</u> hours at work than anywhere else.",
   "secTitle": "比較級と最上級の修飾と強調"
  },
  {
@@ -3807,7 +3807,7 @@
   ],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I'm looking for a mountain bike for less than 200 dollars.",
+  "stem": "I'm looking for a mountain bike for <u>less than 200 dollars</u>.",
   "secTitle": "比較級を用いた 「…以上・以下」 「…未満」 の表現"
  },
  {
@@ -3824,7 +3824,7 @@
   ],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I'm looking for a mountain bike for under 200 dollars.",
+  "stem": "I'm looking for a mountain bike for <u>under 200 dollars</u>.",
   "secTitle": "比較級を用いた 「…以上・以下」 「…未満」 の表現"
  }
 ]

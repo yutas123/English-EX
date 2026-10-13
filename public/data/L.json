@@ -13,7 +13,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "It's been a long time!"
+  "stem": "It<u>'s</u> been a long time!"
  },
  {
   "id": "L-02-b",
@@ -29,7 +29,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "He's gone."
+  "stem": "He<u>'s</u> gone."
  },
  {
   "id": "L-02-c",
@@ -45,7 +45,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "He's got to do it all over again."
+  "stem": "He<u>'s</u> got to do it all over again."
  },
  {
   "id": "L-02-d",
@@ -61,7 +61,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I'd love to, but I can't."
+  "stem": "I'<u>d</u> love to, but I can't."
  },
  {
   "id": "L-02-e",
@@ -77,7 +77,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "You'd better see a doctor."
+  "stem": "You<u>'d</u> better see a doctor."
  },
  {
   "id": "L-02-f",
@@ -93,7 +93,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I'd rather stay home and watch TV."
+  "stem": "I<u>'d</u> rather stay home and watch TV."
  },
  {
   "id": "L-02-g",
@@ -109,7 +109,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "If I'd left earlier, I'd have gotten there on time."
+  "stem": "If I<u>'d</u> left earlier, I<u>'d</u> have gotten there on time."
  },
  {
   "id": "L-03-a",
@@ -367,7 +367,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Will you bring the table in here?",
+  "stem": "<u>Will you bring</u> the table in here?",
   "secTitle": "will とbe going to の使い方"
  },
  {
@@ -384,7 +384,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Will you be bringing the table in here?",
+  "stem": "<u>Will you be bringing</u> the table in here?",
   "secTitle": "will とbe going to の使い方"
  },
  {
@@ -547,7 +547,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Don't call him. He will be working now.",
+  "stem": "Don't call him. He <u>will</u> be working now.",
   "secTitle": "will とbe going to の使い方"
  },
  {
@@ -564,7 +564,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "She's seeing a new man, but she won't tell me who he is.",
+  "stem": "She's seeing a new man, but she <u>won't</u> tell me who he is.",
   "secTitle": "will とbe going to の使い方"
  },
  {
@@ -581,7 +581,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Never mind. Such things will happen occasionally.",
+  "stem": "Never mind. Such things <u>will</u> happen occasionally.",
   "secTitle": "will とbe going to の使い方"
  },
  {
@@ -962,7 +962,7 @@
   ],
   "sheetJp": false,
   "type": "compose",
-  "stem": "Will someone please help me move this table?",
+  "stem": "<u>Will</u> someone please help me move this table?",
   "secTitle": "would の使い方 ② ～ 婉曲・想像"
  },
  {
@@ -979,7 +979,7 @@
   ],
   "sheetJp": false,
   "type": "compose",
-  "stem": "I will be grateful if you will send me your brochure.",
+  "stem": "I <u>will</u> be grateful if you <u>will</u> send me your brochure.",
   "secTitle": "would の使い方 ② ～ 婉曲・想像"
  },
  {
@@ -996,7 +996,7 @@
   ],
   "sheetJp": false,
   "type": "compose",
-  "stem": "We want you to come for an interview tomorrow.",
+  "stem": "We <u>want</u> you to come for an interview tomorrow.",
   "secTitle": "would の使い方 ② ～ 婉曲・想像"
  },
  {
@@ -1013,7 +1013,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Do you like coffee?",
+  "stem": "<u>Do</u> you <u>like</u> coffee?",
   "secTitle": "would の使い方 ② ～ 婉曲・想像"
  },
  {
@@ -1030,7 +1030,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Would you like some coffee?",
+  "stem": "<u>Would</u> you <u>like</u> some coffee?",
   "secTitle": "would の使い方 ② ～ 婉曲・想像"
  },
  {
@@ -1047,7 +1047,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "I love to talk about music and movies.",
+  "stem": "I <u>love</u> to talk about music and movies.",
   "secTitle": "would の使い方 ② ～ 婉曲・想像"
  },
  {
@@ -1064,7 +1064,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "I'd love to talk to you a bit more.",
+  "stem": "I<u>'d love</u> to talk to you a bit more.",
   "secTitle": "would の使い方 ② ～ 婉曲・想像"
  },
  {
@@ -1081,7 +1081,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "I prefer to watch movies in their original language.",
+  "stem": "I <u>prefer</u> to watch movies in their original language.",
   "secTitle": "would の使い方 ② ～ 婉曲・想像"
  },
  {
@@ -1098,7 +1098,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "I would prefer to watch a video at home tonight.",
+  "stem": "I <u>would prefer</u> to watch a video at home tonight.",
   "secTitle": "would の使い方 ② ～ 婉曲・想像"
  },
  {
@@ -1470,7 +1470,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "Shall I turn off the air conditioner and open the window?",
+  "stem": "<u>Shall</u> I turn off the air conditioner and open the window?",
   "secTitle": "should の使い方 ① ～ 義務・必要・推量"
  },
  {
@@ -1487,7 +1487,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "He came across as a bit ... how shall I put it ... arrogant.",
+  "stem": "He came across as a bit ... how <u>shall</u> I put it ... arrogant.",
   "secTitle": "should の使い方 ① ～ 義務・必要・推量"
  },
  {
@@ -1505,7 +1505,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I wouldn't worry about it if I were you.",
+  "stem": "I <u>wouldn't</u> worry about it if I were you.",
   "secTitle": "should の使い方 ① ～ 義務・必要・推量"
  },
  {
@@ -1523,7 +1523,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "\"What happened to her?\" \"How would I know?\"",
+  "stem": "\"What happened to her?\" \"How <u>would</u> I know?\"",
   "secTitle": "should の使い方 ① ～ 義務・必要・推量"
  },
  {
@@ -1853,7 +1853,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "\"You can't be serious!\" \"Yes, I am.\"",
+  "stem": "\"You <u>can't</u> be serious!\" \"Yes, I am.\"",
   "secTitle": "can とbe able to の使い方"
  },
  {
@@ -1870,7 +1870,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "It can't be easy being a cop in L.A., can it?",
+  "stem": "It <u>can't</u> be easy being a cop in L.A., can it?",
   "secTitle": "can とbe able to の使い方"
  },
  {
@@ -1978,7 +1978,7 @@
   ],
   "sheetJp": true,
   "type": "proof",
-  "stem": "Will you help me lift this?",
+  "stem": "<u>Will you</u> help me lift this?",
   "secTitle": "can とbe able to の使い方"
  },
  {
@@ -1995,7 +1995,7 @@
   ],
   "sheetJp": true,
   "type": "proof",
-  "stem": "Can you help me lift this?",
+  "stem": "<u>Can you</u> help me lift this?",
   "secTitle": "can とbe able to の使い方"
  },
  {
@@ -2046,7 +2046,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "Thanks to the scholarship, I could graduate from university.",
+  "stem": "Thanks to the scholarship, I <u>could</u> graduate from university.",
   "secTitle": "could の使い方 ① ～ 過去の能力・可能"
  },
  {
@@ -2061,7 +2061,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "Could you catch the last train home last night?",
+  "stem": "<u>Could you</u> catch the last train home last night?",
   "secTitle": "could の使い方 ① ～ 過去の能力・可能"
  },
  {
@@ -2076,7 +2076,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "When I was younger, I could stay up all night and still be productive the next day.",
+  "stem": "When I was younger, I <u>could</u> stay up all night and still be productive the next day.",
   "secTitle": "could の使い方 ① ～ 過去の能力・可能"
  },
  {
@@ -2091,7 +2091,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I couldn't find my luggage at the airport baggage area.",
+  "stem": "I <u>couldn't</u> find my luggage at the airport baggage area.",
   "secTitle": "could の使い方 ① ～ 過去の能力・可能"
  },
  {
@@ -2106,7 +2106,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I could see them talking but couldn't hear what they were saying.",
+  "stem": "I <u>could</u> see them talking but couldn't hear what they were saying.",
   "secTitle": "could の使い方 ① ～ 過去の能力・可能"
  },
  {
@@ -2123,7 +2123,7 @@
   ],
   "sheetJp": true,
   "type": "proof",
-  "stem": "Could you show me how to do this?",
+  "stem": "<u>Could you</u> show me how to do this?",
   "secTitle": "could の使い方 ① ～ 過去の能力・可能"
  },
  {
@@ -2428,7 +2428,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "She was afraid someone may recognize her.",
+  "stem": "She was afraid someone <u>may</u> recognize her.",
   "secTitle": "may とmight の使い方"
  },
  {
@@ -2443,7 +2443,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I might be late coming home tonight.",
+  "stem": "I <u>might</u> be late coming home tonight.",
   "secTitle": "may とmight の使い方"
  },
  {
@@ -2460,7 +2460,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "It can rain this afternoon, so we might not have the barbecue.",
+  "stem": "It <u>can</u> rain this afternoon, so we might not have the barbecue.",
   "secTitle": "may とmight の使い方"
  },
  {
@@ -2475,7 +2475,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "You might leave the room when you're finished.",
+  "stem": "You <u>might</u> leave the room when you're finished.",
   "secTitle": "may とmight の使い方"
  },
  {
@@ -2673,7 +2673,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I should be getting fat―these pants are a little tight.",
+  "stem": "I <u>should</u> be getting fat―these pants are a little tight.",
   "secTitle": "must の使い方"
  },
  {
@@ -2688,7 +2688,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "That mustn't be true. You must be mistaken.",
+  "stem": "That <u>mustn't</u> be true. You must be mistaken.",
   "secTitle": "must の使い方"
  },
  {
@@ -2927,7 +2927,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "My boss said that I must keep it a secret.",
+  "stem": "My boss said that I <u>must</u> keep it a secret.",
   "secTitle": "have to の使い方"
  },
  {
@@ -2995,7 +2995,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "Nothing needs be done about the problem.",
+  "stem": "Nothing <u>needs be</u> done about the problem.",
   "secTitle": "need とdare の使い方"
  },
  {
@@ -3012,7 +3012,7 @@
   ],
   "sheetJp": true,
   "type": "proof",
-  "stem": "You don't have to be afraid of making mistakes.",
+  "stem": "You <u>don't have to</u> be afraid of making mistakes.",
   "secTitle": "need とdare の使い方"
  },
  {
@@ -3029,7 +3029,7 @@
   ],
   "sheetJp": true,
   "type": "proof",
-  "stem": "You don't need to be afraid of making mistakes.",
+  "stem": "You <u>don't need to</u> be afraid of making mistakes.",
   "secTitle": "need とdare の使い方"
  },
  {
@@ -3046,7 +3046,7 @@
   ],
   "sheetJp": true,
   "type": "proof",
-  "stem": "You need not to be afraid of making mistakes.",
+  "stem": "You <u>need not to</u> be afraid of making mistakes.",
   "secTitle": "need とdare の使い方"
  },
  {
@@ -3061,7 +3061,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "\"Must I sign this?\" \"No, you needn't.\"",
+  "stem": "\"Must I sign this?\" \"No, you <u>needn't</u>.\"",
   "secTitle": "need とdare の使い方"
  },
  {
@@ -3215,7 +3215,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "As you may notice by now, I'm a big fan of jazz.",
+  "stem": "As you <u>may notice</u> by now, I'm a big fan of jazz.",
   "secTitle": "助動詞の完了形"
  },
  {
@@ -3230,7 +3230,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "It could have been better, but we did our best.",
+  "stem": "It <u>could have been</u> better, but we did our best.",
   "secTitle": "助動詞の完了形"
  },
  {
@@ -3245,7 +3245,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I can't have left it at work because I had it on the train home.",
+  "stem": "I <u>can't have left</u> it at work because I had it on the train home.",
   "secTitle": "助動詞の完了形"
  },
  {
@@ -3260,7 +3260,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I couldn't have left it at work because I had it on the train home.",
+  "stem": "I <u>couldn't have left</u> it at work because I had it on the train home.",
   "secTitle": "助動詞の完了形"
  },
  {
@@ -3555,7 +3555,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "The most important thing in communication is to hear what isn't being said.",
+  "stem": "The most important thing in communication is <u>to hear</u> what isn't being said.",
   "secTitle": "be to の使い方"
  },
  {
@@ -3572,7 +3572,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "This is to notify you that we do not intend to renew the contract when it expires.",
+  "stem": "This is <u>to notify</u> you that we do not intend to renew the contract when it expires.",
   "secTitle": "be to の使い方"
  },
  {
@@ -3589,7 +3589,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "The President is to make a statement tomorrow.",
+  "stem": "The President <u>is to</u> make a statement tomorrow.",
   "secTitle": "be to の使い方"
  },
  {
@@ -3606,7 +3606,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Am I to go there alone or wait at the station?",
+  "stem": "<u>Am</u> I <u>to</u> go there alone or wait at the station?",
   "secTitle": "be to の使い方"
  },
  {
@@ -3623,7 +3623,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "You are to sit in the corner and keep quiet.",
+  "stem": "You <u>are to</u> sit in the corner and keep quiet.",
   "secTitle": "be to の使い方"
  },
  {
@@ -3640,7 +3640,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Forty years later I was to see him again in Paris.",
+  "stem": "Forty years later I <u>was to</u> see him again in Paris.",
   "secTitle": "be to の使い方"
  },
  {
@@ -3657,7 +3657,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "They searched everywhere, but nothing was to be found.",
+  "stem": "They searched everywhere, but nothing <u>was to</u> be found.",
   "secTitle": "be to の使い方"
  },
  {

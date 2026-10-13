@@ -17,7 +17,7 @@
   ],
   "sheetJp": false,
   "type": "compose",
-  "stem": "They pollute the air.",
+  "stem": "They <u>pollute</u> the air.",
   "secTitle": "受動態の作り方"
  },
  {
@@ -34,7 +34,7 @@
   ],
   "sheetJp": false,
   "type": "compose",
-  "stem": "They polluted the air.",
+  "stem": "They <u>polluted</u> the air.",
   "secTitle": "受動態の作り方"
  },
  {
@@ -51,7 +51,7 @@
   ],
   "sheetJp": false,
   "type": "compose",
-  "stem": "They are polluting the air.",
+  "stem": "They <u>are polluting</u> the air.",
   "secTitle": "受動態の作り方"
  },
  {
@@ -68,7 +68,7 @@
   ],
   "sheetJp": false,
   "type": "compose",
-  "stem": "They were polluting the air.",
+  "stem": "They <u>were polluting</u> the air.",
   "secTitle": "受動態の作り方"
  },
  {
@@ -85,7 +85,7 @@
   ],
   "sheetJp": false,
   "type": "compose",
-  "stem": "They will pollute the air.",
+  "stem": "They <u>will pollute</u> the air.",
   "secTitle": "受動態の作り方"
  },
  {
@@ -102,7 +102,7 @@
   ],
   "sheetJp": false,
   "type": "compose",
-  "stem": "They have polluted the air.",
+  "stem": "They <u>have polluted</u> the air.",
   "secTitle": "受動態の作り方"
  },
  {
@@ -119,7 +119,7 @@
   ],
   "sheetJp": false,
   "type": "compose",
-  "stem": "They had polluted the air.",
+  "stem": "They <u>had polluted</u> the air.",
   "secTitle": "受動態の作り方"
  },
  {
@@ -136,7 +136,7 @@
   ],
   "sheetJp": false,
   "type": "compose",
-  "stem": "They will have polluted the air. i) They are going to pollute the air.",
+  "stem": "They <u>will have polluted</u> the air. i) They <u>are going to pollute</u> the air.",
   "secTitle": "受動態の作り方"
  },
  {
@@ -165,7 +165,7 @@
   ],
   "sheetJp": true,
   "type": "compose",
-  "stem": "Water surrounds an island.",
+  "stem": "Water <u>surrounds</u> an island.",
   "secTitle": "受動態の作り方"
  },
  {
@@ -182,7 +182,7 @@
   ],
   "sheetJp": true,
   "type": "compose",
-  "stem": "My classmates laughed at me.",
+  "stem": "My classmates <u>laughed at</u> me.",
   "secTitle": "受動態の作り方"
  },
  {
@@ -199,7 +199,7 @@
   ],
   "sheetJp": true,
   "type": "compose",
-  "stem": "His sister looked up to him.",
+  "stem": "His sister <u>looked up to</u> him.",
   "secTitle": "受動態の作り方"
  },
  {
@@ -216,7 +216,7 @@
   ],
   "sheetJp": true,
   "type": "compose",
-  "stem": "Ms. Specter will teach our class.",
+  "stem": "Ms. Specter <u>will teach</u> our class.",
   "secTitle": "受動態の作り方"
  },
  {
@@ -233,7 +233,7 @@
   ],
   "sheetJp": true,
   "type": "compose",
-  "stem": "You may not sell alcohol to minors.",
+  "stem": "You <u>may</u> not <u>sell</u> alcohol to minors.",
   "secTitle": "受動態の作り方"
  },
  {
@@ -250,7 +250,7 @@
   ],
   "sheetJp": true,
   "type": "compose",
-  "stem": "You have to help those in need.",
+  "stem": "You have <u>to help</u> those in need.",
   "secTitle": "受動態の作り方"
  },
  {
@@ -267,7 +267,7 @@
   ],
   "sheetJp": true,
   "type": "compose",
-  "stem": "People have seen wild boars in the streets.",
+  "stem": "People <u>have seen</u> wild boars in the streets.",
   "secTitle": "受動態の作り方"
  },
  {
@@ -284,7 +284,7 @@
   ],
   "sheetJp": true,
   "type": "compose",
-  "stem": "People had polluted the river. i) By then people will have solved this problem. j) Their nanny is now looking after the children. k) Millions of people were watching the TV show.",
+  "stem": "People <u>had polluted</u> the river. i) By then people <u>will have solved</u> this problem. j) Their nanny <u>is</u> now <u>looking</u> after the children. k) Millions of people <u>were watching</u> the TV show.",
   "secTitle": "受動態の作り方"
  },
  {
@@ -352,7 +352,7 @@
   ],
   "sheetJp": false,
   "type": "compose",
-  "stem": "The college owns all this land.",
+  "stem": "The college owns <u>all this land</u>.",
   "secTitle": "受動態の作り方"
  },
  {
@@ -836,7 +836,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "In 2008 the college was closed due to lack of students.",
+  "stem": "In 2008 the college <u>was closed</u> due to lack of students.",
   "secTitle": "受動態の状態と動作"
  },
  {
@@ -853,7 +853,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "The museum was closed throughout our stay.",
+  "stem": "The museum <u>was closed</u> throughout our stay.",
   "secTitle": "受動態の状態と動作"
  },
  {
@@ -870,7 +870,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Leonardo was known to his friends as Lenny.",
+  "stem": "Leonardo <u>was known</u> to his friends as Lenny.",
   "secTitle": "受動態の状態と動作"
  },
  {
@@ -887,7 +887,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "His philosophy later became known as Confucianism.",
+  "stem": "His philosophy later <u>became known</u> as Confucianism.",
   "secTitle": "受動態の状態と動作"
  },
  {
@@ -1129,7 +1129,7 @@
   ],
   "sheetJp": true,
   "type": "compose",
-  "stem": "The company has provided him with a car.",
+  "stem": "The company has provided <u>him</u> with a car.",
   "secTitle": "前置詞句を伴う第3 文型の受動態"
  },
  {
@@ -1146,7 +1146,7 @@
   ],
   "sheetJp": true,
   "type": "compose",
-  "stem": "They stopped the fire from spreading further.",
+  "stem": "They stopped <u>the fire</u> from spreading further.",
   "secTitle": "前置詞句を伴う第3 文型の受動態"
  },
  {
@@ -1163,7 +1163,7 @@
   ],
   "sheetJp": true,
   "type": "compose",
-  "stem": "They will prohibit us from smoking on the streets.",
+  "stem": "They will prohibit <u>us</u> from smoking on the streets.",
   "secTitle": "前置詞句を伴う第3 文型の受動態"
  },
  {
@@ -1180,7 +1180,7 @@
   ],
   "sheetJp": true,
   "type": "compose",
-  "stem": "They knocked him down and robbed him of his wallet.",
+  "stem": "They knocked <u>him</u> down and robbed <u>him</u> of his wallet.",
   "secTitle": "前置詞句を伴う第3 文型の受動態"
  },
  {
@@ -1197,7 +1197,7 @@
   ],
   "sheetJp": true,
   "type": "compose",
-  "stem": "Have they notified you of the decision?",
+  "stem": "Have they notified <u>you</u> of the decision?",
   "secTitle": "前置詞句を伴う第3 文型の受動態"
  },
  {
@@ -1214,7 +1214,7 @@
   ],
   "sheetJp": true,
   "type": "compose",
-  "stem": "They add a 10% service charge to the bill.",
+  "stem": "They add <u>a 10% service charge</u> to the bill.",
   "secTitle": "前置詞句を伴う第3 文型の受動態"
  },
  {
@@ -1467,7 +1467,7 @@
   ],
   "sheetJp": true,
   "type": "compose",
-  "stem": "They named the new country Ghana.",
+  "stem": "They named <u>the new country</u> Ghana.",
   "secTitle": "第５文型の受動態 ① ～ 補語が名詞や形容詞の場合"
  },
  {
@@ -1484,7 +1484,7 @@
   ],
   "sheetJp": true,
   "type": "compose",
-  "stem": "People sometimes call New York the Big Apple.",
+  "stem": "People sometimes call <u>New York</u> the Big Apple.",
   "secTitle": "第５文型の受動態 ① ～ 補語が名詞や形容詞の場合"
  },
  {
@@ -1501,7 +1501,7 @@
   ],
   "sheetJp": true,
   "type": "compose",
-  "stem": "They elected him mayor of Atlanta in 1973.",
+  "stem": "They elected <u>him</u> mayor of Atlanta in 1973.",
   "secTitle": "第５文型の受動態 ① ～ 補語が名詞や形容詞の場合"
  },
  {
@@ -1518,7 +1518,7 @@
   ],
   "sheetJp": true,
   "type": "compose",
-  "stem": "They declared him a winner an hour after the vote count began.",
+  "stem": "They declared <u>him</u> a winner an hour after the vote count began.",
   "secTitle": "第５文型の受動態 ① ～ 補語が名詞や形容詞の場合"
  },
  {
@@ -1535,7 +1535,7 @@
   ],
   "sheetJp": true,
   "type": "compose",
-  "stem": "In many countries, people consider burping bad manners.",
+  "stem": "In many countries, people consider <u>burping</u> bad manners.",
   "secTitle": "第５文型の受動態 ① ～ 補語が名詞や形容詞の場合"
  },
  {
@@ -1552,7 +1552,7 @@
   ],
   "sheetJp": true,
   "type": "compose",
-  "stem": "Donations and grants make this aid possible.",
+  "stem": "Donations and grants make <u>this aid</u> possible.",
   "secTitle": "第５文型の受動態 ① ～ 補語が名詞や形容詞の場合"
  },
  {

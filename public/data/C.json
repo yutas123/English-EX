@@ -17,7 +17,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "What did you buy her for her birthday?",
+  "stem": "What did you <u>buy</u> her for her birthday?",
   "secTitle": "第4 文型（S V O' O）の基本"
  },
  {
@@ -34,7 +34,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "Could you show me how to fill it in?",
+  "stem": "Could you <u>show</u> me how to fill it in?",
   "secTitle": "第4 文型（S V O' O）の基本"
  },
  {
@@ -51,7 +51,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "Promise me you'll be home before dark.",
+  "stem": "<u>Promise</u> me you'll be home before dark.",
   "secTitle": "第4 文型（S V O' O）の基本"
  },
  {
@@ -68,7 +68,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "Can you tell me if you like it or not?",
+  "stem": "Can you <u>tell</u> me if you like it or not?",
   "secTitle": "第4 文型（S V O' O）の基本"
  },
  {
@@ -85,7 +85,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "\"What are you doing?\" he asked me.",
+  "stem": "\"What are you doing?\" he <u>asked</u> me.",
   "secTitle": "第4 文型（S V O' O）の基本"
  },
  {
@@ -119,7 +119,7 @@
   ],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I borrow my sister 500 dollars.",
+  "stem": "I <u>borrow</u> my sister 500 dollars.",
   "secTitle": "第4 文型（S V O' O）の基本"
  },
  {
@@ -134,7 +134,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "She smiled politely as she handed me it.",
+  "stem": "She smiled politely as she handed <u>me it</u>.",
   "secTitle": "第4 文型（S V O' O）の基本"
  },
  {
@@ -149,7 +149,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I'll give you this and you give me that.",
+  "stem": "I'll give <u>you this</u> and you give <u>me that</u>.",
   "secTitle": "第4 文型（S V O' O）の基本"
  },
  {
@@ -602,7 +602,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I'll find you a good part-time job.",
+  "stem": "I'll <u>find</u> you a good part-time job.",
   "secTitle": "第５ 文型（SVOC）の基本"
  },
  {
@@ -617,7 +617,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I find my new job very rewarding and interesting.",
+  "stem": "I <u>find</u> my new job very rewarding and interesting.",
   "secTitle": "第５ 文型（SVOC）の基本"
  },
  {
@@ -632,7 +632,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I woke up and found myself lying on the floor beside the bed.",
+  "stem": "I woke up and <u>found</u> myself lying on the floor beside the bed.",
   "secTitle": "第５ 文型（SVOC）の基本"
  },
  {
@@ -975,7 +975,7 @@
   ],
   "sheetJp": true,
   "type": "proof",
-  "stem": "He kept the door open.",
+  "stem": "He <u>kept</u> the door open.",
   "secTitle": "第５ 文型（SVOC）の基本"
  },
  {
@@ -992,7 +992,7 @@
   ],
   "sheetJp": true,
   "type": "proof",
-  "stem": "He left the door open.",
+  "stem": "He <u>left</u> the door open.",
   "secTitle": "第５ 文型（SVOC）の基本"
  },
  {
@@ -1009,7 +1009,7 @@
   ],
   "sheetJp": true,
   "type": "proof",
-  "stem": "He held the door open.",
+  "stem": "He <u>held</u> the door open.",
   "secTitle": "第５ 文型（SVOC）の基本"
  },
  {
@@ -1371,7 +1371,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I want it done as soon as possible.",
+  "stem": "I <u>want it done</u> as soon as possible.",
   "secTitle": "第５ 文型 ～ 補語にto不定詞をとる動詞"
  },
  {
@@ -1388,7 +1388,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I want my coffee hot, please.",
+  "stem": "I <u>want my coffee hot</u>, please.",
   "secTitle": "第５ 文型 ～ 補語にto不定詞をとる動詞"
  },
  {
@@ -1881,7 +1881,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I examined my stomach at the hospital yesterday.",
+  "stem": "I <u>examined my stomach</u> at the hospital yesterday.",
   "secTitle": "第５文型 ～ 使役動詞と知覚動詞の詳細"
  },
  {
@@ -1896,7 +1896,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "Mr. Matsui, could you please take a picture with me?",
+  "stem": "Mr. Matsui, could <u>you please take a picture with me</u>?",
   "secTitle": "第５文型 ～ 使役動詞と知覚動詞の詳細"
  },
  {
@@ -1948,7 +1948,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "She would never let her age be known.",
+  "stem": "She would never <u>let her age be known</u>.",
   "secTitle": "第５文型 ～ 使役動詞と知覚動詞の詳細"
  },
  {
@@ -2002,7 +2002,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I heard someone call my name.",
+  "stem": "I heard someone <u>call</u> my name.",
   "secTitle": "第５文型 ～ 使役動詞と知覚動詞の詳細"
  },
  {
@@ -2019,7 +2019,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I heard someone calling my name.",
+  "stem": "I heard someone <u>calling</u> my name.",
   "secTitle": "第５文型 ～ 使役動詞と知覚動詞の詳細"
  },
  {
@@ -2036,7 +2036,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I saw him kick that dog!",
+  "stem": "I saw him <u>kick</u> that dog!",
   "secTitle": "第５文型 ～ 使役動詞と知覚動詞の詳細"
  },
  {
@@ -2053,7 +2053,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I saw him kicking that dog!",
+  "stem": "I saw him <u>kicking</u> that dog!",
   "secTitle": "第５文型 ～ 使役動詞と知覚動詞の詳細"
  },
  {
@@ -2105,7 +2105,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I saw some new bridges built along the river.",
+  "stem": "I saw some new bridges <u>built</u> along the river.",
   "secTitle": "第５文型 ～ 使役動詞と知覚動詞の詳細"
  },
  {

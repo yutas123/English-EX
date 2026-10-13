@@ -396,7 +396,7 @@
   ],
   "sheetJp": true,
   "type": "proof",
-  "stem": "The university I want to go is in Hawaii.",
+  "stem": "The university <u>I want to go</u> is in Hawaii.",
   "secTitle": "目的語［目的格］の関係代名詞"
  },
  {
@@ -411,7 +411,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "This is a picture of the flat I live in in London.",
+  "stem": "This is a picture of the flat <u>I live in in London</u>.",
   "secTitle": "目的語［目的格］の関係代名詞"
  },
  {
@@ -426,7 +426,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I make full use of every chance I have to speak English.",
+  "stem": "I make full use of every chance <u>I have to speak English</u>.",
   "secTitle": "目的語［目的格］の関係代名詞"
  },
  {
@@ -1835,7 +1835,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "The Internet has changed the way that people communicate.",
+  "stem": "The Internet has changed the way <u>that</u> people communicate.",
   "secTitle": "関係副詞の基本"
  },
  {
@@ -1852,7 +1852,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I can't think of the reason why he refused.",
+  "stem": "I can't think of the reason <u>why</u> he refused.",
   "secTitle": "関係副詞の基本"
  },
  {
@@ -1870,7 +1870,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "That was the year when Pope John Paul II came to India.",
+  "stem": "That was the year <u>when</u> Pope John Paul II came to India.",
   "secTitle": "関係副詞の基本"
  },
  {
@@ -1888,7 +1888,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "We visited the house where Shakespeare was born.",
+  "stem": "We visited the house <u>where</u> Shakespeare was born.",
   "secTitle": "関係副詞の基本"
  },
  {
@@ -2119,7 +2119,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "Education starts on the day we are born.",
+  "stem": "Education starts <u>on</u> the day we are born.",
   "secTitle": "「場所」と「時」を表す関係副詞"
  },
  {
@@ -2136,7 +2136,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "She felt dizzy at the moment she stood up.",
+  "stem": "She felt dizzy <u>at</u> the moment she stood up.",
   "secTitle": "「場所」と「時」を表す関係副詞"
  },
  {
@@ -2153,7 +2153,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I fell in love with her at the first time I saw her.",
+  "stem": "I fell in love with her <u>at</u> the first time I saw her.",
   "secTitle": "「場所」と「時」を表す関係副詞"
  },
  {
@@ -2170,7 +2170,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "Grandma, you look younger at every time I see you.",
+  "stem": "Grandma, you look younger <u>at</u> every time I see you.",
   "secTitle": "「場所」と「時」を表す関係副詞"
  },
  {
@@ -2187,7 +2187,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "By the time we got to the station, the train had already gone.",
+  "stem": "<u>By</u> the time we got to the station, the train had already gone.",
   "secTitle": "「場所」と「時」を表す関係副詞"
  },
  {
@@ -2448,7 +2448,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "We all assumed he was a lawyer, which he was not.",
+  "stem": "We all assumed he was a lawyer, <u>which</u> he was not.",
   "secTitle": "制限用法と非制限用法の違い"
  },
  {
@@ -2463,7 +2463,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "The Edward whom he mentioned is probably Edward Smith.",
+  "stem": "<u>The Edward whom</u> he mentioned is probably Edward Smith.",
   "secTitle": "制限用法と非制限用法の違い"
  },
  {
@@ -2478,7 +2478,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "The Shanghai of today is vastly different from the Shanghai that I visited a decade ago.",
+  "stem": "The Shanghai of today is vastly different from <u>the Shanghai that</u> I visited a decade ago.",
   "secTitle": "制限用法と非制限用法の違い"
  },
  {
@@ -2582,7 +2582,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "He said he was single, which she believed.",
+  "stem": "He said he was single, <u>which</u> she believed.",
   "secTitle": "非制限用法 ② ～ 名詞以外が先行詞になる場合"
  },
  {
@@ -2599,7 +2599,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "I'm often asked if I'm pregnant, which I am not!",
+  "stem": "I'm often asked if I'm pregnant, <u>which</u> I am not!",
   "secTitle": "非制限用法 ② ～ 名詞以外が先行詞になる場合"
  },
  {

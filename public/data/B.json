@@ -163,7 +163,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "We need men* who can dream of things that never were.",
+  "stem": "We need men* who can dream of things that never <u>were</u>.",
   "secTitle": "be 動詞の意味"
  },
  {
@@ -1296,7 +1296,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I'll meet with you at Starbucks at 6:30.",
+  "stem": "I'll <u>meet with you</u> at Starbucks at 6:30.",
   "secTitle": "自動詞（第１文型）と他動詞（第３文型）の区別"
  },
  {
@@ -1313,7 +1313,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "Let's meet each other at Starbucks at 6:30.",
+  "stem": "Let's <u>meet each other</u> at Starbucks at 6:30.",
   "secTitle": "自動詞（第１文型）と他動詞（第３文型）の区別"
  },
  {
@@ -1328,7 +1328,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "He said he had to steal in order to pay his bills.",
+  "stem": "He said he had to <u>steal</u> in order to pay his bills.",
   "secTitle": "自動詞（第１文型）と他動詞（第３文型）の区別"
  },
  {
@@ -1343,7 +1343,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I'm enjoying in Taiwan. People here are very friendly.",
+  "stem": "I'm <u>enjoying</u> in Taiwan. People here are very friendly.",
   "secTitle": "自動詞（第１文型）と他動詞（第３文型）の区別"
  },
  {
@@ -1358,7 +1358,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "He's always lived a life of luxury.",
+  "stem": "He's always <u>lived a life of luxury</u>.",
   "secTitle": "自動詞（第１文型）と他動詞（第３文型）の区別"
  },
  {
@@ -1802,7 +1802,7 @@
   ],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I answered to his letter immediately.",
+  "stem": "I <u>answered to</u> his letter immediately.",
   "secTitle": "自動詞（第１文型）と他動詞（第３文型）の区別"
  },
  {
@@ -1817,7 +1817,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "Thousands of fans attended to her funeral.",
+  "stem": "Thousands of fans <u>attended to</u> her funeral.",
   "secTitle": "自動詞（第１文型）と他動詞（第３文型）の区別"
  },
  {
@@ -1832,7 +1832,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "We're now approaching to the Tower of London.",
+  "stem": "We're now <u>approaching to</u> the Tower of London.",
   "secTitle": "自動詞（第１文型）と他動詞（第３文型）の区別"
  },
  {
@@ -1847,7 +1847,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I hate to mention about money at a time like this, but ...",
+  "stem": "I hate to <u>mention about</u> money at a time like this, but ...",
   "secTitle": "自動詞（第１文型）と他動詞（第３文型）の区別"
  },
  {
@@ -1862,7 +1862,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "You need time to consider about your future.",
+  "stem": "You need time to <u>consider about</u> your future.",
   "secTitle": "自動詞（第１文型）と他動詞（第３文型）の区別"
  },
  {
@@ -1877,7 +1877,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "You should apologize Mr. Smith for injuring his reputation.",
+  "stem": "You should <u>apologize</u> Mr. Smith for injuring his reputation.",
   "secTitle": "自動詞（第１文型）と他動詞（第３文型）の区別"
  },
  {
@@ -1892,7 +1892,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "We searched the lost kitten.",
+  "stem": "We <u>searched</u> the lost kitten.",
   "secTitle": "自動詞（第１文型）と他動詞（第３文型）の区別"
  },
  {
@@ -1907,7 +1907,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "My wife is hoping a baby girl.",
+  "stem": "My wife is <u>hoping</u> a baby girl.",
   "secTitle": "自動詞（第１文型）と他動詞（第３文型）の区別"
  },
  {
@@ -1928,7 +1928,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "What did you do for your mother on Mother's Day?",
+  "stem": "What did you <u>do</u> for your mother on Mother's Day?",
   "secTitle": "第３文型（S V O）の目的語"
  },
  {
@@ -1945,7 +1945,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I wore those shoes to avoid slipping.",
+  "stem": "I wore those shoes to <u>avoid</u> slipping.",
   "secTitle": "第３文型（S V O）の目的語"
  },
  {
@@ -1962,7 +1962,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I don't know how to get to your house.",
+  "stem": "I don't <u>know</u> how to get to your house.",
   "secTitle": "第３文型（S V O）の目的語"
  },
  {
@@ -1979,7 +1979,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "They say laughter is the best medicine.",
+  "stem": "They <u>say</u> laughter is the best medicine.",
   "secTitle": "第３文型（S V O）の目的語"
  },
  {
@@ -1996,7 +1996,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "Do you know if she's left yet?",
+  "stem": "Do you <u>know</u> if she's left yet?",
   "secTitle": "第３文型（S V O）の目的語"
  },
  {
@@ -2017,7 +2017,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "What are you talking?",
+  "stem": "What are you <u>talking</u>?",
   "secTitle": "第３文型の 「他動詞＋副詞」"
  },
  {
@@ -2034,7 +2034,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I talked to my boyfriend into buying me a ring.",
+  "stem": "I <u>talked to</u> my boyfriend into buying me a ring.",
   "secTitle": "第３文型の 「他動詞＋副詞」"
  },
  {
@@ -2051,7 +2051,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "Hey, what are you looking? I'm not a mirror!",
+  "stem": "Hey, what are you <u>looking</u>? I'm not a mirror!",
   "secTitle": "第３文型の 「他動詞＋副詞」"
  },
  {
@@ -2068,7 +2068,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I couldn't look at him in the face.",
+  "stem": "I couldn't <u>look at him</u> in the face.",
   "secTitle": "第３文型の 「他動詞＋副詞」"
  },
  {
@@ -2085,7 +2085,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "If you don't know what it means, look it up in the dictionary.",
+  "stem": "If you don't know what it means, <u>look it up</u> in the dictionary.",
   "secTitle": "第３文型の 「他動詞＋副詞」"
  },
  {
@@ -2100,7 +2100,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I need more time to think over it.",
+  "stem": "I need more time to <u>think over it</u>.",
   "secTitle": "第３文型の 「他動詞＋副詞」"
  },
  {
@@ -2115,7 +2115,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "If you take your shoes off, put on them before we land.",
+  "stem": "If you <u>take your shoes off</u>, <u>put on them</u> before we land.",
   "secTitle": "第３文型の 「他動詞＋副詞」"
  },
  {
@@ -2130,7 +2130,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I'll pick up you at the station.",
+  "stem": "I'll <u>pick up you</u> at the station.",
   "secTitle": "第３文型の 「他動詞＋副詞」"
  },
  {

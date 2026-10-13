@@ -17,7 +17,7 @@
   ],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I hope you haven't been waiting long.",
+  "stem": "I hope you haven't been waiting <u>long</u>.",
   "secTitle": "形容詞と同形の副詞"
  },
  {
@@ -32,7 +32,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I moved closer so I could get a better look.",
+  "stem": "I moved <u>closer</u> so I could get a better look.",
   "secTitle": "形容詞と同形の副詞"
  },
  {
@@ -47,7 +47,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "Seagulls were flying lowly over the water.",
+  "stem": "Seagulls were flying <u>lowly</u> over the water.",
   "secTitle": "形容詞と同形の副詞"
  },
  {
@@ -62,7 +62,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "This website is updated on a daily basis.",
+  "stem": "This website is updated on a <u>daily</u> basis.",
   "secTitle": "形容詞と同形の副詞"
  },
  {
@@ -82,7 +82,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "Speak loud and clear enough. Don't mumble or shout.",
+  "stem": "Speak <u>loud</u> and <u>clear</u> enough. Don't mumble or shout.",
   "secTitle": "形容詞と同形の副詞と-ly を付けた副詞"
  },
  {
@@ -97,7 +97,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "She covered her ears and shut her eyes tight.",
+  "stem": "She covered her ears and shut her eyes <u>tight</u>.",
   "secTitle": "形容詞と同形の副詞と-ly を付けた副詞"
  },
  {
@@ -112,7 +112,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "Take it easily and enjoy studying English.",
+  "stem": "Take it <u>easily</u> and enjoy studying English.",
   "secTitle": "形容詞と同形の副詞と-ly を付けた副詞"
  },
  {
@@ -127,7 +127,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "Could you speak a little slower, please?",
+  "stem": "Could you speak a little <u>slower</u>, please?",
   "secTitle": "形容詞と同形の副詞と-ly を付けた副詞"
  },
  {
@@ -143,7 +143,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "The first rule of making money: you can't get rich quick.",
+  "stem": "The first rule of making money: you can't get rich <u>quick</u>.",
   "secTitle": "形容詞と同形の副詞と-ly を付けた副詞"
  },
  {
@@ -590,7 +590,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "He slowly opened the door and peeked in.",
+  "stem": "He <u>slowly</u> opened the door and peeked in.",
   "secTitle": "副詞の位置 ① ～ 「様態」を表す副詞の場合"
  },
  {
@@ -607,7 +607,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "Double income is fast becoming a necessity.",
+  "stem": "Double income is <u>fast</u> becoming a necessity.",
   "secTitle": "副詞の位置 ① ～ 「様態」を表す副詞の場合"
  },
  {
@@ -624,7 +624,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I am aware well of what I am required to do.",
+  "stem": "I am aware <u>well</u> of what I am required to do.",
   "secTitle": "副詞の位置 ① ～ 「様態」を表す副詞の場合"
  },
  {
@@ -641,7 +641,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "All of our staff members are thoroughly trained.",
+  "stem": "All of our staff members are <u>thoroughly</u> trained.",
   "secTitle": "副詞の位置 ① ～ 「様態」を表す副詞の場合"
  },
  {
@@ -658,7 +658,7 @@
   ],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I want to lose weight quickly for my wedding.",
+  "stem": "I want to lose weight <u>quickly</u> for my wedding.",
   "secTitle": "副詞の位置 ① ～ 「様態」を表す副詞の場合"
  },
  {
@@ -675,7 +675,7 @@
   ],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I carefully followed the instructions.",
+  "stem": "I <u>carefully</u> followed the instructions.",
   "secTitle": "副詞の位置 ① ～ 「様態」を表す副詞の場合"
  },
  {
@@ -692,7 +692,7 @@
   ],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I followed the instructions carefully.",
+  "stem": "I followed the instructions <u>carefully</u>.",
   "secTitle": "副詞の位置 ① ～ 「様態」を表す副詞の場合"
  },
  {
@@ -868,7 +868,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "Nowadays, lots of people are under heavy stress.",
+  "stem": "<u>Nowadays</u>, lots of people are under heavy stress.",
   "secTitle": "副詞の位置 ③ ～「時」を表す副詞の場合"
  },
  {
@@ -885,7 +885,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "She is now working at a prestigious law firm.",
+  "stem": "She is <u>now</u> working at a prestigious law firm.",
   "secTitle": "副詞の位置 ③ ～「時」を表す副詞の場合"
  },
  {
@@ -902,7 +902,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "We will soon make a brief stop at Yokohama.",
+  "stem": "We will <u>soon</u> make a brief stop at Yokohama.",
   "secTitle": "副詞の位置 ③ ～「時」を表す副詞の場合"
  },
  {
@@ -919,7 +919,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I haven't yet decided whom I will vote for on Sunday.",
+  "stem": "I haven't <u>yet</u> decided whom I will vote for on Sunday.",
   "secTitle": "副詞の位置 ③ ～「時」を表す副詞の場合"
  },
  {
@@ -936,7 +936,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "The video has been since removed from YouTube.",
+  "stem": "The video has been <u>since</u> removed from YouTube.",
   "secTitle": "副詞の位置 ③ ～「時」を表す副詞の場合"
  },
  {
@@ -953,7 +953,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "\"Have you eaten yet?\" \"No, have you?\"",
+  "stem": "\"Have you eaten <u>yet</u>?\" \"No, have you?\"",
   "secTitle": "副詞の位置 ③ ～「時」を表す副詞の場合"
  },
  {
@@ -970,7 +970,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Have you eaten already? Why didn't you wait for me?",
+  "stem": "Have you eaten <u>already</u>? Why didn't you wait for me?",
   "secTitle": "副詞の位置 ③ ～「時」を表す副詞の場合"
  },
  {
@@ -987,7 +987,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "She is not here yet.",
+  "stem": "She is not here <u>yet</u>.",
   "secTitle": "副詞の位置 ③ ～「時」を表す副詞の場合"
  },
  {
@@ -1004,7 +1004,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "She is still not here.",
+  "stem": "She is <u>still</u> not here.",
   "secTitle": "副詞の位置 ③ ～「時」を表す副詞の場合"
  },
  {
@@ -1021,7 +1021,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "The same thing happened three weeks ago in Florida.",
+  "stem": "The same thing happened three weeks <u>ago</u> in Florida.",
   "secTitle": "副詞の位置 ③ ～「時」を表す副詞の場合"
  },
  {
@@ -1038,7 +1038,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "The same thing happened three weeks before in Florida.",
+  "stem": "The same thing happened three weeks <u>before</u> in Florida.",
   "secTitle": "副詞の位置 ③ ～「時」を表す副詞の場合"
  },
  {
@@ -1291,7 +1291,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "The shop is daily open from 9 a.m. to 7 p.m.",
+  "stem": "The shop is <u>daily</u> open from 9 a.m. to 7 p.m.",
   "secTitle": "副詞の位置 ④ ～「頻度」を表す副詞の場合"
  },
  {
@@ -1308,7 +1308,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I have always loved you and I will always.",
+  "stem": "I have <u>always</u> loved you and I will <u>always</u>.",
   "secTitle": "副詞の位置 ④ ～「頻度」を表す副詞の場合"
  },
  {
@@ -1325,7 +1325,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "They're not likely to win, but you never can tell.",
+  "stem": "They're not likely to win, but you <u>never</u> can tell.",
   "secTitle": "副詞の位置 ④ ～「頻度」を表す副詞の場合"
  },
  {
@@ -1656,7 +1656,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Only the president can declare war.",
+  "stem": "<u>Only</u> the president can declare war.",
   "secTitle": "only の使い方"
  },
  {
@@ -1673,7 +1673,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "The car park here is for staff only.",
+  "stem": "The car park here is for staff <u>only</u>.",
   "secTitle": "only の使い方"
  },
  {
@@ -1690,7 +1690,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "We only stayed there for one night.",
+  "stem": "We <u>only</u> stayed there for one night.",
   "secTitle": "only の使い方"
  },
  {
@@ -1854,7 +1854,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "You once said that you would never marry him.",
+  "stem": "You <u>once</u> said that you would never marry him.",
   "secTitle": "once の使い方"
  },
  {
@@ -1871,7 +1871,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "You said once that you would never marry him.",
+  "stem": "You said <u>once</u> that you would never marry him.",
   "secTitle": "once の使い方"
  },
  {
@@ -1909,7 +1909,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "Have you ever been to Las Vegas?",
+  "stem": "Have you <u>ever</u> been to Las Vegas?",
   "secTitle": "ever の使い方"
  },
  {
@@ -1926,7 +1926,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "No one ever talks about it these days.",
+  "stem": "No one <u>ever</u> talks about it these days.",
   "secTitle": "ever の使い方"
  },
  {
@@ -1943,7 +1943,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I think I've ever met him once.",
+  "stem": "I think I've <u>ever</u> met him once.",
   "secTitle": "ever の使い方"
  },
  {
@@ -1960,7 +1960,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "This is the best shaver I've ever used.",
+  "stem": "This is the best shaver I've <u>ever</u> used.",
   "secTitle": "ever の使い方"
  },
  {
@@ -1977,7 +1977,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "If you ever need any help, let me know.",
+  "stem": "If you <u>ever</u> need any help, let me know.",
   "secTitle": "ever の使い方"
  },
  {
@@ -2028,7 +2028,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I like Venice much but I like Florence even more.",
+  "stem": "I like Venice <u>much</u> but I like Florence even more.",
   "secTitle": "very とmuch の使い方"
  },
  {
@@ -2045,7 +2045,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "Did it hurt much when you gave birth?",
+  "stem": "Did it hurt <u>much</u> when you gave birth?",
   "secTitle": "very とmuch の使い方"
  },
  {
@@ -2062,7 +2062,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "The menu hasn't changed much in the last 20 years.",
+  "stem": "The menu hasn't changed <u>much</u> in the last 20 years.",
   "secTitle": "very とmuch の使い方"
  },
  {
@@ -2155,7 +2155,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "This chair is very more comfortable.",
+  "stem": "This chair is <u>very more comfortable</u>.",
   "secTitle": "very とmuch の使い方"
  },
  {
@@ -2172,7 +2172,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "How much older are you than your husband?",
+  "stem": "<u>How much older</u> are you than your husband?",
   "secTitle": "very とmuch の使い方"
  },
  {
@@ -2189,7 +2189,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "They live in very worst conditions.",
+  "stem": "They live in <u>very worst</u> conditions.",
   "secTitle": "very とmuch の使い方"
  },
  {
@@ -2206,7 +2206,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "At first glance, it looks much like cauliflower.",
+  "stem": "At first glance, it looks <u>much</u> like cauliflower.",
   "secTitle": "very とmuch の使い方"
  },
  {
@@ -2223,7 +2223,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Life here is much as it was back in the 1950s.",
+  "stem": "Life here is <u>much</u> as it was back in the 1950s.",
   "secTitle": "very とmuch の使い方"
  },
  {
@@ -2240,7 +2240,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "The two buildings look much the same.",
+  "stem": "The two buildings look <u>much</u> the same.",
   "secTitle": "very とmuch の使い方"
  },
  {
@@ -2461,7 +2461,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "This is a too good opportunity to miss.",
+  "stem": "This is <u>a too good opportunity</u> to miss.",
   "secTitle": "so, such, too の使い方"
  },
  {
@@ -2478,7 +2478,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "It was so nice weather that we played outside a little.",
+  "stem": "It was <u>so nice weather</u> that we played outside a little.",
   "secTitle": "so, such, too の使い方"
  },
  {
@@ -2495,7 +2495,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "He made such many mistakes that he lost his job.",
+  "stem": "He made <u>such many mistakes</u> that he lost his job.",
   "secTitle": "so, such, too の使い方"
  },
  {
@@ -2512,7 +2512,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "Too hot water can dry and damage the skin.",
+  "stem": "<u>Too hot water</u> can dry and damage the skin.",
   "secTitle": "so, such, too の使い方"
  },
  {
@@ -2529,7 +2529,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "Don't drink too much alcohol on an airplane.",
+  "stem": "Don't drink <u>too much alcohol</u> on an airplane.",
   "secTitle": "so, such, too の使い方"
  }
 ]

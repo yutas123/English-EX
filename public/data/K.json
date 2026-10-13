@@ -17,7 +17,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "My wife went to the party, but I didn't.",
+  "stem": "My wife went to the party, <u>but I didn't</u>.",
   "secTitle": "副詞節の基本"
  },
  {
@@ -34,7 +34,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I'll go, though I don't want to.",
+  "stem": "I'll go, <u>though I don't want to</u>.",
   "secTitle": "副詞節の基本"
  },
  {
@@ -51,7 +51,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I wonder when my prayers will be answered.",
+  "stem": "I wonder <u>when my prayers will be answered</u>.",
   "secTitle": "副詞節の基本"
  },
  {
@@ -68,7 +68,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I spent all my money, so I had to go home.",
+  "stem": "I spent all my money, <u>so I had to go home</u>.",
   "secTitle": "副詞節の基本"
  },
  {
@@ -85,7 +85,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "Dress warmly so you won't catch cold.",
+  "stem": "Dress warmly <u>so you won't catch cold</u>.",
   "secTitle": "副詞節の基本"
  },
  {
@@ -102,7 +102,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "As you weren't in, I left a message.",
+  "stem": "<u>As you weren't in</u>, I left a message.",
   "secTitle": "副詞節の基本"
  },
  {
@@ -119,7 +119,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "The police let him go, for he had a perfect alibi.",
+  "stem": "The police let him go, <u>for he had a perfect alibi</u>.",
   "secTitle": "副詞節の基本"
  },
  {
@@ -140,7 +140,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I had a phone call from Kevin on the other day.",
+  "stem": "I had a phone call from Kevin <u>on the other day</u>.",
   "secTitle": "「時」 の副詞（句）と副詞節"
  },
  {
@@ -157,7 +157,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "The school board will meet on tomorrow night.",
+  "stem": "The school board will meet <u>on tomorrow night</u>.",
   "secTitle": "「時」 の副詞（句）と副詞節"
  },
  {
@@ -174,7 +174,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I had to wait three hours in line to get in.",
+  "stem": "I had to wait <u>three hours</u> in line to get in.",
   "secTitle": "「時」 の副詞（句）と副詞節"
  },
  {
@@ -191,7 +191,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "Get a good night's sleep the night before the exam.",
+  "stem": "Get a good night's sleep <u>the night before the exam</u>.",
   "secTitle": "「時」 の副詞（句）と副詞節"
  },
  {
@@ -208,7 +208,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "One evening I visited her but found she was out.",
+  "stem": "<u>One evening</u> I visited her but found she was out.",
   "secTitle": "「時」 の副詞（句）と副詞節"
  },
  {
@@ -225,7 +225,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "He scored two goals that day.",
+  "stem": "He scored two goals <u>that day</u>.",
   "secTitle": "「時」 の副詞（句）と副詞節"
  },
  {
@@ -242,7 +242,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "He returned to Seoul June 19.",
+  "stem": "He returned to Seoul <u>June 19</u>.",
   "secTitle": "「時」 の副詞（句）と副詞節"
  },
  {
@@ -291,7 +291,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "Since arriving in Tokyo, I have had more than 10 job interviews.",
+  "stem": "<u>Since arriving</u> in Tokyo, I have had more than 10 job interviews.",
   "secTitle": "「時」 の副詞（句）と副詞節"
  },
  {
@@ -306,7 +306,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I ate dinner with them while waiting for the next train.",
+  "stem": "I ate dinner with them <u>while waiting</u> for the next train.",
   "secTitle": "「時」 の副詞（句）と副詞節"
  },
  {
@@ -321,7 +321,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I'll never get promoted during he's in charge.",
+  "stem": "I'll never get promoted <u>during he's in charge</u>.",
   "secTitle": "「時」 の副詞（句）と副詞節"
  },
  {
@@ -336,7 +336,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "Let's go home while it doesn't start raining.",
+  "stem": "Let's go home <u>while it doesn't start</u> raining.",
   "secTitle": "「時」 の副詞（句）と副詞節"
  },
  {
@@ -351,7 +351,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "Until he was twenty, he had already achieved worldwide fame.",
+  "stem": "<u>Until he was twenty</u>, he had already achieved worldwide fame.",
   "secTitle": "「時」 の副詞（句）と副詞節"
  },
  {
@@ -576,7 +576,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "If I won't be there on time, please start without me.",
+  "stem": "If <u>I won't be</u> there on time, please start without me.",
   "secTitle": "「条件」 の副詞節"
  },
  {
@@ -591,7 +591,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "If you will not arrive on time, please let us know.",
+  "stem": "If you <u>will not</u> arrive on time, please let us know.",
   "secTitle": "「条件」 の副詞節"
  },
  {
@@ -608,7 +608,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "If you won't let us in, we may have to force our way in.",
+  "stem": "If you <u>won't</u> let us in, we may have to force our way in.",
   "secTitle": "「条件」 の副詞節"
  },
  {
@@ -625,7 +625,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "If you will hold the line, I'll see if Mr. Smith is in.",
+  "stem": "If you <u>will</u> hold the line, I'll see if Mr. Smith is in.",
   "secTitle": "「条件」 の副詞節"
  },
  {
@@ -708,7 +708,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "If he is not handsome, at least he is rich.",
+  "stem": "<u>If</u> he is not handsome, at least he is rich.",
   "secTitle": "「条件」 の副詞節"
  },
  {
@@ -751,7 +751,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "It was so good I'll be surprised if he doesn't win the Oscar for it.",
+  "stem": "It was so good I'll be surprised <u>if he doesn't win the Oscar for it</u>.",
   "secTitle": "「条件」 の副詞節"
  },
  {
@@ -867,7 +867,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "\"Why did you choose that school?\" \"Since the fees are low and the classes are small.\"",
+  "stem": "\"Why did you choose that school?\" \"<u>Since</u> the fees are low and the classes are small.\"",
   "secTitle": "「理由・原因」 の副詞節"
  },
  {
@@ -897,7 +897,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "Just as I'm your girlfriend, that doesn't mean I'll go easy on you!",
+  "stem": "<u>Just as</u> I'm your girlfriend, that doesn't mean I'll go easy on you!",
   "secTitle": "「理由・原因」 の副詞節"
  },
  {
@@ -1295,7 +1295,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "It was so lovely weather that we spent the whole day in the park.",
+  "stem": "It was <u>so lovely weather</u> that we spent the whole day in the park.",
   "secTitle": "「程度・結果」 の副詞節"
  },
  {
@@ -1312,7 +1312,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "We have so many choices that we are distracted from things easily.",
+  "stem": "We have <u>so many choices</u> that we are distracted from things easily.",
   "secTitle": "「程度・結果」 の副詞節"
  },
  {
@@ -1329,7 +1329,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "It is so difficult a problem that it hasn't been solved up to now.",
+  "stem": "It is <u>so difficult a problem</u> that it hasn't been solved up to now.",
   "secTitle": "「程度・結果」 の副詞節"
  },
  {
@@ -1344,7 +1344,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "He got such a shock that he nearly passed out.",
+  "stem": "He got <u>such a shock that</u> he nearly passed out.",
   "secTitle": "「程度・結果」 の副詞節"
  },
  {
@@ -1670,7 +1670,7 @@
   ],
   "sheetJp": true,
   "type": "proof",
-  "stem": "Although he was very tired, he offered to drive me home.",
+  "stem": "<u>Although</u> he was very tired, he offered to drive me home.",
   "secTitle": "「譲歩・対比」 の副詞節"
  },
  {
@@ -1687,7 +1687,7 @@
   ],
   "sheetJp": true,
   "type": "proof",
-  "stem": "It is highly profitable, though there are certain risks involved.",
+  "stem": "It is highly profitable, <u>though</u> there are certain risks involved.",
   "secTitle": "「譲歩・対比」 の副詞節"
  },
  {
@@ -1704,7 +1704,7 @@
   ],
   "sheetJp": true,
   "type": "proof",
-  "stem": "It is highly profitable. There are certain risks involved, though.",
+  "stem": "It is highly profitable. There are certain risks involved, <u>though</u>.",
   "secTitle": "「譲歩・対比」 の副詞節"
  },
  {
@@ -1719,7 +1719,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "Even though you don't like him, you can still be polite.",
+  "stem": "<u>Even though you don't like him</u>, you can still be polite.",
   "secTitle": "「譲歩・対比」 の副詞節"
  },
  {
@@ -1734,7 +1734,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "Even if you don't like him, you can still be polite.",
+  "stem": "<u>Even if you don't like him</u>, you can still be polite.",
   "secTitle": "「譲歩・対比」 の副詞節"
  },
  {
@@ -1930,7 +1930,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Whether you succeed or not is of little importance.",
+  "stem": "<u>Whether you succeed or not</u> is of little importance.",
   "secTitle": "「無関係」 の副詞節"
  },
  {
@@ -1947,7 +1947,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Whether you succeed or not, learn from the experience.",
+  "stem": "<u>Whether you succeed or not</u>, learn from the experience.",
   "secTitle": "「無関係」 の副詞節"
  },
  {

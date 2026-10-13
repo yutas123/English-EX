@@ -263,7 +263,7 @@
   ],
   "sheetJp": true,
   "type": "proof",
-  "stem": "His dream is to accepted as a songwriter.",
+  "stem": "His dream is <u>to accepted</u> as a songwriter.",
   "secTitle": "名詞用法 ① ～ 動詞の目的語や補語になる場合"
  },
  {
@@ -278,7 +278,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I can easily do over 50 push-ups without to take a break.",
+  "stem": "I can easily do over 50 push-ups without <u>to take</u> a break.",
   "secTitle": "名詞用法 ① ～ 動詞の目的語や補語になる場合"
  },
  {
@@ -293,7 +293,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "At this point, we have no choice but to believe what he said.",
+  "stem": "At this point, we have no choice but <u>to believe</u> what he said.",
   "secTitle": "名詞用法 ① ～ 動詞の目的語や補語になる場合"
  },
  {
@@ -797,7 +797,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "There aren't any beasts to be afraid on this island.",
+  "stem": "There aren't any beasts <u>to be afraid</u> on this island.",
   "secTitle": "形容詞用法 ① ～ to不定詞と修飾される名詞との関係"
  },
  {
@@ -812,7 +812,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "Participants should bring an apron or old clothes to work.",
+  "stem": "Participants should bring an apron or old clothes <u>to work</u>.",
   "secTitle": "形容詞用法 ① ～ to不定詞と修飾される名詞との関係"
  },
  {
@@ -827,7 +827,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "We offer lots to choose, so you're sure to find the right one for you.",
+  "stem": "We offer lots <u>to choose</u>, so you're sure to find the right one for you.",
   "secTitle": "形容詞用法 ① ～ to不定詞と修飾される名詞との関係"
  },
  {
@@ -844,7 +844,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "She has two young children to support.",
+  "stem": "She has two young children <u>to support</u>.",
   "secTitle": "形容詞用法 ① ～ to不定詞と修飾される名詞との関係"
  },
  {
@@ -861,7 +861,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "She has rich parents to support her.",
+  "stem": "She has rich parents <u>to support her</u>.",
   "secTitle": "形容詞用法 ① ～ to不定詞と修飾される名詞との関係"
  },
  {
@@ -1214,7 +1214,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "It took us about half an hour to find a place to park at.",
+  "stem": "It took us about half an hour to find a place to park <u>at</u>.",
   "secTitle": "形容詞用法 ③ ～ 前置詞を省略する場合"
  },
  {
@@ -1231,7 +1231,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "We need to find a house to live in before school starts.",
+  "stem": "We need to find a house to live <u>in</u> before school starts.",
   "secTitle": "形容詞用法 ③ ～ 前置詞を省略する場合"
  },
  {
@@ -1248,7 +1248,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "Unfortunately, I didn't have the money to buy it with.",
+  "stem": "Unfortunately, I didn't have the money to buy it <u>with</u>.",
   "secTitle": "形容詞用法 ③ ～ 前置詞を省略する場合"
  },
  {
@@ -1556,7 +1556,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "She wore a headscarf not to offend Muslim sensibilities.",
+  "stem": "She wore a headscarf <u>not to offend</u> Muslim sensibilities.",
   "secTitle": "副詞用法 ① ～ 目的と結果を表す場合"
  },
  {
@@ -1839,7 +1839,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "She married her dream guy, only to find out he was married to his work.",
+  "stem": "She married her dream guy, <u>only to</u> find out he was married to his work.",
   "secTitle": "副詞用法 ① ～ 目的と結果を表す場合"
  },
  {
@@ -1856,7 +1856,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Betty said that she had married Jack only to please her parents.",
+  "stem": "Betty said that she had married Jack <u>only to</u> please her parents.",
   "secTitle": "副詞用法 ① ～ 目的と結果を表す場合"
  },
  {
@@ -2122,7 +2122,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "The meeting room is enough large to accommodate up to 30 people.",
+  "stem": "The meeting room is <u>enough large to</u> accommodate up to 30 people.",
   "secTitle": "副詞用法 ③ ～ 程度を表す場合"
  },
  {
@@ -2137,7 +2137,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "He is a too sensible person to believe that ridiculous lie.",
+  "stem": "He is <u>a too sensible person</u> to believe that ridiculous lie.",
   "secTitle": "副詞用法 ③ ～ 程度を表す場合"
  },
  {
@@ -2423,7 +2423,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "The doctor says I may be necessary to have an operation.",
+  "stem": "The doctor says I may <u>be necessary to</u> have an operation.",
   "secTitle": "副詞用法 ④ ～ 形容詞の意味を限定する場合"
  },
  {
@@ -2438,7 +2438,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "Will you be possible to join us for the party tonight?",
+  "stem": "<u>Will you be possible to</u> join us for the party tonight?",
   "secTitle": "副詞用法 ④ ～ 形容詞の意味を限定する場合"
  },
  {
@@ -3294,7 +3294,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I expect for her to come at about five o'clock.",
+  "stem": "I <u>expect for her to</u> come at about five o'clock.",
   "secTitle": "to不定詞の意味上の主語"
  },
  {
@@ -3311,7 +3311,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "We hope this crisis to be resolved in a peaceful manner.",
+  "stem": "We <u>hope this crisis to</u> be resolved in a peaceful manner.",
   "secTitle": "to不定詞の意味上の主語"
  },
  {
@@ -3328,7 +3328,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I'll arrange for a cab to pick you up at your hotel.",
+  "stem": "I'll <u>arrange for a cab to</u> pick you up at your hotel.",
   "secTitle": "to不定詞の意味上の主語"
  },
  {
@@ -3345,7 +3345,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "She's waiting the right man to come along.",
+  "stem": "She's <u>waiting the right man to</u> come along.",
   "secTitle": "to不定詞の意味上の主語"
  },
  {
@@ -3716,7 +3716,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "He is said to have given a large sum of hush money.",
+  "stem": "He is said to <u>have given</u> a large sum of hush money.",
   "secTitle": "to不定詞の完了形"
  },
  {
@@ -3731,7 +3731,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I remember to have played here when I was a little boy.",
+  "stem": "I remember <u>to have played</u> here when I was a little boy.",
   "secTitle": "to不定詞の完了形"
  },
  {

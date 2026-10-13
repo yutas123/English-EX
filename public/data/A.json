@@ -201,7 +201,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I'm wanting something hot to drink.",
+  "stem": "<u>I'm wanting</u> something hot to drink.",
   "secTitle": "現在［過去］形，現在［過去］進行形の区別"
  },
  {
@@ -218,7 +218,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "Are you hearing me? I'm talking to you.",
+  "stem": "<u>Are you hearing</u> me? I'm talking to you.",
   "secTitle": "現在［過去］形，現在［過去］進行形の区別"
  },
  {
@@ -235,7 +235,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I'm thinking that's a good idea.",
+  "stem": "<u>I'm thinking</u> that's a good idea.",
   "secTitle": "現在［過去］形，現在［過去］進行形の区別"
  },
  {
@@ -252,7 +252,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "Be quiet. I'm thinking.",
+  "stem": "Be quiet. <u>I'm thinking</u>.",
   "secTitle": "現在［過去］形，現在［過去］進行形の区別"
  },
  {
@@ -269,7 +269,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I'm having only five hundred yen in my wallet.",
+  "stem": "<u>I'm having</u> only five hundred yen in my wallet.",
   "secTitle": "現在［過去］形，現在［過去］進行形の区別"
  },
  {
@@ -286,7 +286,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "I'm having a wonderful holiday in Paris.",
+  "stem": "<u>I'm having</u> a wonderful holiday in Paris.",
   "secTitle": "現在［過去］形，現在［過去］進行形の区別"
  },
  {
@@ -303,7 +303,7 @@
   ],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I'm living with my parents.",
+  "stem": "I<u>'m living</u> with my parents.",
   "secTitle": "現在［過去］形，現在［過去］進行形の区別"
  },
  {
@@ -318,7 +318,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "\"Will you do that for me?\" \"Yes, I promise.\"",
+  "stem": "\"Will you do that for me?\" \"Yes, I <u>promise</u>.\"",
   "secTitle": "現在［過去］形，現在［過去］進行形の区別"
  },
  {
@@ -335,7 +335,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "He's silly.",
+  "stem": "He<u>'s</u> silly.",
   "secTitle": "現在［過去］形，現在［過去］進行形の区別"
  },
  {
@@ -352,7 +352,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "He's being silly.",
+  "stem": "He<u>'s being</u> silly.",
   "secTitle": "現在［過去］形，現在［過去］進行形の区別"
  },
  {
@@ -369,7 +369,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "I thought he was funny.",
+  "stem": "I thought he <u>was</u> funny.",
   "secTitle": "現在［過去］形，現在［過去］進行形の区別"
  },
  {
@@ -386,7 +386,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "I thought he was being funny.",
+  "stem": "I thought he <u>was being</u> funny.",
   "secTitle": "現在［過去］形，現在［過去］進行形の区別"
  },
  {
@@ -529,7 +529,7 @@
   ],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I hope it goes well for you.",
+  "stem": "I hope it <u>goes</u> well for you.",
   "secTitle": "「未来」 を表す現在形と過去形"
  },
  {
@@ -544,7 +544,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "Valentine's Day falls on Sunday this year.",
+  "stem": "Valentine's Day <u>falls</u> on Sunday this year.",
   "secTitle": "「未来」 を表す現在形と過去形"
  },
  {
@@ -560,7 +560,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "The next train arrives at 9:00 and gets to Tokyo at 9:45.",
+  "stem": "The next train <u>arrives</u> at 9:00 and <u>gets</u> to Tokyo at 9:45.",
   "secTitle": "「未来」 を表す現在形と過去形"
  },
  {
@@ -577,7 +577,7 @@
   ],
   "sheetJp": true,
   "type": "proof",
-  "stem": "Japan's Finance Minister Stepped Down",
+  "stem": "Japan's Finance Minister <u>Stepped</u> Down",
   "secTitle": "「未来」 を表す現在形と過去形"
  },
  {
@@ -898,7 +898,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I wonder what we are doing this time next year.",
+  "stem": "I wonder what we <u>are doing</u> this time next year.",
   "secTitle": "未来進行形の使い方"
  },
  {
@@ -915,7 +915,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Will you come to our party on Friday?",
+  "stem": "<u>Will you come</u> to our party on Friday?",
   "secTitle": "未来進行形の使い方"
  },
  {
@@ -932,7 +932,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Will you be coming to our party on Friday?",
+  "stem": "<u>Will you be coming</u> to our party on Friday?",
   "secTitle": "未来進行形の使い方"
  },
  {
@@ -1134,7 +1134,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "\"When are you moving?\" \"I don't decide yet.\"",
+  "stem": "\"When are you moving?\" \"I <u>don't decide</u> yet.\"",
   "secTitle": "現在完了形の使い方"
  },
  {
@@ -1149,7 +1149,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "Have you ever debated while you were in high school?",
+  "stem": "<u>Have you ever debated</u> while you were in high school?",
   "secTitle": "現在完了形の使い方"
  },
  {
@@ -1164,7 +1164,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I just got home from work, and I'm really tired.",
+  "stem": "I <u>just got</u> home from work, and I'm really tired.",
   "secTitle": "現在完了形の使い方"
  },
  {
@@ -1605,7 +1605,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "When I got there, Richard left.",
+  "stem": "When I got there, Richard <u>left</u>.",
   "secTitle": "過去完了形の使い方"
  },
  {
@@ -1622,7 +1622,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "When I got there, Richard had left.",
+  "stem": "When I got there, Richard <u>had left</u>.",
   "secTitle": "過去完了形の使い方"
  },
  {
@@ -1727,7 +1727,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "I was a designer for five years.",
+  "stem": "I <u>was</u> a designer for five years.",
   "secTitle": "過去完了形の使い方"
  },
  {
@@ -1744,7 +1744,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "I had been a designer for five years.",
+  "stem": "I <u>had been</u> a designer for five years.",
   "secTitle": "過去完了形の使い方"
  },
  {
@@ -1903,7 +1903,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "He had stood up and ran to his mother.",
+  "stem": "He <u>had stood</u> up and ran to his mother.",
   "secTitle": "過去完了形の使い方"
  },
  {
@@ -1918,7 +1918,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "The outfielder had been injured in practice and couldn't play.",
+  "stem": "The outfielder <u>had been</u> injured in practice and couldn't play.",
   "secTitle": "過去完了形の使い方"
  },
  {
@@ -1933,7 +1933,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "She had lost her job as a secretary and was working as a waitress.",
+  "stem": "She <u>had lost</u> her job as a secretary and was working as a waitress.",
   "secTitle": "過去完了形の使い方"
  }
 ]

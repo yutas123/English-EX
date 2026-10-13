@@ -17,7 +17,7 @@
   ],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I could hear drunk laughter from within.",
+  "stem": "I could hear <u>drunk</u> laughter from within.",
   "secTitle": "限定用法と叙述用法"
  },
  {
@@ -32,7 +32,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "There is nothing cuter than the face of an asleep baby.",
+  "stem": "There is nothing cuter than the face of <u>an asleep</u> baby.",
   "secTitle": "限定用法と叙述用法"
  },
  {
@@ -47,7 +47,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "We have alike views on most issues.",
+  "stem": "We have <u>alike</u> views on most issues.",
   "secTitle": "限定用法と叙述用法"
  },
  {
@@ -62,7 +62,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "They were buried alive in the rubble.",
+  "stem": "They were buried <u>alive</u> in the rubble.",
   "secTitle": "限定用法と叙述用法"
  },
  {
@@ -77,7 +77,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "Like a child afraid of the dark, he asked me to stay with him.",
+  "stem": "Like a child <u>afraid</u> of the dark, he asked me to stay with him.",
   "secTitle": "限定用法と叙述用法"
  },
  {
@@ -92,7 +92,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "Since she is our alone child, we tend to spoil her.",
+  "stem": "Since she is our <u>alone</u> child, we tend to spoil her.",
   "secTitle": "限定用法と叙述用法"
  },
  {
@@ -113,7 +113,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Certain people react badly to this drug.",
+  "stem": "<u>Certain</u> people react badly to this drug.",
   "secTitle": "限定用法と叙述用法で意味が異なる語"
  },
  {
@@ -130,7 +130,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "I'm not absolutely certain, but I think I'm right.",
+  "stem": "I'm not absolutely <u>certain</u>, but I think I'm right.",
   "secTitle": "限定用法と叙述用法で意味が異なる語"
  },
  {
@@ -147,7 +147,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "What is your present occupation?",
+  "stem": "What is your <u>present</u> occupation?",
   "secTitle": "限定用法と叙述用法で意味が異なる語"
  },
  {
@@ -164,7 +164,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "How many people were present at the meeting?",
+  "stem": "How many people were <u>present</u> at the meeting?",
   "secTitle": "限定用法と叙述用法で意味が異なる語"
  },
  {
@@ -181,7 +181,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Smoking has ill effects on our health.",
+  "stem": "Smoking has <u>ill</u> effects on our health.",
   "secTitle": "限定用法と叙述用法で意味が異なる語"
  },
  {
@@ -198,7 +198,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "I've been ill for a few days now.",
+  "stem": "I've been <u>ill</u> for a few days now.",
   "secTitle": "限定用法と叙述用法で意味が異なる語"
  },
  {
@@ -215,7 +215,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "We received numerous calls from concerned parents.",
+  "stem": "We received numerous calls from <u>concerned</u> parents.",
   "secTitle": "限定用法と叙述用法で意味が異なる語"
  },
  {
@@ -232,7 +232,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "We deeply apologize to all the people concerned.",
+  "stem": "We deeply apologize to all the people <u>concerned</u>.",
   "secTitle": "限定用法と叙述用法で意味が異なる語"
  },
  {
@@ -1004,7 +1004,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "Our societies today consume a lot of amount of energy.",
+  "stem": "Our societies today consume <u>a lot of</u> amount of energy.",
   "secTitle": "修飾する名詞の後ろに置く場合"
  },
  {
@@ -1021,7 +1021,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "His television show has many audiences.",
+  "stem": "His television show has <u>many audiences</u>.",
   "secTitle": "修飾する名詞の後ろに置く場合"
  },
  {
@@ -1038,7 +1038,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "It is a small fishing village with a few population.",
+  "stem": "It is a small fishing village with <u>a few</u> population.",
   "secTitle": "修飾する名詞の後ろに置く場合"
  },
  {

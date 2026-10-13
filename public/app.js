@@ -74,6 +74,8 @@ const loadIndex = () => loadJson("data/index.json");
 async function loadAll() { const idx = await loadIndex(); return (await Promise.all(idx.map((u) => loadUnit(u.unit)))).flat(); }
 
 /* ---------- ユーティリティ ---------- */
+const plain = (t) => t.replace(/<\/?u>/g, ""); // 設問文中の下線タグを除いた文
+const stemHtml = (t) => esc(t).replace(/&lt;u&gt;/g, "<u>").replace(/&lt;\/u&gt;/g, "</u>"); // 下線だけ許可して表示
 const shuffle = (a) => { a = [...a]; for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
 const N = (s) => String(s).toLowerCase().replace(/[‘’]/g, "'").replace(/[“”]/g, '"').replace(/[.,!?;:"]/g, " ").replace(/\s+/g, " ").trim();
 function play(src) { if (!src) return; try { player.src = src; player.currentTime = 0; player.play().catch(() => {}); } catch { /* 無視 */ } }
@@ -196,13 +198,13 @@ function quizScreen() {
     if (q.bank) body += `<ol class="bank">${q.bank.map((b) => `<li>${esc(b)}</li>`).join("")}</ol>`;
     body += '<div class="actions"><button class="btn" data-act="submit">回答する</button></div>';
   } else if (q.type === "proof") {
-    body = `<textarea class="ans" ${noAssist}>${esc(q.stem)}</textarea>
+    body = `${q.stem.includes("<u>") ? `<div class="en">${stemHtml(q.stem)}</div>` : ""}<textarea class="ans" ${noAssist}>${esc(plain(q.stem))}</textarea>
       <div class="actions"><button class="btn ok" data-act="asis">このままで正しい</button><button class="btn" data-act="submit">訂正して回答</button></div>`;
   } else if (q.type === "compose") {
-    body = `<div class="en">${esc(q.stem)}</div><textarea class="ans" placeholder="英文を入力" ${noAssist}></textarea>
+    body = `<div class="en">${stemHtml(q.stem)}</div><textarea class="ans" placeholder="英文を入力" ${noAssist}></textarea>
       <div class="actions"><button class="btn" data-act="submit">回答する</button></div>`;
   } else if (q.type === "translate") {
-    body = `<div class="en">${esc(q.stem)}</div><textarea class="ans" placeholder="自分の訳（任意）"></textarea>
+    body = `<div class="en">${stemHtml(q.stem)}</div><textarea class="ans" placeholder="自分の訳（任意）"></textarea>
       <div class="actions"><button class="btn" data-act="reveal">答えを見る</button></div>`;
   } else { // recall
     body = `<textarea class="ans" placeholder="英文を入力" ${noAssist}></textarea>
@@ -261,7 +263,7 @@ function quizScreen() {
     }
   };
   $q('[data-act="submit"]').forEach((b) => (b.onclick = submit));
-  $q('[data-act="asis"]').forEach((b) => (b.onclick = () => finish(q.answers.some((a) => N(a) === N(q.stem)))));
+  $q('[data-act="asis"]').forEach((b) => (b.onclick = () => finish(q.answers.some((a) => N(a) === N(plain(q.stem))))));
   $q('[data-act="reveal"]').forEach((b) => (b.onclick = () => {
     b.disabled = true; qs.answered = false;
     $("#res").innerHTML = `<div class="result"><div class="correct">${q.answers.map(esc).join("<br>")}</div><div class="jp">${esc(q.jp)}</div>

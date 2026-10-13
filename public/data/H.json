@@ -1043,7 +1043,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Eating a sandwich, he rushed out of the house.",
+  "stem": "<u>Eating</u> a sandwich, he rushed out of the house.",
   "secTitle": "分詞の完了形"
  },
  {
@@ -1060,7 +1060,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Having eaten a sandwich, he rushed out of the house.",
+  "stem": "<u>Having eaten</u> a sandwich, he rushed out of the house.",
   "secTitle": "分詞の完了形"
  },
  {
@@ -1214,7 +1214,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "Born and raised in Ohio, I now live in Iowa.",
+  "stem": "<u>Born and raised</u> in Ohio, I now live in Iowa.",
   "secTitle": "分詞の完了形"
  },
  {
@@ -1231,7 +1231,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "Never trained properly, this dog may bite you.",
+  "stem": "<u>Never trained</u> properly, this dog may bite you.",
   "secTitle": "分詞の完了形"
  },
  {
@@ -1660,7 +1660,7 @@
   ],
   "sheetJp": true,
   "type": "proof",
-  "stem": "I picked up the phone with expecting bad news.",
+  "stem": "I picked up the phone <u>with expecting bad news</u>.",
   "secTitle": "being が省略される場合"
  },
  {
@@ -1677,7 +1677,7 @@
   ],
   "sheetJp": true,
   "type": "proof",
-  "stem": "That's a piece of cake. I can do it with closing my eyes.",
+  "stem": "That's a piece of cake. I can do it <u>with closing my eyes</u>.",
   "secTitle": "being が省略される場合"
  },
  {
@@ -2106,7 +2106,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Returning to the subject of IT, how do you use it in your teaching?",
+  "stem": "<u>Returning</u> to the subject of IT, how do you use it in your teaching?",
   "secTitle": "独立分詞構文（分詞の慣用表現）"
  },
  {
@@ -2123,7 +2123,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Walking around my old school twenty years later, memories came rushing back to me.",
+  "stem": "<u>Walking</u> around my old school twenty years later, memories came rushing back to me.",
   "secTitle": "独立分詞構文（分詞の慣用表現）"
  }
 ]

@@ -17,7 +17,7 @@
   ],
   "sheetJp": true,
   "type": "proof",
-  "stem": "Where did you go to college and what your major was?",
+  "stem": "Where <u>did you go</u> to college and what <u>your major was</u>?",
   "secTitle": "倒置 ① ～ 疑問文"
  },
  {
@@ -32,7 +32,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "What floor is children's clothes on?",
+  "stem": "What floor <u>is</u> children's clothes on?",
   "secTitle": "倒置 ① ～ 疑問文"
  },
  {
@@ -574,7 +574,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "Never in my life I have seen anyone drink as much as he does.",
+  "stem": "Never in my life <u>I have seen</u> anyone drink as much as he does.",
   "secTitle": "倒置 ③ ～否定語句で始まる文"
  },
  {
@@ -589,7 +589,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "Under no circumstances you must make jokes about religion.",
+  "stem": "Under no circumstances <u>you must make</u> jokes about religion.",
   "secTitle": "倒置 ③ ～否定語句で始まる文"
  },
  {
@@ -880,7 +880,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "There are a lot of work to be done.",
+  "stem": "There <u>are</u> a lot of work to be done.",
   "secTitle": "倒置 ④ ～there とhere で始まる文"
  },
  {
@@ -897,7 +897,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "There have been a delay in the delivery.",
+  "stem": "There <u>have</u> been a delay in the delivery.",
   "secTitle": "倒置 ④ ～there とhere で始まる文"
  },
  {
@@ -914,7 +914,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "There seem to be a problem here.",
+  "stem": "There <u>seem</u> to be a problem here.",
   "secTitle": "倒置 ④ ～there とhere で始まる文"
  },
  {
@@ -1164,7 +1164,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "Out the sun came and melted all the snow.",
+  "stem": "Out <u>the sun came</u> and melted all the snow.",
   "secTitle": "倒置 ⑤ ～「副詞＋自動詞＋主語」 の文"
  },
  {
@@ -1216,7 +1216,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "Within success lies hidden the seeds of failure.",
+  "stem": "Within success <u>lies hidden</u> the seeds of failure.",
   "secTitle": "倒置 ⑤ ～「副詞＋自動詞＋主語」 の文"
  },
  {
@@ -1235,7 +1235,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "\"Oh, it's easy,\" replied George.",
+  "stem": "\"Oh, it's easy,\" <u>replied George</u>.",
   "secTitle": "倒置 ⑥ ～ 直接話法の被伝達部分を先にした文"
  },
  {
@@ -1250,7 +1250,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "\"I think it's nonsense,\" said she.",
+  "stem": "\"I think it's nonsense,\" <u>said she</u>.",
   "secTitle": "倒置 ⑥ ～ 直接話法の被伝達部分を先にした文"
  },
  {
@@ -1265,7 +1265,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "\"Then why,\" asked the judge, \"did you take the child away?\"",
+  "stem": "\"Then why,\" <u>asked the judge</u>, \"did you take the child away?\"",
   "secTitle": "倒置 ⑥ ～ 直接話法の被伝達部分を先にした文"
  },
  {
@@ -1533,7 +1533,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Young as he is, he is such a family man.",
+  "stem": "<u>Young as he is</u>, he is such a family man.",
   "secTitle": "倒置 ⑧ ～ 補語で始まる文 （２）"
  },
  {
@@ -1550,7 +1550,7 @@
   ],
   "sheetJp": false,
   "type": "translate",
-  "stem": "Young as he is, he has a lot to look forward to.",
+  "stem": "<u>Young as he is</u>, he has a lot to look forward to.",
   "secTitle": "倒置 ⑧ ～ 補語で始まる文 （２）"
  },
  {
@@ -1569,7 +1569,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "More than that can't I say, I'm afraid.",
+  "stem": "More than that <u>can't I say</u>, I'm afraid.",
   "secTitle": "倒置 ⑨ ～ 目的語で始まる文"
  },
  {
@@ -1584,7 +1584,7 @@
   "tags": [],
   "sheetJp": true,
   "type": "proof",
-  "stem": "None of them did she find useful and interesting.",
+  "stem": "None of them <u>did she find</u> useful and interesting.",
   "secTitle": "倒置 ⑨ ～ 目的語で始まる文"
  },
  {
@@ -2665,7 +2665,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "When arrived in the country, they were penniless.",
+  "stem": "<u>When arrived</u> in the country, they were penniless.",
   "secTitle": "省略 ⑤ ～ 副詞節中での「主語＋be 動詞」の省略"
  },
  {
@@ -2683,7 +2683,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "When a child, I always wanted to be an astronaut.",
+  "stem": "<u>When a child</u>, I always wanted to be an astronaut.",
   "secTitle": "省略 ⑤ ～ 副詞節中での「主語＋be 動詞」の省略"
  },
  {
@@ -2700,7 +2700,7 @@
   ],
   "sheetJp": false,
   "type": "proof",
-  "stem": "She fell asleep because tired.",
+  "stem": "She fell asleep <u>because tired</u>.",
   "secTitle": "省略 ⑤ ～ 副詞節中での「主語＋be 動詞」の省略"
  },
  {
@@ -3222,7 +3222,7 @@
   ],
   "sheetJp": false,
   "type": "compose",
-  "stem": "I gotta go now. Hope to see you again soon.",
+  "stem": "I <u>gotta</u> go now. Hope to see you again soon.",
   "secTitle": "省略 ⑦ ～ 会話文での助動詞の省略"
  },
  {
@@ -3281,7 +3281,7 @@
   ],
   "sheetJp": false,
   "type": "compose",
-  "stem": "You better take an umbrella ― it's gonna rain.",
+  "stem": "You <u>better</u> take an umbrella ― it's <u>gonna</u> rain.",
   "secTitle": "省略 ⑦ ～ 会話文での助動詞の省略"
  },
  {
