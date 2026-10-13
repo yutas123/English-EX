@@ -88,6 +88,7 @@ function route() {
   const [, page, arg] = location.hash.split("/");
   player.pause();
   if (page === "unit") return unitScreen(arg);
+  if (page === "bookmarks") return bookmarkScreen();
   if (page === "quiz" && session) return quizScreen();
   if (page === "done" && session) return doneScreen();
   return homeScreen();
@@ -109,6 +110,7 @@ async function homeScreen() {
         <button class="btn ghost" data-g="weak" ${weak ? "" : "disabled"}>苦手 (${weak})</button>
         <button class="btn ghost" data-g="bm" ${bm ? "" : "disabled"}>★ (${bm})</button>
       </div>
+      <button class="btn ghost block" id="bm-list" style="margin-top:10px" ${bm ? "" : "disabled"}>★ ブックマーク一覧 (${bm})</button>
     </div>
     <h2>単元</h2>
     <div class="units">${idx.map((u) => {
@@ -121,11 +123,46 @@ async function homeScreen() {
         <div class="bar"><i style="width:${(ans / u.count) * 100}%"></i></div></button>`;
     }).join("")}</div>`;
   app.querySelectorAll("[data-u]").forEach((b) => (b.onclick = () => go("#/unit/" + b.dataset.u)));
+  $("#bm-list").onclick = () => go("#/bookmarks");
   app.querySelectorAll("[data-g]").forEach((b) => (b.onclick = async () => {
     const items = await loadAll();
     const pick = { due: isDue, weak: isWeak, bm: isBm }[b.dataset.g];
     startSession(items.filter((q) => pick(q.id)), { due: "復習", weak: "苦手", bm: "★" }[b.dataset.g], true);
   }));
+}
+
+/* ---------- ブックマーク一覧 ---------- */
+function qText(q) { // 一覧に出す問題文と正解
+  if (q.type === "fill") {
+    let k = 0;
+    const sol = q.solutions?.[0] || [];
+    return { q: q.jp || "", a: q.segments.map((g) => (g.t === "text" ? g.v : sol[k++] ?? "")).join("") };
+  }
+  return { q: q.jp || plain(q.stem || ""), a: (q.answers || []).join(" / ") };
+}
+async function bookmarkScreen() {
+  setView("★ ブックマーク", () => go("#/"));
+  app.innerHTML = '<p class="sub">読み込み中…</p>';
+  const idx = await loadIndex(), all = await loadAll();
+  const draw = () => {
+    const list = all.filter((q) => isBm(q.id));
+    if (!list.length) { app.innerHTML = '<p class="sub">ブックマークはまだありません。</p>'; return; }
+    app.innerHTML = `<button class="btn block" id="bm-all" style="margin-bottom:12px">この ${list.length} 問を解く</button>` +
+      idx.map((u) => {
+        const us = list.filter((q) => q.id.startsWith(u.unit + "-"));
+        if (!us.length) return "";
+        return `<h2>${u.unit}  ${esc(u.title)} (${us.length})</h2><div class="card">${us.map((q) => {
+          const t = qText(q);
+          return `<div class="listitem"><div class="q-meta"><span>${q.id}</span><button class="chip" data-un="${q.id}">★</button></div>
+            ${t.q ? `<div class="jp">${esc(t.q)}</div>` : ""}<div>${esc(t.a)}</div>
+            <button class="btn ghost" style="margin-top:8px;padding:4px 12px" data-try="${q.id}">解く</button></div>`;
+        }).join("")}</div>`;
+      }).join("");
+    $("#bm-all").onclick = () => startSession(list, "★", setting("shuffle", false), "#/bookmarks");
+    app.querySelectorAll("[data-try]").forEach((b) => (b.onclick = () => startSession([all.find((q) => q.id === b.dataset.try)], b.dataset.try, false, "#/bookmarks")));
+    app.querySelectorAll("[data-un]").forEach((b) => (b.onclick = () => { st(b.dataset.un).bm = false; touch(b.dataset.un); draw(); }));
+  };
+  draw();
 }
 
 /* ---------- 単元 ---------- */
@@ -151,7 +188,7 @@ async function unitScreen(u) {
     <h2>結果一覧 <span class="sub">○ 正解 / × 不正解 / － 未回答（最新の結果・タップで解き直し）</span></h2>
     <div class="card"><div class="grid">${items.map((q) => {
       const s = db.items[q.id], r = !s || s.ok === null ? ["na", "－"] : s.ok ? ["ok", "○"] : ["ng", "×"];
-      return `${q.section ? `<div class="gsec">${esc(q.section.title)}</div>` : ""}<button class="cell ${r[0]}" data-q="${q.id}"><span>${q.id.slice(2)}</span><b>${r[1]}</b></button>`;
+      return `${q.section ? `<div class="gsec">${esc(q.section.title)}</div>` : ""}<button class="cell ${r[0]}" data-q="${q.id}"><span>${q.id.slice(2)}</span><b>${r[1]}</b>${isBm(q.id) ? '<i class="star" aria-label="ブックマーク">★</i>' : ""}</button>`;
     }).join("")}</div></div>`;
   app.querySelectorAll("[data-q]").forEach((b) => (b.onclick = () => startSession([items.find((q) => q.id === b.dataset.q)], b.dataset.q, false, "#/unit/" + u)));
   const bind = (id, key) => ($(id).onchange = (e) => { db.settings[key] = e.target.checked; save(); });
