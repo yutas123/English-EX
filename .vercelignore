@@ -1,0 +1,5 @@
+ENGLISH_EX-CD/
+node_modules/
+.next/
+.env*
+tools/
