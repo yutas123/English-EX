@@ -357,10 +357,10 @@ $("#menu").onclick = () => {
       if (!confirm("読み込んだ内容を履歴に反映します（同期先にも反映されます）。よろしいですか？")) return;
       Object.entries(j.items).forEach(([id, v]) => { db.items[id] = { ...v }; touch(id); });
       d.close(); route();
-syncAndRefresh();
     } catch { alert("読み込めないファイルです"); }
   };
   d.querySelector("#rs").onclick = () => { if (confirm("学習履歴をすべて消します。よろしいですか？")) { db = { items: {}, settings: db.settings, dirty: [] }; dirty.clear(); save(); fetch("/api/progress", { method: "DELETE" }).catch(() => {}); d.close(); go("#/"); } };
 };
 
 route();
+syncAndRefresh();
