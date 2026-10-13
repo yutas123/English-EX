@@ -1,0 +1,9492 @@
+[
+ {
+  "id": "Z-01-a",
+  "unit": "Z",
+  "no": "01",
+  "jp": "今でも彼に初めて会った日のことを覚えています。",
+  "answers": [
+   "I still remember the day I first met him."
+  ],
+  "audio": "audio/Z/Z-01-a-.mp3",
+  "section": {
+   "title": "「会う」 （meet, run into, see） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "meet, run into, see の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I still remember the day I first "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " him."
+   }
+  ],
+  "solutions": [
+   [
+    "met"
+   ]
+  ],
+  "secTitle": "「会う」 （meet, run into, see） の使い分け"
+ },
+ {
+  "id": "Z-01-b",
+  "unit": "Z",
+  "no": "01",
+  "jp": "昨晩はずっと咳をしていたね。医者に行った方がいいんじゃない？",
+  "answers": [
+   "You were coughing all night. You should see a doctor."
+  ],
+  "audio": "audio/Z/Z-01-b-.mp3",
+  "tags": [
+   "meet, run into, see の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "You were coughing all night. You should "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " a doctor."
+   }
+  ],
+  "solutions": [
+   [
+    "see"
+   ]
+  ],
+  "secTitle": "「会う」 （meet, run into, see） の使い分け"
+ },
+ {
+  "id": "Z-01-c",
+  "unit": "Z",
+  "no": "01",
+  "jp": "今朝学校に行く途中でジョーにばったり会ったよ。",
+  "answers": [
+   "I ran into Joe on my way to school this morning."
+  ],
+  "audio": "audio/Z/Z-01-c-.mp3",
+  "tags": [
+   "meet, run into, see の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " Joe on my way to school this morning."
+   }
+  ],
+  "solutions": [
+   [
+    "ran into"
+   ]
+  ],
+  "secTitle": "「会う」 （meet, run into, see） の使い分け"
+ },
+ {
+  "id": "Z-02-a",
+  "unit": "Z",
+  "no": "02",
+  "jp": "このネクタイ，このスーツに合うと思う？",
+  "answers": [
+   "Do you think this tie matches this suit?"
+  ],
+  "audio": "audio/Z/Z-02-a-.mp3",
+  "section": {
+   "title": "「合う」 （fit, match, suit） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "fit, match, suit の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Do you think this tie "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " this suit?"
+   }
+  ],
+  "solutions": [
+   [
+    "matches"
+   ]
+  ],
+  "secTitle": "「合う」 （fit, match, suit） の使い分け"
+ },
+ {
+  "id": "Z-02-b",
+  "unit": "Z",
+  "no": "02",
+  "jp": "「長い髪の方が君に似合うよ」「私はショートが好きなの」",
+  "answers": [
+   "\"Long hair suits you better.\" \"I like my hair short.\""
+  ],
+  "audio": "audio/Z/Z-02-b-.mp3",
+  "tags": [
+   "fit, match, suit の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"Long hair "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " you better.\" \"I like my hair short.\""
+   }
+  ],
+  "solutions": [
+   [
+    "suits"
+   ]
+  ],
+  "secTitle": "「合う」 （fit, match, suit） の使い分け"
+ },
+ {
+  "id": "Z-02-c",
+  "unit": "Z",
+  "no": "02",
+  "jp": "ジーンズのサイズが合わない場合は仕立て直しもできます。",
+  "answers": [
+   "We can alter your jeans if they don't fit you."
+  ],
+  "audio": "audio/Z/Z-02-c-.mp3",
+  "tags": [
+   "fit, match, suit の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We can alter your jeans if they don't "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " you."
+   }
+  ],
+  "solutions": [
+   [
+    "fit"
+   ]
+  ],
+  "secTitle": "「合う」 （fit, match, suit） の使い分け"
+ },
+ {
+  "id": "Z-03-a",
+  "unit": "Z",
+  "no": "03",
+  "jp": "食べ物を扱う前は手を洗わなくてはいけません。",
+  "answers": [
+   "You must wash your hands before handling food."
+  ],
+  "audio": "audio/Z/Z-03-a-.mp3",
+  "section": {
+   "title": "「扱う」 （deal with, handle, operate, treat） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "deal with, handle, operate, treat の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "You must wash your hands before "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " food."
+   }
+  ],
+  "solutions": [
+   [
+    "handling"
+   ]
+  ],
+  "secTitle": "「扱う」 （deal with, handle, operate, treat） の使い分け"
+ },
+ {
+  "id": "Z-03-b",
+  "unit": "Z",
+  "no": "03",
+  "jp": "その作業員はフォークリフトを操作中にケガをした。",
+  "answers": [
+   "The worker was injured while operating a forklift."
+  ],
+  "audio": "audio/Z/Z-03-b-.mp3",
+  "tags": [
+   "deal with, handle, operate, treat の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The worker was injured while "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " a forklift."
+   }
+  ],
+  "solutions": [
+   [
+    "operating"
+   ]
+  ],
+  "secTitle": "「扱う」 （deal with, handle, operate, treat） の使い分け"
+ },
+ {
+  "id": "Z-03-c",
+  "unit": "Z",
+  "no": "03",
+  "jp": "この問題にどう対処すべきだと思いますか？",
+  "answers": [
+   "How do you think we should deal with this problem?"
+  ],
+  "audio": "audio/Z/Z-03-c-.mp3",
+  "tags": [
+   "deal with, handle, operate, treat の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "How do you think we should "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " this problem?"
+   }
+  ],
+  "solutions": [
+   [
+    "deal with"
+   ]
+  ],
+  "secTitle": "「扱う」 （deal with, handle, operate, treat） の使い分け"
+ },
+ {
+  "id": "Z-03-d",
+  "unit": "Z",
+  "no": "03",
+  "jp": "職場では男女が平等に扱われなければならない。",
+  "answers": [
+   "Men and women must be treated equally in the workplace."
+  ],
+  "audio": "audio/Z/Z-03-d-.mp3",
+  "tags": [
+   "deal with, handle, operate, treat の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Men and women must be "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " equally in the workplace."
+   }
+  ],
+  "solutions": [
+   [
+    "treated"
+   ]
+  ],
+  "secTitle": "「扱う」 （deal with, handle, operate, treat） の使い分け"
+ },
+ {
+  "id": "Z-04-a",
+  "unit": "Z",
+  "no": "04",
+  "jp": "２時にそちらに行きたいと思いますが，それでよろしいですか？",
+  "answers": [
+   "I'll come to your office at two. Will that be OK?"
+  ],
+  "audio": "audio/Z/Z-04-a-.mp3",
+  "section": {
+   "title": "「行く・来る」 （come, go, visit） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "come, go, visit の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'll "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to your office at two. Will that be OK?"
+   }
+  ],
+  "solutions": [
+   [
+    "come"
+   ]
+  ],
+  "secTitle": "「行く・来る」 （come, go, visit） の使い分け"
+ },
+ {
+  "id": "Z-04-b",
+  "unit": "Z",
+  "no": "04",
+  "jp": "このレストランはうるさ過ぎる。どこか静かな所へ行こう。",
+  "answers": [
+   "This restaurant is too noisy. Let's go to a quiet place."
+  ],
+  "audio": "audio/Z/Z-04-b-.mp3",
+  "tags": [
+   "come, go, visit の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "This restaurant is too noisy. Let's "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to a quiet place."
+   }
+  ],
+  "solutions": [
+   [
+    "go"
+   ]
+  ],
+  "secTitle": "「行く・来る」 （come, go, visit） の使い分け"
+ },
+ {
+  "id": "Z-04-c",
+  "unit": "Z",
+  "no": "04",
+  "jp": "アメリカにいらした時は遊びに来てくださいね。",
+  "answers": [
+   "Come and visit me when you come to the United States."
+  ],
+  "audio": "audio/Z/Z-04-c-.mp3",
+  "tags": [
+   "come, go, visit の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " and "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " me when you "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to the United States."
+   }
+  ],
+  "solutions": [
+   [
+    "Come",
+    "visit",
+    "come"
+   ]
+  ],
+  "secTitle": "「行く・来る」 （come, go, visit） の使い分け"
+ },
+ {
+  "id": "Z-05-a",
+  "unit": "Z",
+  "no": "05",
+  "jp": "すみません，もう少しコーヒーを持って来てくれますか？",
+  "answers": [
+   "Waiter, bring me more coffee, will you?"
+  ],
+  "audio": "audio/Z/Z-05-a-.mp3",
+  "section": {
+   "title": "「持って［連れて］行く・来る」 （bring, carry, take） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "bring, carry, take の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Waiter, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " me more coffee, will you?"
+   }
+  ],
+  "solutions": [
+   [
+    "bring"
+   ]
+  ],
+  "secTitle": "「持って［連れて］行く・来る」 （bring, carry, take） の使い分け"
+ },
+ {
+  "id": "Z-05-b",
+  "unit": "Z",
+  "no": "05",
+  "jp": "はい，この新聞をパパの所に持って行ってちょうだい。",
+  "answers": [
+   "Here, take this newspaper to Dad."
+  ],
+  "audio": "audio/Z/Z-05-b-.mp3",
+  "tags": [
+   "bring, carry, take の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Here, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " this newspaper to Dad."
+   }
+  ],
+  "solutions": [
+   [
+    "take"
+   ]
+  ],
+  "secTitle": "「持って［連れて］行く・来る」 （bring, carry, take） の使い分け"
+ },
+ {
+  "id": "Z-05-c",
+  "unit": "Z",
+  "no": "05",
+  "jp": "リサ，どうしてそんなに重たいスーツケースを持ち運んでいるの？",
+  "answers": [
+   "Lisa, why are you carrying such a heavy suitcase?"
+  ],
+  "audio": "audio/Z/Z-05-c-.mp3",
+  "tags": [
+   "bring, carry, take の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Lisa, why are you "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " such a heavy suitcase?"
+   }
+  ],
+  "solutions": [
+   [
+    "carrying"
+   ]
+  ],
+  "secTitle": "「持って［連れて］行く・来る」 （bring, carry, take） の使い分け"
+ },
+ {
+  "id": "Z-06-a",
+  "unit": "Z",
+  "no": "06",
+  "jp": "バリーが先に叩いたから僕は叩き返したんだ。",
+  "answers": [
+   "I hit Barry back because he hit me first."
+  ],
+  "audio": "audio/Z/Z-06-a-.mp3",
+  "section": {
+   "title": "「打つ・叩く」 （beat, hit, knock, strike） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "beat, hit, knock, strike の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " Barry back because he "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " me first."
+   }
+  ],
+  "solutions": [
+   [
+    "hit",
+    "hit"
+   ]
+  ],
+  "secTitle": "「打つ・叩く」 （beat, hit, knock, strike） の使い分け"
+ },
+ {
+  "id": "Z-06-b",
+  "unit": "Z",
+  "no": "06",
+  "jp": "ドラム奏者はゆっくりとドラムを叩き始めた。",
+  "answers": [
+   "The drummer began to beat the drum slowly."
+  ],
+  "audio": "audio/Z/Z-06-b-.mp3",
+  "tags": [
+   "beat, hit, knock, strike の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The drummer began to "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the drum slowly."
+   }
+  ],
+  "solutions": [
+   [
+    "beat"
+   ]
+  ],
+  "secTitle": "「打つ・叩く」 （beat, hit, knock, strike） の使い分け"
+ },
+ {
+  "id": "Z-06-c",
+  "unit": "Z",
+  "no": "06",
+  "jp": "鉄は熱いうちに打つべし。",
+  "answers": [
+   "You should strike while the iron is hot."
+  ],
+  "audio": "audio/Z/Z-06-c-.mp3",
+  "tags": [
+   "beat, hit, knock, strike の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "You should "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " while the iron is hot."
+   }
+  ],
+  "solutions": [
+   [
+    "strike"
+   ]
+  ],
+  "secTitle": "「打つ・叩く」 （beat, hit, knock, strike） の使い分け"
+ },
+ {
+  "id": "Z-06-d",
+  "unit": "Z",
+  "no": "06",
+  "jp": "ドアを開ける前にはノックをしなさい。",
+  "answers": [
+   "You must knock before you open the door."
+  ],
+  "audio": "audio/Z/Z-06-d-.mp3",
+  "tags": [
+   "beat, hit, knock, strike の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "You must "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " before you open the door."
+   }
+  ],
+  "solutions": [
+   [
+    "knock"
+   ]
+  ],
+  "secTitle": "「打つ・叩く」 （beat, hit, knock, strike） の使い分け"
+ },
+ {
+  "id": "Z-07-a",
+  "unit": "Z",
+  "no": "07",
+  "jp": "昨日送ったメールは受信しましたか？",
+  "answers": [
+   "Did you receive the email I sent you yesterday?"
+  ],
+  "audio": "audio/Z/Z-07-a-.mp3",
+  "section": {
+   "title": "「受け取る」 （accept, receive, take） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "accept, receive, take の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Did you "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the email I sent you yesterday?"
+   }
+  ],
+  "solutions": [
+   [
+    "receive"
+   ]
+  ],
+  "secTitle": "「受け取る」 （accept, receive, take） の使い分け"
+ },
+ {
+  "id": "Z-07-b",
+  "unit": "Z",
+  "no": "07",
+  "jp": "だめです，こんな高価な物を受け取ることはできません。",
+  "answers": [
+   "Oh, no, I can't accept this gift. It looks very expensive."
+  ],
+  "audio": "audio/Z/Z-07-b-.mp3",
+  "tags": [
+   "accept, receive, take の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Oh, no, I can't "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " this gift. It looks very expensive."
+   }
+  ],
+  "solutions": [
+   [
+    "accept"
+   ]
+  ],
+  "secTitle": "「受け取る」 （accept, receive, take） の使い分け"
+ },
+ {
+  "id": "Z-07-c",
+  "unit": "Z",
+  "no": "07",
+  "jp": "彼の言うことは額面通りに受け取らないようにしてください。",
+  "answers": [
+   "Never take his words at face value."
+  ],
+  "audio": "audio/Z/Z-07-c-.mp3",
+  "tags": [
+   "accept, receive, take の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Never "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " his words at face value."
+   }
+  ],
+  "solutions": [
+   [
+    "take"
+   ]
+  ],
+  "secTitle": "「受け取る」 （accept, receive, take） の使い分け"
+ },
+ {
+  "id": "Z-08-a",
+  "unit": "Z",
+  "no": "08",
+  "jp": "警察はロンがその銀行強盗に関与したのではないかと見ていた。",
+  "answers": [
+   "The police suspected Ron's part in the bank robbery."
+  ],
+  "audio": "audio/Z/Z-08-a-.mp3",
+  "section": {
+   "title": "「疑う」 （doubt, question, suspect） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "doubt, question, suspect の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The police "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " Ron's part in the bank robbery."
+   }
+  ],
+  "solutions": [
+   [
+    "suspected"
+   ]
+  ],
+  "secTitle": "「疑う」 （doubt, question, suspect） の使い分け"
+ },
+ {
+  "id": "Z-08-b",
+  "unit": "Z",
+  "no": "08",
+  "jp": "ジムは作業を終えたと言ったが，私はそれを疑っている。",
+  "answers": [
+   "Jim said he finished the work, but I doubt it."
+  ],
+  "audio": "audio/Z/Z-08-b-.mp3",
+  "tags": [
+   "doubt, question, suspect の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Jim said he finished the work, but I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " it."
+   }
+  ],
+  "solutions": [
+   [
+    "doubt"
+   ]
+  ],
+  "secTitle": "「疑う」 （doubt, question, suspect） の使い分け"
+ },
+ {
+  "id": "Z-08-c",
+  "unit": "Z",
+  "no": "08",
+  "jp": "消費者は自分たちが買っている食糧の品質に疑問を感じた。",
+  "answers": [
+   "Consumers questioned the quality of the food they were buying."
+  ],
+  "audio": "audio/Z/Z-08-c-.mp3",
+  "tags": [
+   "doubt, question, suspect の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Consumers "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the quality of the food they were buying."
+   }
+  ],
+  "solutions": [
+   [
+    "questioned"
+   ]
+  ],
+  "secTitle": "「疑う」 （doubt, question, suspect） の使い分け"
+ },
+ {
+  "id": "Z-09-a",
+  "unit": "Z",
+  "no": "09",
+  "jp": "何かお店で買ってきて欲しいものある？",
+  "answers": [
+   "Do you want me to get anything from the store?"
+  ],
+  "audio": "audio/Z/Z-09-a-.mp3",
+  "section": {
+   "title": "「得る」 （acquire, earn, gain, get） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "acquire, earn, gain, get の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Do you want me to "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " anything from the store?"
+   }
+  ],
+  "solutions": [
+   [
+    "get"
+   ]
+  ],
+  "secTitle": "「得る」 （acquire, earn, gain, get） の使い分け"
+ },
+ {
+  "id": "Z-09-b",
+  "unit": "Z",
+  "no": "09",
+  "jp": "彼は長年の研究の末，博士号を取得した。",
+  "answers": [
+   "He acquired a Ph.D. after many years of study."
+  ],
+  "audio": "audio/Z/Z-09-b-.mp3",
+  "tags": [
+   "acquire, earn, gain, get の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " a Ph.D. after many years of study."
+   }
+  ],
+  "solutions": [
+   [
+    "acquired"
+   ]
+  ],
+  "secTitle": "「得る」 （acquire, earn, gain, get） の使い分け"
+ },
+ {
+  "id": "Z-09-c",
+  "unit": "Z",
+  "no": "09",
+  "jp": "ほとんどの人は一生懸命に働いて生活の糧を得ている。",
+  "answers": [
+   "Most people work hard to earn a living."
+  ],
+  "audio": "audio/Z/Z-09-c-.mp3",
+  "tags": [
+   "acquire, earn, gain, get の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Most people work hard to "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " a living."
+   }
+  ],
+  "solutions": [
+   [
+    "earn"
+   ]
+  ],
+  "secTitle": "「得る」 （acquire, earn, gain, get） の使い分け"
+ },
+ {
+  "id": "Z-09-d",
+  "unit": "Z",
+  "no": "09",
+  "jp": "彼女はその本を書いて名声と富の両方を得た。",
+  "answers": [
+   "She gained both fame and wealth by writing that book."
+  ],
+  "audio": "audio/Z/Z-09-d-.mp3",
+  "tags": [
+   "acquire, earn, gain, get の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " both fame and wealth by writing that book."
+   }
+  ],
+  "solutions": [
+   [
+    "gained"
+   ]
+  ],
+  "secTitle": "「得る」 （acquire, earn, gain, get） の使い分け"
+ },
+ {
+  "id": "Z-10-a",
+  "unit": "Z",
+  "no": "10",
+  "jp": "森の中で彼は黒いクマに追いかけられた。",
+  "answers": [
+   "In the forest, he was chased by a black bear."
+  ],
+  "audio": "audio/Z/Z-10-a-.mp3",
+  "section": {
+   "title": "「追う」 （chase, follow, pursue） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "chase, follow, pursue の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "In the forest, he was "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " by a black bear."
+   }
+  ],
+  "solutions": [
+   [
+    "chased"
+   ]
+  ],
+  "secTitle": "「追う」 （chase, follow, pursue） の使い分け"
+ },
+ {
+  "id": "Z-10-b",
+  "unit": "Z",
+  "no": "10",
+  "jp": "ここに足跡がある。この足跡を辿ってみよう。",
+  "answers": [
+   "Here are some footsteps. Let's follow them."
+  ],
+  "audio": "audio/Z/Z-10-b-.mp3",
+  "tags": [
+   "chase, follow, pursue の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Here are some footsteps. Let's "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " them."
+   }
+  ],
+  "solutions": [
+   [
+    "follow"
+   ]
+  ],
+  "secTitle": "「追う」 （chase, follow, pursue） の使い分け"
+ },
+ {
+  "id": "Z-10-c",
+  "unit": "Z",
+  "no": "10",
+  "jp": "夢があるのなら，その夢を手に入れるまで追いかけなさい。",
+  "answers": [
+   "If you have a dream, pursue it until you obtain it."
+  ],
+  "audio": "audio/Z/Z-10-c-.mp3",
+  "tags": [
+   "chase, follow, pursue の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "If you have a dream, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " it until you obtain it."
+   }
+  ],
+  "solutions": [
+   [
+    "pursue"
+   ]
+  ],
+  "secTitle": "「追う」 （chase, follow, pursue） の使い分け"
+ },
+ {
+  "id": "Z-11-a",
+  "unit": "Z",
+  "no": "11",
+  "jp": "一度目が覚めたが，またすぐに眠ってしまった。",
+  "answers": [
+   "I woke up, but immediately fell asleep again."
+  ],
+  "audio": "audio/Z/Z-11-a-.mp3",
+  "section": {
+   "title": "「起きる」 （get up, stay up, wake up） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "get up, stay up, wake up の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": ", but immediately fell asleep again."
+   }
+  ],
+  "solutions": [
+   [
+    "woke up"
+   ]
+  ],
+  "secTitle": "「起きる」 （get up, stay up, wake up） の使い分け"
+ },
+ {
+  "id": "Z-11-b",
+  "unit": "Z",
+  "no": "11",
+  "jp": "今朝は早く起きて公園で散歩をした。",
+  "answers": [
+   "I got up early this morning and took a walk in the park."
+  ],
+  "audio": "audio/Z/Z-11-b-.mp3",
+  "tags": [
+   "get up, stay up, wake up の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " early this morning and took a walk in the park."
+   }
+  ],
+  "solutions": [
+   [
+    "got up"
+   ]
+  ],
+  "secTitle": "「起きる」 （get up, stay up, wake up） の使い分け"
+ },
+ {
+  "id": "Z-11-c",
+  "unit": "Z",
+  "no": "11",
+  "jp": "夫が帰ってくるまで寝ないで起きていた。",
+  "answers": [
+   "I stayed up until my husband came home."
+  ],
+  "audio": "audio/Z/Z-11-c-.mp3",
+  "tags": [
+   "get up, stay up, wake up の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " until my husband came home."
+   }
+  ],
+  "solutions": [
+   [
+    "stayed up"
+   ]
+  ],
+  "secTitle": "「起きる」 （get up, stay up, wake up） の使い分け"
+ },
+ {
+  "id": "Z-12-a",
+  "unit": "Z",
+  "no": "12",
+  "jp": "「何があったの？」「あぁ，ちょっとした事故ですよ」",
+  "answers": [
+   "\"What happened?\" \"Oh, just a small accident.\""
+  ],
+  "audio": "audio/Z/Z-12-a-.mp3",
+  "section": {
+   "title": "「起こる」 （break out, happen, occur, take place） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "break out, happen, occur, take place の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"What "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "?\" \"Oh, just a small accident.\""
+   }
+  ],
+  "solutions": [
+   [
+    "happened"
+   ]
+  ],
+  "secTitle": "「起こる」 （break out, happen, occur, take place） の使い分け"
+ },
+ {
+  "id": "Z-12-b",
+  "unit": "Z",
+  "no": "12",
+  "jp": "ミスというのは必ず起こるものです。",
+  "answers": [
+   "Mistakes are bound to occur."
+  ],
+  "audio": "audio/Z/Z-12-b-.mp3",
+  "tags": [
+   "break out, happen, occur, take place の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Mistakes are bound to "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "occur"
+   ]
+  ],
+  "secTitle": "「起こる」 （break out, happen, occur, take place） の使い分け"
+ },
+ {
+  "id": "Z-12-c",
+  "unit": "Z",
+  "no": "12",
+  "jp": "今朝，家の近所で火事が起きた。",
+  "answers": [
+   "A fire broke out in my neighborhood this morning."
+  ],
+  "audio": "audio/Z/Z-12-c-.mp3",
+  "tags": [
+   "break out, happen, occur, take place の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "A fire "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " in my neighborhood this morning."
+   }
+  ],
+  "solutions": [
+   [
+    "broke out"
+   ]
+  ],
+  "secTitle": "「起こる」 （break out, happen, occur, take place） の使い分け"
+ },
+ {
+  "id": "Z-12-d",
+  "unit": "Z",
+  "no": "12",
+  "jp": "1953年，イランで軍事クーデターが起きた。",
+  "answers": [
+   "In 1953 a military coup took place in Iran."
+  ],
+  "audio": "audio/Z/Z-12-d-.mp3",
+  "tags": [
+   "break out, happen, occur, take place の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "In 1953 a military coup "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " in Iran."
+   }
+  ],
+  "solutions": [
+   [
+    "took place"
+   ]
+  ],
+  "secTitle": "「起こる」 （break out, happen, occur, take place） の使い分け"
+ },
+ {
+  "id": "Z-13-a",
+  "unit": "Z",
+  "no": "13",
+  "jp": "今，うちの犬に，投げた棒を取って来ることを教えています。",
+  "answers": [
+   "I'm teaching my dog to fetch sticks."
+  ],
+  "audio": "audio/Z/Z-13-a-.mp3",
+  "section": {
+   "title": "「教える」 （show, teach, tell） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "show, teach, tell の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'm "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " my dog to fetch sticks."
+   }
+  ],
+  "solutions": [
+   [
+    "teaching"
+   ]
+  ],
+  "secTitle": "「教える」 （show, teach, tell） の使い分け"
+ },
+ {
+  "id": "Z-13-b",
+  "unit": "Z",
+  "no": "13",
+  "jp": "彼女の秘密を教えてあげるけど，他の人には喋っちゃ駄目よ。",
+  "answers": [
+   "I'll tell you her secret. But don't tell it to anyone else."
+  ],
+  "audio": "audio/Z/Z-13-b-.mp3",
+  "tags": [
+   "show, teach, tell の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'll "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " you her secret. But don't tell it to anyone else."
+   }
+  ],
+  "solutions": [
+   [
+    "tell"
+   ]
+  ],
+  "secTitle": "「教える」 （show, teach, tell） の使い分け"
+ },
+ {
+  "id": "Z-13-c",
+  "unit": "Z",
+  "no": "13",
+  "jp": "このマシンの使い方を教えてくれますか？",
+  "answers": [
+   "Can you show me how to use this machine?"
+  ],
+  "audio": "audio/Z/Z-13-c-.mp3",
+  "tags": [
+   "show, teach, tell の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Can you "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " me how to use this machine?"
+   }
+  ],
+  "solutions": [
+   [
+    "show"
+   ]
+  ],
+  "secTitle": "「教える」 （show, teach, tell） の使い分け"
+ },
+ {
+  "id": "Z-14-a",
+  "unit": "Z",
+  "no": "14",
+  "jp": "僕の車を週末，君に貸してあげるよ。",
+  "answers": [
+   "I'll lend you my car for the weekend."
+  ],
+  "audio": "audio/Z/Z-14-a-.mp3",
+  "section": {
+   "title": "「貸す・借りる」 （borrow, lend, owe, rent, use） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "borrow, lend, owe, rent, use の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'll "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " you my car for the weekend."
+   }
+  ],
+  "solutions": [
+   [
+    "lend"
+   ]
+  ],
+  "secTitle": "「貸す・借りる」 （borrow, lend, owe, rent, use） の使い分け"
+ },
+ {
+  "id": "Z-14-b",
+  "unit": "Z",
+  "no": "14",
+  "jp": "私は会社の近くに小さなアパートを借りた。",
+  "answers": [
+   "I rented a small apartment near my office."
+  ],
+  "audio": "audio/Z/Z-14-b-.mp3",
+  "tags": [
+   "borrow, lend, owe, rent, use の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " a small apartment near my office."
+   }
+  ],
+  "solutions": [
+   [
+    "rented"
+   ]
+  ],
+  "secTitle": "「貸す・借りる」 （borrow, lend, owe, rent, use） の使い分け"
+ },
+ {
+  "id": "Z-14-c",
+  "unit": "Z",
+  "no": "14",
+  "jp": "親に2,000ドル借りている。",
+  "answers": [
+   "I owe my parents 2,000 dollars."
+  ],
+  "audio": "audio/Z/Z-14-c-.mp3",
+  "tags": [
+   "borrow, lend, owe, rent, use の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " my parents 2,000 dollars."
+   }
+  ],
+  "solutions": [
+   [
+    "owe"
+   ]
+  ],
+  "secTitle": "「貸す・借りる」 （borrow, lend, owe, rent, use） の使い分け"
+ },
+ {
+  "id": "Z-14-d",
+  "unit": "Z",
+  "no": "14",
+  "jp": "「トイレをお借りできますか？」「どうぞ，ご遠慮なく」",
+  "answers": [
+   "\"May I use your bathroom?\" \"Go right ahead.\""
+  ],
+  "audio": "audio/Z/Z-14-d-.mp3",
+  "tags": [
+   "borrow, lend, owe, rent, use の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"May I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " your bathroom?\" \"Go right ahead.\""
+   }
+  ],
+  "solutions": [
+   [
+    "use"
+   ]
+  ],
+  "secTitle": "「貸す・借りる」 （borrow, lend, owe, rent, use） の使い分け"
+ },
+ {
+  "id": "Z-14-e",
+  "unit": "Z",
+  "no": "14",
+  "jp": "明日返すので，10ドルお借りしていいかしら？",
+  "answers": [
+   "Can I borrow ten dollars till tomorrow?"
+  ],
+  "audio": "audio/Z/Z-14-e-.mp3",
+  "tags": [
+   "borrow, lend, owe, rent, use の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Can I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " ten dollars till tomorrow?"
+   }
+  ],
+  "solutions": [
+   [
+    "borrow"
+   ]
+  ],
+  "secTitle": "「貸す・借りる」 （borrow, lend, owe, rent, use） の使い分け"
+ },
+ {
+  "id": "Z-15-a",
+  "unit": "Z",
+  "no": "15",
+  "jp": "パレスチナ人達は，イスラエルが自分たちに勝つことは決してないと言った。",
+  "answers": [
+   "Palestinians said Israel will never defeat them."
+  ],
+  "audio": "audio/Z/Z-15-a-.mp3",
+  "section": {
+   "title": "「勝つ」 （defeat, overcome, win） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "defeat, overcome, win の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Palestinians said Israel will never "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " them."
+   }
+  ],
+  "solutions": [
+   [
+    "defeat"
+   ]
+  ],
+  "secTitle": "「勝つ」 （defeat, overcome, win） の使い分け"
+ },
+ {
+  "id": "Z-15-b",
+  "unit": "Z",
+  "no": "15",
+  "jp": "ロケッツとレイカーズの試合はどっちが勝ったの？",
+  "answers": [
+   "Who won the game between the Rockets and the Lakers?"
+  ],
+  "audio": "audio/Z/Z-15-b-.mp3",
+  "tags": [
+   "defeat, overcome, win の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Who "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the game between the Rockets and the Lakers?"
+   }
+  ],
+  "solutions": [
+   [
+    "won"
+   ]
+  ],
+  "secTitle": "「勝つ」 （defeat, overcome, win） の使い分け"
+ },
+ {
+  "id": "Z-15-c",
+  "unit": "Z",
+  "no": "15",
+  "jp": "我々は人生の困難に一つ一つ打ち勝って行かなくてはならない。",
+  "answers": [
+   "We have to overcome life's difficulties one by one."
+  ],
+  "audio": "audio/Z/Z-15-c-.mp3",
+  "tags": [
+   "defeat, overcome, win の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We have to "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " life's difficulties one by one."
+   }
+  ],
+  "solutions": [
+   [
+    "overcome"
+   ]
+  ],
+  "secTitle": "「勝つ」 （defeat, overcome, win） の使い分け"
+ },
+ {
+  "id": "Z-16-a",
+  "unit": "Z",
+  "no": "16",
+  "jp": "彼がしていた指輪に気づいた？",
+  "answers": [
+   "Did you notice the ring he was wearing?"
+  ],
+  "audio": "audio/Z/Z-16-a-.mp3",
+  "section": {
+   "title": "「気づく」 （be aware, notice, realize, recognize） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "aware, notice, realize, recognize の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Did you "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the ring he was wearing?"
+   }
+  ],
+  "solutions": [
+   [
+    "notice"
+   ]
+  ],
+  "secTitle": "「気づく」 （be aware, notice, realize, recognize） の使い分け"
+ },
+ {
+  "id": "Z-16-b",
+  "unit": "Z",
+  "no": "16",
+  "jp": "彼女はスティーブに恋人がいることはわかっていた。",
+  "answers": [
+   "She was aware that Steve had a girlfriend."
+  ],
+  "audio": "audio/Z/Z-16-b-.mp3",
+  "tags": [
+   "aware, notice, realize, recognize の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She was "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " that Steve had a girlfriend."
+   }
+  ],
+  "solutions": [
+   [
+    "aware"
+   ]
+  ],
+  "secTitle": "「気づく」 （be aware, notice, realize, recognize） の使い分け"
+ },
+ {
+  "id": "Z-16-c",
+  "unit": "Z",
+  "no": "16",
+  "jp": "あなたの心ないことばが彼女をどれほど傷つけたかわかっているの？",
+  "answers": [
+   "Do you realize how much you hurt her with your harsh words?"
+  ],
+  "audio": "audio/Z/Z-16-c-.mp3",
+  "tags": [
+   "aware, notice, realize, recognize の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Do you "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " how much you hurt her with your harsh words?"
+   }
+  ],
+  "solutions": [
+   [
+    "realize"
+   ]
+  ],
+  "secTitle": "「気づく」 （be aware, notice, realize, recognize） の使い分け"
+ },
+ {
+  "id": "Z-16-d",
+  "unit": "Z",
+  "no": "16",
+  "jp": "あら，そんな立派なスーツを着てるからあなただとわからなかったわ。",
+  "answers": [
+   "Oh, I didn't recognize you in that nice business suit."
+  ],
+  "audio": "audio/Z/Z-16-d-.mp3",
+  "tags": [
+   "aware, notice, realize, recognize の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Oh, I didn't "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " you in that nice business suit."
+   }
+  ],
+  "solutions": [
+   [
+    "recognize"
+   ]
+  ],
+  "secTitle": "「気づく」 （be aware, notice, realize, recognize） の使い分け"
+ },
+ {
+  "id": "Z-17-a",
+  "unit": "Z",
+  "no": "17",
+  "jp": "次のミーティングをいつにするか決めよう。",
+  "answers": [
+   "Let's set a time for our next meeting.",
+   "Let's fix a time for our next meeting."
+  ],
+  "audio": "audio/Z/Z-17-a-.mp3",
+  "section": {
+   "title": "「決める」 （decide, determine, set） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "decide, determine, set の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Let's "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " a time for our next meeting."
+   }
+  ],
+  "solutions": [
+   [
+    "set"
+   ],
+   [
+    "fix"
+   ]
+  ],
+  "secTitle": "「決める」 （decide, determine, set） の使い分け"
+ },
+ {
+  "id": "Z-17-b",
+  "unit": "Z",
+  "no": "17",
+  "jp": "私達はその申し出を受け入れることに決めました。",
+  "answers": [
+   "We've decided to accept the offer."
+  ],
+  "audio": "audio/Z/Z-17-b-.mp3",
+  "tags": [
+   "decide, determine, set の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We've "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to accept the offer."
+   }
+  ],
+  "solutions": [
+   [
+    "decided"
+   ]
+  ],
+  "secTitle": "「決める」 （decide, determine, set） の使い分け"
+ },
+ {
+  "id": "Z-17-c",
+  "unit": "Z",
+  "no": "17",
+  "jp": "価格は需要と供給によって決まる。",
+  "answers": [
+   "The price is determined by supply and demand."
+  ],
+  "audio": "audio/Z/Z-17-c-.mp3",
+  "tags": [
+   "decide, determine, set の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The price is "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " by supply and demand."
+   }
+  ],
+  "solutions": [
+   [
+    "determined"
+   ]
+  ],
+  "secTitle": "「決める」 （decide, determine, set） の使い分け"
+ },
+ {
+  "id": "Z-18-a",
+  "unit": "Z",
+  "no": "18",
+  "jp": "何度も頼み込んだが，彼らは協力を拒んだ。",
+  "answers": [
+   "I asked many times, but they refused to help."
+  ],
+  "audio": "audio/Z/Z-18-a-.mp3",
+  "section": {
+   "title": "「断る・拒否する」 （decline, refuse, reject） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "decline, refuse, reject の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I asked many times, but they "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to help."
+   }
+  ],
+  "solutions": [
+   [
+    "refused"
+   ]
+  ],
+  "secTitle": "「断る・拒否する」 （decline, refuse, reject） の使い分け"
+ },
+ {
+  "id": "Z-18-b",
+  "unit": "Z",
+  "no": "18",
+  "jp": "彼女は私のプロポーズを冷たくあしらった。",
+  "answers": [
+   "She coldly rejected my proposal of marriage."
+  ],
+  "audio": "audio/Z/Z-18-b-.mp3",
+  "tags": [
+   "decline, refuse, reject の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She coldly "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " my proposal of marriage."
+   }
+  ],
+  "solutions": [
+   [
+    "rejected"
+   ]
+  ],
+  "secTitle": "「断る・拒否する」 （decline, refuse, reject） の使い分け"
+ },
+ {
+  "id": "Z-18-c",
+  "unit": "Z",
+  "no": "18",
+  "jp": "タイムズ社の報道官はそのニュースに対してのコメントを丁重に断った。",
+  "answers": [
+   "A Times spokeswoman declined to comment on the news."
+  ],
+  "audio": "audio/Z/Z-18-c-.mp3",
+  "tags": [
+   "decline, refuse, reject の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "A Times spokeswoman "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to comment on the news."
+   }
+  ],
+  "solutions": [
+   [
+    "declined"
+   ]
+  ],
+  "secTitle": "「断る・拒否する」 （decline, refuse, reject） の使い分け"
+ },
+ {
+  "id": "Z-19-a",
+  "unit": "Z",
+  "no": "19",
+  "jp": "電話している時はじゃましないで。",
+  "answers": [
+   "Don't interrupt me when I'm on the phone."
+  ],
+  "audio": "audio/Z/Z-19-a-.mp3",
+  "section": {
+   "title": "「妨げる」 （hinder, interrupt, obstruct, prevent） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "hinder, interrupt, obstruct, prevent の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Don't "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " me when I'm on the phone."
+   }
+  ],
+  "solutions": [
+   [
+    "interrupt"
+   ]
+  ],
+  "secTitle": "「妨げる」 （hinder, interrupt, obstruct, prevent） の使い分け"
+ },
+ {
+  "id": "Z-19-b",
+  "unit": "Z",
+  "no": "19",
+  "jp": "自動車事故で道路が数時間通れなくなった。",
+  "answers": [
+   "The car accident obstructed the road for several hours."
+  ],
+  "audio": "audio/Z/Z-19-b-.mp3",
+  "tags": [
+   "hinder, interrupt, obstruct, prevent の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The car accident "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the road for several hours."
+   }
+  ],
+  "solutions": [
+   [
+    "obstructed"
+   ]
+  ],
+  "secTitle": "「妨げる」 （hinder, interrupt, obstruct, prevent） の使い分け"
+ },
+ {
+  "id": "Z-19-c",
+  "unit": "Z",
+  "no": "19",
+  "jp": "代謝性疾患を予防するために定期的な運動をしてください。",
+  "answers": [
+   "Exercise regularly to prevent a metabolic disorder."
+  ],
+  "audio": "audio/Z/Z-19-c-.mp3",
+  "tags": [
+   "hinder, interrupt, obstruct, prevent の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Exercise regularly to "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " a metabolic disorder."
+   }
+  ],
+  "solutions": [
+   [
+    "prevent"
+   ]
+  ],
+  "secTitle": "「妨げる」 （hinder, interrupt, obstruct, prevent） の使い分け"
+ },
+ {
+  "id": "Z-19-d",
+  "unit": "Z",
+  "no": "19",
+  "jp": "過度な立法は発展を促進するのではなく阻害する。",
+  "answers": [
+   "Excessive legislation hinders rather than promotes development."
+  ],
+  "audio": "audio/Z/Z-19-d-.mp3",
+  "tags": [
+   "hinder, interrupt, obstruct, prevent の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Excessive legislation "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " rather than promotes development."
+   }
+  ],
+  "solutions": [
+   [
+    "hinders"
+   ]
+  ],
+  "secTitle": "「妨げる」 （hinder, interrupt, obstruct, prevent） の使い分け"
+ },
+ {
+  "id": "Z-20-a",
+  "unit": "Z",
+  "no": "20",
+  "jp": "10代の子供とその親はめったに意見が合わない。",
+  "answers": [
+   "Teenagers and their parents seldom agree."
+  ],
+  "audio": "audio/Z/Z-20-a-.mp3",
+  "section": {
+   "title": "「賛成する」 （agree, approve, consent） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "agree, approve, consent の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Teenagers and their parents seldom "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "agree"
+   ]
+  ],
+  "secTitle": "「賛成する」 （agree, approve, consent） の使い分け"
+ },
+ {
+  "id": "Z-20-b",
+  "unit": "Z",
+  "no": "20",
+  "jp": "彼女の両親はどちらもその結婚を承諾しなかった。",
+  "answers": [
+   "Neither of her parents consented to the marriage."
+  ],
+  "audio": "audio/Z/Z-20-b-.mp3",
+  "tags": [
+   "agree, approve, consent の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Neither of her parents "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to the marriage."
+   }
+  ],
+  "solutions": [
+   [
+    "consented"
+   ]
+  ],
+  "secTitle": "「賛成する」 （agree, approve, consent） の使い分け"
+ },
+ {
+  "id": "Z-20-c",
+  "unit": "Z",
+  "no": "20",
+  "jp": "アメリカ人の過半数が美容整形に賛成している。",
+  "answers": [
+   "The majority of Americans approve of cosmetic surgery."
+  ],
+  "audio": "audio/Z/Z-20-c-.mp3",
+  "tags": [
+   "agree, approve, consent の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The majority of Americans "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " of cosmetic surgery."
+   }
+  ],
+  "solutions": [
+   [
+    "approve"
+   ]
+  ],
+  "secTitle": "「賛成する」 （agree, approve, consent） の使い分け"
+ },
+ {
+  "id": "Z-21-a",
+  "unit": "Z",
+  "no": "21",
+  "jp": "私は重要な書類をどこかへやってしまって上司から叱責された。",
+  "answers": [
+   "I was reprimanded by my boss for misplacing some valuable papers."
+  ],
+  "audio": "audio/Z/Z-21-a-.mp3",
+  "section": {
+   "title": "「叱る」 （reprimand, scold, tell off） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "reprimand, scold, tell off の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I was "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " by my boss for misplacing some valuable papers."
+   }
+  ],
+  "solutions": [
+   [
+    "reprimanded"
+   ]
+  ],
+  "secTitle": "「叱る」 （reprimand, scold, tell off） の使い分け"
+ },
+ {
+  "id": "Z-21-b",
+  "unit": "Z",
+  "no": "21",
+  "jp": "お母さん達，一日中子供を叱ってばかりいてはだめですよ。",
+  "answers": [
+   "Mothers, don't scold your children all day long!"
+  ],
+  "audio": "audio/Z/Z-21-b-.mp3",
+  "tags": [
+   "reprimand, scold, tell off の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Mothers, don't "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " your children all day long!"
+   }
+  ],
+  "solutions": [
+   [
+    "scold"
+   ]
+  ],
+  "secTitle": "「叱る」 （reprimand, scold, tell off） の使い分け"
+ },
+ {
+  "id": "Z-21-c",
+  "unit": "Z",
+  "no": "21",
+  "jp": "帰宅が遅くなって叱られた。",
+  "answers": [
+   "I got told off for coming home late."
+  ],
+  "audio": "audio/Z/Z-21-c-.mp3",
+  "tags": [
+   "reprimand, scold, tell off の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I got "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " for coming home late."
+   }
+  ],
+  "solutions": [
+   [
+    "told off"
+   ]
+  ],
+  "secTitle": "「叱る」 （reprimand, scold, tell off） の使い分け"
+ },
+ {
+  "id": "Z-22-a",
+  "unit": "Z",
+  "no": "22",
+  "jp": "両親は私に弁護士になるべきだと言い張った。",
+  "answers": [
+   "My parents insisted that I should become a lawyer."
+  ],
+  "audio": "audio/Z/Z-22-a-.mp3",
+  "section": {
+   "title": "「主張する」 （assert, claim, insist, maintain） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "assert, claim, insist, maintain の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "My parents "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " that I should become a lawyer."
+   }
+  ],
+  "solutions": [
+   [
+    "insisted"
+   ]
+  ],
+  "secTitle": "「主張する」 （assert, claim, insist, maintain） の使い分け"
+ },
+ {
+  "id": "Z-22-b",
+  "unit": "Z",
+  "no": "22",
+  "jp": "ガリレオは地球が太陽の周囲を回っているのだと強く主張した。",
+  "answers": [
+   "Galileo maintained that the earth turned around the sun."
+  ],
+  "audio": "audio/Z/Z-22-b-.mp3",
+  "tags": [
+   "assert, claim, insist, maintain の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Galileo "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " that the earth turned around the sun."
+   }
+  ],
+  "solutions": [
+   [
+    "maintained"
+   ]
+  ],
+  "secTitle": "「主張する」 （assert, claim, insist, maintain） の使い分け"
+ },
+ {
+  "id": "Z-22-c",
+  "unit": "Z",
+  "no": "22",
+  "jp": "私はこの件に関して単に自分の意見を主張しているのではありません。",
+  "answers": [
+   "I am not merely asserting my own view of the matter."
+  ],
+  "audio": "audio/Z/Z-22-c-.mp3",
+  "tags": [
+   "assert, claim, insist, maintain の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I am not merely "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " my own view of the matter."
+   }
+  ],
+  "solutions": [
+   [
+    "asserting"
+   ]
+  ],
+  "secTitle": "「主張する」 （assert, claim, insist, maintain） の使い分け"
+ },
+ {
+  "id": "Z-22-d",
+  "unit": "Z",
+  "no": "22",
+  "jp": "その技術者はその発明の功績は全て自分のものだと主張した。",
+  "answers": [
+   "The engineer claimed all the credit for the invention."
+  ],
+  "audio": "audio/Z/Z-22-d-.mp3",
+  "tags": [
+   "assert, claim, insist, maintain の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The engineer "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " all the credit for the invention."
+   }
+  ],
+  "solutions": [
+   [
+    "claimed"
+   ]
+  ],
+  "secTitle": "「主張する」 （assert, claim, insist, maintain） の使い分け"
+ },
+ {
+  "id": "Z-23-a",
+  "unit": "Z",
+  "no": "23",
+  "jp": "電車の時刻だったらネットで調べることができるよ。",
+  "answers": [
+   "You can look up the train times online."
+  ],
+  "audio": "audio/Z/Z-23-a-.mp3",
+  "section": {
+   "title": "「調べる」 （check, examine, investigate, look up） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "check, examine, investigate, look up の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "You can "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the train times online."
+   }
+  ],
+  "solutions": [
+   [
+    "look up"
+   ]
+  ],
+  "secTitle": "「調べる」 （check, examine, investigate, look up） の使い分け"
+ },
+ {
+  "id": "Z-23-b",
+  "unit": "Z",
+  "no": "23",
+  "jp": "お医者さんは私の目を検査して目薬を差しました。",
+  "answers": [
+   "The doctor examined my eyes and put eye drops in them."
+  ],
+  "audio": "audio/Z/Z-23-b-.mp3",
+  "tags": [
+   "check, examine, investigate, look up の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The doctor "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " my eyes and put eye drops in them."
+   }
+  ],
+  "solutions": [
+   [
+    "examined"
+   ]
+  ],
+  "secTitle": "「調べる」 （check, examine, investigate, look up） の使い分け"
+ },
+ {
+  "id": "Z-23-c",
+  "unit": "Z",
+  "no": "23",
+  "jp": "自分の書いた作文に綴りや文法の間違いがないか確認した。",
+  "answers": [
+   "I checked my essay for spelling and grammar mistakes."
+  ],
+  "audio": "audio/Z/Z-23-c-.mp3",
+  "tags": [
+   "check, examine, investigate, look up の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " my essay for spelling and grammar mistakes."
+   }
+  ],
+  "solutions": [
+   [
+    "checked"
+   ]
+  ],
+  "secTitle": "「調べる」 （check, examine, investigate, look up） の使い分け"
+ },
+ {
+  "id": "Z-23-d",
+  "unit": "Z",
+  "no": "23",
+  "jp": "現在，警察が事故の原因を調べています。",
+  "answers": [
+   "Police are investigating the causes of the accident."
+  ],
+  "audio": "audio/Z/Z-23-d-.mp3",
+  "tags": [
+   "check, examine, investigate, look up の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Police are "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the causes of the accident."
+   }
+  ],
+  "solutions": [
+   [
+    "investigating"
+   ]
+  ],
+  "secTitle": "「調べる」 （check, examine, investigate, look up） の使い分け"
+ },
+ {
+  "id": "Z-24-a",
+  "unit": "Z",
+  "no": "24",
+  "jp": "パスポートがないことにいつ気づいたの？",
+  "answers": [
+   "When did you find your passport was missing?",
+   "When did you find out your passport was missing?"
+  ],
+  "audio": "audio/Z/Z-24-a-.mp3",
+  "section": {
+   "title": "「知る」 （find, know, learn） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "find, know, learn の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "When did you "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " your passport was missing?"
+   }
+  ],
+  "solutions": [
+   [
+    "find"
+   ],
+   [
+    "find out"
+   ]
+  ],
+  "secTitle": "「知る」 （find, know, learn） の使い分け"
+ },
+ {
+  "id": "Z-24-b",
+  "unit": "Z",
+  "no": "24",
+  "jp": "レナードが亡くなったことを知ってとても残念です。",
+  "answers": [
+   "I'm so sorry to learn of Leonard's death."
+  ],
+  "audio": "audio/Z/Z-24-b-.mp3",
+  "tags": [
+   "find, know, learn の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'm so sorry to "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " of Leonard's death."
+   }
+  ],
+  "solutions": [
+   [
+    "learn"
+   ]
+  ],
+  "secTitle": "「知る」 （find, know, learn） の使い分け"
+ },
+ {
+  "id": "Z-24-c",
+  "unit": "Z",
+  "no": "24",
+  "jp": "この花を英語で何と言うか知ってますか？",
+  "answers": [
+   "Do you know the name of this flower in English?"
+  ],
+  "audio": "audio/Z/Z-24-c-.mp3",
+  "tags": [
+   "find, know, learn の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Do you "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the name of this flower in English?"
+   }
+  ],
+  "solutions": [
+   [
+    "know"
+   ]
+  ],
+  "secTitle": "「知る」 （find, know, learn） の使い分け"
+ },
+ {
+  "id": "Z-25-a",
+  "unit": "Z",
+  "no": "25",
+  "jp": "ほらね，マイク。彼女を信用するなって君に言っただろ。",
+  "answers": [
+   "See, Mike? I warned you not to trust her."
+  ],
+  "audio": "audio/Z/Z-25-a-.mp3",
+  "section": {
+   "title": "「信じる」 （believe, believe in, trust） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "believe, believe in, trust の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "See, Mike? I warned you not to "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " her."
+   }
+  ],
+  "solutions": [
+   [
+    "trust"
+   ]
+  ],
+  "secTitle": "「信じる」 （believe, believe in, trust） の使い分け"
+ },
+ {
+  "id": "Z-25-b",
+  "unit": "Z",
+  "no": "25",
+  "jp": "わかった，わかった，君の言うことを信じるよ。ごめん。",
+  "answers": [
+   "OK, OK, I believe you. I'm sorry."
+  ],
+  "audio": "audio/Z/Z-25-b-.mp3",
+  "tags": [
+   "believe, believe in, trust の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "OK, OK, I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " you. I'm sorry."
+   }
+  ],
+  "solutions": [
+   [
+    "believe"
+   ]
+  ],
+  "secTitle": "「信じる」 （believe, believe in, trust） の使い分け"
+ },
+ {
+  "id": "Z-25-c",
+  "unit": "Z",
+  "no": "25",
+  "jp": "あなたは死後の世界を信じますか？",
+  "answers": [
+   "Do you believe in life after death?"
+  ],
+  "audio": "audio/Z/Z-25-c-.mp3",
+  "tags": [
+   "believe, believe in, trust の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Do you "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " life after death?"
+   }
+  ],
+  "solutions": [
+   [
+    "believe in"
+   ]
+  ],
+  "secTitle": "「信じる」 （believe, believe in, trust） の使い分け"
+ },
+ {
+  "id": "Z-26-a",
+  "unit": "Z",
+  "no": "26",
+  "jp": "ここにある空箱はいつ捨てるつもり？",
+  "answers": [
+   "When are you going to throw away these empty boxes?"
+  ],
+  "audio": "audio/Z/Z-26-a-.mp3",
+  "section": {
+   "title": "「捨てる」 （abandon, dump, give up, throw away） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "abandon, dump, give up, throw away の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "When are you going to "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " these empty boxes?"
+   }
+  ],
+  "solutions": [
+   [
+    "throw away"
+   ]
+  ],
+  "secTitle": "「捨てる」 （abandon, dump, give up, throw away） の使い分け"
+ },
+ {
+  "id": "Z-26-b",
+  "unit": "Z",
+  "no": "26",
+  "jp": "彼らは産業廃棄物を不法投棄したことにより１万ポンドの罰金を科せられた。",
+  "answers": [
+   "They were fined £10,000 for illegally dumping industrial waste."
+  ],
+  "audio": "audio/Z/Z-26-b-.mp3",
+  "tags": [
+   "abandon, dump, give up, throw away の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "They were fined £10,000 for illegally "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " industrial waste."
+   }
+  ],
+  "solutions": [
+   [
+    "dumping"
+   ]
+  ],
+  "secTitle": "「捨てる」 （abandon, dump, give up, throw away） の使い分け"
+ },
+ {
+  "id": "Z-26-c",
+  "unit": "Z",
+  "no": "26",
+  "jp": "彼らはついに救出されるという希望を捨てた。",
+  "answers": [
+   "They finally gave up all hope of being saved."
+  ],
+  "audio": "audio/Z/Z-26-c-.mp3",
+  "tags": [
+   "abandon, dump, give up, throw away の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "They finally "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " all hope of being saved."
+   }
+  ],
+  "solutions": [
+   [
+    "gave up"
+   ]
+  ],
+  "secTitle": "「捨てる」 （abandon, dump, give up, throw away） の使い分け"
+ },
+ {
+  "id": "Z-26-d",
+  "unit": "Z",
+  "no": "26",
+  "jp": "彼女は私達を捨てて他の男と駆け落ちをしたのです。",
+  "answers": [
+   "She abandoned us and went off with another man."
+  ],
+  "audio": "audio/Z/Z-26-d-.mp3",
+  "tags": [
+   "abandon, dump, give up, throw away の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " us and went off with another man."
+   }
+  ],
+  "solutions": [
+   [
+    "abandoned"
+   ]
+  ],
+  "secTitle": "「捨てる」 （abandon, dump, give up, throw away） の使い分け"
+ },
+ {
+  "id": "Z-27-a",
+  "unit": "Z",
+  "no": "27",
+  "jp": "ごめん，あんな事を言ったけど，君を傷つけるつもりはなかったんだ。",
+  "answers": [
+   "Sorry, I didn't mean to hurt you when I said that."
+  ],
+  "audio": "audio/Z/Z-27-a-.mp3",
+  "section": {
+   "title": "「…するつもり」 （be going to, intend to, mean to） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "be going to, intend to, mean to の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Sorry, I didn't "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " hurt you when I said that."
+   }
+  ],
+  "solutions": [
+   [
+    "mean to"
+   ]
+  ],
+  "secTitle": "「…するつもり」 （be going to, intend to, mean to） の使い分け"
+ },
+ {
+  "id": "Z-27-b",
+  "unit": "Z",
+  "no": "27",
+  "jp": "土曜日の午後にポットラック・パーティーを行うつもりです。",
+  "answers": [
+   "We are going to have a potluck party on Saturday afternoon."
+  ],
+  "audio": "audio/Z/Z-27-b-.mp3",
+  "tags": [
+   "be going to, intend to, mean to の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " have a potluck party on Saturday afternoon."
+   }
+  ],
+  "solutions": [
+   [
+    "are going to"
+   ]
+  ],
+  "secTitle": "「…するつもり」 （be going to, intend to, mean to） の使い分け"
+ },
+ {
+  "id": "Z-27-c",
+  "unit": "Z",
+  "no": "27",
+  "jp": "これは私の権利であり，私はこの権利を行使するつもりです。",
+  "answers": [
+   "This is my right and I intend to exercise it."
+  ],
+  "audio": "audio/Z/Z-27-c-.mp3",
+  "tags": [
+   "be going to, intend to, mean to の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "This is my right and I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " exercise it."
+   }
+  ],
+  "solutions": [
+   [
+    "intend to"
+   ]
+  ],
+  "secTitle": "「…するつもり」 （be going to, intend to, mean to） の使い分け"
+ },
+ {
+  "id": "Z-28-a",
+  "unit": "Z",
+  "no": "28",
+  "jp": "君が先に行ってくれ。僕は後に続くから。",
+  "answers": [
+   "You lead and I'll follow."
+  ],
+  "audio": "audio/Z/Z-28-a-.mp3",
+  "section": {
+   "title": "「続く」 （continue, follow, last） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "continue, follow, last の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "You lead and I'll "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "follow"
+   ]
+  ],
+  "secTitle": "「続く」 （continue, follow, last） の使い分け"
+ },
+ {
+  "id": "Z-28-b",
+  "unit": "Z",
+  "no": "28",
+  "jp": "「（話を）続けてもかまいませんか？」 「どうぞ」",
+  "answers": [
+   "\"May I continue?\" \"Go on.\""
+  ],
+  "audio": "audio/Z/Z-28-b-.mp3",
+  "tags": [
+   "continue, follow, last の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"May I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "?\" \"Go on.\""
+   }
+  ],
+  "solutions": [
+   [
+    "continue"
+   ]
+  ],
+  "secTitle": "「続く」 （continue, follow, last） の使い分け"
+ },
+ {
+  "id": "Z-28-c",
+  "unit": "Z",
+  "no": "28",
+  "jp": "彼女の３回目の結婚は３ヶ月しか続かなかった。",
+  "answers": [
+   "Her third marriage lasted only three months."
+  ],
+  "audio": "audio/Z/Z-28-c-.mp3",
+  "tags": [
+   "continue, follow, last の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Her third marriage "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " only three months."
+   }
+  ],
+  "solutions": [
+   [
+    "lasted"
+   ]
+  ],
+  "secTitle": "「続く」 （continue, follow, last） の使い分け"
+ },
+ {
+  "id": "Z-29-a",
+  "unit": "Z",
+  "no": "29",
+  "jp": "オーストラリア出身のとても素敵な女の子と付き合っているんだ。",
+  "answers": [
+   "I'm seeing a very nice girl from Australia."
+  ],
+  "audio": "audio/Z/Z-29-a-.mp3",
+  "section": {
+   "title": "「付き合う」 （associate, get along, go out, see） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "associate, get along, go out, see の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'm "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " a very nice girl from Australia."
+   }
+  ],
+  "solutions": [
+   [
+    "seeing"
+   ]
+  ],
+  "secTitle": "「付き合う」 （associate, get along, go out, see） の使い分け"
+ },
+ {
+  "id": "Z-29-b",
+  "unit": "Z",
+  "no": "29",
+  "jp": "ティムとは１年付き合ったのだけど，別れました。",
+  "answers": [
+   "I went out with Tim for a year, but we broke up."
+  ],
+  "audio": "audio/Z/Z-29-b-.mp3",
+  "tags": [
+   "associate, get along, go out, see の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " with Tim for a year, but we broke up."
+   }
+  ],
+  "solutions": [
+   [
+    "went out"
+   ]
+  ],
+  "secTitle": "「付き合う」 （associate, get along, go out, see） の使い分け"
+ },
+ {
+  "id": "Z-29-c",
+  "unit": "Z",
+  "no": "29",
+  "jp": "ジェーンと私？  全く問題ないわ。うまくやっているわよ。",
+  "answers": [
+   "Jane and me? No problem. We're getting along just fine."
+  ],
+  "audio": "audio/Z/Z-29-c-.mp3",
+  "tags": [
+   "associate, get along, go out, see の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Jane and me? No problem. We're "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " just fine."
+   }
+  ],
+  "solutions": [
+   [
+    "getting along"
+   ]
+  ],
+  "secTitle": "「付き合う」 （associate, get along, go out, see） の使い分け"
+ },
+ {
+  "id": "Z-29-d",
+  "unit": "Z",
+  "no": "29",
+  "jp": "マークは素行の悪い連中と付き合っている。",
+  "answers": [
+   "Mark is associating with some bad people."
+  ],
+  "audio": "audio/Z/Z-29-d-.mp3",
+  "tags": [
+   "associate, get along, go out, see の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Mark is "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " with some bad people."
+   }
+  ],
+  "solutions": [
+   [
+    "associating"
+   ]
+  ],
+  "secTitle": "「付き合う」 （associate, get along, go out, see） の使い分け"
+ },
+ {
+  "id": "Z-30-a",
+  "unit": "Z",
+  "no": "30",
+  "jp": "ソファーに寝そべって本を読むのが好きです。",
+  "answers": [
+   "I like to read lying on the couch."
+  ],
+  "audio": "audio/Z/Z-30-a-.mp3",
+  "section": {
+   "title": "「寝る」 （fall asleep, get to sleep, go to bed, lie） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "fall asleep, get to sleep, go to bed, lie の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I like to read "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " on the couch."
+   }
+  ],
+  "solutions": [
+   [
+    "lying"
+   ]
+  ],
+  "secTitle": "「寝る」 （fall asleep, get to sleep, go to bed, lie） の使い分け"
+ },
+ {
+  "id": "Z-30-b",
+  "unit": "Z",
+  "no": "30",
+  "jp": "早く寝なさい。明日は一日忙しくなるから。",
+  "answers": [
+   "Go to bed early. You have a busy day tomorrow."
+  ],
+  "audio": "audio/Z/Z-30-b-.mp3",
+  "tags": [
+   "fall asleep, get to sleep, go to bed, lie の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " early. You have a busy day tomorrow."
+   }
+  ],
+  "solutions": [
+   [
+    "Go to bed"
+   ]
+  ],
+  "secTitle": "「寝る」 （fall asleep, get to sleep, go to bed, lie） の使い分け"
+ },
+ {
+  "id": "Z-30-c",
+  "unit": "Z",
+  "no": "30",
+  "jp": "ベッドに入るとすぐに眠ってしまった。",
+  "answers": [
+   "I fell asleep as soon as I crawled into bed."
+  ],
+  "audio": "audio/Z/Z-30-c-.mp3",
+  "tags": [
+   "fall asleep, get to sleep, go to bed, lie の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " as soon as I crawled into bed."
+   }
+  ],
+  "solutions": [
+   [
+    "fell asleep"
+   ]
+  ],
+  "secTitle": "「寝る」 （fall asleep, get to sleep, go to bed, lie） の使い分け"
+ },
+ {
+  "id": "Z-30-d",
+  "unit": "Z",
+  "no": "30",
+  "jp": "昨晩は午前零時過ぎまで眠れなかった。",
+  "answers": [
+   "Last night I couldn't get to sleep until after midnight."
+  ],
+  "audio": "audio/Z/Z-30-d-.mp3",
+  "tags": [
+   "fall asleep, get to sleep, go to bed, lie の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Last night I couldn't "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " until after midnight."
+   }
+  ],
+  "solutions": [
+   [
+    "get to sleep"
+   ]
+  ],
+  "secTitle": "「寝る」 （fall asleep, get to sleep, go to bed, lie） の使い分け"
+ },
+ {
+  "id": "Z-31-a",
+  "unit": "Z",
+  "no": "31",
+  "jp": "今から横浜行きの急行列車に乗るところだよ。",
+  "answers": [
+   "I'm just getting on an express train to Yokohama."
+  ],
+  "audio": "audio/Z/Z-31-a-.mp3",
+  "section": {
+   "title": "「乗る」 （get on, ride, take） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "get on, ride, take の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'm just "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " an express train to Yokohama."
+   }
+  ],
+  "solutions": [
+   [
+    "getting on"
+   ]
+  ],
+  "secTitle": "「乗る」 （get on, ride, take） の使い分け"
+ },
+ {
+  "id": "Z-31-b",
+  "unit": "Z",
+  "no": "31",
+  "jp": "私は毎日自転車で通学しています。",
+  "answers": [
+   "I ride my bike to and from school every day."
+  ],
+  "audio": "audio/Z/Z-31-b-.mp3",
+  "tags": [
+   "get on, ride, take の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " my bike to and from school every day."
+   }
+  ],
+  "solutions": [
+   [
+    "ride"
+   ]
+  ],
+  "secTitle": "「乗る」 （get on, ride, take） の使い分け"
+ },
+ {
+  "id": "Z-31-c",
+  "unit": "Z",
+  "no": "31",
+  "jp": "車よりも電車で通勤する方がよい。",
+  "answers": [
+   "I'd rather take the train than drive to work."
+  ],
+  "audio": "audio/Z/Z-31-c-.mp3",
+  "tags": [
+   "get on, ride, take の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'd rather "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the train than drive to work."
+   }
+  ],
+  "solutions": [
+   [
+    "take"
+   ]
+  ],
+  "secTitle": "「乗る」 （get on, ride, take） の使い分け"
+ },
+ {
+  "id": "Z-32-a",
+  "unit": "Z",
+  "no": "32",
+  "jp": "彼はとても上手な英語を話します。",
+  "answers": [
+   "He speaks very good English."
+  ],
+  "audio": "audio/Z/Z-32-a-.mp3",
+  "section": {
+   "title": "「話す・言う」 （name, say, speak, talk, tell） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "name, say, speak, talk, tell の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " very good English."
+   }
+  ],
+  "solutions": [
+   [
+    "speaks"
+   ]
+  ],
+  "secTitle": "「話す・言う」 （name, say, speak, talk, tell） の使い分け"
+ },
+ {
+  "id": "Z-32-b",
+  "unit": "Z",
+  "no": "32",
+  "jp": "ボーイフレンドとは毎晩電話で話をしています。",
+  "answers": [
+   "I talk to my boyfriend on the phone every night."
+  ],
+  "audio": "audio/Z/Z-32-b-.mp3",
+  "tags": [
+   "name, say, speak, talk, tell の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to my boyfriend on the phone every night."
+   }
+  ],
+  "solutions": [
+   [
+    "talk"
+   ]
+  ],
+  "secTitle": "「話す・言う」 （name, say, speak, talk, tell） の使い分け"
+ },
+ {
+  "id": "Z-32-c",
+  "unit": "Z",
+  "no": "32",
+  "jp": "このこと，ママには言わないよね？",
+  "answers": [
+   "You won't tell Mom, will you?"
+  ],
+  "audio": "audio/Z/Z-32-c-.mp3",
+  "tags": [
+   "name, say, speak, talk, tell の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "You won't "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " Mom, will you?"
+   }
+  ],
+  "solutions": [
+   [
+    "tell"
+   ]
+  ],
+  "secTitle": "「話す・言う」 （name, say, speak, talk, tell） の使い分け"
+ },
+ {
+  "id": "Z-32-d",
+  "unit": "Z",
+  "no": "32",
+  "jp": "君は彼の話を間違って伝えている。彼はそんなことは言ってない。",
+  "answers": [
+   "You quoted him wrongly. He didn't say that."
+  ],
+  "audio": "audio/Z/Z-32-d-.mp3",
+  "tags": [
+   "name, say, speak, talk, tell の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "You quoted him wrongly. He didn't "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " that."
+   }
+  ],
+  "solutions": [
+   [
+    "say"
+   ]
+  ],
+  "secTitle": "「話す・言う」 （name, say, speak, talk, tell） の使い分け"
+ },
+ {
+  "id": "Z-32-e",
+  "unit": "Z",
+  "no": "32",
+  "jp": "あなたが一番好きなスポーツのチームを言ってください。",
+  "answers": [
+   "Please name your favorite sports team."
+  ],
+  "audio": "audio/Z/Z-32-e-.mp3",
+  "tags": [
+   "name, say, speak, talk, tell の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Please "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " your favorite sports team."
+   }
+  ],
+  "solutions": [
+   [
+    "name"
+   ]
+  ],
+  "secTitle": "「話す・言う」 （name, say, speak, talk, tell） の使い分け"
+ },
+ {
+  "id": "Z-33-a",
+  "unit": "Z",
+  "no": "33",
+  "jp": "自分のミスを人のせいにしてはいけない。",
+  "answers": [
+   "Don't blame others for your own mistakes."
+  ],
+  "audio": "audio/Z/Z-33-a-.mp3",
+  "section": {
+   "title": "「非難する」 （accuse, blame, criticize ）の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "accuse, blame, criticize の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Don't "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " others for your own mistakes."
+   }
+  ],
+  "solutions": [
+   [
+    "blame"
+   ]
+  ],
+  "secTitle": "「非難する」 （accuse, blame, criticize ）の使い分け"
+ },
+ {
+  "id": "Z-33-b",
+  "unit": "Z",
+  "no": "33",
+  "jp": "当初，学会はニュートンの重力の法則を批判した。",
+  "answers": [
+   "At first, the academy criticized Newton's theory of gravity."
+  ],
+  "audio": "audio/Z/Z-33-b-.mp3",
+  "tags": [
+   "accuse, blame, criticize の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "At first, the academy "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " Newton's theory of gravity."
+   }
+  ],
+  "solutions": [
+   [
+    "criticized"
+   ]
+  ],
+  "secTitle": "「非難する」 （accuse, blame, criticize ）の使い分け"
+ },
+ {
+  "id": "Z-33-c",
+  "unit": "Z",
+  "no": "33",
+  "jp": "首相は，政策が小出しで遅すぎるとして非難された。",
+  "answers": [
+   "The Prime Minister was accused of doing too little, too late."
+  ],
+  "audio": "audio/Z/Z-33-c-.mp3",
+  "tags": [
+   "accuse, blame, criticize の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The Prime Minister was "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " of doing too little, too late."
+   }
+  ],
+  "solutions": [
+   [
+    "accused"
+   ]
+  ],
+  "secTitle": "「非難する」 （accuse, blame, criticize ）の使い分け"
+ },
+ {
+  "id": "Z-34-a",
+  "unit": "Z",
+  "no": "34",
+  "jp": "大学では生物学の勉強をしています。",
+  "answers": [
+   "I'm studying biology at university."
+  ],
+  "audio": "audio/Z/Z-34-a-.mp3",
+  "section": {
+   "title": "「学ぶ・勉強する」 （learn, study, work） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "learn, study, work の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'm "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " biology at university."
+   }
+  ],
+  "solutions": [
+   [
+    "studying"
+   ]
+  ],
+  "secTitle": "「学ぶ・勉強する」 （learn, study, work） の使い分け"
+ },
+ {
+  "id": "Z-34-b",
+  "unit": "Z",
+  "no": "34",
+  "jp": "子供は大人よりも容易に外国語を身に付けます。",
+  "answers": [
+   "Children learn foreign languages more easily than adults."
+  ],
+  "audio": "audio/Z/Z-34-b-.mp3",
+  "tags": [
+   "learn, study, work の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Children "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " foreign languages more easily than adults."
+   }
+  ],
+  "solutions": [
+   [
+    "learn"
+   ]
+  ],
+  "secTitle": "「学ぶ・勉強する」 （learn, study, work） の使い分け"
+ },
+ {
+  "id": "Z-34-c",
+  "unit": "Z",
+  "no": "34",
+  "jp": "試験に合格するためにはもっと頑張らないとね。",
+  "answers": [
+   "You must work harder to pass the test."
+  ],
+  "audio": "audio/Z/Z-34-c-.mp3",
+  "tags": [
+   "learn, study, work の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "You must "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " harder to pass the test."
+   }
+  ],
+  "solutions": [
+   [
+    "work"
+   ]
+  ],
+  "secTitle": "「学ぶ・勉強する」 （learn, study, work） の使い分け"
+ },
+ {
+  "id": "Z-35-a",
+  "unit": "Z",
+  "no": "35",
+  "jp": "オゾン層は我々を紫外線から守ってくれる。",
+  "answers": [
+   "The ozone layer protects us from the sun's UV rays."
+  ],
+  "audio": "audio/Z/Z-35-a-.mp3",
+  "section": {
+   "title": "「守る」 （defend, guard, protect） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "defend, guard, protect の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The ozone layer "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " us from the sun's UV rays."
+   }
+  ],
+  "solutions": [
+   [
+    "protects"
+   ]
+  ],
+  "secTitle": "「守る」 （defend, guard, protect） の使い分け"
+ },
+ {
+  "id": "Z-35-b",
+  "unit": "Z",
+  "no": "35",
+  "jp": "その犬は家族が留守にしている時に家を守っている。",
+  "answers": [
+   "The dog guards the house when the family is not at home."
+  ],
+  "audio": "audio/Z/Z-35-b-.mp3",
+  "tags": [
+   "defend, guard, protect の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The dog "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the house when the family is not at home."
+   }
+  ],
+  "solutions": [
+   [
+    "guards"
+   ]
+  ],
+  "secTitle": "「守る」 （defend, guard, protect） の使い分け"
+ },
+ {
+  "id": "Z-35-c",
+  "unit": "Z",
+  "no": "35",
+  "jp": "父も祖父もこの国を守るために戦いました。",
+  "answers": [
+   "My father and grandfather fought to defend this country."
+  ],
+  "audio": "audio/Z/Z-35-c-.mp3",
+  "tags": [
+   "defend, guard, protect の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "My father and grandfather fought to "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " this country."
+   }
+  ],
+  "solutions": [
+   [
+    "defend"
+   ]
+  ],
+  "secTitle": "「守る」 （defend, guard, protect） の使い分け"
+ },
+ {
+  "id": "Z-36-a",
+  "unit": "Z",
+  "no": "36",
+  "jp": "彼はこっちを見ていたが，私の姿は目に入っていなかった。",
+  "answers": [
+   "He was looking this way but did not see me."
+  ],
+  "audio": "audio/Z/Z-36-a-.mp3",
+  "section": {
+   "title": "「見る」 （look, see, watch） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "look, see, watch の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He was "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " this way but did not "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " me."
+   }
+  ],
+  "solutions": [
+   [
+    "looking",
+    "see"
+   ]
+  ],
+  "secTitle": "「見る」 （look, see, watch） の使い分け"
+ },
+ {
+  "id": "Z-36-b",
+  "unit": "Z",
+  "no": "36",
+  "jp": "テレビで相撲の千秋楽を観ました。",
+  "answers": [
+   "I watched the final day of the sumo tournament on TV."
+  ],
+  "audio": "audio/Z/Z-36-b-.mp3",
+  "tags": [
+   "look, see, watch の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the final day of the sumo tournament on TV."
+   }
+  ],
+  "solutions": [
+   [
+    "watched"
+   ]
+  ],
+  "secTitle": "「見る」 （look, see, watch） の使い分け"
+ },
+ {
+  "id": "Z-36-c",
+  "unit": "Z",
+  "no": "36",
+  "jp": "その映画はもう３回観たよ。",
+  "answers": [
+   "I've seen that movie three times already."
+  ],
+  "audio": "audio/Z/Z-36-c-.mp3",
+  "tags": [
+   "look, see, watch の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I've "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " that movie three times already."
+   }
+  ],
+  "solutions": [
+   [
+    "seen"
+   ]
+  ],
+  "secTitle": "「見る」 （look, see, watch） の使い分け"
+ },
+ {
+  "id": "Z-37-a",
+  "unit": "Z",
+  "no": "37",
+  "jp": "ちょっとカバンを持っていてもらえますか？",
+  "answers": [
+   "Will you hold my bag just for a minute?"
+  ],
+  "audio": "audio/Z/Z-37-a-.mp3",
+  "section": {
+   "title": "「持つ」 （have, hold, own, possess） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "have, hold, own, possess の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Will you "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " my bag just for a minute?"
+   }
+  ],
+  "solutions": [
+   [
+    "hold"
+   ]
+  ],
+  "secTitle": "「持つ」 （have, hold, own, possess） の使い分け"
+ },
+ {
+  "id": "Z-37-b",
+  "unit": "Z",
+  "no": "37",
+  "jp": "すみません，ペンをお持ちでしたら貸していただけますか？",
+  "answers": [
+   "Excuse me, do you have a pen I could borrow?"
+  ],
+  "audio": "audio/Z/Z-37-b-.mp3",
+  "tags": [
+   "have, hold, own, possess の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Excuse me, do you "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " a pen I could borrow?"
+   }
+  ],
+  "solutions": [
+   [
+    "have"
+   ]
+  ],
+  "secTitle": "「持つ」 （have, hold, own, possess） の使い分け"
+ },
+ {
+  "id": "Z-37-c",
+  "unit": "Z",
+  "no": "37",
+  "jp": "ジェームス氏は金持ちだ。彼はたくさんの会社を所有している。",
+  "answers": [
+   "Mr. James is rich. He owns many businesses."
+  ],
+  "audio": "audio/Z/Z-37-c-.mp3",
+  "tags": [
+   "have, hold, own, possess の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Mr. James is rich. He "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " many businesses."
+   }
+  ],
+  "solutions": [
+   [
+    "owns"
+   ]
+  ],
+  "secTitle": "「持つ」 （have, hold, own, possess） の使い分け"
+ },
+ {
+  "id": "Z-37-d",
+  "unit": "Z",
+  "no": "37",
+  "jp": "彼はコカインの所持で有罪になった。",
+  "answers": [
+   "He was found guilty of possessing cocaine."
+  ],
+  "audio": "audio/Z/Z-37-d-.mp3",
+  "tags": [
+   "have, hold, own, possess の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He was found guilty of "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " cocaine."
+   }
+  ],
+  "solutions": [
+   [
+    "possessing"
+   ]
+  ],
+  "secTitle": "「持つ」 （have, hold, own, possess） の使い分け"
+ },
+ {
+  "id": "Z-38-a",
+  "unit": "Z",
+  "no": "38",
+  "jp": "来年は我々のビジネスが上向くと予想しています。",
+  "answers": [
+   "We expect our business to do well next year."
+  ],
+  "audio": "audio/Z/Z-38-a-.mp3",
+  "section": {
+   "title": "「予想する」 （anticipate, expect, predict） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "anticipate, expect, predict の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " our business to do well next year."
+   }
+  ],
+  "solutions": [
+   [
+    "expect"
+   ]
+  ],
+  "secTitle": "「予想する」 （anticipate, expect, predict） の使い分け"
+ },
+ {
+  "id": "Z-38-b",
+  "unit": "Z",
+  "no": "38",
+  "jp": "彼が事前にその質問を予想し返答を用意していたのは明らかだった。",
+  "answers": [
+   "Clearly, he had anticipated the question and planned a response."
+  ],
+  "audio": "audio/Z/Z-38-b-.mp3",
+  "tags": [
+   "anticipate, expect, predict の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Clearly, he had "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the question and planned a response."
+   }
+  ],
+  "solutions": [
+   [
+    "anticipated"
+   ]
+  ],
+  "secTitle": "「予想する」 （anticipate, expect, predict） の使い分け"
+ },
+ {
+  "id": "Z-38-c",
+  "unit": "Z",
+  "no": "38",
+  "jp": "エコノミスト達は５月に50万人の失業が出ると予測していた。",
+  "answers": [
+   "Economists had predicted that 500,000 jobs would be lost in May."
+  ],
+  "audio": "audio/Z/Z-38-c-.mp3",
+  "tags": [
+   "anticipate, expect, predict の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Economists had "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " that 500,000 jobs would be lost in May."
+   }
+  ],
+  "solutions": [
+   [
+    "predicted"
+   ]
+  ],
+  "secTitle": "「予想する」 （anticipate, expect, predict） の使い分け"
+ },
+ {
+  "id": "Z-39-a",
+  "unit": "Z",
+  "no": "39",
+  "jp": "この単語はどんな意味でしょうか？",
+  "answers": [
+   "What's the meaning of this word?"
+  ],
+  "audio": "audio/Z/Z-39-a-.mp3",
+  "section": {
+   "title": "「意味」 （meaning, sense, significance） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "meaning, sense, significance の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "What's the "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " of this word?"
+   }
+  ],
+  "solutions": [
+   [
+    "meaning"
+   ]
+  ],
+  "secTitle": "「意味」 （meaning, sense, significance） の使い分け"
+ },
+ {
+  "id": "Z-39-b",
+  "unit": "Z",
+  "no": "39",
+  "jp": "この文の意味がわかりません。説明をお願いします。",
+  "answers": [
+   "This sentence does not make sense. Please explain."
+  ],
+  "audio": "audio/Z/Z-39-b-.mp3",
+  "tags": [
+   "meaning, sense, significance の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "This sentence does not make "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": ". Please explain."
+   }
+  ],
+  "solutions": [
+   [
+    "sense"
+   ]
+  ],
+  "secTitle": "「意味」 （meaning, sense, significance） の使い分け"
+ },
+ {
+  "id": "Z-39-c",
+  "unit": "Z",
+  "no": "39",
+  "jp": "その決定は我々にとって非常に大きな意味があった。",
+  "answers": [
+   "The decision was of great significance to us."
+  ],
+  "audio": "audio/Z/Z-39-c-.mp3",
+  "tags": [
+   "meaning, sense, significance の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The decision was of great "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to us."
+   }
+  ],
+  "solutions": [
+   [
+    "significance"
+   ]
+  ],
+  "secTitle": "「意味」 （meaning, sense, significance） の使い分け"
+ },
+ {
+  "id": "Z-40-a",
+  "unit": "Z",
+  "no": "40",
+  "jp": "彼女はたいてい午後６時頃に会社を出ます。",
+  "answers": [
+   "She usually leaves the office at about six p.m."
+  ],
+  "audio": "audio/Z/Z-40-a-.mp3",
+  "section": {
+   "title": "「会社」 （company, corporation, office） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "company, corporation, office の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She usually leaves the "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " at about six p.m."
+   }
+  ],
+  "solutions": [
+   [
+    "office"
+   ]
+  ],
+  "secTitle": "「会社」 （company, corporation, office） の使い分け"
+ },
+ {
+  "id": "Z-40-b",
+  "unit": "Z",
+  "no": "40",
+  "jp": "この会社はいつ設立されたのですか？",
+  "answers": [
+   "When was this company established?"
+  ],
+  "audio": "audio/Z/Z-40-b-.mp3",
+  "tags": [
+   "company, corporation, office の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "When was this "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " established?"
+   }
+  ],
+  "solutions": [
+   [
+    "company"
+   ]
+  ],
+  "secTitle": "「会社」 （company, corporation, office） の使い分け"
+ },
+ {
+  "id": "Z-40-c",
+  "unit": "Z",
+  "no": "40",
+  "jp": "宗教法人とは宗教的な目的のために作られた法人である。",
+  "answers": [
+   "A religious corporation is a corporation created for religious purposes."
+  ],
+  "audio": "audio/Z/Z-40-c-.mp3",
+  "tags": [
+   "company, corporation, office の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "A religious "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " is a "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " created for religious purposes."
+   }
+  ],
+  "solutions": [
+   [
+    "corporation",
+    "corporation"
+   ]
+  ],
+  "secTitle": "「会社」 （company, corporation, office） の使い分け"
+ },
+ {
+  "id": "Z-41-a",
+  "unit": "Z",
+  "no": "41",
+  "jp": "彼女の気持ちを傷つけたくなかったので，私はそれを食べました。",
+  "answers": [
+   "I didn't want to hurt her feelings, so I ate it."
+  ],
+  "audio": "audio/Z/Z-41-a-.mp3",
+  "section": {
+   "title": "「感情」 （emotion, feelings, sentiment） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "emotion, feelings, sentiment の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I didn't want to hurt her "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": ", so I ate it."
+   }
+  ],
+  "solutions": [
+   [
+    "feelings"
+   ]
+  ],
+  "secTitle": "「感情」 （emotion, feelings, sentiment） の使い分け"
+ },
+ {
+  "id": "Z-41-b",
+  "unit": "Z",
+  "no": "41",
+  "jp": "彼女は感情を抑えきれなくなり，ワッと泣き出した。",
+  "answers": [
+   "She couldn't contain her emotion and burst into tears."
+  ],
+  "audio": "audio/Z/Z-41-b-.mp3",
+  "tags": [
+   "emotion, feelings, sentiment の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She couldn't contain her "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " and burst into tears."
+   }
+  ],
+  "solutions": [
+   [
+    "emotion"
+   ]
+  ],
+  "secTitle": "「感情」 （emotion, feelings, sentiment） の使い分け"
+ },
+ {
+  "id": "Z-41-c",
+  "unit": "Z",
+  "no": "41",
+  "jp": "これらの出来事は反米感情の高まりをもたらした。",
+  "answers": [
+   "These events led to a rise in anti-American sentiment."
+  ],
+  "audio": "audio/Z/Z-41-c-.mp3",
+  "tags": [
+   "emotion, feelings, sentiment の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "These events led to a rise in anti-American "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "sentiment"
+   ]
+  ],
+  "secTitle": "「感情」 （emotion, feelings, sentiment） の使い分け"
+ },
+ {
+  "id": "Z-42-a",
+  "unit": "Z",
+  "no": "42",
+  "jp": "この機会をお借りして皆様に感謝の意を述べたいと思います。",
+  "answers": [
+   "I'd like to take this opportunity to thank all of you."
+  ],
+  "audio": "audio/Z/Z-42-a-.mp3",
+  "section": {
+   "title": "「機会」 （chance, occasion, opportunity ） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "chance, occasion, opportunity の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'd like to take this "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to thank all of you."
+   }
+  ],
+  "solutions": [
+   [
+    "opportunity"
+   ]
+  ],
+  "secTitle": "「機会」 （chance, occasion, opportunity ） の使い分け"
+ },
+ {
+  "id": "Z-42-b",
+  "unit": "Z",
+  "no": "42",
+  "jp": "機会があれば是非そちらに行かれることをお勧めします。",
+  "answers": [
+   "I highly recommend visiting it if you get the chance."
+  ],
+  "audio": "audio/Z/Z-42-b-.mp3",
+  "tags": [
+   "chance, occasion, opportunity の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I highly recommend visiting it if you get the "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "chance"
+   ]
+  ],
+  "secTitle": "「機会」 （chance, occasion, opportunity ） の使い分け"
+ },
+ {
+  "id": "Z-42-c",
+  "unit": "Z",
+  "no": "42",
+  "jp": "特別な機会のためにこのドレスを着ないで置いています。",
+  "answers": [
+   "I'm saving this dress for a special occasion."
+  ],
+  "audio": "audio/Z/Z-42-c-.mp3",
+  "tags": [
+   "chance, occasion, opportunity の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'm saving this dress for a special "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "occasion"
+   ]
+  ],
+  "secTitle": "「機会」 （chance, occasion, opportunity ） の使い分け"
+ },
+ {
+  "id": "Z-43-a",
+  "unit": "Z",
+  "no": "43",
+  "jp": "店に入ってみると，他に客は誰もいなかった。",
+  "answers": [
+   "There were no other customers in the store when I went in."
+  ],
+  "audio": "audio/Z/Z-43-a-.mp3",
+  "section": {
+   "title": "「客」 （customer, guest, passenger, visitor など） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   " customer, guest, passenger, spectator, visitor の中から適語を選び必要に応じて 形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "There were no other "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " in the store when I went in."
+   }
+  ],
+  "solutions": [
+   [
+    "customers"
+   ]
+  ],
+  "secTitle": "「客」 （customer, guest, passenger, visitor など） の使い分け"
+ },
+ {
+  "id": "Z-43-b",
+  "unit": "Z",
+  "no": "43",
+  "jp": "当ホテルでは全てのお客様に無料の朝食を提供しております。",
+  "answers": [
+   "Our hotel offers free breakfast to all guests."
+  ],
+  "audio": "audio/Z/Z-43-b-.mp3",
+  "tags": [
+   " customer, guest, passenger, spectator, visitor の中から適語を選び必要に応じて 形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Our hotel offers free breakfast to all "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "guests"
+   ]
+  ],
+  "secTitle": "「客」 （customer, guest, passenger, visitor など） の使い分け"
+ },
+ {
+  "id": "Z-43-c",
+  "unit": "Z",
+  "no": "43",
+  "jp": "来客はみな受付で記帳してバッジを付けなければならない。",
+  "answers": [
+   "All visitors must sign in at reception and wear a badge."
+  ],
+  "audio": "audio/Z/Z-43-c-.mp3",
+  "tags": [
+   " customer, guest, passenger, spectator, visitor の中から適語を選び必要に応じて 形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "All "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " must sign in at reception and wear a badge."
+   }
+  ],
+  "solutions": [
+   [
+    "visitors"
+   ]
+  ],
+  "secTitle": "「客」 （customer, guest, passenger, visitor など） の使い分け"
+ },
+ {
+  "id": "Z-43-d",
+  "unit": "Z",
+  "no": "43",
+  "jp": "観客は立ち上がり，選手達に声援を送った。",
+  "answers": [
+   "The spectators stood up and cheered the players."
+  ],
+  "audio": "audio/Z/Z-43-d-.mp3",
+  "tags": [
+   " customer, guest, passenger, spectator, visitor の中から適語を選び必要に応じて 形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " stood up and cheered the players."
+   }
+  ],
+  "solutions": [
+   [
+    "spectators"
+   ]
+  ],
+  "secTitle": "「客」 （customer, guest, passenger, visitor など） の使い分け"
+ },
+ {
+  "id": "Z-43-e",
+  "unit": "Z",
+  "no": "43",
+  "jp": "運転手と乗客にケガはありませんでした。",
+  "answers": [
+   "Neither the driver nor the passengers were injured."
+  ],
+  "audio": "audio/Z/Z-43-e-.mp3",
+  "tags": [
+   " customer, guest, passenger, spectator, visitor の中から適語を選び必要に応じて 形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Neither the driver nor the "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " were injured."
+   }
+  ],
+  "solutions": [
+   [
+    "passengers"
+   ]
+  ],
+  "secTitle": "「客」 （customer, guest, passenger, visitor など） の使い分け"
+ },
+ {
+  "id": "Z-44-a",
+  "unit": "Z",
+  "no": "44",
+  "jp": "そのCEO（最高経営責任者）は70万ドルの年収を手にしている。",
+  "answers": [
+   "The CEO has an annual salary of $700,000."
+  ],
+  "audio": "audio/Z/Z-44-a-.mp3",
+  "section": {
+   "title": "「給料」 （pay, salary, wage） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "pay, salary, wage の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The CEO has an annual "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " of $700,000."
+   }
+  ],
+  "solutions": [
+   [
+    "salary"
+   ]
+  ],
+  "secTitle": "「給料」 （pay, salary, wage） の使い分け"
+ },
+ {
+  "id": "Z-44-b",
+  "unit": "Z",
+  "no": "44",
+  "jp": "労働者達は賃上げを要求してストを行った。",
+  "answers": [
+   "The workers went on strike, demanding a wage increase."
+  ],
+  "audio": "audio/Z/Z-44-b-.mp3",
+  "tags": [
+   "pay, salary, wage の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The workers went on strike, demanding a "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " increase."
+   }
+  ],
+  "solutions": [
+   [
+    "wage"
+   ]
+  ],
+  "secTitle": "「給料」 （pay, salary, wage） の使い分け"
+ },
+ {
+  "id": "Z-44-c",
+  "unit": "Z",
+  "no": "44",
+  "jp": "もっとお金のよい仕事を探しているところです。",
+  "answers": [
+   "I'm looking for a job with better pay."
+  ],
+  "audio": "audio/Z/Z-44-c-.mp3",
+  "tags": [
+   "pay, salary, wage の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'm looking for a job with better "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "pay"
+   ]
+  ],
+  "secTitle": "「給料」 （pay, salary, wage） の使い分け"
+ },
+ {
+  "id": "Z-45-a",
+  "unit": "Z",
+  "no": "45",
+  "jp": "彼はこれまでに世界中の国に行っている。",
+  "answers": [
+   "He's been to countries all over the world."
+  ],
+  "audio": "audio/Z/Z-45-a-.mp3",
+  "section": {
+   "title": "「国」 （country, nation, state） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "country, nation, state の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He's been to "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " all over the world."
+   }
+  ],
+  "solutions": [
+   [
+    "countries"
+   ]
+  ],
+  "secTitle": "「国」 （country, nation, state） の使い分け"
+ },
+ {
+  "id": "Z-45-b",
+  "unit": "Z",
+  "no": "45",
+  "jp": "その国民投票の後，ガーナは一党独裁国家になった。",
+  "answers": [
+   "After the referendum, Ghana became a one-party state."
+  ],
+  "audio": "audio/Z/Z-45-b-.mp3",
+  "tags": [
+   "country, nation, state の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "After the referendum, Ghana became a one-party "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "state"
+   ]
+  ],
+  "secTitle": "「国」 （country, nation, state） の使い分け"
+ },
+ {
+  "id": "Z-45-c",
+  "unit": "Z",
+  "no": "45",
+  "jp": "それは我々が国家として願っていることでしょうか？ 私は違うと思います。",
+  "answers": [
+   "Is that what we as a nation desire? I think not."
+  ],
+  "audio": "audio/Z/Z-45-c-.mp3",
+  "tags": [
+   "country, nation, state の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Is that what we as a "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " desire? I think not."
+   }
+  ],
+  "solutions": [
+   [
+    "nation"
+   ]
+  ],
+  "secTitle": "「国」 （country, nation, state） の使い分け"
+ },
+ {
+  "id": "Z-46-a",
+  "unit": "Z",
+  "no": "46",
+  "jp": "その２つの間に因果関係はありません。",
+  "answers": [
+   "There is no cause-and-effect relationship between the two."
+  ],
+  "audio": "audio/Z/Z-46-a-.mp3",
+  "section": {
+   "title": "「結果」 （consequence, effect, outcome, result） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "consequence, effect, outcome, result の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "There is no cause-and-"
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " relationship between the two."
+   }
+  ],
+  "solutions": [
+   [
+    "effect"
+   ]
+  ],
+  "secTitle": "「結果」 （consequence, effect, outcome, result） の使い分け"
+ },
+ {
+  "id": "Z-46-b",
+  "unit": "Z",
+  "no": "46",
+  "jp": "試験の結果はいつ出るの？",
+  "answers": [
+   "When do your exam results come out?"
+  ],
+  "audio": "audio/Z/Z-46-b-.mp3",
+  "tags": [
+   "consequence, effect, outcome, result の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "When do your exam "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " come out?"
+   }
+  ],
+  "solutions": [
+   [
+    "results"
+   ]
+  ],
+  "secTitle": "「結果」 （consequence, effect, outcome, result） の使い分け"
+ },
+ {
+  "id": "Z-46-c",
+  "unit": "Z",
+  "no": "46",
+  "jp": "間違ったことをしたら，その結果は甘んじて受けなければならない。",
+  "answers": [
+   "If you do something wrong, you must face the consequences."
+  ],
+  "audio": "audio/Z/Z-46-c-.mp3",
+  "tags": [
+   "consequence, effect, outcome, result の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "If you do something wrong, you must face the "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "consequences"
+   ]
+  ],
+  "secTitle": "「結果」 （consequence, effect, outcome, result） の使い分け"
+ },
+ {
+  "id": "Z-46-d",
+  "unit": "Z",
+  "no": "46",
+  "jp": "総選挙の結果を予想するのはまだ早すぎる。",
+  "answers": [
+   "It's too early to predict the outcome of the general election."
+  ],
+  "audio": "audio/Z/Z-46-d-.mp3",
+  "tags": [
+   "consequence, effect, outcome, result の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It's too early to predict the "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " of the general election."
+   }
+  ],
+  "solutions": [
+   [
+    "outcome"
+   ]
+  ],
+  "secTitle": "「結果」 （consequence, effect, outcome, result） の使い分け"
+ },
+ {
+  "id": "Z-47-a",
+  "unit": "Z",
+  "no": "47",
+  "jp": "欠点はありますが，私はこの国が大好きです。",
+  "answers": [
+   "For all its faults, I love this country."
+  ],
+  "audio": "audio/Z/Z-47-a-.mp3",
+  "section": {
+   "title": "「欠点」 （defect, fault, shortcoming） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "defect, fault, shortcoming の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "For all its "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": ", I love this country."
+   }
+  ],
+  "solutions": [
+   [
+    "faults"
+   ]
+  ],
+  "secTitle": "「欠点」 （defect, fault, shortcoming） の使い分け"
+ },
+ {
+  "id": "Z-47-b",
+  "unit": "Z",
+  "no": "47",
+  "jp": "その車は安全上の欠陥があるかもしれないので現在回収されている。",
+  "answers": [
+   "The car is being recalled for possible safety defects."
+  ],
+  "audio": "audio/Z/Z-47-b-.mp3",
+  "tags": [
+   "defect, fault, shortcoming の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The car is being recalled for possible safety "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "defects"
+   ]
+  ],
+  "secTitle": "「欠点」 （defect, fault, shortcoming） の使い分け"
+ },
+ {
+  "id": "Z-47-c",
+  "unit": "Z",
+  "no": "47",
+  "jp": "私にはたくさん欠点がありますが，怠惰という欠点はありません。",
+  "answers": [
+   "I have a lot of shortcomings, but laziness isn't one of them."
+  ],
+  "audio": "audio/Z/Z-47-c-.mp3",
+  "tags": [
+   "defect, fault, shortcoming の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I have a lot of "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": ", but laziness isn't one of them."
+   }
+  ],
+  "solutions": [
+   [
+    "shortcomings"
+   ]
+  ],
+  "secTitle": "「欠点」 （defect, fault, shortcoming） の使い分け"
+ },
+ {
+  "id": "Z-48-a",
+  "unit": "Z",
+  "no": "48",
+  "jp": "質問に答える時にはこのことを心に留めておいてください。",
+  "answers": [
+   "Please keep this in mind when answering questions."
+  ],
+  "audio": "audio/Z/Z-48-a-.mp3",
+  "section": {
+   "title": "「心」 （heart, mind, spirit） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "heart, mind, spirit の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Please keep this in "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " when answering questions."
+   }
+  ],
+  "solutions": [
+   [
+    "mind"
+   ]
+  ],
+  "secTitle": "「心」 （heart, mind, spirit） の使い分け"
+ },
+ {
+  "id": "Z-48-b",
+  "unit": "Z",
+  "no": "48",
+  "jp": "君を愛してる。心の底からそう思う。",
+  "answers": [
+   "I love you, and I mean it from the bottom of my heart."
+  ],
+  "audio": "audio/Z/Z-48-b-.mp3",
+  "tags": [
+   "heart, mind, spirit の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I love you, and I mean it from the bottom of my "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "heart"
+   ]
+  ],
+  "secTitle": "「心」 （heart, mind, spirit） の使い分け"
+ },
+ {
+  "id": "Z-48-c",
+  "unit": "Z",
+  "no": "48",
+  "jp": "彼女は，年は取っていても，心は若い。",
+  "answers": [
+   "She may be old in years, but she is young in spirit."
+  ],
+  "audio": "audio/Z/Z-48-c-.mp3",
+  "tags": [
+   "heart, mind, spirit の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She may be old in years, but she is young in "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "spirit"
+   ]
+  ],
+  "secTitle": "「心」 （heart, mind, spirit） の使い分け"
+ },
+ {
+  "id": "Z-49-a",
+  "unit": "Z",
+  "no": "49",
+  "jp": "今日，歴史の授業で抜き打ちの小テストがあった。",
+  "answers": [
+   "There was a pop quiz in history today."
+  ],
+  "audio": "audio/Z/Z-49-a-.mp3",
+  "section": {
+   "title": "「試験」 （exam, quiz, test） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "exam, quiz, test の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "There was a pop "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " in history today."
+   }
+  ],
+  "solutions": [
+   [
+    "quiz"
+   ]
+  ],
+  "secTitle": "「試験」 （exam, quiz, test） の使い分け"
+ },
+ {
+  "id": "Z-49-b",
+  "unit": "Z",
+  "no": "49",
+  "jp": "来週は期末テストです。",
+  "answers": [
+   "I'm taking my final exams next week."
+  ],
+  "audio": "audio/Z/Z-49-b-.mp3",
+  "tags": [
+   "exam, quiz, test の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'm taking my final "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " next week."
+   }
+  ],
+  "solutions": [
+   [
+    "exams"
+   ]
+  ],
+  "secTitle": "「試験」 （exam, quiz, test） の使い分け"
+ },
+ {
+  "id": "Z-49-c",
+  "unit": "Z",
+  "no": "49",
+  "jp": "HIV感染は血液検査によって発見が可能です。",
+  "answers": [
+   "An HIV infection can be detected through a blood test."
+  ],
+  "audio": "audio/Z/Z-49-c-.mp3",
+  "tags": [
+   "exam, quiz, test の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "An HIV infection can be detected through a blood "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "test"
+   ]
+  ],
+  "secTitle": "「試験」 （exam, quiz, test） の使い分け"
+ },
+ {
+  "id": "Z-50-a",
+  "unit": "Z",
+  "no": "50",
+  "jp": "現在警察がその誘拐事件を捜査しています。",
+  "answers": [
+   "The police are investigating the kidnapping case."
+  ],
+  "audio": "audio/Z/Z-50-a-.mp3",
+  "section": {
+   "title": "「事件・出来事」 （case, event, happening, incident） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "case, event, happening, incident の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The police are investigating the kidnapping "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "case"
+   ]
+  ],
+  "secTitle": "「事件・出来事」 （case, event, happening, incident） の使い分け"
+ },
+ {
+  "id": "Z-50-b",
+  "unit": "Z",
+  "no": "50",
+  "jp": "昨晩，地元のナイトクラブで発砲事件があった。",
+  "answers": [
+   "There was a shooting incident at the local nightclub last night."
+  ],
+  "audio": "audio/Z/Z-50-b-.mp3",
+  "tags": [
+   "case, event, happening, incident の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "There was a shooting "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " at the local nightclub last night."
+   }
+  ],
+  "solutions": [
+   [
+    "incident"
+   ]
+  ],
+  "secTitle": "「事件・出来事」 （case, event, happening, incident） の使い分け"
+ },
+ {
+  "id": "Z-50-c",
+  "unit": "Z",
+  "no": "50",
+  "jp": "蒸気機関の登場は人類史上の重要な出来事であった。",
+  "answers": [
+   "The advent of the steam engine was a major event in human history."
+  ],
+  "audio": "audio/Z/Z-50-c-.mp3",
+  "tags": [
+   "case, event, happening, incident の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The advent of the steam engine was a major "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " in human history."
+   }
+  ],
+  "solutions": [
+   [
+    "event"
+   ]
+  ],
+  "secTitle": "「事件・出来事」 （case, event, happening, incident） の使い分け"
+ },
+ {
+  "id": "Z-50-d",
+  "unit": "Z",
+  "no": "50",
+  "jp": "このブログは毎日の出来事や，思った事，家族での行事について書いています。",
+  "answers": [
+   "This blog is about daily happenings, thoughts, and family events."
+  ],
+  "audio": "audio/Z/Z-50-d-.mp3",
+  "tags": [
+   "case, event, happening, incident の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "This blog is about daily "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": ", thoughts, and family "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "happenings",
+    "events"
+   ]
+  ],
+  "secTitle": "「事件・出来事」 （case, event, happening, incident） の使い分け"
+ },
+ {
+  "id": "Z-51-a",
+  "unit": "Z",
+  "no": "51",
+  "jp": "どんな仕事をなさってるのですか？",
+  "answers": [
+   "What kind of job do you have?"
+  ],
+  "audio": "audio/Z/Z-51-a-.mp3",
+  "section": {
+   "title": "「仕事」 （business, job, labor, task, work） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "business, job, labor, task, work の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "What kind of "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " do you have?"
+   }
+  ],
+  "solutions": [
+   [
+    "job"
+   ]
+  ],
+  "secTitle": "「仕事」 （business, job, labor, task, work） の使い分け"
+ },
+ {
+  "id": "Z-51-b",
+  "unit": "Z",
+  "no": "51",
+  "jp": "囚人達は強制的に重労働をさせられた。",
+  "answers": [
+   "The prisoners were forced to do hard labor."
+  ],
+  "audio": "audio/Z/Z-51-b-.mp3",
+  "tags": [
+   "business, job, labor, task, work の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The prisoners were forced to do hard "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "labor"
+   ]
+  ],
+  "secTitle": "「仕事」 （business, job, labor, task, work） の使い分け"
+ },
+ {
+  "id": "Z-51-c",
+  "unit": "Z",
+  "no": "51",
+  "jp": "ハードな仕事だけど，お金はいいんだよ。",
+  "answers": [
+   "It's hard work but the pay's good."
+  ],
+  "audio": "audio/Z/Z-51-c-.mp3",
+  "tags": [
+   "business, job, labor, task, work の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It's hard "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " but the pay's good."
+   }
+  ],
+  "solutions": [
+   [
+    "work"
+   ]
+  ],
+  "secTitle": "「仕事」 （business, job, labor, task, work） の使い分け"
+ },
+ {
+  "id": "Z-51-d",
+  "unit": "Z",
+  "no": "51",
+  "jp": "十分な訓練を積んだ人しかこの業務はこなせません。",
+  "answers": [
+   "Only qualified people are up to this task."
+  ],
+  "audio": "audio/Z/Z-51-d-.mp3",
+  "tags": [
+   "business, job, labor, task, work の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Only qualified people are up to this "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "task"
+   ]
+  ],
+  "secTitle": "「仕事」 （business, job, labor, task, work） の使い分け"
+ },
+ {
+  "id": "Z-51-e",
+  "unit": "Z",
+  "no": "51",
+  "jp": "お陰様で商売が繁盛しています。",
+  "answers": [
+   "Fortunately, business is thriving."
+  ],
+  "audio": "audio/Z/Z-51-e-.mp3",
+  "tags": [
+   "business, job, labor, task, work の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Fortunately, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " is thriving."
+   }
+  ],
+  "solutions": [
+   [
+    "business"
+   ]
+  ],
+  "secTitle": "「仕事」 （business, job, labor, task, work） の使い分け"
+ },
+ {
+  "id": "Z-52-a",
+  "unit": "Z",
+  "no": "52",
+  "jp": "彼は緊張すると目をパチパチさせる癖がある。",
+  "answers": [
+   "He has a habit of blinking his eyes when he's nervous."
+  ],
+  "audio": "audio/Z/Z-52-a-.mp3",
+  "section": {
+   "title": "「習慣」 （custom, habit, practice） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "custom, habit, practice の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He has a "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " of blinking his eyes when he's nervous."
+   }
+  ],
+  "solutions": [
+   [
+    "habit"
+   ]
+  ],
+  "secTitle": "「習慣」 （custom, habit, practice） の使い分け"
+ },
+ {
+  "id": "Z-52-b",
+  "unit": "Z",
+  "no": "52",
+  "jp": "この地方には古くからの習慣が数多く残されている。",
+  "answers": [
+   "In this area many ancient customs have been preserved."
+  ],
+  "audio": "audio/Z/Z-52-b-.mp3",
+  "tags": [
+   "custom, habit, practice の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "In this area many ancient "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " have been preserved."
+   }
+  ],
+  "solutions": [
+   [
+    "customs"
+   ]
+  ],
+  "secTitle": "「習慣」 （custom, habit, practice） の使い分け"
+ },
+ {
+  "id": "Z-52-c",
+  "unit": "Z",
+  "no": "52",
+  "jp": "名刺の交換は一般的なビジネス上の慣行です。",
+  "answers": [
+   "Exchanging calling cards is a common business practice."
+  ],
+  "audio": "audio/Z/Z-52-c-.mp3",
+  "tags": [
+   "custom, habit, practice の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Exchanging calling cards is a common business "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "practice"
+   ]
+  ],
+  "secTitle": "「習慣」 （custom, habit, practice） の使い分け"
+ },
+ {
+  "id": "Z-53-a",
+  "unit": "Z",
+  "no": "53",
+  "jp": "彼は外向的な性格で，また温厚な性格でもある。",
+  "answers": [
+   "He has an outgoing personality and a gentle temperament."
+  ],
+  "audio": "audio/Z/Z-53-a-.mp3",
+  "section": {
+   "title": "「性格」 （character, nature, personality） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "character, nature, personality の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He has an outgoing "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " and a gentle temperament."
+   }
+  ],
+  "solutions": [
+   [
+    "personality"
+   ]
+  ],
+  "secTitle": "「性格」 （character, nature, personality） の使い分け"
+ },
+ {
+  "id": "Z-53-b",
+  "unit": "Z",
+  "no": "53",
+  "jp": "彼は少し真剣な表情をしていたが，それは彼（の性格）にはふさわしくなかった。",
+  "answers": [
+   "He was looking a bit serious, which was out of character for him."
+  ],
+  "audio": "audio/Z/Z-53-b-.mp3",
+  "tags": [
+   "character, nature, personality の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He was looking a bit serious, which was out of "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " for him."
+   }
+  ],
+  "solutions": [
+   [
+    "character"
+   ]
+  ],
+  "secTitle": "「性格」 （character, nature, personality） の使い分け"
+ },
+ {
+  "id": "Z-53-c",
+  "unit": "Z",
+  "no": "53",
+  "jp": "このキャンペーンは性格が曖昧だ。",
+  "answers": [
+   "This campaign is vague in nature."
+  ],
+  "audio": "audio/Z/Z-53-c-.mp3",
+  "tags": [
+   "character, nature, personality の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "This campaign is vague in "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "nature"
+   ]
+  ],
+  "secTitle": "「性格」 （character, nature, personality） の使い分け"
+ },
+ {
+  "id": "Z-54-a",
+  "unit": "Z",
+  "no": "54",
+  "jp": "最近彼の行動がおかしい。",
+  "answers": [
+   "His behavior has been odd recently."
+  ],
+  "audio": "audio/Z/Z-54-a-.mp3",
+  "section": {
+   "title": "「行動」 （act, action, behavior, conduct） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "act, action, behavior, conduct の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "His "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " has been odd recently."
+   }
+  ],
+  "solutions": [
+   [
+    "behavior"
+   ]
+  ],
+  "secTitle": "「行動」 （act, action, behavior, conduct） の使い分け"
+ },
+ {
+  "id": "Z-54-b",
+  "unit": "Z",
+  "no": "54",
+  "jp": "倫理委員会は全会一致で彼の行動を非難した。",
+  "answers": [
+   "The Ethics Committee unanimously censured his conduct."
+  ],
+  "audio": "audio/Z/Z-54-b-.mp3",
+  "tags": [
+   "act, action, behavior, conduct の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The Ethics Committee unanimously censured his "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "conduct"
+   ]
+  ],
+  "secTitle": "「行動」 （act, action, behavior, conduct） の使い分け"
+ },
+ {
+  "id": "Z-54-c",
+  "unit": "Z",
+  "no": "54",
+  "jp": "地震が起こった時は敏速な行動を取ってください。",
+  "answers": [
+   "Take swift action when earthquakes occur."
+  ],
+  "audio": "audio/Z/Z-54-c-.mp3",
+  "tags": [
+   "act, action, behavior, conduct の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Take swift "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " when earthquakes occur."
+   }
+  ],
+  "solutions": [
+   [
+    "action"
+   ]
+  ],
+  "secTitle": "「行動」 （act, action, behavior, conduct） の使い分け"
+ },
+ {
+  "id": "Z-54-d",
+  "unit": "Z",
+  "no": "54",
+  "jp": "人に対してであれ動物に対してであれ，我々はどんな暴力行為も強く非難します。",
+  "answers": [
+   "We condemn any act of violence, be it against humans or animals."
+  ],
+  "audio": "audio/Z/Z-54-d-.mp3",
+  "tags": [
+   "act, action, behavior, conduct の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We condemn any "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " of violence, be it against humans or animals."
+   }
+  ],
+  "solutions": [
+   [
+    "act"
+   ]
+  ],
+  "secTitle": "「行動」 （act, action, behavior, conduct） の使い分け"
+ },
+ {
+  "id": "Z-55-a",
+  "unit": "Z",
+  "no": "55",
+  "jp": "子供の頃はよく他の子と取っ組み合いの喧嘩をしました。",
+  "answers": [
+   "As a boy, I got into many fights with other kids."
+  ],
+  "audio": "audio/Z/Z-55-a-.mp3",
+  "section": {
+   "title": "「戦い」 （battle, conflict, fight, war） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "battle, conflict, fight, war の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "As a boy, I got into many "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " with other kids."
+   }
+  ],
+  "solutions": [
+   [
+    "fights"
+   ]
+  ],
+  "secTitle": "「戦い」 （battle, conflict, fight, war） の使い分け"
+ },
+ {
+  "id": "Z-55-b",
+  "unit": "Z",
+  "no": "55",
+  "jp": "その紛争はインドとパキスタンとの間の戦争に発展した。",
+  "answers": [
+   "The conflict led to a war between India and Pakistan."
+  ],
+  "audio": "audio/Z/Z-55-b-.mp3",
+  "tags": [
+   "battle, conflict, fight, war の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " led to a "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " between India and Pakistan."
+   }
+  ],
+  "solutions": [
+   [
+    "conflict",
+    "war"
+   ]
+  ],
+  "secTitle": "「戦い」 （battle, conflict, fight, war） の使い分け"
+ },
+ {
+  "id": "Z-55-c",
+  "unit": "Z",
+  "no": "55",
+  "jp": "スターリングラードの戦いは第二次世界大戦での最大の激戦の一つだ。",
+  "answers": [
+   "The Battle of Stalingrad was one of the fiercest battles of World War II."
+  ],
+  "audio": "audio/Z/Z-55-c-.mp3",
+  "tags": [
+   "battle, conflict, fight, war の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " of Stalingrad was one of the fiercest "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " of World War II."
+   }
+  ],
+  "solutions": [
+   [
+    "Battle",
+    "battles"
+   ]
+  ],
+  "secTitle": "「戦い」 （battle, conflict, fight, war） の使い分け"
+ },
+ {
+  "id": "Z-56-a",
+  "unit": "Z",
+  "no": "56",
+  "jp": "渋谷は東京の人気の高いショッピング街です。",
+  "answers": [
+   "Shibuya is a popular shopping district in Tokyo."
+  ],
+  "audio": "audio/Z/Z-56-a-.mp3",
+  "section": {
+   "title": "「地域」 （area, district, region） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "area, district, region の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Shibuya is a popular shopping "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " in Tokyo."
+   }
+  ],
+  "solutions": [
+   [
+    "district"
+   ]
+  ],
+  "secTitle": "「地域」 （area, district, region） の使い分け"
+ },
+ {
+  "id": "Z-56-b",
+  "unit": "Z",
+  "no": "56",
+  "jp": "アマゾンは世界最大の熱帯雨林地帯です。",
+  "answers": [
+   "The Amazon is the world's largest tropical rain forest region."
+  ],
+  "audio": "audio/Z/Z-56-b-.mp3",
+  "tags": [
+   "area, district, region の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The Amazon is the world's largest tropical rain forest "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "region"
+   ]
+  ],
+  "secTitle": "「地域」 （area, district, region） の使い分け"
+ },
+ {
+  "id": "Z-56-c",
+  "unit": "Z",
+  "no": "56",
+  "jp": "冬にはこの辺りに白鳥が羽を休めにやって来ます。",
+  "answers": [
+   "Swans come to rest in this area in winter."
+  ],
+  "audio": "audio/Z/Z-56-c-.mp3",
+  "tags": [
+   "area, district, region の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Swans come to rest in this "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " in winter."
+   }
+  ],
+  "solutions": [
+   [
+    "area"
+   ]
+  ],
+  "secTitle": "「地域」 （area, district, region） の使い分け"
+ },
+ {
+  "id": "Z-57-a",
+  "unit": "Z",
+  "no": "57",
+  "jp": "円の中心を通る線を引きなさい。",
+  "answers": [
+   "Draw a line through the center of the circle."
+  ],
+  "audio": "audio/Z/Z-57-a-.mp3",
+  "section": {
+   "title": "「中心・真ん中」 （center, middle） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "center, middle の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Draw a line through the "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " of the circle."
+   }
+  ],
+  "solutions": [
+   [
+    "center"
+   ]
+  ],
+  "secTitle": "「中心・真ん中」 （center, middle） の使い分け"
+ },
+ {
+  "id": "Z-57-b",
+  "unit": "Z",
+  "no": "57",
+  "jp": "道路の真ん中に何かが横たわっているよ。",
+  "answers": [
+   "There's something lying in the middle of the road."
+  ],
+  "audio": "audio/Z/Z-57-b-.mp3",
+  "tags": [
+   "center, middle の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "There's something lying in the "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " of the road."
+   }
+  ],
+  "solutions": [
+   [
+    "middle"
+   ]
+  ],
+  "secTitle": "「中心・真ん中」 （center, middle） の使い分け"
+ },
+ {
+  "id": "Z-57-c",
+  "unit": "Z",
+  "no": "57",
+  "jp": "パリは20世紀の中頃まで芸術の世界の中心であった。",
+  "answers": [
+   "Paris was the center of the art world until the middle of the 20th century."
+  ],
+  "audio": "audio/Z/Z-57-c-.mp3",
+  "tags": [
+   "center, middle の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Paris was the "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " of the art world until the "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " of the 20th century."
+   }
+  ],
+  "solutions": [
+   [
+    "center",
+    "middle"
+   ]
+  ],
+  "secTitle": "「中心・真ん中」 （center, middle） の使い分け"
+ },
+ {
+  "id": "Z-58-a",
+  "unit": "Z",
+  "no": "58",
+  "jp": "犯罪を犯した人間は法によって裁かれる。",
+  "answers": [
+   "A person who commits a crime is tried by law."
+  ],
+  "audio": "audio/Z/Z-58-a-.mp3",
+  "section": {
+   "title": "「罪」 （crime, guilt, offense, sin） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "crime, guilt, offense, sin の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "A person who commits a "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " is tried by law."
+   }
+  ],
+  "solutions": [
+   [
+    "crime"
+   ]
+  ],
+  "secTitle": "「罪」 （crime, guilt, offense, sin） の使い分け"
+ },
+ {
+  "id": "Z-58-b",
+  "unit": "Z",
+  "no": "58",
+  "jp": "彼は自分のしたことに対して何ら罪の意識はない。",
+  "answers": [
+   "He doesn't feel any guilt about what he did."
+  ],
+  "audio": "audio/Z/Z-58-b-.mp3",
+  "tags": [
+   "crime, guilt, offense, sin の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He doesn't feel any "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " about what he did."
+   }
+  ],
+  "solutions": [
+   [
+    "guilt"
+   ]
+  ],
+  "secTitle": "「罪」 （crime, guilt, offense, sin） の使い分け"
+ },
+ {
+  "id": "Z-58-c",
+  "unit": "Z",
+  "no": "58",
+  "jp": "大食は罪だと聖書に書かれているのを知ってる？",
+  "answers": [
+   "Do you know the Bible says gluttony is a sin?"
+  ],
+  "audio": "audio/Z/Z-58-c-.mp3",
+  "tags": [
+   "crime, guilt, offense, sin の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Do you know the Bible says gluttony is a "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "?"
+   }
+  ],
+  "solutions": [
+   [
+    "sin"
+   ]
+  ],
+  "secTitle": "「罪」 （crime, guilt, offense, sin） の使い分け"
+ },
+ {
+  "id": "Z-58-d",
+  "unit": "Z",
+  "no": "58",
+  "jp": "無免許運転は交通違反です。",
+  "answers": [
+   "Driving without a license is a traffic offense."
+  ],
+  "audio": "audio/Z/Z-58-d-.mp3",
+  "tags": [
+   "crime, guilt, offense, sin の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Driving without a license is a traffic "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "offense"
+   ]
+  ],
+  "secTitle": "「罪」 （crime, guilt, offense, sin） の使い分け"
+ },
+ {
+  "id": "Z-59-a",
+  "unit": "Z",
+  "no": "59",
+  "jp": "多くの薬物は運転能力を低下させる可能性がある。",
+  "answers": [
+   "Many medications can impair your ability to drive."
+  ],
+  "audio": "audio/Z/Z-59-a-.mp3",
+  "section": {
+   "title": "「能力」 （ability, capability, capacity ） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "ability, capability, capacity の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Many medications can impair your "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to drive."
+   }
+  ],
+  "solutions": [
+   [
+    "ability"
+   ]
+  ],
+  "secTitle": "「能力」 （ability, capability, capacity ） の使い分け"
+ },
+ {
+  "id": "Z-59-b",
+  "unit": "Z",
+  "no": "59",
+  "jp": "そのスタジアムは座席数で4万5千人の収容能力がある。",
+  "answers": [
+   "The stadium has a seating capacity of 45,000."
+  ],
+  "audio": "audio/Z/Z-59-b-.mp3",
+  "tags": [
+   "ability, capability, capacity の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The stadium has a seating "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " of 45,000."
+   }
+  ],
+  "solutions": [
+   [
+    "capacity"
+   ]
+  ],
+  "secTitle": "「能力」 （ability, capability, capacity ） の使い分け"
+ },
+ {
+  "id": "Z-59-c",
+  "unit": "Z",
+  "no": "59",
+  "jp": "この作業はどんなコンピューターの能力をも超えている。",
+  "answers": [
+   "This task is beyond the capabilities of any computer."
+  ],
+  "audio": "audio/Z/Z-59-c-.mp3",
+  "tags": [
+   "ability, capability, capacity の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "This task is beyond the "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " of any computer."
+   }
+  ],
+  "solutions": [
+   [
+    "capabilities"
+   ]
+  ],
+  "secTitle": "「能力」 （ability, capability, capacity ） の使い分け"
+ },
+ {
+  "id": "Z-60-a",
+  "unit": "Z",
+  "no": "60",
+  "jp": "何か他に彼と連絡を取る方法はないでしょうか？",
+  "answers": [
+   "Is there no other way of contacting him?"
+  ],
+  "audio": "audio/Z/Z-60-a-.mp3",
+  "section": {
+   "title": "「方法」 （manner, method, procedure, way） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "manner, method, procedure, way の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Is there no other "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " of contacting him?"
+   }
+  ],
+  "solutions": [
+   [
+    "way"
+   ]
+  ],
+  "secTitle": "「方法」 （manner, method, procedure, way） の使い分け"
+ },
+ {
+  "id": "Z-60-b",
+  "unit": "Z",
+  "no": "60",
+  "jp": "大半の教師は伝統的な教授法を用いている。",
+  "answers": [
+   "Most teachers use traditional teaching methods."
+  ],
+  "audio": "audio/Z/Z-60-b-.mp3",
+  "tags": [
+   "manner, method, procedure, way の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Most teachers use traditional teaching "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "methods"
+   ]
+  ],
+  "secTitle": "「方法」 （manner, method, procedure, way） の使い分け"
+ },
+ {
+  "id": "Z-60-c",
+  "unit": "Z",
+  "no": "60",
+  "jp": "彼は横柄に振る舞い，私達のことをあざ笑った。",
+  "answers": [
+   "He behaved in an arrogant manner and mocked us."
+  ],
+  "audio": "audio/Z/Z-60-c-.mp3",
+  "tags": [
+   "manner, method, procedure, way の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He behaved in an arrogant "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " and mocked us."
+   }
+  ],
+  "solutions": [
+   [
+    "manner"
+   ]
+  ],
+  "secTitle": "「方法」 （manner, method, procedure, way） の使い分け"
+ },
+ {
+  "id": "Z-60-d",
+  "unit": "Z",
+  "no": "60",
+  "jp": "奨学金の申し込み方法はどうなっていますか？",
+  "answers": [
+   "What's the procedure for applying for the scholarship?"
+  ],
+  "audio": "audio/Z/Z-60-d-.mp3",
+  "tags": [
+   "manner, method, procedure, way の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "What's the "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " for applying for the scholarship?"
+   }
+  ],
+  "solutions": [
+   [
+    "procedure"
+   ]
+  ],
+  "secTitle": "「方法」 （manner, method, procedure, way） の使い分け"
+ },
+ {
+  "id": "Z-61-a",
+  "unit": "Z",
+  "no": "61",
+  "jp": "ご旅行の目的は？ 仕事ですか，それとも休暇ですか？",
+  "answers": [
+   "What's the purpose of your visit? Business or pleasure?"
+  ],
+  "audio": "audio/Z/Z-61-a-.mp3",
+  "section": {
+   "title": "「目標・目的」 （aim, goal, purpose） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "aim, goal, purpose の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "What's the "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " of your visit? Business or pleasure?"
+   }
+  ],
+  "solutions": [
+   [
+    "purpose"
+   ]
+  ],
+  "secTitle": "「目標・目的」 （aim, goal, purpose） の使い分け"
+ },
+ {
+  "id": "Z-61-b",
+  "unit": "Z",
+  "no": "61",
+  "jp": "10キロ痩せるという目標を達成しました。",
+  "answers": [
+   "I've reached my goal of losing 10 kilograms."
+  ],
+  "audio": "audio/Z/Z-61-b-.mp3",
+  "tags": [
+   "aim, goal, purpose の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I've reached my "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " of losing 10 kilograms."
+   }
+  ],
+  "solutions": [
+   [
+    "goal"
+   ]
+  ],
+  "secTitle": "「目標・目的」 （aim, goal, purpose） の使い分け"
+ },
+ {
+  "id": "Z-61-c",
+  "unit": "Z",
+  "no": "61",
+  "jp": "このプロジェクトのねらいは会社の収益性を改善することだ。",
+  "answers": [
+   "The aim of this project is to improve the company's profitability."
+  ],
+  "audio": "audio/Z/Z-61-c-.mp3",
+  "tags": [
+   "aim, goal, purpose の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " of this project is to improve the company's profitability."
+   }
+  ],
+  "solutions": [
+   [
+    "aim"
+   ]
+  ],
+  "secTitle": "「目標・目的」 （aim, goal, purpose） の使い分け"
+ },
+ {
+  "id": "Z-62-a",
+  "unit": "Z",
+  "no": "62",
+  "jp": "彼はいつも厄介な問題ばかり引き起こす。",
+  "answers": [
+   "He's constantly causing such awkward problems."
+  ],
+  "audio": "audio/Z/Z-62-a-.mp3",
+  "section": {
+   "title": "「問題」 （issue, problem, question） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "issue, problem, question の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He's constantly causing such awkward "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "problems"
+   ]
+  ],
+  "secTitle": "「問題」 （issue, problem, question） の使い分け"
+ },
+ {
+  "id": "Z-62-b",
+  "unit": "Z",
+  "no": "62",
+  "jp": "今回の選挙の最大の争点を一つ挙げると何ですか？",
+  "answers": [
+   "What is the single biggest issue in this election?"
+  ],
+  "audio": "audio/Z/Z-62-b-.mp3",
+  "tags": [
+   "issue, problem, question の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "What is the single biggest "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " in this election?"
+   }
+  ],
+  "solutions": [
+   [
+    "issue"
+   ]
+  ],
+  "secTitle": "「問題」 （issue, problem, question） の使い分け"
+ },
+ {
+  "id": "Z-62-c",
+  "unit": "Z",
+  "no": "62",
+  "jp": "生徒達は単語の問題や数学の問題を解くことを楽しんでいます。",
+  "answers": [
+   "The students enjoy answering vocabulary questions and solving mathematical problems."
+  ],
+  "audio": "audio/Z/Z-62-c-.mp3",
+  "tags": [
+   "issue, problem, question の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The students enjoy answering vocabulary "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " and solving mathematical "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "questions",
+    "problems"
+   ]
+  ],
+  "secTitle": "「問題」 （issue, problem, question） の使い分け"
+ },
+ {
+  "id": "Z-63-a",
+  "unit": "Z",
+  "no": "63",
+  "jp": "ちょっと休憩してコーヒーでも飲みましょう。",
+  "answers": [
+   "Let's take a short coffee break."
+  ],
+  "audio": "audio/Z/Z-63-a-.mp3",
+  "section": {
+   "title": "「休み」 （break, day off, holiday, rest, vacation） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "break, day off, holiday, rest, vacation の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Let's take a short coffee "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "break"
+   ]
+  ],
+  "secTitle": "「休み」 （break, day off, holiday, rest, vacation） の使い分け"
+ },
+ {
+  "id": "Z-63-b",
+  "unit": "Z",
+  "no": "63",
+  "jp": "早めに帰宅をして一晩たっぷりと休みました。",
+  "answers": [
+   "I went home early and had a good night's rest."
+  ],
+  "audio": "audio/Z/Z-63-b-.mp3",
+  "tags": [
+   "break, day off, holiday, rest, vacation の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I went home early and had a good night's "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "rest"
+   ]
+  ],
+  "secTitle": "「休み」 （break, day off, holiday, rest, vacation） の使い分け"
+ },
+ {
+  "id": "Z-63-c",
+  "unit": "Z",
+  "no": "63",
+  "jp": "フィリップスは今日は出社しておりません。今日は休みをとっております。",
+  "answers": [
+   "Mr. Phillips isn't at work today—he's having a day off."
+  ],
+  "audio": "audio/Z/Z-63-c-.mp3",
+  "tags": [
+   "break, day off, holiday, rest, vacation の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Mr. Phillips isn't at work today—he's having a "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "day off"
+   ]
+  ],
+  "secTitle": "「休み」 （break, day off, holiday, rest, vacation） の使い分け"
+ },
+ {
+  "id": "Z-63-d",
+  "unit": "Z",
+  "no": "63",
+  "jp": "あなたの国には国民の休日が何日ありますか？",
+  "answers": [
+   "How many national holidays are there in your country?"
+  ],
+  "audio": "audio/Z/Z-63-d-.mp3",
+  "tags": [
+   "break, day off, holiday, rest, vacation の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "How many national "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " are there in your country?"
+   }
+  ],
+  "solutions": [
+   [
+    "holidays"
+   ]
+  ],
+  "secTitle": "「休み」 （break, day off, holiday, rest, vacation） の使い分け"
+ },
+ {
+  "id": "Z-63-e",
+  "unit": "Z",
+  "no": "63",
+  "jp": "夏休み中はアルバイトをしたいと思っています。",
+  "answers": [
+   "I'm hoping to get a part-time job during the summer vacation."
+  ],
+  "audio": "audio/Z/Z-63-e-.mp3",
+  "tags": [
+   "break, day off, holiday, rest, vacation の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'm hoping to get a part-time job during the summer "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "vacation"
+   ]
+  ],
+  "secTitle": "「休み」 （break, day off, holiday, rest, vacation） の使い分け"
+ },
+ {
+  "id": "Z-64-a",
+  "unit": "Z",
+  "no": "64",
+  "jp": "韓国への出張から帰ってきたところです。",
+  "answers": [
+   "I just got back from a business trip to Korea."
+  ],
+  "audio": "audio/Z/Z-64-a-.mp3",
+  "section": {
+   "title": "「旅行」 （journey, tour, travel, trip） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "journey, tour, travel, trip の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I just got back from a business "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to Korea."
+   }
+  ],
+  "solutions": [
+   [
+    "trip"
+   ]
+  ],
+  "secTitle": "「旅行」 （journey, tour, travel, trip） の使い分け"
+ },
+ {
+  "id": "Z-64-b",
+  "unit": "Z",
+  "no": "64",
+  "jp": "海外旅行は視野を広げると言われる。",
+  "answers": [
+   "Foreign travel is said to broaden one's horizons."
+  ],
+  "audio": "audio/Z/Z-64-b-.mp3",
+  "tags": [
+   "journey, tour, travel, trip の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Foreign "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " is said to broaden one's horizons."
+   }
+  ],
+  "solutions": [
+   [
+    "travel"
+   ]
+  ],
+  "secTitle": "「旅行」 （journey, tour, travel, trip） の使い分け"
+ },
+ {
+  "id": "Z-64-c",
+  "unit": "Z",
+  "no": "64",
+  "jp": "インドは大統領のアジア６カ国歴訪の最初の訪問地だった。",
+  "answers": [
+   "India was the first stop on the President's six-nation tour of Asia."
+  ],
+  "audio": "audio/Z/Z-64-c-.mp3",
+  "tags": [
+   "journey, tour, travel, trip の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "India was the first stop on the President's six-nation "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " of Asia."
+   }
+  ],
+  "solutions": [
+   [
+    "tour"
+   ]
+  ],
+  "secTitle": "「旅行」 （journey, tour, travel, trip） の使い分け"
+ },
+ {
+  "id": "Z-64-d",
+  "unit": "Z",
+  "no": "64",
+  "jp": "毎年数百万人のイスラム教の巡礼者がメッカへと巡礼の旅をする。",
+  "answers": [
+   "Millions of Muslim pilgrims make the journey to Mecca each year."
+  ],
+  "audio": "audio/Z/Z-64-d-.mp3",
+  "tags": [
+   "journey, tour, travel, trip の中から適語を選び必要に応じて形を変える"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Millions of Muslim pilgrims make the "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to Mecca each year."
+   }
+  ],
+  "solutions": [
+   [
+    "journey"
+   ]
+  ],
+  "secTitle": "「旅行」 （journey, tour, travel, trip） の使い分け"
+ },
+ {
+  "id": "Z-65-a",
+  "unit": "Z",
+  "no": "65",
+  "jp": "ブリスベンでは真夏は午前４時45分頃に明るくなります。",
+  "answers": [
+   "In Brisbane, it gets light around 4:45 am in midsummer."
+  ],
+  "audio": "audio/Z/Z-65-a-.mp3",
+  "section": {
+   "title": "「明るい」 （bright, cheerful, light） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "bright, cheerful, light の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "In Brisbane, it gets "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " around 4:45 am in midsummer."
+   }
+  ],
+  "solutions": [
+   [
+    "light"
+   ]
+  ],
+  "secTitle": "「明るい」 （bright, cheerful, light） の使い分け"
+ },
+ {
+  "id": "Z-65-b",
+  "unit": "Z",
+  "no": "65",
+  "jp": "照明が明るすぎて目が痛い。",
+  "answers": [
+   "The lights are so bright they are hurting my eyes."
+  ],
+  "audio": "audio/Z/Z-65-b-.mp3",
+  "tags": [
+   "bright, cheerful, light の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The lights are so "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " they are hurting my eyes."
+   }
+  ],
+  "solutions": [
+   [
+    "bright"
+   ]
+  ],
+  "secTitle": "「明るい」 （bright, cheerful, light） の使い分け"
+ },
+ {
+  "id": "Z-65-c",
+  "unit": "Z",
+  "no": "65",
+  "jp": "リサは明るい性格なので友達が多い。",
+  "answers": [
+   "Lisa's cheerful personality attracts many friends."
+  ],
+  "audio": "audio/Z/Z-65-c-.mp3",
+  "tags": [
+   "bright, cheerful, light の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Lisa's "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " personality attracts many friends."
+   }
+  ],
+  "solutions": [
+   [
+    "cheerful"
+   ]
+  ],
+  "secTitle": "「明るい」 （bright, cheerful, light） の使い分け"
+ },
+ {
+  "id": "Z-66-a",
+  "unit": "Z",
+  "no": "66",
+  "jp": "ハワイ旅行はとても楽しかったです。",
+  "answers": [
+   "Our trip to Hawaii was very enjoyable."
+  ],
+  "audio": "audio/Z/Z-66-a-.mp3",
+  "section": {
+   "title": "「面白い」 （enjoyable, exciting, funny, interesting） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "enjoyable, exciting, funny, interesting の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Our trip to Hawaii was very "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "enjoyable"
+   ]
+  ],
+  "secTitle": "「面白い」 （enjoyable, exciting, funny, interesting） の使い分け"
+ },
+ {
+  "id": "Z-66-b",
+  "unit": "Z",
+  "no": "66",
+  "jp": "ラリーは面白い人です。よく面白いジョークを言います。",
+  "answers": [
+   "Larry is funny. He often makes amusing jokes."
+  ],
+  "audio": "audio/Z/Z-66-b-.mp3",
+  "tags": [
+   "enjoyable, exciting, funny, interesting の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Larry is "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": ". He often makes amusing jokes."
+   }
+  ],
+  "solutions": [
+   [
+    "funny"
+   ]
+  ],
+  "secTitle": "「面白い」 （enjoyable, exciting, funny, interesting） の使い分け"
+ },
+ {
+  "id": "Z-66-c",
+  "unit": "Z",
+  "no": "66",
+  "jp": "彼の作品は面白いけれど，わくわくするほどではないと思った。",
+  "answers": [
+   "I found his works interesting but not exciting."
+  ],
+  "audio": "audio/Z/Z-66-c-.mp3",
+  "tags": [
+   "enjoyable, exciting, funny, interesting の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I found his works "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " but not "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "interesting",
+    "exciting"
+   ]
+  ],
+  "secTitle": "「面白い」 （enjoyable, exciting, funny, interesting） の使い分け"
+ },
+ {
+  "id": "Z-67-a",
+  "unit": "Z",
+  "no": "67",
+  "jp": "そんなに賢いんだったら自分でそれをやればいいじゃん。",
+  "answers": [
+   "Why don't you do it yourself if you're so smart?"
+  ],
+  "audio": "audio/Z/Z-67-a-.mp3",
+  "section": {
+   "title": "「賢い」 （clever, intelligent, smart, wise） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "clever, intelligent, smart, wise の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Why don't you do it yourself if you're so "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "?"
+   }
+  ],
+  "solutions": [
+   [
+    "smart"
+   ]
+  ],
+  "secTitle": "「賢い」 （clever, intelligent, smart, wise） の使い分け"
+ },
+ {
+  "id": "Z-67-b",
+  "unit": "Z",
+  "no": "67",
+  "jp": "イルカはとても賢い動物です。",
+  "answers": [
+   "Dolphins are highly intelligent animals."
+  ],
+  "audio": "audio/Z/Z-67-b-.mp3",
+  "tags": [
+   "clever, intelligent, smart, wise の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Dolphins are highly "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " animals."
+   }
+  ],
+  "solutions": [
+   [
+    "intelligent"
+   ]
+  ],
+  "secTitle": "「賢い」 （clever, intelligent, smart, wise） の使い分け"
+ },
+ {
+  "id": "Z-67-c",
+  "unit": "Z",
+  "no": "67",
+  "jp": "年を取れば賢明になるとは限らない。",
+  "answers": [
+   "An old man isn't necessarily a wise man."
+  ],
+  "audio": "audio/Z/Z-67-c-.mp3",
+  "tags": [
+   "clever, intelligent, smart, wise の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "An old man isn't necessarily a "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " man."
+   }
+  ],
+  "solutions": [
+   [
+    "wise"
+   ]
+  ],
+  "secTitle": "「賢い」 （clever, intelligent, smart, wise） の使い分け"
+ },
+ {
+  "id": "Z-67-d",
+  "unit": "Z",
+  "no": "67",
+  "jp": "彼はいつも賢く立ち回る。",
+  "answers": [
+   "He's always maneuvering in a clever way."
+  ],
+  "audio": "audio/Z/Z-67-d-.mp3",
+  "tags": [
+   "clever, intelligent, smart, wise の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He's always maneuvering in a "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " way."
+   }
+  ],
+  "solutions": [
+   [
+    "clever"
+   ]
+  ],
+  "secTitle": "「賢い」 （clever, intelligent, smart, wise） の使い分け"
+ },
+ {
+  "id": "Z-68-a",
+  "unit": "Z",
+  "no": "68",
+  "jp": "この瓶は空です。",
+  "answers": [
+   "This bottle is empty."
+  ],
+  "audio": "audio/Z/Z-68-a-.mp3",
+  "section": {
+   "title": "「空の・空いた」 （blank, empty, vacant） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "blank,  empty, vacant の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "This bottle is "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "empty"
+   ]
+  ],
+  "secTitle": "「空の・空いた」 （blank, empty, vacant） の使い分け"
+ },
+ {
+  "id": "Z-68-b",
+  "unit": "Z",
+  "no": "68",
+  "jp": "このホテルは空いている部屋がたくさんある。",
+  "answers": [
+   "This hotel has many vacant rooms."
+  ],
+  "audio": "audio/Z/Z-68-b-.mp3",
+  "tags": [
+   "blank,  empty, vacant の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "This hotel has many "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " rooms."
+   }
+  ],
+  "solutions": [
+   [
+    "vacant"
+   ]
+  ],
+  "secTitle": "「空の・空いた」 （blank, empty, vacant） の使い分け"
+ },
+ {
+  "id": "Z-68-c",
+  "unit": "Z",
+  "no": "68",
+  "jp": "どこか空いている所に名前を書いてください。",
+  "answers": [
+   "Write your name in any blank space."
+  ],
+  "audio": "audio/Z/Z-68-c-.mp3",
+  "tags": [
+   "blank,  empty, vacant の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Write your name in any "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " space."
+   }
+  ],
+  "solutions": [
+   [
+    "blank"
+   ]
+  ],
+  "secTitle": "「空の・空いた」 （blank, empty, vacant） の使い分け"
+ },
+ {
+  "id": "Z-69-a",
+  "unit": "Z",
+  "no": "69",
+  "jp": "デービス先生は時間にとても厳しい。遅刻した生徒は絶対に教室に入れない。",
+  "answers": [
+   "Mr. Davis is very strict about time. He never allows late students to enter his class."
+  ],
+  "audio": "audio/Z/Z-69-a-.mp3",
+  "section": {
+   "title": "「厳しい」 （severe, strict） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "severe, strict の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Mr. Davis is very "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " about time. He never allows late students to enter his class."
+   }
+  ],
+  "solutions": [
+   [
+    "strict"
+   ]
+  ],
+  "secTitle": "「厳しい」 （severe, strict） の使い分け"
+ },
+ {
+  "id": "Z-69-b",
+  "unit": "Z",
+  "no": "69",
+  "jp": "その大臣は現在国会で厳しい批判を浴びている。",
+  "answers": [
+   "The minister is currently facing severe criticism in the Diet."
+  ],
+  "audio": "audio/Z/Z-69-b-.mp3",
+  "tags": [
+   "severe, strict の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The minister is currently facing "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " criticism in the Diet."
+   }
+  ],
+  "solutions": [
+   [
+    "severe"
+   ]
+  ],
+  "secTitle": "「厳しい」 （severe, strict） の使い分け"
+ },
+ {
+  "id": "Z-70-a",
+  "unit": "Z",
+  "no": "70",
+  "jp": "電気自動車は静かですが全く音がしないわけではありません。",
+  "answers": [
+   "The electric car is quiet but not silent."
+  ],
+  "audio": "audio/Z/Z-70-a-.mp3",
+  "section": {
+   "title": "「静かな」 （calm, quiet, silent, soft） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "calm, quiet, silent, soft の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The electric car is "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " but not "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "quiet",
+    "silent"
+   ]
+  ],
+  "secTitle": "「静かな」 （calm, quiet, silent, soft） の使い分け"
+ },
+ {
+  "id": "Z-70-b",
+  "unit": "Z",
+  "no": "70",
+  "jp": "彼は怒っていたが，静かな口調で話した。",
+  "answers": [
+   "He spoke in a soft voice despite his anger."
+  ],
+  "audio": "audio/Z/Z-70-b-.mp3",
+  "tags": [
+   "calm, quiet, silent, soft の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He spoke in a "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " voice despite his anger."
+   }
+  ],
+  "solutions": [
+   [
+    "soft"
+   ]
+  ],
+  "secTitle": "「静かな」 （calm, quiet, silent, soft） の使い分け"
+ },
+ {
+  "id": "Z-70-c",
+  "unit": "Z",
+  "no": "70",
+  "jp": "今日は天気が良く，海も静かです。",
+  "answers": [
+   "The weather is nice and the sea is calm today."
+  ],
+  "audio": "audio/Z/Z-70-c-.mp3",
+  "tags": [
+   "calm, quiet, silent, soft の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The weather is nice and the sea is "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " today."
+   }
+  ],
+  "solutions": [
+   [
+    "calm"
+   ]
+  ],
+  "secTitle": "「静かな」 （calm, quiet, silent, soft） の使い分け"
+ },
+ {
+  "id": "Z-71-a",
+  "unit": "Z",
+  "no": "71",
+  "jp": "彼は私の肩を親しげにポンと叩いた。",
+  "answers": [
+   "He gave me a friendly pat on the shoulder."
+  ],
+  "audio": "audio/Z/Z-71-a-.mp3",
+  "section": {
+   "title": "「親しい」 （close, friendly, intimate） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "close, friendly, intimate の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He gave me a "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " pat on the shoulder."
+   }
+  ],
+  "solutions": [
+   [
+    "friendly"
+   ]
+  ],
+  "secTitle": "「親しい」 （close, friendly, intimate） の使い分け"
+ },
+ {
+  "id": "Z-71-b",
+  "unit": "Z",
+  "no": "71",
+  "jp": "彼とは知り合いですが，親しいというほどではないです。",
+  "answers": [
+   "I know him, but I wouldn't say we're close."
+  ],
+  "audio": "audio/Z/Z-71-b-.mp3",
+  "tags": [
+   "close, friendly, intimate の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I know him, but I wouldn't say we're "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "close"
+   ]
+  ],
+  "secTitle": "「親しい」 （close, friendly, intimate） の使い分け"
+ },
+ {
+  "id": "Z-71-c",
+  "unit": "Z",
+  "no": "71",
+  "jp": "ある日，私はクーパー氏が彼の秘書と親しくしているところを見てしまった。",
+  "answers": [
+   "One day I caught Mr. Cooper being intimate with his secretary."
+  ],
+  "audio": "audio/Z/Z-71-c-.mp3",
+  "tags": [
+   "close, friendly, intimate の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "One day I caught Mr. Cooper being "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " with his secretary."
+   }
+  ],
+  "solutions": [
+   [
+    "intimate"
+   ]
+  ],
+  "secTitle": "「親しい」 （close, friendly, intimate） の使い分け"
+ },
+ {
+  "id": "Z-72-a",
+  "unit": "Z",
+  "no": "72",
+  "jp": "そのホテルは全室オーシャンビューです。",
+  "answers": [
+   "Every room in the hotel has a wonderful view of the ocean."
+  ],
+  "audio": "audio/Z/Z-72-a-.mp3",
+  "section": {
+   "title": "「全ての・全体の」 （all, every, whole） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "all, every, whole の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " room in the hotel has a wonderful view of the ocean."
+   }
+  ],
+  "solutions": [
+   [
+    "Every"
+   ]
+  ],
+  "secTitle": "「全ての・全体の」 （all, every, whole） の使い分け"
+ },
+ {
+  "id": "Z-72-b",
+  "unit": "Z",
+  "no": "72",
+  "jp": "我々はその問題をあらゆる面から慎重に見ていかなければならない。",
+  "answers": [
+   "We must carefully consider all aspects of the problem."
+  ],
+  "audio": "audio/Z/Z-72-b-.mp3",
+  "tags": [
+   "all, every, whole の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We must carefully consider "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " aspects of the problem."
+   }
+  ],
+  "solutions": [
+   [
+    "all"
+   ]
+  ],
+  "secTitle": "「全ての・全体の」 （all, every, whole） の使い分け"
+ },
+ {
+  "id": "Z-72-c",
+  "unit": "Z",
+  "no": "72",
+  "jp": "家族全員が空港まで私を見送りに来てくれた。",
+  "answers": [
+   "My whole family came to see me off at the airport.",
+   "My entire family came to see me off at the airport."
+  ],
+  "audio": "audio/Z/Z-72-c-.mp3",
+  "tags": [
+   "all, every, whole の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "My "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " family came to see me off at the airport."
+   }
+  ],
+  "solutions": [
+   [
+    "whole"
+   ],
+   [
+    "entire"
+   ]
+  ],
+  "secTitle": "「全ての・全体の」 （all, every, whole） の使い分け"
+ },
+ {
+  "id": "Z-73-a",
+  "unit": "Z",
+  "no": "73",
+  "jp": "この家は家族５人で住むには狭すぎる。",
+  "answers": [
+   "This house is too small for a family of five to live in."
+  ],
+  "audio": "audio/Z/Z-73-a-.mp3",
+  "section": {
+   "title": "「狭い」 （narrow, small） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "narrow, small の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "This house is too "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " for a family of five to live in."
+   }
+  ],
+  "solutions": [
+   [
+    "small"
+   ]
+  ],
+  "secTitle": "「狭い」 （narrow, small） の使い分け"
+ },
+ {
+  "id": "Z-73-b",
+  "unit": "Z",
+  "no": "73",
+  "jp": "この町には狭い通りと古い建物が多い。",
+  "answers": [
+   "This town has many narrow streets and old buildings."
+  ],
+  "audio": "audio/Z/Z-73-b-.mp3",
+  "tags": [
+   "narrow, small の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "This town has many "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " streets and old buildings."
+   }
+  ],
+  "solutions": [
+   [
+    "narrow"
+   ]
+  ],
+  "secTitle": "「狭い」 （narrow, small） の使い分け"
+ },
+ {
+  "id": "Z-73-c",
+  "unit": "Z",
+  "no": "73",
+  "jp": "あなたはこのテーマを非常に狭い視野で捉えていると思うのですが。",
+  "answers": [
+   "It seems to me that you take a very narrow view of the subject."
+  ],
+  "audio": "audio/Z/Z-73-c-.mp3",
+  "tags": [
+   "narrow, small の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It seems to me that you take a very "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " view of the subject."
+   }
+  ],
+  "solutions": [
+   [
+    "narrow"
+   ]
+  ],
+  "secTitle": "「狭い」 （narrow, small） の使い分け"
+ },
+ {
+  "id": "Z-74-a",
+  "unit": "Z",
+  "no": "74",
+  "jp": "マーメイドは，半分女性で半分魚という，想像上の生き物です。",
+  "answers": [
+   "A mermaid is an imaginary creature: half woman, half fish."
+  ],
+  "audio": "audio/Z/Z-74-a-.mp3",
+  "section": {
+   "title": "「想像（上）の」 （imaginable, imaginary, imaginative） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "imaginable, imaginary, imaginative の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "A mermaid is an "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " creature: half woman, half fish."
+   }
+  ],
+  "solutions": [
+   [
+    "imaginary"
+   ]
+  ],
+  "secTitle": "「想像（上）の」 （imaginable, imaginary, imaginative） の使い分け"
+ },
+ {
+  "id": "Z-74-b",
+  "unit": "Z",
+  "no": "74",
+  "jp": "ジャネットは技術があり創造性が豊かな宝石デザイナーだ。",
+  "answers": [
+   "Janet is a skilled and imaginative jewelry designer."
+  ],
+  "audio": "audio/Z/Z-74-b-.mp3",
+  "tags": [
+   "imaginable, imaginary, imaginative の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Janet is a skilled and "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " jewelry designer."
+   }
+  ],
+  "solutions": [
+   [
+    "imaginative"
+   ]
+  ],
+  "secTitle": "「想像（上）の」 （imaginable, imaginary, imaginative） の使い分け"
+ },
+ {
+  "id": "Z-74-c",
+  "unit": "Z",
+  "no": "74",
+  "jp": "コンピューター・グラフィックスを使えば想像可能なことは何でも作り出せる。",
+  "answers": [
+   "Computer graphics enable you to create anything imaginable."
+  ],
+  "audio": "audio/Z/Z-74-c-.mp3",
+  "tags": [
+   "imaginable, imaginary, imaginative の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Computer graphics enable you to create anything "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "imaginable"
+   ]
+  ],
+  "secTitle": "「想像（上）の」 （imaginable, imaginary, imaginative） の使い分け"
+ },
+ {
+  "id": "Z-75-a",
+  "unit": "Z",
+  "no": "75",
+  "jp": "ちょっと大事な話があるんだけど。",
+  "answers": [
+   "I have something important to tell you."
+  ],
+  "audio": "audio/Z/Z-75-a-.mp3",
+  "section": {
+   "title": "「大切な・大事な」 （important, precious, valuable） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "important, precious, valuable の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I have something "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to tell you."
+   }
+  ],
+  "solutions": [
+   [
+    "important"
+   ]
+  ],
+  "secTitle": "「大切な・大事な」 （important, precious, valuable） の使い分け"
+ },
+ {
+  "id": "Z-75-b",
+  "unit": "Z",
+  "no": "75",
+  "jp": "それは珍しくはあるが，あまり価値はないと言われました。",
+  "answers": [
+   "I've been told that it's rare but not valuable."
+  ],
+  "audio": "audio/Z/Z-75-b-.mp3",
+  "tags": [
+   "important, precious, valuable の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I've been told that it's rare but not "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "valuable"
+   ]
+  ],
+  "secTitle": "「大切な・大事な」 （important, precious, valuable） の使い分け"
+ },
+ {
+  "id": "Z-75-c",
+  "unit": "Z",
+  "no": "75",
+  "jp": "娘は私達にとってこの世で一番大切なものです。",
+  "answers": [
+   "Our daughter is the most precious thing in the world to us."
+  ],
+  "audio": "audio/Z/Z-75-c-.mp3",
+  "tags": [
+   "important, precious, valuable の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Our daughter is the most "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " thing in the world to us."
+   }
+  ],
+  "solutions": [
+   [
+    "precious"
+   ]
+  ],
+  "secTitle": "「大切な・大事な」 （important, precious, valuable） の使い分け"
+ },
+ {
+  "id": "Z-76-a",
+  "unit": "Z",
+  "no": "76",
+  "jp": "本当にこの道で合っているの？（←私達は正しい方向に進んでいるの？）",
+  "answers": [
+   "Are you sure we're going in the right direction?"
+  ],
+  "audio": "audio/Z/Z-76-a-.mp3",
+  "section": {
+   "title": "「正しい」 （accurate, correct, proper, right ） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "accurate, correct, proper, right の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Are you sure we're going in the "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " direction?"
+   }
+  ],
+  "solutions": [
+   [
+    "right"
+   ]
+  ],
+  "secTitle": "「正しい」 （accurate, correct, proper, right ） の使い分け"
+ },
+ {
+  "id": "Z-76-b",
+  "unit": "Z",
+  "no": "76",
+  "jp": "この文章は文法的に正しいけれどもぎこちなく聞こえます。",
+  "answers": [
+   "This sentence is grammatically correct, but it sounds awkward."
+  ],
+  "audio": "audio/Z/Z-76-b-.mp3",
+  "tags": [
+   "accurate, correct, proper, right の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "This sentence is grammatically "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": ", but it sounds awkward."
+   }
+  ],
+  "solutions": [
+   [
+    "correct"
+   ]
+  ],
+  "secTitle": "「正しい」 （accurate, correct, proper, right ） の使い分け"
+ },
+ {
+  "id": "Z-76-c",
+  "unit": "Z",
+  "no": "76",
+  "jp": "彼女は計算がとても正確です。",
+  "answers": [
+   "She is very accurate in her calculations."
+  ],
+  "audio": "audio/Z/Z-76-c-.mp3",
+  "tags": [
+   "accurate, correct, proper, right の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She is very "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " in her calculations."
+   }
+  ],
+  "solutions": [
+   [
+    "accurate"
+   ]
+  ],
+  "secTitle": "「正しい」 （accurate, correct, proper, right ） の使い分け"
+ },
+ {
+  "id": "Z-76-d",
+  "unit": "Z",
+  "no": "76",
+  "jp": "厳粛な場で野球帽をかぶるのは適切でない。",
+  "answers": [
+   "It is not proper to wear a baseball cap on solemn occasions."
+  ],
+  "audio": "audio/Z/Z-76-d-.mp3",
+  "tags": [
+   "accurate, correct, proper, right の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It is not "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to wear a baseball cap on solemn occasions."
+   }
+  ],
+  "solutions": [
+   [
+    "proper"
+   ]
+  ],
+  "secTitle": "「正しい」 （accurate, correct, proper, right ） の使い分け"
+ },
+ {
+  "id": "Z-77-a",
+  "unit": "Z",
+  "no": "77",
+  "jp": "彼は速球投手と対戦する時は軽いバットを使います。",
+  "answers": [
+   "He uses a light bat for a fast pitcher."
+  ],
+  "audio": "audio/Z/Z-77-a-.mp3",
+  "section": {
+   "title": "「はやい」 （early, fast, quick） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "early, fast, quick の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He uses a light bat for a "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " pitcher."
+   }
+  ],
+  "solutions": [
+   [
+    "fast"
+   ]
+  ],
+  "secTitle": "「はやい」 （early, fast, quick） の使い分け"
+ },
+ {
+  "id": "Z-77-b",
+  "unit": "Z",
+  "no": "77",
+  "jp": "それに素早く目を通しておきましょう。",
+  "answers": [
+   "Let's just take a quick look at that."
+  ],
+  "audio": "audio/Z/Z-77-b-.mp3",
+  "tags": [
+   "early, fast, quick の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Let's just take a "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " look at that."
+   }
+  ],
+  "solutions": [
+   [
+    "quick"
+   ]
+  ],
+  "secTitle": "「はやい」 （early, fast, quick） の使い分け"
+ },
+ {
+  "id": "Z-77-c",
+  "unit": "Z",
+  "no": "77",
+  "jp": "あきらめるのはまだ早いと私は思いますが。",
+  "answers": [
+   "I'd say it's still too early to give up."
+  ],
+  "audio": "audio/Z/Z-77-c-.mp3",
+  "tags": [
+   "early, fast, quick の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'd say it's still too "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to give up."
+   }
+  ],
+  "solutions": [
+   [
+    "early"
+   ]
+  ],
+  "secTitle": "「はやい」 （early, fast, quick） の使い分け"
+ },
+ {
+  "id": "Z-78-a",
+  "unit": "Z",
+  "no": "78",
+  "jp": "ブナの森林がヨーロッパの広い地域を覆っている。",
+  "answers": [
+   "Beech forests cover large areas of Europe."
+  ],
+  "audio": "audio/Z/Z-78-a-.mp3",
+  "section": {
+   "title": "「広い」 （broad, large, wide） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "broad, large, wide の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Beech forests cover "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " areas of Europe."
+   }
+  ],
+  "solutions": [
+   [
+    "large"
+   ]
+  ],
+  "secTitle": "「広い」 （broad, large, wide） の使い分け"
+ },
+ {
+  "id": "Z-78-b",
+  "unit": "Z",
+  "no": "78",
+  "jp": "その道路は２台の車が通れるほど広くない。",
+  "answers": [
+   "The road is not wide enough for two vehicles to pass."
+  ],
+  "audio": "audio/Z/Z-78-b-.mp3",
+  "tags": [
+   "broad, large, wide の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The road is not "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " enough for two vehicles to pass."
+   }
+  ],
+  "solutions": [
+   [
+    "wide"
+   ]
+  ],
+  "secTitle": "「広い」 （broad, large, wide） の使い分け"
+ },
+ {
+  "id": "Z-78-c",
+  "unit": "Z",
+  "no": "78",
+  "jp": "彼女は広く優しい心を持った人でした。",
+  "answers": [
+   "She possessed a broad mind and kind heart."
+  ],
+  "audio": "audio/Z/Z-78-c-.mp3",
+  "tags": [
+   "broad, large, wide の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She possessed a "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " mind and kind heart."
+   }
+  ],
+  "solutions": [
+   [
+    "broad"
+   ]
+  ],
+  "secTitle": "「広い」 （broad, large, wide） の使い分け"
+ },
+ {
+  "id": "Z-79-a",
+  "unit": "Z",
+  "no": "79",
+  "jp": "彼についてこれまでに言われていることは全て本当のことです。",
+  "answers": [
+   "Everything that's been said about him is true."
+  ],
+  "audio": "audio/Z/Z-79-a-.mp3",
+  "section": {
+   "title": "「本当の」 （actual, genuine, real, true） の使い分け",
+   "body": ""
+  },
+  "tags": [
+   "actual, genuine, real, true の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Everything that's been said about him is "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "true"
+   ]
+  ],
+  "secTitle": "「本当の」 （actual, genuine, real, true） の使い分け"
+ },
+ {
+  "id": "Z-79-b",
+  "unit": "Z",
+  "no": "79",
+  "jp": "彼は養子で，本当の親とは一度も会ったことがなかった。",
+  "answers": [
+   "He was adopted and never met his real parents."
+  ],
+  "audio": "audio/Z/Z-79-b-.mp3",
+  "tags": [
+   "actual, genuine, real, true の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He was adopted and never met his "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " parents."
+   }
+  ],
+  "solutions": [
+   [
+    "real"
+   ]
+  ],
+  "secTitle": "「本当の」 （actual, genuine, real, true） の使い分け"
+ },
+ {
+  "id": "Z-79-c",
+  "unit": "Z",
+  "no": "79",
+  "jp": "それが本物の明朝の花瓶であることを私が保証します。",
+  "answers": [
+   "I guarantee that it's a genuine Ming vase."
+  ],
+  "audio": "audio/Z/Z-79-c-.mp3",
+  "tags": [
+   "actual, genuine, real, true の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I guarantee that it's a "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " Ming vase."
+   }
+  ],
+  "solutions": [
+   [
+    "genuine"
+   ]
+  ],
+  "secTitle": "「本当の」 （actual, genuine, real, true） の使い分け"
+ },
+ {
+  "id": "Z-79-d",
+  "unit": "Z",
+  "no": "79",
+  "jp": "実際の費用は見積もりよりも20パーセント高かった。",
+  "answers": [
+   "The actual cost was 20% more than the estimate."
+  ],
+  "audio": "audio/Z/Z-79-d-.mp3",
+  "tags": [
+   "actual, genuine, real, true の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " cost was 20% more than the estimate."
+   }
+  ],
+  "solutions": [
+   [
+    "actual"
+   ]
+  ],
+  "secTitle": "「本当の」 （actual, genuine, real, true） の使い分け"
+ }
+]

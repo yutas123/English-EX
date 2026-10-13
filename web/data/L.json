@@ -1,0 +1,3805 @@
+[
+ {
+  "id": "L-02-a",
+  "unit": "L",
+  "no": "02",
+  "jp": "久しぶりだね！",
+  "answers": [
+   "It's been a long time!"
+  ],
+  "audio": "audio/L/L-02-a-.mp3",
+  "tags": [
+   "下線部（短縮形）の元の形は何か"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "It's been a long time!"
+ },
+ {
+  "id": "L-02-b",
+  "unit": "L",
+  "no": "02",
+  "jp": "彼はもう行ってしまった。",
+  "answers": [
+   "He's gone."
+  ],
+  "audio": "audio/L/L-02-b-.mp3",
+  "tags": [
+   "下線部（短縮形）の元の形は何か"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "He's gone."
+ },
+ {
+  "id": "L-02-c",
+  "unit": "L",
+  "no": "02",
+  "jp": "彼はそれを最初からもう一度しなければならない。",
+  "answers": [
+   "He's got to do it all over again."
+  ],
+  "audio": "audio/L/L-02-c-.mp3",
+  "tags": [
+   "下線部（短縮形）の元の形は何か"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "He's got to do it all over again."
+ },
+ {
+  "id": "L-02-d",
+  "unit": "L",
+  "no": "02",
+  "jp": "是非そうしたいのですが，できないのです。",
+  "answers": [
+   "I'd love to, but I can't."
+  ],
+  "audio": "audio/L/L-02-d-.mp3",
+  "tags": [
+   "下線部（短縮形）の元の形は何か"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I'd love to, but I can't."
+ },
+ {
+  "id": "L-02-e",
+  "unit": "L",
+  "no": "02",
+  "jp": "医者に診てもらった方がいいぞ。",
+  "answers": [
+   "You'd better see a doctor."
+  ],
+  "audio": "audio/L/L-02-e-.mp3",
+  "tags": [
+   "下線部（短縮形）の元の形は何か"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "You'd better see a doctor."
+ },
+ {
+  "id": "L-02-f",
+  "unit": "L",
+  "no": "02",
+  "jp": "家にいてテレビでも見ていた方がいいです。",
+  "answers": [
+   "I'd rather stay home and watch TV."
+  ],
+  "audio": "audio/L/L-02-f-.mp3",
+  "tags": [
+   "下線部（短縮形）の元の形は何か"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I'd rather stay home and watch TV."
+ },
+ {
+  "id": "L-02-g",
+  "unit": "L",
+  "no": "02",
+  "jp": "もっと早く出ていたら時間通り着いたのに。",
+  "answers": [
+   "If I'd left earlier, I'd have gotten there on time."
+  ],
+  "audio": "audio/L/L-02-g-.mp3",
+  "tags": [
+   "下線部（短縮形）の元の形は何か"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "If I'd left earlier, I'd have gotten there on time."
+ },
+ {
+  "id": "L-03-a",
+  "unit": "L",
+  "no": "03",
+  "jp": "どんなことがあっても絶対に勝つぞ。",
+  "answers": [
+   "I will win no matter what."
+  ],
+  "audio": "audio/L/L-03-a-.mp3",
+  "section": {
+   "title": "will とbe going to の使い方",
+   "body": "一般にwill はこれから［未来］において 「…する」「…である」 という意味を表す。will は主語の（ A ）を表すのによく用いられる。Will you ...? は 「…してくれますか？」 という 「依頼」 の意味で用いることが多い。否定形のwill not [won't] は未来において 「…しない」 という意味に加え，「どうしても…しない」 という 「拒絶・固執」 を表すこともある。be going to もwill（の肯定形）とほぼ同じ意味をもつが，will より（ B ）的な表現である。"
+  },
+  "tags": [
+   "適語を記入し２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " win no matter what."
+   }
+  ],
+  "solutions": [
+   [
+    "will"
+   ]
+  ],
+  "secTitle": "will とbe going to の使い方"
+ },
+ {
+  "id": "L-03-b",
+  "unit": "L",
+  "no": "03",
+  "jp": "どんなことがあっても絶対に勝つぞ。",
+  "answers": [
+   "I'm going to win no matter what."
+  ],
+  "audio": "audio/L/L-03-b-.mp3",
+  "tags": [
+   "適語を記入し２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'm "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " win no matter what."
+   }
+  ],
+  "solutions": [
+   [
+    "going",
+    "to"
+   ]
+  ],
+  "secTitle": "will とbe going to の使い方"
+ },
+ {
+  "id": "L-04-a",
+  "unit": "L",
+  "no": "04",
+  "jp": "このことをママには話さないよね？",
+  "answers": [
+   "You won't tell Mom, will you?"
+  ],
+  "audio": "audio/L/L-04-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "You "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " tell Mom, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " you?"
+   }
+  ],
+  "solutions": [
+   [
+    "won't",
+    "will"
+   ]
+  ],
+  "secTitle": "will とbe going to の使い方"
+ },
+ {
+  "id": "L-04-b",
+  "unit": "L",
+  "no": "04",
+  "jp": "このことをママには話さないよね？",
+  "answers": [
+   "You're not going to tell Mom, are you?"
+  ],
+  "audio": "audio/L/L-04-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "You're not "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " tell Mom, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " you?"
+   }
+  ],
+  "solutions": [
+   [
+    "going",
+    "to",
+    "are"
+   ]
+  ],
+  "secTitle": "will とbe going to の使い方"
+ },
+ {
+  "id": "L-05",
+  "unit": "L",
+  "no": "05",
+  "jp": "「もう行く時間だわ」「じゃあ車の鍵を取ってくるよ」",
+  "answers": [
+   "\"It's time for me to get going.\" \"OK. I'll get the car keys.\""
+  ],
+  "audio": "audio/L/L-05-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"It's time for me to get going.\" \"OK. "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "I'll",
+     "I'm going to"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " get the car keys.\""
+   }
+  ],
+  "solutions": [
+   [
+    "I'll"
+   ]
+  ],
+  "secTitle": "will とbe going to の使い方"
+ },
+ {
+  "id": "L-06",
+  "unit": "L",
+  "no": "06",
+  "jp": "「運転免許証を見せてください」「はい（お巡りさん）。違反切符ですか？」",
+  "answers": [
+   "\"Please show me your driver's license.\" \"Yes, officer. Are you going to give me a ticket?\""
+  ],
+  "audio": "audio/L/L-06-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"Please show me your driver's license.\" \"Yes, officer. "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "Will you",
+     "Are you going to"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " give me a ticket?\""
+   }
+  ],
+  "solutions": [
+   [
+    "Are you going to"
+   ]
+  ],
+  "secTitle": "will とbe going to の使い方"
+ },
+ {
+  "id": "L-07-a",
+  "unit": "L",
+  "no": "07",
+  "jp": "テーブルをここに運んでくれますか？",
+  "answers": [
+   "Will you bring the table in here?"
+  ],
+  "audio": "audio/L/L-07-a-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Will you bring the table in here?",
+  "secTitle": "will とbe going to の使い方"
+ },
+ {
+  "id": "L-07-b",
+  "unit": "L",
+  "no": "07",
+  "jp": "テーブルをここに運ぶのですか？",
+  "answers": [
+   "Will you be bringing the table in here?"
+  ],
+  "audio": "audio/L/L-07-b-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Will you be bringing the table in here?",
+  "secTitle": "will とbe going to の使い方"
+ },
+ {
+  "id": "L-08",
+  "unit": "L",
+  "no": "08",
+  "jp": "「また，集まれるといいですね」「ええ，私も楽しみにしています」",
+  "answers": [
+   "\"I hope we can get together again.\" \"Yes, I'll be looking forward to it.\""
+  ],
+  "audio": "audio/L/L-08-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"I hope we can get together again.\" \"Yes, I'll "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " forward to it.\""
+   }
+  ],
+  "solutions": [
+   [
+    "be",
+    "looking"
+   ]
+  ],
+  "secTitle": "will とbe going to の使い方"
+ },
+ {
+  "id": "L-09",
+  "unit": "L",
+  "no": "09",
+  "jp": "謝ろうと思っていたのだが，気が変わった。",
+  "answers": [
+   "I was going to apologize but I changed my mind."
+  ],
+  "audio": "audio/L/L-09-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "would",
+     "was going to"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " apologize but I changed my mind."
+   }
+  ],
+  "solutions": [
+   [
+    "was going to"
+   ]
+  ],
+  "secTitle": "will とbe going to の使い方"
+ },
+ {
+  "id": "L-10",
+  "unit": "L",
+  "no": "10",
+  "jp": "「彼にそれを伝えていただけますか？」「わかりました」",
+  "answers": [
+   "\"Would you tell him that for me?\" \"Yes, I will.\""
+  ],
+  "audio": "audio/L/L-10-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"Would you tell him that for me?\" \"Yes, I "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "will",
+     "would"
+    ]
+   },
+   {
+    "t": "text",
+    "v": ".\""
+   }
+  ],
+  "solutions": [
+   [
+    "will"
+   ]
+  ],
+  "secTitle": "will とbe going to の使い方"
+ },
+ {
+  "id": "L-11",
+  "unit": "L",
+  "no": "11",
+  "jp": "（君が）今夜ここで見たことは忘れるように。",
+  "answers": [
+   "You will forget what you saw here tonight."
+  ],
+  "audio": "audio/L/L-11-.mp3",
+  "tags": [
+   "must 以外の適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "You "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " forget what you saw here tonight."
+   }
+  ],
+  "solutions": [
+   [
+    "will"
+   ]
+  ],
+  "secTitle": "will とbe going to の使い方"
+ },
+ {
+  "id": "L-12-a",
+  "unit": "L",
+  "no": "12",
+  "jp": "彼に電話しない方がいい。きっと今仕事中だ。",
+  "answers": [
+   "Don't call him. He will be working now."
+  ],
+  "audio": "audio/L/L-12-a-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Don't call him. He will be working now.",
+  "secTitle": "will とbe going to の使い方"
+ },
+ {
+  "id": "L-12-b",
+  "unit": "L",
+  "no": "12",
+  "jp": "彼女は今新しい男性と付き合っているけど，誰なのか私に言おうとしない。",
+  "answers": [
+   "She's seeing a new man, but she won't tell me who he is."
+  ],
+  "audio": "audio/L/L-12-b-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "She's seeing a new man, but she won't tell me who he is.",
+  "secTitle": "will とbe going to の使い方"
+ },
+ {
+  "id": "L-12-c",
+  "unit": "L",
+  "no": "12",
+  "jp": "気にしないで。そういうのは時々起こることだから。",
+  "answers": [
+   "Never mind. Such things will happen occasionally."
+  ],
+  "audio": "audio/L/L-12-c-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Never mind. Such things will happen occasionally.",
+  "secTitle": "will とbe going to の使い方"
+ },
+ {
+  "id": "L-13-a",
+  "unit": "L",
+  "no": "13",
+  "jp": "それをもう一度説明しましょうか？",
+  "answers": [
+   "Shall I explain it once again?"
+  ],
+  "audio": "audio/L/L-13-a-.mp3",
+  "section": {
+   "title": "shall の使い方",
+   "body": "shall は主に（ A ）の主語と共に用いwill と同じ 「単純な未来」 や 「意志」 を表す。shall は古めかしいことばであり，現代英語ではShall I ...? やShall we ...? という提案の表現や，法律や契約書の条文での使用に限られる。"
+  },
+  "tags": [
+   " a) とほぼ同じ意味になるようにb) に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Shall I explain it once again?",
+  "secTitle": "shall の使い方"
+ },
+ {
+  "id": "L-13-b",
+  "unit": "L",
+  "no": "13",
+  "jp": "それをもう一度説明しましょうか？",
+  "answers": [
+   "Do you want me to explain it once again?"
+  ],
+  "audio": "audio/L/L-13-b-.mp3",
+  "tags": [
+   " a) とほぼ同じ意味になるようにb) に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Do you "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to explain it once again?"
+   }
+  ],
+  "solutions": [
+   [
+    "want",
+    "me"
+   ]
+  ],
+  "secTitle": "shall の使い方"
+ },
+ {
+  "id": "L-14",
+  "unit": "L",
+  "no": "14",
+  "jp": "クリスマスと言えば，プレゼントはどうしようか？",
+  "answers": [
+   "Speaking of Christmas, what shall we do about presents?",
+   "Speaking of Christmas, what should we do about presents?"
+  ],
+  "audio": "audio/L/L-14-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Speaking of Christmas, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " we do about presents?"
+   }
+  ],
+  "solutions": [
+   [
+    "what",
+    "shall"
+   ],
+   [
+    "what",
+    "should"
+   ]
+  ],
+  "secTitle": "shall の使い方"
+ },
+ {
+  "id": "L-15-a",
+  "unit": "L",
+  "no": "15",
+  "jp": "我々はいかなる犠牲を払ってもこの島を守る。",
+  "answers": [
+   "We shall defend our island, whatever the cost may be."
+  ],
+  "audio": "audio/L/L-15-a-.mp3",
+  "tags": [
+   "空所に同じ助動詞を入れ，各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "We ( ) defend our island, whatever the cost may be.",
+  "secTitle": "shall の使い方"
+ },
+ {
+  "id": "L-15-b",
+  "unit": "L",
+  "no": "15",
+  "jp": "天皇は日本国の象徴であり日本国民統合の象徴である。",
+  "answers": [
+   "The Emperor shall be the symbol of the State and of the unity of the people."
+  ],
+  "audio": "audio/L/L-15-b-.mp3",
+  "tags": [
+   "空所に同じ助動詞を入れ，各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "The Emperor ( ) be the symbol of the State and of the unity of the people.",
+  "secTitle": "shall の使い方"
+ },
+ {
+  "id": "L-15-c",
+  "unit": "L",
+  "no": "15",
+  "jp": "従業員は解雇の二週間前に通達を受けることとする。",
+  "answers": [
+   "Employees shall be given two weeks' notice of dismissal."
+  ],
+  "audio": "audio/L/L-15-c-.mp3",
+  "tags": [
+   "空所に同じ助動詞を入れ，各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Employees ( ) be given two weeks' notice of dismissal.",
+  "secTitle": "shall の使い方"
+ },
+ {
+  "id": "L-16",
+  "unit": "L",
+  "no": "16",
+  "jp": "上達するには時間がかかると思ったが，そうでもなかった。",
+  "answers": [
+   "I thought it would take time to get good at it, but it didn't."
+  ],
+  "audio": "audio/L/L-16-.mp3",
+  "section": {
+   "title": "would の使い方 ① ～ 未来・意志・習慣",
+   "body": "would は（述語動詞が過去形である名詞節や副詞節で）過去の時点から見た未来や過去の時点での意志を表す。また，過去の文脈で用いて過去の（ A ）を表したり，（否定形にして）拒絶や固執を表す。（ B ）（ C ）も過去の（ A ）を表すが，これは 「かつては…であった」 と現在と対比して過去の状況を述べる場合に用いる。"
+  },
+  "tags": [
+   "間違いがあれば訂正"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I thought it will take time to get good at it, but it didn't.",
+  "secTitle": "would の使い方 ① ～ 未来・意志・習慣"
+ },
+ {
+  "id": "L-17",
+  "unit": "L",
+  "no": "17",
+  "jp": "彼は私に，ずっと私のそばにいると約束しました。",
+  "answers": [
+   "He promised me that he would always be by my side."
+  ],
+  "audio": "audio/L/L-17-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He promised me that he "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " always be by my side."
+   }
+  ],
+  "solutions": [
+   [
+    "would"
+   ]
+  ],
+  "secTitle": "would の使い方 ① ～ 未来・意志・習慣"
+ },
+ {
+  "id": "L-18",
+  "unit": "L",
+  "no": "18",
+  "jp": "彼女はその洋服にいくら使ったのか私に言おうとしなかった。",
+  "answers": [
+   "She wouldn't tell me how much she'd spent on the dress."
+  ],
+  "audio": "audio/L/L-18-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " tell me how much she'd spent on the dress."
+   }
+  ],
+  "solutions": [
+   [
+    "wouldn't"
+   ]
+  ],
+  "secTitle": "would の使い方 ① ～ 未来・意志・習慣"
+ },
+ {
+  "id": "L-19",
+  "unit": "L",
+  "no": "19",
+  "jp": "彼女はいつも，通りの端まで行くと振り返り，手を振ったものでした。",
+  "answers": [
+   "She would always turn and wave at the end of the street."
+  ],
+  "audio": "audio/L/L-19-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " always turn and wave at the end of the street."
+   }
+  ],
+  "solutions": [
+   [
+    "would"
+   ]
+  ],
+  "secTitle": "would の使い方 ① ～ 未来・意志・習慣"
+ },
+ {
+  "id": "L-20",
+  "unit": "L",
+  "no": "20",
+  "jp": "昔ここには小さな映画館があったんですよ。",
+  "answers": [
+   "There used to be a small movie theater here."
+  ],
+  "audio": "audio/L/L-20-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "There "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "would",
+     "used to"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " be a small movie theater here."
+   }
+  ],
+  "solutions": [
+   [
+    "used to"
+   ]
+  ],
+  "secTitle": "would の使い方 ① ～ 未来・意志・習慣"
+ },
+ {
+  "id": "L-21",
+  "unit": "L",
+  "no": "21",
+  "jp": "君，前はタバコを吸ってなかったよね？",
+  "answers": [
+   "You didn't use to smoke, did you?"
+  ],
+  "audio": "audio/L/L-21-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "You "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " smoke, did you?"
+   }
+  ],
+  "solutions": [
+   [
+    "didn't",
+    "use",
+    "to"
+   ]
+  ],
+  "secTitle": "would の使い方 ① ～ 未来・意志・習慣"
+ },
+ {
+  "id": "L-22-a",
+  "unit": "L",
+  "no": "22",
+  "jp": "誰か私がこのテーブルを動かすのを手伝っていただけますか？",
+  "answers": [
+   "Would someone please help me move this table?"
+  ],
+  "audio": "audio/L/L-22-a-.mp3",
+  "section": {
+   "title": "would の使い方 ② ～ 婉曲・想像",
+   "body": "would は依頼，願望，主張を控え目に述べたり，（ A ）的な状況を述べるのに用いる。この用法のwould には過去の意味はない。"
+  },
+  "tags": [
+   "下線部を変えてより控え目［丁寧］な言い方にする"
+  ],
+  "sheetJp": false,
+  "type": "compose",
+  "stem": "Will someone please help me move this table?",
+  "secTitle": "would の使い方 ② ～ 婉曲・想像"
+ },
+ {
+  "id": "L-22-b",
+  "unit": "L",
+  "no": "22",
+  "jp": "パンフレットを送っていただけるとありがたいです。",
+  "answers": [
+   "I would be grateful if you would send me your brochure."
+  ],
+  "audio": "audio/L/L-22-b-.mp3",
+  "tags": [
+   "下線部を変えてより控え目［丁寧］な言い方にする"
+  ],
+  "sheetJp": false,
+  "type": "compose",
+  "stem": "I will be grateful if you will send me your brochure.",
+  "secTitle": "would の使い方 ② ～ 婉曲・想像"
+ },
+ {
+  "id": "L-22-c",
+  "unit": "L",
+  "no": "22",
+  "jp": "明日，面接に来ていただきたいのですが。",
+  "answers": [
+   "We would like you to come for an interview tomorrow."
+  ],
+  "audio": "audio/L/L-22-c-.mp3",
+  "tags": [
+   "下線部を変えてより控え目［丁寧］な言い方にする"
+  ],
+  "sheetJp": false,
+  "type": "compose",
+  "stem": "We want you to come for an interview tomorrow.",
+  "secTitle": "would の使い方 ② ～ 婉曲・想像"
+ },
+ {
+  "id": "L-23-a",
+  "unit": "L",
+  "no": "23",
+  "jp": "コーヒーは好きですか？",
+  "answers": [
+   "Do you like coffee?"
+  ],
+  "audio": "audio/L/L-23-a-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Do you like coffee?",
+  "secTitle": "would の使い方 ② ～ 婉曲・想像"
+ },
+ {
+  "id": "L-23-b",
+  "unit": "L",
+  "no": "23",
+  "jp": "コーヒーはいかがですか？",
+  "answers": [
+   "Would you like some coffee?"
+  ],
+  "audio": "audio/L/L-23-b-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Would you like some coffee?",
+  "secTitle": "would の使い方 ② ～ 婉曲・想像"
+ },
+ {
+  "id": "L-23-c",
+  "unit": "L",
+  "no": "23",
+  "jp": "私は音楽や映画の話をするのが大好きです。",
+  "answers": [
+   "I love to talk about music and movies."
+  ],
+  "audio": "audio/L/L-23-c-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "I love to talk about music and movies.",
+  "secTitle": "would の使い方 ② ～ 婉曲・想像"
+ },
+ {
+  "id": "L-23-d",
+  "unit": "L",
+  "no": "23",
+  "jp": "もう少しあなたと話がしたいのですが。",
+  "answers": [
+   "I'd love to talk to you a bit more."
+  ],
+  "audio": "audio/L/L-23-d-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "I'd love to talk to you a bit more.",
+  "secTitle": "would の使い方 ② ～ 婉曲・想像"
+ },
+ {
+  "id": "L-23-e",
+  "unit": "L",
+  "no": "23",
+  "jp": "私は映画を（吹き替えよりも）原音で見る方が好きです。",
+  "answers": [
+   "I prefer to watch movies in their original language."
+  ],
+  "audio": "audio/L/L-23-e-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "I prefer to watch movies in their original language.",
+  "secTitle": "would の使い方 ② ～ 婉曲・想像"
+ },
+ {
+  "id": "L-23-f",
+  "unit": "L",
+  "no": "23",
+  "jp": "今晩は家でビデオを見ている方がいい。",
+  "answers": [
+   "I would prefer to watch a video at home tonight."
+  ],
+  "audio": "audio/L/L-23-f-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "I would prefer to watch a video at home tonight.",
+  "secTitle": "would の使い方 ② ～ 婉曲・想像"
+ },
+ {
+  "id": "L-24",
+  "unit": "L",
+  "no": "24",
+  "jp": "「どうぞ座ってください」「いえ，立っている方がいいですから」",
+  "answers": [
+   "\"Take a seat.\" \"Thanks, I'd rather stand.\""
+  ],
+  "audio": "audio/L/L-24-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"Take a seat.\" \"Thanks, I'd "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " stand.\""
+   }
+  ],
+  "solutions": [
+   [
+    "rather"
+   ]
+  ],
+  "secTitle": "would の使い方 ② ～ 婉曲・想像"
+ },
+ {
+  "id": "L-25",
+  "unit": "L",
+  "no": "25",
+  "jp": "早めにお返事を頂けると嬉しいです。",
+  "answers": [
+   "I would appreciate a prompt reply."
+  ],
+  "audio": "audio/L/L-25-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "appreciate",
+     "would appreciate"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " a prompt reply."
+   }
+  ],
+  "solutions": [
+   [
+    "would appreciate"
+   ]
+  ],
+  "secTitle": "would の使い方 ② ～ 婉曲・想像"
+ },
+ {
+  "id": "L-26",
+  "unit": "L",
+  "no": "26",
+  "jp": "お電話をさせていただくとしたら，いつご都合がよろしいでしょうか。",
+  "answers": [
+   "When would be a good time for me to call you?"
+  ],
+  "audio": "audio/L/L-26-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "When "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " be a good time for me to call you?"
+   }
+  ],
+  "solutions": [
+   [
+    "would"
+   ]
+  ],
+  "secTitle": "would の使い方 ② ～ 婉曲・想像"
+ },
+ {
+  "id": "L-27",
+  "unit": "L",
+  "no": "27",
+  "jp": "別の状況であれば喜んでお申し出をお受けするところですが，今はできません。",
+  "answers": [
+   "Under other circumstances I would gladly accept your offer, but now I can't."
+  ],
+  "audio": "audio/L/L-27-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Under other circumstances I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " gladly accept your offer, but now I can't."
+   }
+  ],
+  "solutions": [
+   [
+    "would"
+   ]
+  ],
+  "secTitle": "would の使い方 ② ～ 婉曲・想像"
+ },
+ {
+  "id": "L-28",
+  "unit": "L",
+  "no": "28",
+  "jp": "私だったらそんなことは気にはしませんよ。",
+  "answers": [
+   "I wouldn't let it bother me too much."
+  ],
+  "audio": "audio/L/L-28-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " let it bother me too much."
+   }
+  ],
+  "solutions": [
+   [
+    "wouldn't"
+   ]
+  ],
+  "secTitle": "would の使い方 ② ～ 婉曲・想像"
+ },
+ {
+  "id": "L-29",
+  "unit": "L",
+  "no": "29",
+  "jp": "「彼女に私が思ってることを言ってやったわよ」「君のやりそうなことだ」",
+  "answers": [
+   "\"I told her what I thought of her.\" \"You would!\""
+  ],
+  "audio": "audio/L/L-29-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"I told her what I thought of her.\" \"You "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "!\""
+   }
+  ],
+  "solutions": [
+   [
+    "would"
+   ]
+  ],
+  "secTitle": "would の使い方 ② ～ 婉曲・想像"
+ },
+ {
+  "id": "L-30",
+  "unit": "L",
+  "no": "30",
+  "jp": "私の理想の伴侶は...背が高くてハンサムでお金持ちな人です。",
+  "answers": [
+   "My ideal partner would be tall, handsome, and rich."
+  ],
+  "audio": "audio/L/L-30-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "My ideal partner "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " be tall, handsome, and rich."
+   }
+  ],
+  "solutions": [
+   [
+    "would"
+   ]
+  ],
+  "secTitle": "would の使い方 ② ～ 婉曲・想像"
+ },
+ {
+  "id": "L-31-a",
+  "unit": "L",
+  "no": "31",
+  "jp": "別の方法でやってみた方がいいと思います。",
+  "answers": [
+   "I think you should try a different approach."
+  ],
+  "audio": "audio/L/L-31-a-.mp3",
+  "section": {
+   "title": "should の使い方 ① ～ 義務・必要・推量",
+   "body": "should は 「…すべきだ」（義務・必要）という意味や，「きっと…のはずだ」（推量）という意味で用いる。この場合，should の代わりに 「（ A ） to」 を用いることもある。should はまた，提案を表すShall I [we] ...? のShall の代わりに用いたり，主に一人称主語（I, we）で用いる（ B ）と同じ意味で用いることがある。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I think you "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " try a different approach."
+   }
+  ],
+  "solutions": [
+   [
+    "should"
+   ]
+  ],
+  "secTitle": "should の使い方 ① ～ 義務・必要・推量"
+ },
+ {
+  "id": "L-31-b",
+  "unit": "L",
+  "no": "31",
+  "jp": "別の方法でやってみた方がいいと思います。",
+  "answers": [
+   "I think you ought to try a different approach."
+  ],
+  "audio": "audio/L/L-31-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I think you "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " try a different approach."
+   }
+  ],
+  "solutions": [
+   [
+    "ought",
+    "to"
+   ]
+  ],
+  "secTitle": "should の使い方 ① ～ 義務・必要・推量"
+ },
+ {
+  "id": "L-32-a",
+  "unit": "L",
+  "no": "32",
+  "jp": "彼女は１時間前に出たので，今頃はもう向こう［そちら］に着いているはずです。",
+  "answers": [
+   "She left an hour ago, so she should be there by now."
+  ],
+  "audio": "audio/L/L-32-a-.mp3",
+  "tags": [
+   "should の意味に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "She left an hour ago, so she should be there by now.",
+  "secTitle": "should の使い方 ① ～ 義務・必要・推量"
+ },
+ {
+  "id": "L-32-b",
+  "unit": "L",
+  "no": "32",
+  "jp": "彼女は１時間前に出たので，まもなく向こう［そちら］に着くはずです。",
+  "answers": [
+   "She left an hour ago, so she should be there soon."
+  ],
+  "audio": "audio/L/L-32-b-.mp3",
+  "tags": [
+   "should の意味に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "She left an hour ago, so she should be there soon.",
+  "secTitle": "should の使い方 ① ～ 義務・必要・推量"
+ },
+ {
+  "id": "L-32-c",
+  "unit": "L",
+  "no": "32",
+  "jp": "これは（行うのが）難しくなかったので，ミスはしていないと思います。",
+  "answers": [
+   "This one was easy to do, so there shouldn't be any mistakes."
+  ],
+  "audio": "audio/L/L-32-c-.mp3",
+  "tags": [
+   "should の意味に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "This one was easy to do, so there shouldn't be any mistakes.",
+  "secTitle": "should の使い方 ① ～ 義務・必要・推量"
+ },
+ {
+  "id": "L-33-a",
+  "unit": "L",
+  "no": "33",
+  "jp": "エアコンを止めて窓を開けましょうか？",
+  "answers": [
+   "Shall I turn off the air conditioner and open the window?"
+  ],
+  "audio": "audio/L/L-33-a-.mp3",
+  "tags": [
+   "下線部をそれぞれほぼ同じ意味の語に置き換える"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Shall I turn off the air conditioner and open the window?",
+  "secTitle": "should の使い方 ① ～ 義務・必要・推量"
+ },
+ {
+  "id": "L-33-b",
+  "unit": "L",
+  "no": "33",
+  "jp": "彼の印象はちょっと...何と言えばいいのか...横柄なんですよ。",
+  "answers": [
+   "He came across as a bit ... how shall I put it ... arrogant."
+  ],
+  "audio": "audio/L/L-33-b-.mp3",
+  "tags": [
+   "下線部をそれぞれほぼ同じ意味の語に置き換える"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "He came across as a bit ... how shall I put it ... arrogant.",
+  "secTitle": "should の使い方 ① ～ 義務・必要・推量"
+ },
+ {
+  "id": "L-34-a",
+  "unit": "L",
+  "no": "34",
+  "jp": "私だったらそのことで心配はしませんけど。",
+  "answers": [
+   "I wouldn't worry about it if I were you.",
+   "I shouldn't worry about it if I were you."
+  ],
+  "audio": "audio/L/L-34-a-.mp3",
+  "tags": [
+   "下線部をそれぞれ同じ意味の語に置き換える"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I wouldn't worry about it if I were you.",
+  "secTitle": "should の使い方 ① ～ 義務・必要・推量"
+ },
+ {
+  "id": "L-34-b",
+  "unit": "L",
+  "no": "34",
+  "jp": "「彼女に何があったの？」「私が知るわけないでしょ？」",
+  "answers": [
+   "\"What happened to her?\" \"How would I know?\"",
+   "\"What happened to her?\" \"How should I know?\""
+  ],
+  "audio": "audio/L/L-34-b-.mp3",
+  "tags": [
+   "下線部をそれぞれ同じ意味の語に置き換える"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "\"What happened to her?\" \"How would I know?\"",
+  "secTitle": "should の使い方 ① ～ 義務・必要・推量"
+ },
+ {
+  "id": "L-35",
+  "unit": "L",
+  "no": "35",
+  "jp": "彼の妻は彼に傘を持っていくようにと強く勧めた。",
+  "answers": [
+   "His wife insisted that he should take an umbrella."
+  ],
+  "audio": "audio/L/L-35-.mp3",
+  "section": {
+   "title": "should の使い方 ② ～that 節での仮定",
+   "body": "suggest, recommend, insist のような 「提案・勧告」 を表す動詞の目的語となるthat 節や，「It is necessary [important] that 節」の形で 「こうすべきだ」 という意見を表すthat 節では助動詞の（ A ）を用いることがある。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "His wife insisted that he "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " take an umbrella."
+   }
+  ],
+  "solutions": [
+   [
+    "should"
+   ]
+  ],
+  "secTitle": "should の使い方 ② ～that 節での仮定"
+ },
+ {
+  "id": "L-36",
+  "unit": "L",
+  "no": "36",
+  "jp": "受験者は英語が流暢であることが望まれます。",
+  "answers": [
+   "It is desirable that the candidate should be fluent in English."
+  ],
+  "audio": "audio/L/L-36-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It is desirable that the candidate "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " be fluent in English."
+   }
+  ],
+  "solutions": [
+   [
+    "should"
+   ]
+  ],
+  "secTitle": "should の使い方 ② ～that 節での仮定"
+ },
+ {
+  "id": "L-37",
+  "unit": "L",
+  "no": "37",
+  "jp": "納税者がつけを払わなければならないなんて不公平だ。",
+  "answers": [
+   "It's unfair that taxpayers should have to pick up the tab."
+  ],
+  "audio": "audio/L/L-37-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It's unfair that taxpayers "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " have to pick up the tab."
+   }
+  ],
+  "solutions": [
+   [
+    "should"
+   ]
+  ],
+  "secTitle": "should の使い方 ② ～that 節での仮定"
+ },
+ {
+  "id": "L-38-a",
+  "unit": "L",
+  "no": "38",
+  "jp": "残念ながら，金曜日の集まりには参加することができません。",
+  "answers": [
+   "Unfortunately, I cannot attend Friday's get-together.",
+   "Unfortunately, I can't attend Friday's get-together."
+  ],
+  "audio": "audio/L/L-38-a-.mp3",
+  "section": {
+   "title": "can とbe able to の使い方",
+   "body": "can には 「…できる」 （能力・可能）という意味と，「…ということが（ A ）」 （可能性）という意味がある。また 「可能」 の意味から転じて 「…してもよい」 という 「許可」や 「…してもらえますか？」 という 「依頼」 の意味でも用いる。「（ B ）（ C ）（ D ）」 は「能力・可能」 の意味で用い，can(not) より改まった表現として用いたり，現在完了形や助動詞，to 不定詞を使う必要がある場合に用いる。"
+  },
+  "tags": [
+   "２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Unfortunately, I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " attend Friday's get-together."
+   }
+  ],
+  "solutions": [
+   [
+    "cannot"
+   ],
+   [
+    "can't"
+   ]
+  ],
+  "secTitle": "can とbe able to の使い方"
+ },
+ {
+  "id": "L-38-b",
+  "unit": "L",
+  "no": "38",
+  "jp": "残念ながら，金曜日の集まりには参加することができません。",
+  "answers": [
+   "Unfortunately, I am unable to attend Friday's get-together."
+  ],
+  "audio": "audio/L/L-38-b-.mp3",
+  "tags": [
+   "２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Unfortunately, I am "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to attend Friday's get-together."
+   }
+  ],
+  "solutions": [
+   [
+    "unable"
+   ]
+  ],
+  "secTitle": "can とbe able to の使い方"
+ },
+ {
+  "id": "L-39",
+  "unit": "L",
+  "no": "39",
+  "jp": "この本をやり終えればフランス語がかなり上手に話せるようになっているはずです。",
+  "answers": [
+   "After finishing this book you should be able to speak French quite well."
+  ],
+  "audio": "audio/L/L-39-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "After finishing this book you "
+   },
+   {
+    "t": "blank",
+    "hint": "s"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to speak French quite well."
+   }
+  ],
+  "solutions": [
+   [
+    "should",
+    "be",
+    "able"
+   ]
+  ],
+  "secTitle": "can とbe able to の使い方"
+ },
+ {
+  "id": "L-40",
+  "unit": "L",
+  "no": "40",
+  "jp": "その本はまだ全部読めていません。",
+  "answers": [
+   "I haven't been able to read the whole book yet."
+  ],
+  "audio": "audio/L/L-40-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to read the whole book yet."
+   }
+  ],
+  "solutions": [
+   [
+    "haven't",
+    "been",
+    "able"
+   ]
+  ],
+  "secTitle": "can とbe able to の使い方"
+ },
+ {
+  "id": "L-41",
+  "unit": "L",
+  "no": "41",
+  "jp": "誰でも犯罪者になる可能性があり，誰でも被害者になる可能性がある。",
+  "answers": [
+   "Anyone can be a criminal. Anyone can be a victim."
+  ],
+  "audio": "audio/L/L-41-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Anyone "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " be a criminal. Anyone "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " be a victim."
+   }
+  ],
+  "solutions": [
+   [
+    "can",
+    "can"
+   ]
+  ],
+  "secTitle": "can とbe able to の使い方"
+ },
+ {
+  "id": "L-42-a",
+  "unit": "L",
+  "no": "42",
+  "jp": "「冗談でしょ？」「いいえ，まじめです」",
+  "answers": [
+   "\"You can't be serious!\" \"Yes, I am.\""
+  ],
+  "audio": "audio/L/L-42-a-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "\"You can't be serious!\" \"Yes, I am.\"",
+  "secTitle": "can とbe able to の使い方"
+ },
+ {
+  "id": "L-42-b",
+  "unit": "L",
+  "no": "42",
+  "jp": "ロスで警官をするというのは決して生やさしいことではないんでしょうね。",
+  "answers": [
+   "It can't be easy being a cop in L.A., can it?"
+  ],
+  "audio": "audio/L/L-42-b-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "It can't be easy being a cop in L.A., can it?",
+  "secTitle": "can とbe able to の使い方"
+ },
+ {
+  "id": "L-43",
+  "unit": "L",
+  "no": "43",
+  "jp": "こんな時間にいったい誰から電話だろう。",
+  "answers": [
+   "Who can be calling me at this hour?"
+  ],
+  "audio": "audio/L/L-43-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Who "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " be calling me at this hour?"
+   }
+  ],
+  "solutions": [
+   [
+    "can"
+   ]
+  ],
+  "secTitle": "can とbe able to の使い方"
+ },
+ {
+  "id": "L-44-a",
+  "unit": "L",
+  "no": "44",
+  "jp": "テレビをつけてもかまいませんか？",
+  "answers": [
+   "Can I put the television on?"
+  ],
+  "audio": "audio/L/L-44-a-.mp3",
+  "tags": [
+   " a) とほぼ同じ意味になるようにb) に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Can I put the television on?",
+  "secTitle": "can とbe able to の使い方"
+ },
+ {
+  "id": "L-44-b",
+  "unit": "L",
+  "no": "44",
+  "jp": "テレビをつけてもかまいませんか？",
+  "answers": [
+   "Do you mind if I put the television on?"
+  ],
+  "audio": "audio/L/L-44-b-.mp3",
+  "tags": [
+   " a) とほぼ同じ意味になるようにb) に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Do "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " if I put the television on?"
+   }
+  ],
+  "solutions": [
+   [
+    "you",
+    "mind"
+   ]
+  ],
+  "secTitle": "can とbe able to の使い方"
+ },
+ {
+  "id": "L-45-a",
+  "unit": "L",
+  "no": "45",
+  "jp": "これを持ち上げるのを手伝ってもらえますか？",
+  "answers": [
+   "Will you help me lift this?"
+  ],
+  "audio": "audio/L/L-45-a-.mp3",
+  "tags": [
+   "どちらがより丁寧な言い方か"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Will you help me lift this?",
+  "secTitle": "can とbe able to の使い方"
+ },
+ {
+  "id": "L-45-b",
+  "unit": "L",
+  "no": "45",
+  "jp": "これを持ち上げるのを手伝ってもらえますか？",
+  "answers": [
+   "Can you help me lift this?"
+  ],
+  "audio": "audio/L/L-45-b-.mp3",
+  "tags": [
+   "どちらがより丁寧な言い方か"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Can you help me lift this?",
+  "secTitle": "can とbe able to の使い方"
+ },
+ {
+  "id": "L-46",
+  "unit": "L",
+  "no": "46",
+  "jp": "昼までにはむこうに到着できるよう早めに出発した。",
+  "answers": [
+   "We left early so we could get there by noon."
+  ],
+  "audio": "audio/L/L-46-.mp3",
+  "section": {
+   "title": "could の使い方 ① ～ 過去の能力・可能",
+   "body": "could は過去形だが通常は（ A ）を表さない。could を（ A ）の意味で用いるのは主に，（主節の）動詞が 「過去形」 である場合の名詞節や副詞節の中である。過去の文脈で用いるcould は過去の 「能力・可能」 を表すことができるが，肯定形は原則として 「しようと思えば（いつでも）可能だった」 という 「潜在的な能力や実現可能性」 を表し，ある時点で 「できた」 という 「１回きりの達成・実現」を表さない。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We left early so we "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " get there by noon."
+   }
+  ],
+  "solutions": [
+   [
+    "could"
+   ]
+  ],
+  "secTitle": "could の使い方 ① ～ 過去の能力・可能"
+ },
+ {
+  "id": "L-47",
+  "unit": "L",
+  "no": "47",
+  "jp": "奨学金のおかげで私は大学を卒業できました。",
+  "answers": [
+   "Thanks to the scholarship, I was able to graduate from university."
+  ],
+  "audio": "audio/L/L-47-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Thanks to the scholarship, I could graduate from university.",
+  "secTitle": "could の使い方 ① ～ 過去の能力・可能"
+ },
+ {
+  "id": "L-48",
+  "unit": "L",
+  "no": "48",
+  "jp": "昨晩は終電に乗れたのですか？",
+  "answers": [
+   "Were you able to catch the last train home last night?"
+  ],
+  "audio": "audio/L/L-48-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Could you catch the last train home last night?",
+  "secTitle": "could の使い方 ① ～ 過去の能力・可能"
+ },
+ {
+  "id": "L-49",
+  "unit": "L",
+  "no": "49",
+  "jp": "若い頃は徹夜をしても次の日は元気に仕事ができた。",
+  "answers": [
+   "When I was younger, I could stay up all night and still be productive the next day."
+  ],
+  "audio": "audio/L/L-49-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "When I was younger, I could stay up all night and still be productive the next day.",
+  "secTitle": "could の使い方 ① ～ 過去の能力・可能"
+ },
+ {
+  "id": "L-50",
+  "unit": "L",
+  "no": "50",
+  "jp": "私は空港の手荷物受け取り所で自分の荷物を見つけることができなかった。",
+  "answers": [
+   "I couldn't find my luggage at the airport baggage area."
+  ],
+  "audio": "audio/L/L-50-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I couldn't find my luggage at the airport baggage area.",
+  "secTitle": "could の使い方 ① ～ 過去の能力・可能"
+ },
+ {
+  "id": "L-51",
+  "unit": "L",
+  "no": "51",
+  "jp": "彼らが話しているのが見えたが，何を言っているのかは聞こえなかった。",
+  "answers": [
+   "I could see them talking but couldn't hear what they were saying."
+  ],
+  "audio": "audio/L/L-51-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I could see them talking but couldn't hear what they were saying.",
+  "secTitle": "could の使い方 ① ～ 過去の能力・可能"
+ },
+ {
+  "id": "L-52-c",
+  "unit": "L",
+  "no": "52",
+  "jp": "これのやり方を教えてもらえますか？",
+  "answers": [
+   "Could you show me how to do this?"
+  ],
+  "audio": "audio/L/L-52-c-.mp3",
+  "tags": [
+   "最も控え目［丁寧］な言い方はどれか"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Could you show me how to do this?",
+  "secTitle": "could の使い方 ① ～ 過去の能力・可能"
+ },
+ {
+  "id": "L-53",
+  "unit": "L",
+  "no": "53",
+  "jp": "「自転車をお借りしていいですか？」「ええ，いいですよ」",
+  "answers": [
+   "\"Could I borrow your bike?\" \"Yes, you can.\""
+  ],
+  "audio": "audio/L/L-53-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "\"Could I borrow your bike?\" \"Yes, you could.\"",
+  "secTitle": "could の使い方 ① ～ 過去の能力・可能"
+ },
+ {
+  "id": "L-54-a",
+  "unit": "L",
+  "no": "54",
+  "jp": "「映画に行くなんてどうかな」「いい考えだね」",
+  "answers": [
+   "\"Maybe we could go to a movie.\" \"That's a good idea.\""
+  ],
+  "audio": "audio/L/L-54-a-.mp3",
+  "tags": [
+   "各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "\"Maybe we could go to a movie.\" \"That's a good idea.\"",
+  "secTitle": "could の使い方 ① ～ 過去の能力・可能"
+ },
+ {
+  "id": "L-54-b",
+  "unit": "L",
+  "no": "54",
+  "jp": "こんな状況なら何が起きてもおかしくないだろう。",
+  "answers": [
+   "In a situation like this, anything could happen."
+  ],
+  "audio": "audio/L/L-54-b-.mp3",
+  "tags": [
+   "各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "In a situation like this, anything could happen.",
+  "secTitle": "could の使い方 ① ～ 過去の能力・可能"
+ },
+ {
+  "id": "L-54-c",
+  "unit": "L",
+  "no": "54",
+  "jp": "全部あいつのせいだ。絞め殺してやりたいぐらいだ！",
+  "answers": [
+   "It's all his fault. I could strangle him!"
+  ],
+  "audio": "audio/L/L-54-c-.mp3",
+  "tags": [
+   "各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "It's all his fault. I could strangle him!",
+  "secTitle": "could の使い方 ① ～ 過去の能力・可能"
+ },
+ {
+  "id": "L-55-a",
+  "unit": "L",
+  "no": "55",
+  "jp": "彼は最高の夫です。",
+  "answers": [
+   "I couldn't wish for a better husband."
+  ],
+  "audio": "audio/L/L-55-a-.mp3",
+  "section": {
+   "title": "ヒント： strangle 「…を絞め殺す」",
+   "body": "could の使い方 ③ ～ 反語的な口語表現「couldn't ＋（ A ）」  は 「これ［それ，今］以上…に～することなどできない［あり得ない］だろう」 から転じて 「最高に～」 「全く～」 という意味になる。この表現は主に口語で用いられる。"
+  },
+  "tags": [
+   "各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "I couldn't wish for a better husband.",
+  "secTitle": "ヒント： strangle 「…を絞め殺す」"
+ },
+ {
+  "id": "L-55-b",
+  "unit": "L",
+  "no": "55",
+  "jp": "「仕事の方は調子どう？」「もう最悪！」",
+  "answers": [
+   "\"How's your work going?\" \"Oh, it couldn't be worse!\""
+  ],
+  "audio": "audio/L/L-55-b-.mp3",
+  "tags": [
+   "各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "\"How's your work going?\" \"Oh, it couldn't be worse!\"",
+  "secTitle": "ヒント： strangle 「…を絞め殺す」"
+ },
+ {
+  "id": "L-55-c",
+  "unit": "L",
+  "no": "55",
+  "jp": "その二人の姉妹は全く正反対です。",
+  "answers": [
+   "The two sisters couldn't be more different from each other."
+  ],
+  "audio": "audio/L/L-55-c-.mp3",
+  "tags": [
+   "各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "The two sisters couldn't be more different from each other.",
+  "secTitle": "ヒント： strangle 「…を絞め殺す」"
+ },
+ {
+  "id": "L-56",
+  "unit": "L",
+  "no": "56",
+  "jp": "「彼は素晴らしい働きをしたと思うよ」「うん，全く同感だ」",
+  "answers": [
+   "\"I think he did an excellent job.\" \"Yeah, I couldn't agree more.\""
+  ],
+  "audio": "audio/L/L-56-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"I think he did an excellent job.\" \"Yeah, I couldn't agree "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "more",
+     "less"
+    ]
+   },
+   {
+    "t": "text",
+    "v": ".\""
+   }
+  ],
+  "solutions": [
+   [
+    "more"
+   ]
+  ],
+  "secTitle": "ヒント： strangle 「…を絞め殺す」"
+ },
+ {
+  "id": "L-57",
+  "unit": "L",
+  "no": "57",
+  "jp": "あいつらがどう思おうと，そんなことはどうでもいいさ。",
+  "answers": [
+   "I couldn't care less what they think!"
+  ],
+  "audio": "audio/L/L-57-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I couldn't care "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "more",
+     "less"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " what they think!"
+   }
+  ],
+  "solutions": [
+   [
+    "less"
+   ]
+  ],
+  "secTitle": "ヒント： strangle 「…を絞め殺す」"
+ },
+ {
+  "id": "L-58",
+  "unit": "L",
+  "no": "58",
+  "jp": "大袈裟に考えすぎかもしれませんが，とても心配なんです。",
+  "answers": [
+   "I may be overreacting, but I am very concerned.",
+   "I might be overreacting, but I am very concerned."
+  ],
+  "audio": "audio/L/L-58-.mp3",
+  "section": {
+   "title": "may とmight の使い方",
+   "body": "may は主に 「…かもしれない」 という 「推測」 と， 「…してもよい［差し支えない］」という 「許可・容認」 の意味で用いる。might はmay の過去形だが，過去の意味で用いるのは主節の動詞が過去形である場合の名詞節や副詞節だけで，通常はmayと同じく現在や（ A ）のことを表す。may はまた（ B ）で（疑問文と同じ語順で）用い 「…となりますように」 という祈願を表す。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " be overreacting, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " I am very concerned."
+   }
+  ],
+  "solutions": [
+   [
+    "may",
+    "but"
+   ],
+   [
+    "might",
+    "but"
+   ]
+  ],
+  "secTitle": "may とmight の使い方"
+ },
+ {
+  "id": "L-59",
+  "unit": "L",
+  "no": "59",
+  "jp": "あなたの興味を引くかどうかわかりませんが，こんなものもあります。",
+  "answers": [
+   "Here's something that may or may not interest you."
+  ],
+  "audio": "audio/L/L-59-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Here's something that "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " or "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " interest you."
+   }
+  ],
+  "solutions": [
+   [
+    "may",
+    "may",
+    "not"
+   ]
+  ],
+  "secTitle": "may とmight の使い方"
+ },
+ {
+  "id": "L-60",
+  "unit": "L",
+  "no": "60",
+  "jp": "彼女は誰かに気づかれはしないかと心配だった。",
+  "answers": [
+   "She was afraid someone might recognize her."
+  ],
+  "audio": "audio/L/L-60-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "She was afraid someone may recognize her.",
+  "secTitle": "may とmight の使い方"
+ },
+ {
+  "id": "L-61",
+  "unit": "L",
+  "no": "61",
+  "jp": "今晩は帰るのが遅くなるかもしれないよ。",
+  "answers": [
+   "I might be late coming home tonight."
+  ],
+  "audio": "audio/L/L-61-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I might be late coming home tonight.",
+  "secTitle": "may とmight の使い方"
+ },
+ {
+  "id": "L-62",
+  "unit": "L",
+  "no": "62",
+  "jp": "今日の午後は雨の可能性があるから，バーベキューはやらないかもしれない。",
+  "answers": [
+   "It may rain this afternoon, so we might not have the barbecue.",
+   "It might rain this afternoon, so we might not have the barbecue.",
+   "It could rain this afternoon, so we might not have the barbecue."
+  ],
+  "audio": "audio/L/L-62-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "It can rain this afternoon, so we might not have the barbecue.",
+  "secTitle": "may とmight の使い方"
+ },
+ {
+  "id": "L-63",
+  "unit": "L",
+  "no": "63",
+  "jp": "終わったら退室してよろしい。",
+  "answers": [
+   "You may leave the room when you're finished."
+  ],
+  "audio": "audio/L/L-63-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "You might leave the room when you're finished.",
+  "secTitle": "may とmight の使い方"
+ },
+ {
+  "id": "L-64",
+  "unit": "L",
+  "no": "64",
+  "jp": "「それを使ってもいいですか？」「だめです」「だめな理由を伺っていいですか？」",
+  "answers": [
+   "\"May I use it?\" \"No, you may not.\" \"Can I ask why not?\""
+  ],
+  "audio": "audio/L/L-64-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"May I use it?\" \"No, you "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": ".\" \"Can I ask why not?\""
+   }
+  ],
+  "solutions": [
+   [
+    "may",
+    "not"
+   ]
+  ],
+  "secTitle": "may とmight の使い方"
+ },
+ {
+  "id": "L-65",
+  "unit": "L",
+  "no": "65",
+  "jp": "幸せな結婚生活をお祈りいたしております。",
+  "answers": [
+   "May you have a very happy married life!"
+  ],
+  "audio": "audio/L/L-65-.mp3",
+  "tags": [
+   "並べ替え"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "order",
+    "words": [
+     "have",
+     "you",
+     "may"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " a very happy married life!"
+   }
+  ],
+  "solutions": [
+   [
+    "May you have"
+   ]
+  ],
+  "secTitle": "may とmight の使い方"
+ },
+ {
+  "id": "L-66",
+  "unit": "L",
+  "no": "66",
+  "jp": "会社の電話を個人的な用事で使ってはいけません。",
+  "answers": [
+   "You must not use the office phone for personal calls."
+  ],
+  "audio": "audio/L/L-66-.mp3",
+  "section": {
+   "title": "must の使い方",
+   "body": "must には 「…しなければならない」 という 「義務・必要」 の意味と， 「きっと…だろう［…のはずだ］」 という 「推量」 の意味とがある。must の否定形は 「（ A ）」 という 「禁止」 を意味する。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "You "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " use the office phone for personal calls."
+   }
+  ],
+  "solutions": [
+   [
+    "must",
+    "not"
+   ]
+  ],
+  "secTitle": "must の使い方"
+ },
+ {
+  "id": "L-67",
+  "unit": "L",
+  "no": "67",
+  "jp": "ロンドンを訪れた時は是非うちにお立ち寄りください。",
+  "answers": [
+   "You must come and see me when you are in London!"
+  ],
+  "audio": "audio/L/L-67-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "You "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " come and see me when you are in London!"
+   }
+  ],
+  "solutions": [
+   [
+    "must"
+   ]
+  ],
+  "secTitle": "must の使い方"
+ },
+ {
+  "id": "L-68",
+  "unit": "L",
+  "no": "68",
+  "jp": "「あっどうも，電気工事の方ですね」「はい，そうです」",
+  "answers": [
+   "\"Oh, hi, you must be the electrician.\" \"That's right.\""
+  ],
+  "audio": "audio/L/L-68-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"Oh, hi, you "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " be the electrician.\" \"That's right.\""
+   }
+  ],
+  "solutions": [
+   [
+    "must"
+   ]
+  ],
+  "secTitle": "must の使い方"
+ },
+ {
+  "id": "L-69",
+  "unit": "L",
+  "no": "69",
+  "jp": "きっと太ってきてるんだわ。このズボン，少しきつい。",
+  "answers": [
+   "I must be getting fat―these pants are a little tight."
+  ],
+  "audio": "audio/L/L-69-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I should be getting fat―these pants are a little tight.",
+  "secTitle": "must の使い方"
+ },
+ {
+  "id": "L-70",
+  "unit": "L",
+  "no": "70",
+  "jp": "そんなはずがないよ。君はきっと思い違いをしているんだ。",
+  "answers": [
+   "That can't be true. You must be mistaken."
+  ],
+  "audio": "audio/L/L-70-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "That mustn't be true. You must be mistaken.",
+  "secTitle": "must の使い方"
+ },
+ {
+  "id": "L-71-a",
+  "unit": "L",
+  "no": "71",
+  "jp": "あっ，それで思い出した。メールをチェックしなくちゃ。",
+  "answers": [
+   "Which reminds me, I have to check my email."
+  ],
+  "audio": "audio/L/L-71-a-.mp3",
+  "section": {
+   "title": "have to の使い方",
+   "body": "have to はmust と同じ意味で，must より（ A ）な表現である。have to のhave は動詞なので，否定形や疑問形は一般動詞の場合と同じになる。くだけた会話ではhave to の代わりに 「have （ B ） to」 を用いることが多い。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Which reminds me, I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " check my email."
+   }
+  ],
+  "solutions": [
+   [
+    "have",
+    "to"
+   ]
+  ],
+  "secTitle": "have to の使い方"
+ },
+ {
+  "id": "L-71-b",
+  "unit": "L",
+  "no": "71",
+  "jp": "あっ，それで思い出した。メールをチェックしなくちゃ。",
+  "answers": [
+   "Which reminds me, I've got to check my email."
+  ],
+  "audio": "audio/L/L-71-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Which reminds me, I've "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " check my email."
+   }
+  ],
+  "solutions": [
+   [
+    "got",
+    "to"
+   ]
+  ],
+  "secTitle": "have to の使い方"
+ },
+ {
+  "id": "L-72",
+  "unit": "L",
+  "no": "72",
+  "jp": "子供の入館は無料です。",
+  "answers": [
+   "Children don't have to pay to go in."
+  ],
+  "audio": "audio/L/L-72-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Children "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " pay to go in."
+   }
+  ],
+  "solutions": [
+   [
+    "don't",
+    "have",
+    "to"
+   ]
+  ],
+  "secTitle": "have to の使い方"
+ },
+ {
+  "id": "L-73",
+  "unit": "L",
+  "no": "73",
+  "jp": "これは今日中に終えなければならないのですか？",
+  "answers": [
+   "Do I have to finish this today?"
+  ],
+  "audio": "audio/L/L-73-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " finish this today?"
+   }
+  ],
+  "solutions": [
+   [
+    "Do",
+    "I",
+    "have",
+    "to"
+   ]
+  ],
+  "secTitle": "have to の使い方"
+ },
+ {
+  "id": "L-74",
+  "unit": "L",
+  "no": "74",
+  "jp": "今までに子供に体罰を与えなければならなかったことは一度もありません。",
+  "answers": [
+   "I have never had to spank my children."
+  ],
+  "audio": "audio/L/L-74-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I have never "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " spank my children."
+   }
+  ],
+  "solutions": [
+   [
+    "had",
+    "to"
+   ]
+  ],
+  "secTitle": "have to の使い方"
+ },
+ {
+  "id": "L-75",
+  "unit": "L",
+  "no": "75",
+  "jp": "上司はそれを秘密にしておくようにと言った。",
+  "answers": [
+   "My boss said that I must keep it a secret."
+  ],
+  "audio": "audio/L/L-75-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "My boss said that I must keep it a secret.",
+  "secTitle": "have to の使い方"
+ },
+ {
+  "id": "L-76",
+  "unit": "L",
+  "no": "76",
+  "jp": "きっとそれが彼らがずっと成功している理由なんだろうね。",
+  "answers": [
+   "That has to be the reason for their continued success."
+  ],
+  "audio": "audio/L/L-76-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "That "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the reason for their continued success."
+   }
+  ],
+  "solutions": [
+   [
+    "has",
+    "to",
+    "be"
+   ]
+  ],
+  "secTitle": "have to の使い方"
+ },
+ {
+  "id": "L-77",
+  "unit": "L",
+  "no": "77",
+  "jp": "その問題に関しては何も行う必要はない。",
+  "answers": [
+   "Nothing needs to be done about the problem.",
+   "Nothing need be done about the problem."
+  ],
+  "audio": "audio/L/L-77-.mp3",
+  "section": {
+   "title": "need とdare の使い方",
+   "body": "need とdare は動詞と助動詞で用いる。助動詞のneed には現在形しかなく，主に（ A ）文と疑問文で用いる。 dare は 「あえて［大胆にも］…する」 という意味で，助動詞で用いる場合はneed と同様，主に（ A ）文と疑問文で用いる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Nothing needs be done about the problem.",
+  "secTitle": "need とdare の使い方"
+ },
+ {
+  "id": "L-78-a",
+  "unit": "L",
+  "no": "78",
+  "jp": "ミスすることを恐れる必要はない。",
+  "answers": [
+   "You don't have to be afraid of making mistakes."
+  ],
+  "audio": "audio/L/L-78-a-.mp3",
+  "tags": [
+   "各文の下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "You don't have to be afraid of making mistakes.",
+  "secTitle": "need とdare の使い方"
+ },
+ {
+  "id": "L-78-b",
+  "unit": "L",
+  "no": "78",
+  "jp": "ミスすることを恐れる必要はない。",
+  "answers": [
+   "You don't need to be afraid of making mistakes."
+  ],
+  "audio": "audio/L/L-78-b-.mp3",
+  "tags": [
+   "各文の下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "You don't need to be afraid of making mistakes.",
+  "secTitle": "need とdare の使い方"
+ },
+ {
+  "id": "L-78-c",
+  "unit": "L",
+  "no": "78",
+  "jp": "ミスすることを恐れる必要はない。",
+  "answers": [
+   "You need not be afraid of making mistakes."
+  ],
+  "audio": "audio/L/L-78-c-.mp3",
+  "tags": [
+   "各文の下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "You need not to be afraid of making mistakes.",
+  "secTitle": "need とdare の使い方"
+ },
+ {
+  "id": "L-79",
+  "unit": "L",
+  "no": "79",
+  "jp": "「これにサインをするのですか？」「いいえ，その必要はありません」",
+  "answers": [
+   "\"Must I sign this?\" \"No, you needn't.\""
+  ],
+  "audio": "audio/L/L-79-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "\"Must I sign this?\" \"No, you needn't.\"",
+  "secTitle": "need とdare の使い方"
+ },
+ {
+  "id": "L-80",
+  "unit": "L",
+  "no": "80",
+  "jp": "彼はハンサムで面白くて頭がいいのよ。まだ何か付け加える必要ある？",
+  "answers": [
+   "He is handsome, funny, and intelligent. Need I say more?"
+  ],
+  "audio": "audio/L/L-80-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He is handsome, funny, and intelligent. "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " say more?"
+   }
+  ],
+  "solutions": [
+   [
+    "Need",
+    "I"
+   ]
+  ],
+  "secTitle": "need とdare の使い方"
+ },
+ {
+  "id": "L-81",
+  "unit": "L",
+  "no": "81",
+  "jp": "「よくそんな口の利き方ができるな」「自分だって何でもずけずけと言うくせに」",
+  "answers": [
+   "\"How dare you speak to me that way!\" \"Well, you get to say whatever you want.\""
+  ],
+  "audio": "audio/L/L-81-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"How "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " speak to me that way!\" \"Well, you get to say whatever you want.\""
+   }
+  ],
+  "solutions": [
+   [
+    "dare",
+    "you"
+   ]
+  ],
+  "secTitle": "need とdare の使い方"
+ },
+ {
+  "id": "L-82",
+  "unit": "L",
+  "no": "82",
+  "jp": "僕の言ったことを彼女にしゃべったら承知しないぞ！",
+  "answers": [
+   "Don't you dare tell her what I said!"
+  ],
+  "audio": "audio/L/L-82-.mp3",
+  "tags": [
+   "並べ替え"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Don't "
+   },
+   {
+    "t": "order",
+    "words": [
+     "tell",
+     "dare",
+     "you",
+     "her"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " what I said!"
+   }
+  ],
+  "solutions": [
+   [
+    "you dare tell her"
+   ]
+  ],
+  "secTitle": "need とdare の使い方"
+ },
+ {
+  "id": "L-83",
+  "unit": "L",
+  "no": "83",
+  "jp": "それを言ったかもしれないけど，正直覚えていないんです。",
+  "answers": [
+   "I might have said that, but honestly I don't remember."
+  ],
+  "audio": "audio/L/L-83-.mp3",
+  "section": {
+   "title": "助動詞の完了形",
+   "body": "「推量」 の助動詞やshould などを 「過去」 の意味にする場合は，助動詞の後ろを「（ A ）＋（ B ）」 にする。この形は 「現在完了」 の意味も表す。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I might say that, but honestly I don't remember.",
+  "secTitle": "助動詞の完了形"
+ },
+ {
+  "id": "L-84",
+  "unit": "L",
+  "no": "84",
+  "jp": "もうお気づきかもしれませんが，私は大のジャズファンなんですよ。",
+  "answers": [
+   "As you may have noticed by now, I'm a big fan of jazz."
+  ],
+  "audio": "audio/L/L-84-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "As you may notice by now, I'm a big fan of jazz.",
+  "secTitle": "助動詞の完了形"
+ },
+ {
+  "id": "L-85",
+  "unit": "L",
+  "no": "85",
+  "jp": "（やり方次第では）もっとうまくいったかもしれないが，我々は精一杯頑張った。",
+  "answers": [
+   "It could have been better, but we did our best."
+  ],
+  "audio": "audio/L/L-85-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "It could have been better, but we did our best.",
+  "secTitle": "助動詞の完了形"
+ },
+ {
+  "id": "L-86-b",
+  "unit": "L",
+  "no": "86",
+  "jp": "職場に置き忘れたということはないはずだ。帰りの電車では持ってたから。",
+  "answers": [
+   "I can't have left it at work because I had it on the train home."
+  ],
+  "audio": "audio/L/L-86-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I can't have left it at work because I had it on the train home.",
+  "secTitle": "助動詞の完了形"
+ },
+ {
+  "id": "L-86-c",
+  "unit": "L",
+  "no": "86",
+  "jp": "職場に置き忘れたということはないはずだ。帰りの電車では持ってたから。",
+  "answers": [
+   "I couldn't have left it at work because I had it on the train home."
+  ],
+  "audio": "audio/L/L-86-c-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I couldn't have left it at work because I had it on the train home.",
+  "secTitle": "助動詞の完了形"
+ },
+ {
+  "id": "L-87",
+  "unit": "L",
+  "no": "87",
+  "jp": "正直，あの時は本当にがっかりしたよ。",
+  "answers": [
+   "Frankly, I couldn't have been more disappointed."
+  ],
+  "audio": "audio/L/L-87-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Frankly, I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " have been more disappointed."
+   }
+  ],
+  "solutions": [
+   [
+    "couldn't"
+   ]
+  ],
+  "secTitle": "助動詞の完了形"
+ },
+ {
+  "id": "L-88",
+  "unit": "L",
+  "no": "88",
+  "jp": "彼らがそれをしたのにはそれなりの理由があったに違いない。",
+  "answers": [
+   "They must have had a good reason to do it."
+  ],
+  "audio": "audio/L/L-88-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "They "
+   },
+   {
+    "t": "blank",
+    "hint": "m"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " a good reason to do it."
+   }
+  ],
+  "solutions": [
+   [
+    "must",
+    "have",
+    "had"
+   ]
+  ],
+  "secTitle": "助動詞の完了形"
+ },
+ {
+  "id": "L-89",
+  "unit": "L",
+  "no": "89",
+  "jp": "ネットで前もって予約しておくべきだったね。",
+  "answers": [
+   "We should have made a reservation through the Internet."
+  ],
+  "audio": "audio/L/L-89-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " made a reservation through the Internet."
+   }
+  ],
+  "solutions": [
+   [
+    "should",
+    "have"
+   ]
+  ],
+  "secTitle": "助動詞の完了形"
+ },
+ {
+  "id": "L-90",
+  "unit": "L",
+  "no": "90",
+  "jp": "ごめん，笑っちゃいけなかったよね。",
+  "answers": [
+   "I'm sorry, I shouldn't have laughed."
+  ],
+  "audio": "audio/L/L-90-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'm sorry, I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " laughed."
+   }
+  ],
+  "solutions": [
+   [
+    "shouldn't",
+    "have"
+   ]
+  ],
+  "secTitle": "助動詞の完了形"
+ },
+ {
+  "id": "L-91",
+  "unit": "L",
+  "no": "91",
+  "jp": "手紙はもう先方に届いているはずなんだが，まだ読んでくれていないのかもしれない。",
+  "answers": [
+   "My letter should have gotten there by now, but they might not have read it."
+  ],
+  "audio": "audio/L/L-91-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "My letter "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " gotten there by now, but they might "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " it."
+   }
+  ],
+  "solutions": [
+   [
+    "should",
+    "have",
+    "not",
+    "have",
+    "read"
+   ]
+  ],
+  "secTitle": "助動詞の完了形"
+ },
+ {
+  "id": "L-92",
+  "unit": "L",
+  "no": "92",
+  "jp": "卵は買う必要なかったのに。冷蔵庫にたくさんあるんだから。",
+  "answers": [
+   "You needn't have bought eggs. We have a lot in the fridge."
+  ],
+  "audio": "audio/L/L-92-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "You "
+   },
+   {
+    "t": "blank",
+    "hint": "n"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " eggs. We have a lot in the fridge."
+   }
+  ],
+  "solutions": [
+   [
+    "needn't",
+    "have",
+    "bought"
+   ]
+  ],
+  "secTitle": "助動詞の完了形"
+ },
+ {
+  "id": "L-93-a",
+  "unit": "L",
+  "no": "93",
+  "jp": "コミュニケーションで最も大切なことは，語られていないことを聞くことである。",
+  "answers": [
+   "The most important thing in communication is to hear what isn't being said."
+  ],
+  "audio": "audio/L/L-93-a-.mp3",
+  "section": {
+   "title": "be to の使い方",
+   "body": "be 動詞の後ろに置かれるto不定詞は 「…すること」（名詞用法）や 「（ A ）」（副詞用法）という意味になるが，「be 動詞＋to」 を一語の助動詞のように用いることもある。その場合，「be 動詞＋to」 は 「…することになっている」（予定）， 「…しなければならない」（義務・命令），「やがて…することになる」（成り行き・運命），「…されることはなかった」（不達成）などの意味になる。"
+  },
+  "tags": [
+   "to 不定詞の用法に注意して全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "The most important thing in communication is to hear what isn't being said.",
+  "secTitle": "be to の使い方"
+ },
+ {
+  "id": "L-93-b",
+  "unit": "L",
+  "no": "93",
+  "jp": "これは，契約期間終了に際して，我々に契約を更新する意志がないことをあなたに通知するためのものです。",
+  "answers": [
+   "This is to notify you that we do not intend to renew the contract when it expires."
+  ],
+  "audio": "audio/L/L-93-b-.mp3",
+  "tags": [
+   "to 不定詞の用法に注意して全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "This is to notify you that we do not intend to renew the contract when it expires.",
+  "secTitle": "be to の使い方"
+ },
+ {
+  "id": "L-94-a",
+  "unit": "L",
+  "no": "94",
+  "jp": "大統領は明日声明を出す予定です。",
+  "answers": [
+   "The President is to make a statement tomorrow."
+  ],
+  "audio": "audio/L/L-94-a-.mp3",
+  "tags": [
+   "下線部の助動詞の用法に注意して全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "The President is to make a statement tomorrow.",
+  "secTitle": "be to の使い方"
+ },
+ {
+  "id": "L-94-b",
+  "unit": "L",
+  "no": "94",
+  "jp": "そこへ一人で行けばいいのですか，それとも駅で待てばいいのですか？",
+  "answers": [
+   "Am I to go there alone or wait at the station?"
+  ],
+  "audio": "audio/L/L-94-b-.mp3",
+  "tags": [
+   "下線部の助動詞の用法に注意して全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Am I to go there alone or wait at the station?",
+  "secTitle": "be to の使い方"
+ },
+ {
+  "id": "L-94-c",
+  "unit": "L",
+  "no": "94",
+  "jp": "君は隅っこに座って黙っていなさい。",
+  "answers": [
+   "You are to sit in the corner and keep quiet."
+  ],
+  "audio": "audio/L/L-94-c-.mp3",
+  "tags": [
+   "下線部の助動詞の用法に注意して全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "You are to sit in the corner and keep quiet.",
+  "secTitle": "be to の使い方"
+ },
+ {
+  "id": "L-94-d",
+  "unit": "L",
+  "no": "94",
+  "jp": "40年後，私は彼とパリで再会することになる。",
+  "answers": [
+   "Forty years later I was to see him again in Paris."
+  ],
+  "audio": "audio/L/L-94-d-.mp3",
+  "tags": [
+   "下線部の助動詞の用法に注意して全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Forty years later I was to see him again in Paris.",
+  "secTitle": "be to の使い方"
+ },
+ {
+  "id": "L-94-e",
+  "unit": "L",
+  "no": "94",
+  "jp": "彼らはあらゆる場所を捜したが，何も見つからなかった。",
+  "answers": [
+   "They searched everywhere, but nothing was to be found."
+  ],
+  "audio": "audio/L/L-94-e-.mp3",
+  "tags": [
+   "下線部の助動詞の用法に注意して全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "They searched everywhere, but nothing was to be found.",
+  "secTitle": "be to の使い方"
+ },
+ {
+  "id": "L-95",
+  "unit": "L",
+  "no": "95",
+  "jp": "この職業で成功を収めようと思ったら，昼夜を問わず働く覚悟が必要だ。",
+  "answers": [
+   "You have to be willing to work night and day if you are to make it in this profession."
+  ],
+  "audio": "audio/L/L-95-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "You have to be willing to work night and day "
+   },
+   {
+    "t": "order",
+    "words": [
+     "if",
+     "you",
+     "make",
+     "are",
+     "it",
+     "to"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " in this profession."
+   }
+  ],
+  "solutions": [
+   [
+    "if you are to make it"
+   ]
+  ],
+  "secTitle": "be to の使い方"
+ },
+ {
+  "id": "L-96",
+  "unit": "L",
+  "no": "96",
+  "jp": "君達，ちょっとだけ静かにしててちょうだい。",
+  "answers": [
+   "Boys, do be quiet one minute!"
+  ],
+  "audio": "audio/L/L-96-.mp3",
+  "section": {
+   "title": "強調の do の使い方",
+   "body": "助動詞として用いるdo は疑問文や否定文を作る文法的な働き以外に，「ぜひ…」と命令文を強調したり，「確かに…」 「実際に…」 と事実を強調する働きがある。"
+  },
+  "tags": [
+   "please 以外の適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Boys, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " be quiet one minute!"
+   }
+  ],
+  "solutions": [
+   [
+    "do"
+   ]
+  ],
+  "secTitle": "強調の do の使い方"
+ },
+ {
+  "id": "L-97",
+  "unit": "L",
+  "no": "97",
+  "jp": "彼女の名前は覚えていないのですが，顔は覚えています。",
+  "answers": [
+   "I don't remember her name, but I do remember what she looked like."
+  ],
+  "audio": "audio/L/L-97-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I don't remember her name, but I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " remember what she looked like."
+   }
+  ],
+  "solutions": [
+   [
+    "do"
+   ]
+  ],
+  "secTitle": "強調の do の使い方"
+ },
+ {
+  "id": "L-98",
+  "unit": "L",
+  "no": "98",
+  "jp": "（どこかで）持っていたことは確かなんですが，なくしてしまったんですね，きっと。",
+  "answers": [
+   "I did have it somewhere but I must have lost it."
+  ],
+  "audio": "audio/L/L-98-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " have it somewhere but I must have lost it."
+   }
+  ],
+  "solutions": [
+   [
+    "did"
+   ]
+  ],
+  "secTitle": "強調の do の使い方"
+ }
+]

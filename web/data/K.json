@@ -1,0 +1,2705 @@
+[
+ {
+  "id": "K-01-a",
+  "unit": "K",
+  "no": "01",
+  "jp": "妻はパーティーに出席したが，私は出席しなかった。",
+  "answers": [
+   "My wife went to the party, but I didn't."
+  ],
+  "audio": "audio/K/K-01-a-.mp3",
+  "section": {
+   "title": "副詞節の基本",
+   "body": "文全体が「副詞」の働きをして動詞（句）や文を修飾するものを「副詞節」と呼ぶ。副詞節は 「（ A ）＋ 文」 によって作られる。副詞節は原則として修飾する動詞（句）や文の 「前」 と 「後」 の両方に置くことができる。"
+  },
+  "tags": [
+   "下線部が副詞節なのはどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "My wife went to the party, but I didn't.",
+  "secTitle": "副詞節の基本"
+ },
+ {
+  "id": "K-01-b",
+  "unit": "K",
+  "no": "01",
+  "jp": "私は行きます。行きたくはないんですけどね。",
+  "answers": [
+   "I'll go, though I don't want to."
+  ],
+  "audio": "audio/K/K-01-b-.mp3",
+  "tags": [
+   "下線部が副詞節なのはどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I'll go, though I don't want to.",
+  "secTitle": "副詞節の基本"
+ },
+ {
+  "id": "K-01-c",
+  "unit": "K",
+  "no": "01",
+  "jp": "私の祈りはいつ聞き届けられるのだろうか。",
+  "answers": [
+   "I wonder when my prayers will be answered."
+  ],
+  "audio": "audio/K/K-01-c-.mp3",
+  "tags": [
+   "下線部が副詞節なのはどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I wonder when my prayers will be answered.",
+  "secTitle": "副詞節の基本"
+ },
+ {
+  "id": "K-01-d",
+  "unit": "K",
+  "no": "01",
+  "jp": "持ち金を全部使い果たしたので，家に帰るしかなかった。",
+  "answers": [
+   "I spent all my money, so I had to go home."
+  ],
+  "audio": "audio/K/K-01-d-.mp3",
+  "tags": [
+   "下線部が副詞節なのはどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I spent all my money, so I had to go home.",
+  "secTitle": "副詞節の基本"
+ },
+ {
+  "id": "K-01-e",
+  "unit": "K",
+  "no": "01",
+  "jp": "風邪を引かないように暖かい服装にしなさい。",
+  "answers": [
+   "Dress warmly so you won't catch cold."
+  ],
+  "audio": "audio/K/K-01-e-.mp3",
+  "tags": [
+   "下線部が副詞節なのはどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Dress warmly so you won't catch cold.",
+  "secTitle": "副詞節の基本"
+ },
+ {
+  "id": "K-01-f",
+  "unit": "K",
+  "no": "01",
+  "jp": "ご不在でしたので，伝言を残しておきました。",
+  "answers": [
+   "As you weren't in, I left a message."
+  ],
+  "audio": "audio/K/K-01-f-.mp3",
+  "tags": [
+   "下線部が副詞節なのはどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "As you weren't in, I left a message.",
+  "secTitle": "副詞節の基本"
+ },
+ {
+  "id": "K-01-g",
+  "unit": "K",
+  "no": "01",
+  "jp": "警察は彼を釈放した。なぜなら彼には完璧なアリバイがあったからだ。",
+  "answers": [
+   "The police let him go, for he had a perfect alibi."
+  ],
+  "audio": "audio/K/K-01-g-.mp3",
+  "tags": [
+   "下線部が副詞節なのはどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "The police let him go, for he had a perfect alibi.",
+  "secTitle": "副詞節の基本"
+ },
+ {
+  "id": "K-02-a",
+  "unit": "K",
+  "no": "02",
+  "jp": "先日ケビンから電話がありました。",
+  "answers": [
+   "I had a phone call from Kevin the other day."
+  ],
+  "audio": "audio/K/K-02-a-.mp3",
+  "section": {
+   "title": "「時」 の副詞（句）と副詞節",
+   "body": "「時」 を表す 「副詞句」 の多くは 「（ A ）＋名詞」 や 「（ A ）＋動名詞」 で表すが， 「（ A ）＋名詞」 の場合は（ A ）を省略することが多い。時を表す 「副詞節」 を作る従位接続詞にはwhen, while, before, after, since, as, as soon as などがあるが，before, after, since, until [till], as などは （ A ）としても用いる。時を表す副詞節では現在から見た未来のことを（ B ）で表し，過去の一時点から見た未来のことを（ C ）で表す。by the time, the second, now that のような 「（前置詞＋）先行詞（＋関係副詞）」 も全体を一つの従位接続詞と見なすことができる。"
+  },
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I had a phone call from Kevin on the other day.",
+  "secTitle": "「時」 の副詞（句）と副詞節"
+ },
+ {
+  "id": "K-02-b",
+  "unit": "K",
+  "no": "02",
+  "jp": "教育委員会は明日の夜会合を開きます。",
+  "answers": [
+   "The school board will meet tomorrow night."
+  ],
+  "audio": "audio/K/K-02-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "The school board will meet on tomorrow night.",
+  "secTitle": "「時」 の副詞（句）と副詞節"
+ },
+ {
+  "id": "K-02-c",
+  "unit": "K",
+  "no": "02",
+  "jp": "中に入るのに３時間列に並んで待たなければならなかった。",
+  "answers": [
+   "I had to wait three hours in line to get in."
+  ],
+  "audio": "audio/K/K-02-c-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I had to wait three hours in line to get in.",
+  "secTitle": "「時」 の副詞（句）と副詞節"
+ },
+ {
+  "id": "K-02-d",
+  "unit": "K",
+  "no": "02",
+  "jp": "試験の前の夜は十分な睡眠を取りましょう。",
+  "answers": [
+   "Get a good night's sleep the night before the exam."
+  ],
+  "audio": "audio/K/K-02-d-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Get a good night's sleep the night before the exam.",
+  "secTitle": "「時」 の副詞（句）と副詞節"
+ },
+ {
+  "id": "K-02-e",
+  "unit": "K",
+  "no": "02",
+  "jp": "ある晩私は彼女の所に行ったが，彼女は外出していた。",
+  "answers": [
+   "One evening I visited her but found she was out."
+  ],
+  "audio": "audio/K/K-02-e-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "One evening I visited her but found she was out.",
+  "secTitle": "「時」 の副詞（句）と副詞節"
+ },
+ {
+  "id": "K-02-f",
+  "unit": "K",
+  "no": "02",
+  "jp": "彼はその日２ゴールを挙げました。",
+  "answers": [
+   "He scored two goals that day."
+  ],
+  "audio": "audio/K/K-02-f-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "He scored two goals that day.",
+  "secTitle": "「時」 の副詞（句）と副詞節"
+ },
+ {
+  "id": "K-02-g",
+  "unit": "K",
+  "no": "02",
+  "jp": "彼は６月19日にソウルに戻ってきた。",
+  "answers": [
+   "He returned to Seoul June 19."
+  ],
+  "audio": "audio/K/K-02-g-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "He returned to Seoul June 19.",
+  "secTitle": "「時」 の副詞（句）と副詞節"
+ },
+ {
+  "id": "K-03",
+  "unit": "K",
+  "no": "03",
+  "jp": "10代の頃あなたはどんな少年［少女］でしたか？",
+  "answers": [
+   "What were you like as a teenager?"
+  ],
+  "audio": "audio/K/K-03-.mp3",
+  "tags": [
+   "適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "What were you like "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " a teenager?"
+   }
+  ],
+  "solutions": [
+   [
+    "as"
+   ]
+  ],
+  "secTitle": "「時」 の副詞（句）と副詞節"
+ },
+ {
+  "id": "K-04",
+  "unit": "K",
+  "no": "04",
+  "jp": "上京してから10回以上仕事の面接を受けました。",
+  "answers": [
+   "Since arriving in Tokyo, I have had more than 10 job interviews."
+  ],
+  "audio": "audio/K/K-04-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Since arriving in Tokyo, I have had more than 10 job interviews.",
+  "secTitle": "「時」 の副詞（句）と副詞節"
+ },
+ {
+  "id": "K-05",
+  "unit": "K",
+  "no": "05",
+  "jp": "次の電車を待つ間，私は彼らと一緒に晩ご飯を食べた。",
+  "answers": [
+   "I ate dinner with them while waiting for the next train."
+  ],
+  "audio": "audio/K/K-05-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I ate dinner with them while waiting for the next train.",
+  "secTitle": "「時」 の副詞（句）と副詞節"
+ },
+ {
+  "id": "K-06",
+  "unit": "K",
+  "no": "06",
+  "jp": "あの人の下で働いている間は僕の昇進はないよ。",
+  "answers": [
+   "I'll never get promoted while he's in charge."
+  ],
+  "audio": "audio/K/K-06-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I'll never get promoted during he's in charge.",
+  "secTitle": "「時」 の副詞（句）と副詞節"
+ },
+ {
+  "id": "K-07",
+  "unit": "K",
+  "no": "07",
+  "jp": "雨が降り出さないうちに帰ろう。",
+  "answers": [
+   "Let's go home before it starts raining."
+  ],
+  "audio": "audio/K/K-07-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Let's go home while it doesn't start raining.",
+  "secTitle": "「時」 の副詞（句）と副詞節"
+ },
+ {
+  "id": "K-08",
+  "unit": "K",
+  "no": "08",
+  "jp": "彼は二十歳までには世界的な名声を獲得していた。",
+  "answers": [
+   "By the time he was twenty, he had already achieved worldwide fame."
+  ],
+  "audio": "audio/K/K-08-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Until he was twenty, he had already achieved worldwide fame.",
+  "secTitle": "「時」 の副詞（句）と副詞節"
+ },
+ {
+  "id": "K-09",
+  "unit": "K",
+  "no": "09",
+  "jp": "年を取るにつれて，彼はいっそう頑固になった。",
+  "answers": [
+   "As he grew older, he became more obstinate."
+  ],
+  "audio": "audio/K/K-09-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " he grew older, he became more obstinate."
+   }
+  ],
+  "solutions": [
+   [
+    "As"
+   ]
+  ],
+  "secTitle": "「時」 の副詞（句）と副詞節"
+ },
+ {
+  "id": "K-10",
+  "unit": "K",
+  "no": "10",
+  "jp": "彼女は私より数年前に入社しました。",
+  "answers": [
+   "She joined the company several years before I did."
+  ],
+  "audio": "audio/K/K-10-.mp3",
+  "tags": [
+   "並べ替え"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She joined the company "
+   },
+   {
+    "t": "order",
+    "words": [
+     "before",
+     "did",
+     "I",
+     "several years"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "several years before I did"
+   ]
+  ],
+  "secTitle": "「時」 の副詞（句）と副詞節"
+ },
+ {
+  "id": "K-11",
+  "unit": "K",
+  "no": "11",
+  "jp": "着いて５分もしないうちにジミーは 「（これから）毎年ここに来れる？」 と尋ねた。",
+  "answers": [
+   "We hadn't been there five minutes when Jimmy asked, \"Can we come here every year?\""
+  ],
+  "audio": "audio/K/K-11-.mp3",
+  "tags": [
+   "全文を自然な日本語で和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "We hadn't been there five minutes when Jimmy asked, \"Can we come here every year?\"",
+  "secTitle": "「時」 の副詞（句）と副詞節"
+ },
+ {
+  "id": "K-12-a",
+  "unit": "K",
+  "no": "12",
+  "jp": "私がここへ来る時はいつでも雨が降ります。",
+  "answers": [
+   "Whenever I come here, it rains."
+  ],
+  "audio": "audio/K/K-12-a-.mp3",
+  "tags": [
+   "適語を記入し２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " I come here, it rains."
+   }
+  ],
+  "solutions": [
+   [
+    "Whenever"
+   ]
+  ],
+  "secTitle": "「時」 の副詞（句）と副詞節"
+ },
+ {
+  "id": "K-12-b",
+  "unit": "K",
+  "no": "12",
+  "jp": "私がここへ来る時はいつでも雨が降ります。",
+  "answers": [
+   "Every time I come here, it rains.",
+   "Each time I come here, it rains."
+  ],
+  "audio": "audio/K/K-12-b-.mp3",
+  "tags": [
+   "適語を記入し２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " I come here, it rains."
+   }
+  ],
+  "solutions": [
+   [
+    "Every",
+    "time"
+   ],
+   [
+    "Each",
+    "time"
+   ]
+  ],
+  "secTitle": "「時」 の副詞（句）と副詞節"
+ },
+ {
+  "id": "K-13",
+  "unit": "K",
+  "no": "13",
+  "jp": "コーヒー１杯の料金で好きなだけいられます。",
+  "answers": [
+   "For the price of a cup of coffee you can stay as long as you like."
+  ],
+  "audio": "audio/K/K-13-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "For the price of a cup of coffee you can stay "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " you like."
+   }
+  ],
+  "solutions": [
+   [
+    "as",
+    "long",
+    "as"
+   ]
+  ],
+  "secTitle": "「時」 の副詞（句）と副詞節"
+ },
+ {
+  "id": "K-14",
+  "unit": "K",
+  "no": "14",
+  "jp": "もし時間通りそちらに着けなかったら，私抜きで先に始めてください。",
+  "answers": [
+   "If I'm not there on time, please start without me."
+  ],
+  "audio": "audio/K/K-14-.mp3",
+  "section": {
+   "title": "「条件」 の副詞節",
+   "body": "「条件」 を表す副詞節を作る従位接続詞には，if， unless， as ( A ) as，provided などがある。「条件」 の副詞節では 「時」 の副詞節と同様に，単純な未来の行為や出来事を（ B ）形で表す。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "If I won't be there on time, please start without me.",
+  "secTitle": "「条件」 の副詞節"
+ },
+ {
+  "id": "K-15",
+  "unit": "K",
+  "no": "15",
+  "jp": "時間通りに着かない場合は，当方にご連絡ください。",
+  "answers": [
+   "If you will not arrive on time, please let us know."
+  ],
+  "audio": "audio/K/K-15-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "If you will not arrive on time, please let us know.",
+  "secTitle": "「条件」 の副詞節"
+ },
+ {
+  "id": "K-16-a",
+  "unit": "K",
+  "no": "16",
+  "jp": "どうしても私達を中に入れないというのなら，力ずくで中に入るしかないかもしれません。",
+  "answers": [
+   "If you won't let us in, we may have to force our way in."
+  ],
+  "audio": "audio/K/K-16-a-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "If you won't let us in, we may have to force our way in.",
+  "secTitle": "「条件」 の副詞節"
+ },
+ {
+  "id": "K-16-b",
+  "unit": "K",
+  "no": "16",
+  "jp": "そのままお待ちいただけましたら，スミスがいるかどうか確認いたします。",
+  "answers": [
+   "If you will hold the line, I'll see if Mr. Smith is in."
+  ],
+  "audio": "audio/K/K-16-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "If you will hold the line, I'll see if Mr. Smith is in.",
+  "secTitle": "「条件」 の副詞節"
+ },
+ {
+  "id": "K-17",
+  "unit": "K",
+  "no": "17",
+  "jp": "お決まりになりましたらベルを押してください。（そうすると）ウェイターかウェイトレスがご注文を聞きに参ります。",
+  "answers": [
+   "When you are ready to order, press the bell, and a waiter or waitress will take your order."
+  ],
+  "audio": "audio/K/K-17-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "choice",
+    "options": [
+     "When",
+     "If"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " you are ready to order, press the bell, and a waiter or waitress will take your order."
+   }
+  ],
+  "solutions": [
+   [
+    "When"
+   ]
+  ],
+  "secTitle": "「条件」 の副詞節"
+ },
+ {
+  "id": "K-18",
+  "unit": "K",
+  "no": "18",
+  "jp": "それは一度始めてしまえば，あとは楽なんですよ。",
+  "answers": [
+   "It will be easier once you've started."
+  ],
+  "audio": "audio/K/K-18-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It will be easier "
+   },
+   {
+    "t": "blank",
+    "hint": "o"
+   },
+   {
+    "t": "text",
+    "v": " you've started."
+   }
+  ],
+  "solutions": [
+   [
+    "once"
+   ]
+  ],
+  "secTitle": "「条件」 の副詞節"
+ },
+ {
+  "id": "K-19",
+  "unit": "K",
+  "no": "19",
+  "jp": "たとえハンサムではないとしても，少なくとも彼はお金持ちだ。",
+  "answers": [
+   "If he is not handsome, at least he is rich.",
+   "Even if he is not handsome, at least he is rich."
+  ],
+  "audio": "audio/K/K-19-.mp3",
+  "tags": [
+   "下線部を２語で言い換え，全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "If he is not handsome, at least he is rich.",
+  "secTitle": "「条件」 の副詞節"
+ },
+ {
+  "id": "K-20",
+  "unit": "K",
+  "no": "20",
+  "jp": "彼が謝らない限り，私は彼を許しません。",
+  "answers": [
+   "Unless he apologizes, I won't forgive him."
+  ],
+  "audio": "audio/K/K-20-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " he apologizes, I won't forgive him."
+   }
+  ],
+  "solutions": [
+   [
+    "Unless"
+   ]
+  ],
+  "secTitle": "「条件」 の副詞節"
+ },
+ {
+  "id": "K-21-b",
+  "unit": "K",
+  "no": "21",
+  "jp": "彼がアカデミー賞を獲らなかったら驚きというくらい素晴らしい演技でした。",
+  "answers": [
+   "It was so good I'll be surprised if he doesn't win the Oscar for it."
+  ],
+  "audio": "audio/K/K-21-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "It was so good I'll be surprised if he doesn't win the Oscar for it.",
+  "secTitle": "「条件」 の副詞節"
+ },
+ {
+  "id": "K-22",
+  "unit": "K",
+  "no": "22",
+  "jp": "彼らが幸福で満ち足りてさえいれば，子供達が何の仕事をしていてもかまいません。",
+  "answers": [
+   "I don't care what my kids do as long as they are happy and fulfilled."
+  ],
+  "audio": "audio/K/K-22-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I don't care what my kids do as "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " as they are happy and fulfilled."
+   }
+  ],
+  "solutions": [
+   [
+    "long"
+   ]
+  ],
+  "secTitle": "「条件」 の副詞節"
+ },
+ {
+  "id": "K-23",
+  "unit": "K",
+  "no": "23",
+  "jp": "５時までにそちらに到着するはずです。あくまで道に迷わなければですが。",
+  "answers": [
+   "We should be at your place by five, provided we don't get lost."
+  ],
+  "audio": "audio/K/K-23-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We should be at your place by five, "
+   },
+   {
+    "t": "blank",
+    "hint": "p"
+   },
+   {
+    "t": "text",
+    "v": " we don't get lost."
+   }
+  ],
+  "solutions": [
+   [
+    "provided"
+   ]
+  ],
+  "secTitle": "「条件」 の副詞節"
+ },
+ {
+  "id": "K-24",
+  "unit": "K",
+  "no": "24",
+  "jp": "もし時間通りに戻れなかった時は，犬の散歩をお願いね。",
+  "answers": [
+   "Please walk the dog in case I don't come back on time."
+  ],
+  "audio": "audio/K/K-24-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Please walk the dog in "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " I don't come back on time."
+   }
+  ],
+  "solutions": [
+   [
+    "case"
+   ]
+  ],
+  "secTitle": "「条件」 の副詞節"
+ },
+ {
+  "id": "K-25",
+  "unit": "K",
+  "no": "25",
+  "jp": "「なぜその学校にしたのですか？」「授業料が安くてクラスが少人数だからです」",
+  "answers": [
+   "\"Why did you choose that school?\" \"Because the fees are low and the classes are small.\""
+  ],
+  "audio": "audio/K/K-25-.mp3",
+  "section": {
+   "title": "「理由・原因」 の副詞節",
+   "body": "「理由」や「原因」 を表す副詞節を作る従位接続詞にはbecause， since，as がある。相手が知らない（と思われる）理由は（ A ）で示し，相手が知っている（と思われる）理由は（ B ）で示す。（ C ）はやや堅い表現で理由を補足的に述べるのに用いる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "\"Why did you choose that school?\" \"Since the fees are low and the classes are small.\"",
+  "secTitle": "「理由・原因」 の副詞節"
+ },
+ {
+  "id": "K-26",
+  "unit": "K",
+  "no": "26",
+  "jp": "僕はミランの勝利を願っている。そうすれば50ユーロ儲かるからね。",
+  "answers": [
+   "I hope Milan will win, because then I would win 50 euros."
+  ],
+  "audio": "audio/K/K-26-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I hope Milan will win. Because then I would win 50 euros.",
+  "secTitle": "「理由・原因」 の副詞節"
+ },
+ {
+  "id": "K-27",
+  "unit": "K",
+  "no": "27",
+  "jp": "私があなたの彼女だからといって大目に見ると思ったら大間違いよ。",
+  "answers": [
+   "Just because I'm your girlfriend, that doesn't mean I'll go easy on you!"
+  ],
+  "audio": "audio/K/K-27-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Just as I'm your girlfriend, that doesn't mean I'll go easy on you!",
+  "secTitle": "「理由・原因」 の副詞節"
+ },
+ {
+  "id": "K-28-a",
+  "unit": "K",
+  "no": "28",
+  "jp": "戻ると直ちにベッドに入った。とにかく疲れていたのだ。",
+  "answers": [
+   "As soon as I returned I went to bed, as I was very tired."
+  ],
+  "audio": "audio/K/K-28-a-.mp3",
+  "tags": [
+   "because, since, as の中から適語を記入。同じ語は２度使用しない"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "As soon as I returned I went to bed, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " I was very tired."
+   }
+  ],
+  "solutions": [
+   [
+    "as"
+   ]
+  ],
+  "secTitle": "「理由・原因」 の副詞節"
+ },
+ {
+  "id": "K-28-b",
+  "unit": "K",
+  "no": "28",
+  "jp": "君がそうではないと思うのなら，それは君の考えが間違っているからだ。",
+  "answers": [
+   "If you think otherwise, it's because your thinking is wrong."
+  ],
+  "audio": "audio/K/K-28-b-.mp3",
+  "tags": [
+   "because, since, as の中から適語を記入。同じ語は２度使用しない"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "If you think otherwise, it's "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " your thinking is wrong."
+   }
+  ],
+  "solutions": [
+   [
+    "because"
+   ]
+  ],
+  "secTitle": "「理由・原因」 の副詞節"
+ },
+ {
+  "id": "K-28-c",
+  "unit": "K",
+  "no": "28",
+  "jp": "（あなた）ここにいるんだから，手を貸してくれたっていいんじゃない？",
+  "answers": [
+   "Since you are here, you might as well give me a hand."
+  ],
+  "audio": "audio/K/K-28-c-.mp3",
+  "tags": [
+   "because, since, as の中から適語を記入。同じ語は２度使用しない"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " you are here, you might as well give me a hand."
+   }
+  ],
+  "solutions": [
+   [
+    "Since"
+   ]
+  ],
+  "secTitle": "「理由・原因」 の副詞節"
+ },
+ {
+  "id": "K-29",
+  "unit": "K",
+  "no": "29",
+  "jp": "まあ，君だから許すよ。",
+  "answers": [
+   "I'll let you off, seeing as it's you."
+  ],
+  "audio": "audio/K/K-29-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'll let you off, "
+   },
+   {
+    "t": "blank",
+    "hint": "s"
+   },
+   {
+    "t": "text",
+    "v": " as it's you."
+   }
+  ],
+  "solutions": [
+   [
+    "seeing"
+   ]
+  ],
+  "secTitle": "「理由・原因」 の副詞節"
+ },
+ {
+  "id": "K-30-a",
+  "unit": "K",
+  "no": "30",
+  "jp": "彼らは就職先を見つけやすくするよう，英語の学習をしている。",
+  "answers": [
+   "They are learning English so that they can find jobs more easily."
+  ],
+  "audio": "audio/K/K-30-a-.mp3",
+  "section": {
+   "title": "「目的・準備」 の副詞節",
+   "body": "「～するように」 という 「目的」 の副詞節を作る従位接続詞にはso that がある。この表現の（ A ）は会話では省略することが多い。また，フォーマルな言い方として 「in （ B ） that」 を用いることもある。「～した場合に備えて」 という「準備」 の副詞節は  「in （ C ）」 という従位接続詞で表すことができる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "They are learning English "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " that they "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " find jobs more easily."
+   }
+  ],
+  "solutions": [
+   [
+    "so",
+    "can"
+   ]
+  ],
+  "secTitle": "「目的・準備」 の副詞節"
+ },
+ {
+  "id": "K-30-b",
+  "unit": "K",
+  "no": "30",
+  "jp": "彼らは就職先を見つけやすくするよう，英語の学習をしている。",
+  "answers": [
+   "They are learning English in order that they can find jobs more easily.",
+   "They are learning English in order that they may find jobs more easily."
+  ],
+  "audio": "audio/K/K-30-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "They are learning English in "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " that they "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " find jobs more easily."
+   }
+  ],
+  "solutions": [
+   [
+    "order",
+    "can"
+   ],
+   [
+    "order",
+    "may"
+   ]
+  ],
+  "secTitle": "「目的・準備」 の副詞節"
+ },
+ {
+  "id": "K-31",
+  "unit": "K",
+  "no": "31",
+  "jp": "中に誰か人がいると思わせるために明かりをつけておいた。",
+  "answers": [
+   "I left the light on so that people would think there was someone in."
+  ],
+  "audio": "audio/K/K-31-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I left the light on "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " people "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " think there was someone in."
+   }
+  ],
+  "solutions": [
+   [
+    "so",
+    "that",
+    "would"
+   ]
+  ],
+  "secTitle": "「目的・準備」 の副詞節"
+ },
+ {
+  "id": "K-32",
+  "unit": "K",
+  "no": "32",
+  "jp": "彼女は私に心配をかけないようにそう言っているだけなんです。",
+  "answers": [
+   "She is just saying that so I won't worry.",
+   "She is just saying that so I don't worry."
+  ],
+  "audio": "audio/K/K-32-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She is just saying that "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " worry."
+   }
+  ],
+  "solutions": [
+   [
+    "so",
+    "won't"
+   ],
+   [
+    "so",
+    "don't"
+   ]
+  ],
+  "secTitle": "「目的・準備」 の副詞節"
+ },
+ {
+  "id": "K-33",
+  "unit": "K",
+  "no": "33",
+  "jp": "君からの連絡が受けられるように携帯電話を持って行くよ。",
+  "answers": [
+   "I'll take my cellphone with me in case you need to give me a call."
+  ],
+  "audio": "audio/K/K-33-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'll take my cellphone with me in "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " you need to give me a call."
+   }
+  ],
+  "solutions": [
+   [
+    "case"
+   ]
+  ],
+  "secTitle": "「目的・準備」 の副詞節"
+ },
+ {
+  "id": "K-34",
+  "unit": "K",
+  "no": "34",
+  "jp": "ほんと暑くてぐったりするよ。",
+  "answers": [
+   "It's so hot I feel quite low."
+  ],
+  "audio": "audio/K/K-34-.mp3",
+  "section": {
+   "title": "「程度・結果」 の副詞節",
+   "body": "「～するほど…」 という 「程度」 や 「とても…なので～」 という 「結果」 は 「so ... that～」 や 「such ... that ～」 で表す。前者は原則として 「...」 部分に形容詞か（ A ）を置き，後者は「...」 部分に 「（ B ）＋（ C ）」 を置く。前者のthat は会話ではしばしば省略される。後者のthat も省略が可能だが前者ほど一般的ではない。後者は（ B ）だけ，もしくは 「（ B ）＋（ C ）」 全体を省略することがある。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It's "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " hot I feel quite low."
+   }
+  ],
+  "solutions": [
+   [
+    "so"
+   ]
+  ],
+  "secTitle": "「程度・結果」 の副詞節"
+ },
+ {
+  "id": "K-35-a",
+  "unit": "K",
+  "no": "35",
+  "jp": "とてもよい天気だったので一日中公園で過ごした。",
+  "answers": [
+   "It was such lovely weather that we spent the whole day in the park."
+  ],
+  "audio": "audio/K/K-35-a-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "It was so lovely weather that we spent the whole day in the park.",
+  "secTitle": "「程度・結果」 の副詞節"
+ },
+ {
+  "id": "K-35-b",
+  "unit": "K",
+  "no": "35",
+  "jp": "私達には非常に多くの選択肢があって，一つのことに集中し続けるのは容易でない。",
+  "answers": [
+   "We have so many choices that we are distracted from things easily."
+  ],
+  "audio": "audio/K/K-35-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "We have so many choices that we are distracted from things easily.",
+  "secTitle": "「程度・結果」 の副詞節"
+ },
+ {
+  "id": "K-35-c",
+  "unit": "K",
+  "no": "35",
+  "jp": "それは今まで誰にも解けていないほどの難問です。",
+  "answers": [
+   "It is so difficult a problem that it hasn't been solved up to now."
+  ],
+  "audio": "audio/K/K-35-c-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "It is so difficult a problem that it hasn't been solved up to now.",
+  "secTitle": "「程度・結果」 の副詞節"
+ },
+ {
+  "id": "K-36",
+  "unit": "K",
+  "no": "36",
+  "jp": "彼は気絶しそうになるほどのショックを受けた。",
+  "answers": [
+   "He got such a shock that he nearly passed out."
+  ],
+  "audio": "audio/K/K-36-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "He got such a shock that he nearly passed out.",
+  "secTitle": "「程度・結果」 の副詞節"
+ },
+ {
+  "id": "K-37",
+  "unit": "K",
+  "no": "37",
+  "jp": "生活にかかる費用は大半の世帯が共働きをしなければならないほどです。",
+  "answers": [
+   "The cost of living is such that most families need a second income."
+  ],
+  "audio": "audio/K/K-37-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The cost of living is "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " that most families need a second income."
+   }
+  ],
+  "solutions": [
+   [
+    "such"
+   ]
+  ],
+  "secTitle": "「程度・結果」 の副詞節"
+ },
+ {
+  "id": "K-38",
+  "unit": "K",
+  "no": "38",
+  "jp": "重厚なカーテンが両方の窓を覆っていたので，誰が中にいるのかわからなかった。",
+  "answers": [
+   "Heavy curtains covered both windows, so that it was impossible to see who was inside."
+  ],
+  "audio": "audio/K/K-38-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Heavy curtains covered both windows, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " that it was impossible to see who was inside."
+   }
+  ],
+  "solutions": [
+   [
+    "so"
+   ]
+  ],
+  "secTitle": "「程度・結果」 の副詞節"
+ },
+ {
+  "id": "K-39",
+  "unit": "K",
+  "no": "39",
+  "jp": "全てそのままにしておくのが一番だと思います。",
+  "answers": [
+   "It would be best to leave everything as it is."
+  ],
+  "audio": "audio/K/K-39-.mp3",
+  "section": {
+   "title": "「方法・様態」 の副詞節",
+   "body": "「～のように」 という「方法」「様態」 の副詞節を作る従位接続詞には as がある。くだけた言い方では，as の代わりに（ A ）や the （ B ） を用いる。また，「まるで～かのように」 と言う場合は（ C ）（ D ）を用いる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It would be best to leave everything "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " it "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "as",
+    "is"
+   ]
+  ],
+  "secTitle": "「方法・様態」 の副詞節"
+ },
+ {
+  "id": "K-40",
+  "unit": "K",
+  "no": "40",
+  "jp": "ご存じのように，私はモンスター映画が大好きなんです。",
+  "answers": [
+   "As you know, I'm a big fan of monster movies."
+  ],
+  "audio": "audio/K/K-40-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " you know, I'm a big fan of monster movies."
+   }
+  ],
+  "solutions": [
+   [
+    "As"
+   ]
+  ],
+  "secTitle": "「方法・様態」 の副詞節"
+ },
+ {
+  "id": "K-41-a",
+  "unit": "K",
+  "no": "41",
+  "jp": "ライオンが百獣の王であるように，鷹は鳥の王である。",
+  "answers": [
+   "As the lion is the king of beasts, the eagle is the king of birds."
+  ],
+  "audio": "audio/K/K-41-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the lion is the king of beasts, the eagle is the king of birds."
+   }
+  ],
+  "solutions": [
+   [
+    "As"
+   ]
+  ],
+  "secTitle": "「方法・様態」 の副詞節"
+ },
+ {
+  "id": "K-41-b",
+  "unit": "K",
+  "no": "41",
+  "jp": "ライオンが百獣の王であるように，鷹は鳥の王である。",
+  "answers": [
+   "The eagle is the king of birds, as the lion is the king of beasts."
+  ],
+  "audio": "audio/K/K-41-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The eagle is the king of birds, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the lion is the king of beasts."
+   }
+  ],
+  "solutions": [
+   [
+    "as"
+   ]
+  ],
+  "secTitle": "「方法・様態」 の副詞節"
+ },
+ {
+  "id": "K-42",
+  "unit": "K",
+  "no": "42",
+  "jp": "彼は決して私のしたいようにやらせてはくれません。",
+  "answers": [
+   "He never lets me do things the way I want to do them."
+  ],
+  "audio": "audio/K/K-42-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He never lets me do things the "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " I want to do them."
+   }
+  ],
+  "solutions": [
+   [
+    "way"
+   ]
+  ],
+  "secTitle": "「方法・様態」 の副詞節"
+ },
+ {
+  "id": "K-43",
+  "unit": "K",
+  "no": "43",
+  "jp": "彼女は寝起きのような声をしていました。",
+  "answers": [
+   "She sounded like she had just woken up."
+  ],
+  "audio": "audio/K/K-43-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She sounded "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " she had just woken up."
+   }
+  ],
+  "solutions": [
+   [
+    "like"
+   ]
+  ],
+  "secTitle": "「方法・様態」 の副詞節"
+ },
+ {
+  "id": "K-44",
+  "unit": "K",
+  "no": "44",
+  "jp": "彼の叔母は彼を自分の息子のように可愛がった。",
+  "answers": [
+   "His aunt loved him as if he was her own son.",
+   "His aunt loved him as though he was her own son."
+  ],
+  "audio": "audio/K/K-44-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "His aunt loved him "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " he was her own son."
+   }
+  ],
+  "solutions": [
+   [
+    "as",
+    "if"
+   ],
+   [
+    "as",
+    "though"
+   ]
+  ],
+  "secTitle": "「方法・様態」 の副詞節"
+ },
+ {
+  "id": "K-45-a",
+  "unit": "K",
+  "no": "45",
+  "jp": "彼はとても疲れていたが，私を車で家まで送ると言った。",
+  "answers": [
+   "Although he was very tired, he offered to drive me home."
+  ],
+  "audio": "audio/K/K-45-a-.mp3",
+  "section": {
+   "title": "「譲歩・対比」 の副詞節",
+   "body": "「～だけれども」 という 「譲歩」 の副詞節を作る従位接続詞にはalthough や( A ），even （ A ），（ B ）がある。「形容詞＋（ C ）＋主語＋動詞」 という表現も譲歩を表す。（ B ）は 「～である一方で」 という 「対比・対照」 の意味でも用いる。"
+  },
+  "tags": [
+   "間違いはどれか"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Although he was very tired, he offered to drive me home.",
+  "secTitle": "「譲歩・対比」 の副詞節"
+ },
+ {
+  "id": "K-46-a",
+  "unit": "K",
+  "no": "46",
+  "jp": "それはとても儲かります。幾分リスクはありますが。",
+  "answers": [
+   "It is highly profitable, though there are certain risks involved."
+  ],
+  "audio": "audio/K/K-46-a-.mp3",
+  "tags": [
+   "間違いはどれか"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "It is highly profitable, though there are certain risks involved.",
+  "secTitle": "「譲歩・対比」 の副詞節"
+ },
+ {
+  "id": "K-46-b",
+  "unit": "K",
+  "no": "46",
+  "jp": "それはとても儲かります。幾分リスクはありますが。",
+  "answers": [
+   "It is highly profitable. There are certain risks involved, though."
+  ],
+  "audio": "audio/K/K-46-b-.mp3",
+  "tags": [
+   "間違いはどれか"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "It is highly profitable. There are certain risks involved, though.",
+  "secTitle": "「譲歩・対比」 の副詞節"
+ },
+ {
+  "id": "K-47-a",
+  "unit": "K",
+  "no": "47",
+  "jp": "たとえ彼が好きではなくても，礼儀正しくするぐらいのことはできるでしょ。",
+  "answers": [
+   "Even though you don't like him, you can still be polite."
+  ],
+  "audio": "audio/K/K-47-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Even though you don't like him, you can still be polite.",
+  "secTitle": "「譲歩・対比」 の副詞節"
+ },
+ {
+  "id": "K-47-b",
+  "unit": "K",
+  "no": "47",
+  "jp": "たとえ彼が好きではなくても，礼儀正しくするぐらいのことはできるでしょ。",
+  "answers": [
+   "Even if you don't like him, you can still be polite."
+  ],
+  "audio": "audio/K/K-47-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Even if you don't like him, you can still be polite.",
+  "secTitle": "「譲歩・対比」 の副詞節"
+ },
+ {
+  "id": "K-48-a",
+  "unit": "K",
+  "no": "48",
+  "jp": "彼は若いのに，自分のことは自分で決められるほどしっかりしていた。",
+  "answers": [
+   "Young though he was, he was mature enough to make his own decision."
+  ],
+  "audio": "audio/K/K-48-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank",
+    "hint": "t"
+   },
+   {
+    "t": "text",
+    "v": " he was, he was mature enough to make his own decision."
+   }
+  ],
+  "solutions": [
+   [
+    "Young",
+    "though"
+   ]
+  ],
+  "secTitle": "「譲歩・対比」 の副詞節"
+ },
+ {
+  "id": "K-48-b",
+  "unit": "K",
+  "no": "48",
+  "jp": "彼は若いのに，自分のことは自分で決められるほどしっかりしていた。",
+  "answers": [
+   "As young as he was, he was mature enough to make his own decision."
+  ],
+  "audio": "audio/K/K-48-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " young "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " he was, he was mature enough to make his own decision."
+   }
+  ],
+  "solutions": [
+   [
+    "As",
+    "as"
+   ]
+  ],
+  "secTitle": "「譲歩・対比」 の副詞節"
+ },
+ {
+  "id": "K-48-c",
+  "unit": "K",
+  "no": "48",
+  "jp": "彼は若いのに，自分のことは自分で決められるほどしっかりしていた。",
+  "answers": [
+   "Young as he was, he was mature enough to make his own decision."
+  ],
+  "audio": "audio/K/K-48-c-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank",
+    "hint": "a"
+   },
+   {
+    "t": "text",
+    "v": " he was, he was mature enough to make his own decision."
+   }
+  ],
+  "solutions": [
+   [
+    "Young",
+    "as"
+   ]
+  ],
+  "secTitle": "「譲歩・対比」 の副詞節"
+ },
+ {
+  "id": "K-49",
+  "unit": "K",
+  "no": "49",
+  "jp": "私個人としては基本的に賛成ですが，今すぐ結論を出さない方がよいと思います。",
+  "answers": [
+   "While I agree in principle, we should let it sit overnight."
+  ],
+  "audio": "audio/K/K-49-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank",
+    "hint": "W"
+   },
+   {
+    "t": "text",
+    "v": " I agree in principle, we should let it sit overnight."
+   }
+  ],
+  "solutions": [
+   [
+    "While"
+   ]
+  ],
+  "secTitle": "「譲歩・対比」 の副詞節"
+ },
+ {
+  "id": "K-50",
+  "unit": "K",
+  "no": "50",
+  "jp": "一部の人がどんどん金持ちになり，一方で多くの人がどんどん貧しくなっていった。",
+  "answers": [
+   "Some people were getting richer and richer, while many others were getting poorer and poorer.",
+   "Some people were getting richer and richer, whereas many others were getting poorer and poorer."
+  ],
+  "audio": "audio/K/K-50-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Some people were getting richer and richer, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " many others were getting poorer and poorer."
+   }
+  ],
+  "solutions": [
+   [
+    "while"
+   ],
+   [
+    "whereas"
+   ]
+  ],
+  "secTitle": "「譲歩・対比」 の副詞節"
+ },
+ {
+  "id": "K-51-a",
+  "unit": "K",
+  "no": "51",
+  "jp": "成功するしないはあまり重要なことではない。",
+  "answers": [
+   "Whether you succeed or not is of little importance."
+  ],
+  "audio": "audio/K/K-51-a-.mp3",
+  "section": {
+   "title": "「無関係」 の副詞節",
+   "body": "「～であろうと…であろうと関係なく」 という副詞節は 「（ A ）～ or …」 で表すことができる。また， 「何を［誰が，どのように，etc.］～するかに関係なく」 という副詞節は 「（ B ）（ C ）＋間接疑問文」 で表すか，疑問詞にever をつけてwhatever，whoever，however のようにして表す。"
+  },
+  "tags": [
+   "下線部の節の種類に気をつけて全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Whether you succeed or not is of little importance.",
+  "secTitle": "「無関係」 の副詞節"
+ },
+ {
+  "id": "K-51-b",
+  "unit": "K",
+  "no": "51",
+  "jp": "成功してもしなくても，その経験から学びなさい。",
+  "answers": [
+   "Whether you succeed or not, learn from the experience."
+  ],
+  "audio": "audio/K/K-51-b-.mp3",
+  "tags": [
+   "下線部の節の種類に気をつけて全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Whether you succeed or not, learn from the experience.",
+  "secTitle": "「無関係」 の副詞節"
+ },
+ {
+  "id": "K-52",
+  "unit": "K",
+  "no": "52",
+  "jp": "そこへ行くのには，車であれ電車であれ，約３時間かかる。",
+  "answers": [
+   "The trip, whether by car or by train, takes about three hours."
+  ],
+  "audio": "audio/K/K-52-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The trip, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " by car "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " by train, takes about three hours."
+   }
+  ],
+  "solutions": [
+   [
+    "whether",
+    "or"
+   ]
+  ],
+  "secTitle": "「無関係」 の副詞節"
+ },
+ {
+  "id": "K-53",
+  "unit": "K",
+  "no": "53",
+  "jp": "好むと好まざるとに関わらず，契約の条件は遵守せねばなりません。",
+  "answers": [
+   "Like it or not, you have to honor the terms of the contract."
+  ],
+  "audio": "audio/K/K-53-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " it "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": ", you have to honor the terms of the contract."
+   }
+  ],
+  "solutions": [
+   [
+    "Like",
+    "or",
+    "not"
+   ]
+  ],
+  "secTitle": "「無関係」 の副詞節"
+ },
+ {
+  "id": "K-54-a",
+  "unit": "K",
+  "no": "54",
+  "jp": "私が何を言っても彼は反対の意見を言います。",
+  "answers": [
+   "No matter what I say, he disagrees."
+  ],
+  "audio": "audio/K/K-54-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "No "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " I say, he disagrees."
+   }
+  ],
+  "solutions": [
+   [
+    "matter",
+    "what"
+   ]
+  ],
+  "secTitle": "「無関係」 の副詞節"
+ },
+ {
+  "id": "K-54-b",
+  "unit": "K",
+  "no": "54",
+  "jp": "私が何を言っても彼は反対の意見を言います。",
+  "answers": [
+   "Whatever I say, he disagrees."
+  ],
+  "audio": "audio/K/K-54-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " I say, he disagrees."
+   }
+  ],
+  "solutions": [
+   [
+    "Whatever"
+   ]
+  ],
+  "secTitle": "「無関係」 の副詞節"
+ },
+ {
+  "id": "K-55-a",
+  "unit": "K",
+  "no": "55",
+  "jp": "誰に聞いても答えは同じだ。",
+  "answers": [
+   "No matter whom you ask, the answer is the same.",
+   "No matter who you ask, the answer is the same."
+  ],
+  "audio": "audio/K/K-55-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "No "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " you ask, the answer is the same."
+   }
+  ],
+  "solutions": [
+   [
+    "matter",
+    "whom"
+   ],
+   [
+    "matter",
+    "who"
+   ]
+  ],
+  "secTitle": "「無関係」 の副詞節"
+ },
+ {
+  "id": "K-55-b",
+  "unit": "K",
+  "no": "55",
+  "jp": "誰に聞いても答えは同じだ。",
+  "answers": [
+   "Whomever you ask, the answer is the same.",
+   "Whoever you ask, the answer is the same."
+  ],
+  "audio": "audio/K/K-55-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " you ask, the answer is the same."
+   }
+  ],
+  "solutions": [
+   [
+    "Whomever"
+   ],
+   [
+    "Whoever"
+   ]
+  ],
+  "secTitle": "「無関係」 の副詞節"
+ },
+ {
+  "id": "K-56-a",
+  "unit": "K",
+  "no": "56",
+  "jp": "人はどれだけお金持ちになっても，もっとお金を稼ぎたいと思うようです。",
+  "answers": [
+   "No matter how rich people are, they always seem anxious to make more."
+  ],
+  "audio": "audio/K/K-56-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "No "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " rich people are, they always seem anxious to make more."
+   }
+  ],
+  "solutions": [
+   [
+    "matter",
+    "how"
+   ]
+  ],
+  "secTitle": "「無関係」 の副詞節"
+ },
+ {
+  "id": "K-56-b",
+  "unit": "K",
+  "no": "56",
+  "jp": "人はどれだけお金持ちになっても，もっとお金を稼ぎたいと思うようです。",
+  "answers": [
+   "However rich people are, they always seem anxious to make more."
+  ],
+  "audio": "audio/K/K-56-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " rich people are, they always seem anxious to make more."
+   }
+  ],
+  "solutions": [
+   [
+    "However"
+   ]
+  ],
+  "secTitle": "「無関係」 の副詞節"
+ },
+ {
+  "id": "K-57-a",
+  "unit": "K",
+  "no": "57",
+  "jp": "それはどう見ても難しい問題です。",
+  "answers": [
+   "No matter how you look at it, it's a difficult problem."
+  ],
+  "audio": "audio/K/K-57-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "No "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " you look at it, it's a difficult problem."
+   }
+  ],
+  "solutions": [
+   [
+    "matter",
+    "how"
+   ]
+  ],
+  "secTitle": "「無関係」 の副詞節"
+ },
+ {
+  "id": "K-57-b",
+  "unit": "K",
+  "no": "57",
+  "jp": "それはどう見ても難しい問題です。",
+  "answers": [
+   "However you look at it, it's a difficult problem."
+  ],
+  "audio": "audio/K/K-57-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " you look at it, it's a difficult problem."
+   }
+  ],
+  "solutions": [
+   [
+    "However"
+   ]
+  ],
+  "secTitle": "「無関係」 の副詞節"
+ },
+ {
+  "id": "K-57-c",
+  "unit": "K",
+  "no": "57",
+  "jp": "それはどう見ても難しい問題です。",
+  "answers": [
+   "No matter which way you look at it, it's a difficult problem."
+  ],
+  "audio": "audio/K/K-57-c-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "No "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " way you look at it, it's a difficult problem."
+   }
+  ],
+  "solutions": [
+   [
+    "matter",
+    "which"
+   ]
+  ],
+  "secTitle": "「無関係」 の副詞節"
+ },
+ {
+  "id": "K-57-d",
+  "unit": "K",
+  "no": "57",
+  "jp": "それはどう見ても難しい問題です。",
+  "answers": [
+   "Whichever way you look at it, it's a difficult problem."
+  ],
+  "audio": "audio/K/K-57-d-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " way you look at it, it's a difficult problem."
+   }
+  ],
+  "solutions": [
+   [
+    "Whichever"
+   ]
+  ],
+  "secTitle": "「無関係」 の副詞節"
+ },
+ {
+  "id": "K-58-a",
+  "unit": "K",
+  "no": "58",
+  "jp": "日本はどこにでも自動販売機があります。",
+  "answers": [
+   "No matter where you are in Japan, you can find a vending machine."
+  ],
+  "audio": "audio/K/K-58-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "No "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " you are in Japan, you can find a vending machine."
+   }
+  ],
+  "solutions": [
+   [
+    "matter",
+    "where"
+   ]
+  ],
+  "secTitle": "「無関係」 の副詞節"
+ },
+ {
+  "id": "K-58-b",
+  "unit": "K",
+  "no": "58",
+  "jp": "日本はどこにでも自動販売機があります。",
+  "answers": [
+   "Wherever you are in Japan, you can find a vending machine."
+  ],
+  "audio": "audio/K/K-58-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " you are in Japan, you can find a vending machine."
+   }
+  ],
+  "solutions": [
+   [
+    "Wherever"
+   ]
+  ],
+  "secTitle": "「無関係」 の副詞節"
+ },
+ {
+  "id": "K-59",
+  "unit": "K",
+  "no": "59",
+  "jp": "火のない所に煙は立たない。",
+  "answers": [
+   "Where there's smoke, there's fire."
+  ],
+  "audio": "audio/K/K-59-.mp3",
+  "pronNote": "there's の -s と smoke の s-  を繋げて一つの s として発音します。",
+  "section": {
+   "title": "「場所・範囲」 の副詞節",
+   "body": "「～する場所で［へ］」 という 「場所」 の副詞節を作る従位接続詞は（ A ）である。「～する範囲において」 と「範囲」の副詞節を作る従位接続詞は as （ B ） as である。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " there's smoke, there's fire."
+   }
+  ],
+  "solutions": [
+   [
+    "Where"
+   ]
+  ],
+  "secTitle": "「場所・範囲」 の副詞節"
+ },
+ {
+  "id": "K-60",
+  "unit": "K",
+  "no": "60",
+  "jp": "道具は使い終わったら元の所に戻すようにしてください。",
+  "answers": [
+   "When you are done with a tool, please put it back where it belongs."
+  ],
+  "audio": "audio/K/K-60-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "When you are done with a tool, please put it back "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " it belongs."
+   }
+  ],
+  "solutions": [
+   [
+    "where"
+   ]
+  ],
+  "secTitle": "「場所・範囲」 の副詞節"
+ },
+ {
+  "id": "K-61",
+  "unit": "K",
+  "no": "61",
+  "jp": "地下鉄，鉄道，バスがあるので，どこでも好きな所へ行くことができます。",
+  "answers": [
+   "There are subways, railways, and buses to take you wherever you want to go."
+  ],
+  "audio": "audio/K/K-61-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "There are subways, railways, and buses to take you "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "wherever",
+     "no matter where"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " you want to go."
+   }
+  ],
+  "solutions": [
+   [
+    "wherever"
+   ]
+  ],
+  "secTitle": "「場所・範囲」 の副詞節"
+ },
+ {
+  "id": "K-62",
+  "unit": "K",
+  "no": "62",
+  "jp": "どこでも好きなところに座っていただいて結構です。",
+  "answers": [
+   "You can sit anywhere you like."
+  ],
+  "audio": "audio/K/K-62-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "You can sit "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "anywhere",
+     "everywhere"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " you like."
+   }
+  ],
+  "solutions": [
+   [
+    "anywhere"
+   ]
+  ],
+  "secTitle": "「場所・範囲」 の副詞節"
+ },
+ {
+  "id": "K-63",
+  "unit": "K",
+  "no": "63",
+  "jp": "見渡す限り広大な草原が広がっていた。",
+  "answers": [
+   "There was a vast field of grass as far as the eye could see."
+  ],
+  "audio": "audio/K/K-63-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "There was a vast field of grass as "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " as the eye could see."
+   }
+  ],
+  "solutions": [
+   [
+    "far"
+   ]
+  ],
+  "secTitle": "「場所・範囲」 の副詞節"
+ },
+ {
+  "id": "K-64",
+  "unit": "K",
+  "no": "64",
+  "jp": "安全面に関しては今まで問題はなく，ここで暮らしていて安全だと感じます。",
+  "answers": [
+   "As far as safety is concerned, I've never had any problems and I feel safe living here.",
+   "So far as safety is concerned, I've never had any problems and I feel safe living here."
+  ],
+  "audio": "audio/K/K-64-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " safety is concerned, I've never had any problems and I feel safe living here."
+   }
+  ],
+  "solutions": [
+   [
+    "As",
+    "far",
+    "as"
+   ],
+   [
+    "So",
+    "far",
+    "as"
+   ]
+  ],
+  "secTitle": "「場所・範囲」 の副詞節"
+ },
+ {
+  "id": "K-65",
+  "unit": "K",
+  "no": "65",
+  "jp": "私の知る限り，彼は（自国の）イタリアではなく海外で暮らしています。",
+  "answers": [
+   "As far as I know, he lives abroad, not in Italy."
+  ],
+  "audio": "audio/K/K-65-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "choice",
+    "options": [
+     "As far as",
+     "As long as"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " I know, he lives abroad, not in Italy."
+   }
+  ],
+  "solutions": [
+   [
+    "As far as"
+   ]
+  ],
+  "secTitle": "「場所・範囲」 の副詞節"
+ }
+]

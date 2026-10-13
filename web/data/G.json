@@ -1,0 +1,1595 @@
+[
+ {
+  "id": "G-01-a",
+  "unit": "G",
+  "no": "01",
+  "jp": "沸騰している湯",
+  "answers": [
+   "boiling water"
+  ],
+  "audio": "audio/G/G-01-a-.mp3",
+  "section": {
+   "title": "動名詞の形容詞的用法と現在分詞の区別",
+   "body": "「動詞のing 形」 には，名詞の働きをする動名詞の用法と，（ A ）や副詞の働きをする現在分詞の用法とがある。（ A ）の働きをする現在分詞は 「…している」「…する」 という能動的な意味で名詞の状態や様子を表す。「動詞のing 形＋名詞」 の下線部 が動名詞（形容詞的用法）であるか現在分詞であるかは名詞との関係から判断する。"
+  },
+  "tags": [
+   "下線部が動名詞の形容詞的用法なら１，現在分詞なら２を記入し，全体を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "boiling water",
+  "secTitle": "動名詞の形容詞的用法と現在分詞の区別"
+ },
+ {
+  "id": "G-01-b",
+  "unit": "G",
+  "no": "01",
+  "jp": "沸点",
+  "answers": [
+   "the boiling point"
+  ],
+  "audio": "audio/G/G-01-b-.mp3",
+  "type": "recall",
+  "secTitle": "動名詞の形容詞的用法と現在分詞の区別"
+ },
+ {
+  "id": "G-01-c",
+  "unit": "G",
+  "no": "01",
+  "jp": "寝ている犬",
+  "answers": [
+   "a sleeping dog"
+  ],
+  "audio": "audio/G/G-01-c-.mp3",
+  "type": "recall",
+  "secTitle": "動名詞の形容詞的用法と現在分詞の区別"
+ },
+ {
+  "id": "G-01-d",
+  "unit": "G",
+  "no": "01",
+  "jp": "寝袋",
+  "answers": [
+   "a sleeping bag"
+  ],
+  "audio": "audio/G/G-01-d-.mp3",
+  "type": "recall",
+  "secTitle": "動名詞の形容詞的用法と現在分詞の区別"
+ },
+ {
+  "id": "G-01-e",
+  "unit": "G",
+  "no": "01",
+  "jp": "喫煙室",
+  "answers": [
+   "a smoking room"
+  ],
+  "audio": "audio/G/G-01-e-.mp3",
+  "type": "recall",
+  "secTitle": "動名詞の形容詞的用法と現在分詞の区別"
+ },
+ {
+  "id": "G-01-f",
+  "unit": "G",
+  "no": "01",
+  "jp": "煙の出ている銃（→動かぬ証拠）",
+  "answers": [
+   "a smoking gun"
+  ],
+  "audio": "audio/G/G-01-f-.mp3",
+  "type": "recall",
+  "secTitle": "動名詞の形容詞的用法と現在分詞の区別"
+ },
+ {
+  "id": "G-02",
+  "unit": "G",
+  "no": "02",
+  "jp": "彼の香港訪問は接近する台風のために時間を短縮された。",
+  "answers": [
+   "His visit to Hong Kong was cut short by an approaching typhoon."
+  ],
+  "audio": "audio/G/G-02-.mp3",
+  "section": {
+   "title": "［　］ （",
+   "body": "）b) the boiling point［　］ （）c) a sleeping dog［　］ （）d) a sleeping bag［　］ （）e) a smoking room［　］ （）f)a smoking gun［　］ （）"
+  },
+  "tags": [
+   "適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "His visit to Hong Kong was cut short by an "
+   },
+   {
+    "t": "blank",
+    "hint": "a"
+   },
+   {
+    "t": "text",
+    "v": " typhoon."
+   }
+  ],
+  "solutions": [
+   [
+    "approaching"
+   ]
+  ],
+  "secTitle": "［　］ （"
+ },
+ {
+  "id": "G-03",
+  "unit": "G",
+  "no": "03",
+  "jp": "私は今でも彼のことを懐かしく思い，彼の微笑む顔が見れなくて寂しい。",
+  "answers": [
+   "I still think fondly of him and miss his smiling face."
+  ],
+  "audio": "audio/G/G-03-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I still think fondly of him and miss his "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " face."
+   }
+  ],
+  "solutions": [
+   [
+    "smiling"
+   ]
+  ],
+  "secTitle": "［　］ （"
+ },
+ {
+  "id": "G-04",
+  "unit": "G",
+  "no": "04",
+  "jp": "調査の対象となったのは20代と30代の仕事を持つ女性500人です。",
+  "answers": [
+   "The survey covered 500 working women in their 20s and 30s."
+  ],
+  "audio": "audio/G/G-04-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The survey covered 500 "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " women in their 20s and 30s."
+   }
+  ],
+  "solutions": [
+   [
+    "working"
+   ]
+  ],
+  "secTitle": "［　］ （"
+ },
+ {
+  "id": "G-05",
+  "unit": "G",
+  "no": "05",
+  "jp": "トビウオは全ての大洋で見られる。",
+  "answers": [
+   "Flying fish are found in all the major oceans."
+  ],
+  "audio": "audio/G/G-05-.mp3",
+  "tags": [
+   "下線部を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Flying fish are found in all the major oceans.",
+  "secTitle": "［　］ （"
+ },
+ {
+  "id": "G-06",
+  "unit": "G",
+  "no": "06",
+  "jp": "彼らはまるで同じ家に住む赤の他人のようだ。",
+  "answers": [
+   "They are like strangers living in the same house."
+  ],
+  "audio": "audio/G/G-06-.mp3",
+  "section": {
+   "title": "現在分詞句の位置",
+   "body": "「動詞（V）＋目的語」 や 「動詞（V）＋副詞（句）」 などの 「動詞句」 を 「現在分詞句」 に変えると，それぞれ 「Ving ＋目的語」「Ving ＋副詞（句）」 になる。これらの現在分詞句は修飾する名詞の（ A ）に置く。また，「…されている［されていた］最中の」 という 「進行形＋受動態」 の意味をもつ現在分詞は 「（ B ）（ C ）」 で表し，この現在分詞句も修飾する名詞の（ A ）に置く。"
+  },
+  "tags": [
+   "並べ替え"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "They are like "
+   },
+   {
+    "t": "order",
+    "words": [
+     "living",
+     "strangers",
+     "the same house",
+     "in"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "strangers living in the same house"
+   ]
+  ],
+  "secTitle": "現在分詞句の位置"
+ },
+ {
+  "id": "G-07",
+  "unit": "G",
+  "no": "07",
+  "jp": "私は注文した商品が発送されたというメールを受け取った。",
+  "answers": [
+   "I received an email saying that my order had been shipped."
+  ],
+  "audio": "audio/G/G-07-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I received an email "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " that my order had been shipped."
+   }
+  ],
+  "solutions": [
+   [
+    "saying"
+   ]
+  ],
+  "secTitle": "現在分詞句の位置"
+ },
+ {
+  "id": "G-08",
+  "unit": "G",
+  "no": "08",
+  "jp": "このことを知っていた人は警察に届けるべきだったのです。",
+  "answers": [
+   "Anyone knowing this should have gone to the police."
+  ],
+  "audio": "audio/G/G-08-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Anyone "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " should have gone to the police."
+   }
+  ],
+  "solutions": [
+   [
+    "knowing",
+    "this"
+   ]
+  ],
+  "secTitle": "現在分詞句の位置"
+ },
+ {
+  "id": "G-09",
+  "unit": "G",
+  "no": "09",
+  "jp": "幼い子供の世話をする看護師はかなりの忍耐が必要です。",
+  "answers": [
+   "Nurses looking after young children need a lot of patience."
+  ],
+  "audio": "audio/G/G-09-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Nurses "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " young children need a lot of patience."
+   }
+  ],
+  "solutions": [
+   [
+    "looking",
+    "after"
+   ]
+  ],
+  "secTitle": "現在分詞句の位置"
+ },
+ {
+  "id": "G-10",
+  "unit": "G",
+  "no": "10",
+  "jp": "現時点ではこのプロジェクトに関して何の進展もありません。",
+  "answers": [
+   "Currently there is no progress being made with this project."
+  ],
+  "audio": "audio/G/G-10-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Currently there is no progress "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " made with this project."
+   }
+  ],
+  "solutions": [
+   [
+    "being"
+   ]
+  ],
+  "secTitle": "現在分詞句の位置"
+ },
+ {
+  "id": "G-11-a",
+  "unit": "G",
+  "no": "11",
+  "jp": "この問題に関して何か質問のある方はいらっしゃいますか？",
+  "answers": [
+   "Does anyone have any questions regarding this problem?"
+  ],
+  "audio": "audio/G/G-11-a-.mp3",
+  "section": {
+   "title": "前置詞の働きをする現在分詞",
+   "body": "現在分詞の中にはregarding やfollowing のように（ A ）と同じ働きをするものがある。このタイプの現在分詞は（ A ）と同様，目的語に［代］名詞を取り，全体として形容詞句や（ B ）になる。"
+  },
+  "tags": [
+   "適語を記入し２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Does anyone have any questions "
+   },
+   {
+    "t": "blank",
+    "hint": "r"
+   },
+   {
+    "t": "text",
+    "v": " this problem?"
+   }
+  ],
+  "solutions": [
+   [
+    "regarding"
+   ]
+  ],
+  "secTitle": "前置詞の働きをする現在分詞"
+ },
+ {
+  "id": "G-11-b",
+  "unit": "G",
+  "no": "11",
+  "jp": "この問題に関して何か質問のある方はいらっしゃいますか？",
+  "answers": [
+   "Does anyone have any questions concerning this problem?"
+  ],
+  "audio": "audio/G/G-11-b-.mp3",
+  "tags": [
+   "適語を記入し２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Does anyone have any questions "
+   },
+   {
+    "t": "blank",
+    "hint": "c"
+   },
+   {
+    "t": "text",
+    "v": " this problem?"
+   }
+  ],
+  "solutions": [
+   [
+    "concerning"
+   ]
+  ],
+  "secTitle": "前置詞の働きをする現在分詞"
+ },
+ {
+  "id": "G-12",
+  "unit": "G",
+  "no": "12",
+  "jp": "プレゼン（発表）の後，質疑応答の時間がありました。",
+  "answers": [
+   "Following the presentations, there was a question-and-answer session."
+  ],
+  "audio": "audio/G/G-12-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank",
+    "hint": "F"
+   },
+   {
+    "t": "text",
+    "v": " the presentations, there was a question-and-answer session."
+   }
+  ],
+  "solutions": [
+   [
+    "Following"
+   ]
+  ],
+  "secTitle": "前置詞の働きをする現在分詞"
+ },
+ {
+  "id": "G-13",
+  "unit": "G",
+  "no": "13",
+  "jp": "価格は送料と手数料込みで40ドルです。",
+  "answers": [
+   "The price is $40, including shipping and handling."
+  ],
+  "audio": "audio/G/G-13-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The price is $40, "
+   },
+   {
+    "t": "blank",
+    "hint": "i"
+   },
+   {
+    "t": "text",
+    "v": " shipping and handling."
+   }
+  ],
+  "solutions": [
+   [
+    "including"
+   ]
+  ],
+  "secTitle": "前置詞の働きをする現在分詞"
+ },
+ {
+  "id": "G-14-a",
+  "unit": "G",
+  "no": "14",
+  "jp": "時間のかかる仕事",
+  "answers": [
+   "a time-consuming job"
+  ],
+  "audio": "audio/G/G-14-a-.mp3",
+  "type": "recall",
+  "secTitle": "前置詞の働きをする現在分詞"
+ },
+ {
+  "id": "G-14-b",
+  "unit": "G",
+  "no": "14",
+  "jp": "記録的な（大）勝利",
+  "answers": [
+   "a record-breaking victory"
+  ],
+  "audio": "audio/G/G-14-b-.mp3",
+  "type": "recall",
+  "secTitle": "前置詞の働きをする現在分詞"
+ },
+ {
+  "id": "G-14-c",
+  "unit": "G",
+  "no": "14",
+  "jp": "心温まる光景",
+  "answers": [
+   "a heart(-)warming sight"
+  ],
+  "audio": "audio/G/G-14-c-.mp3",
+  "type": "recall",
+  "secTitle": "前置詞の働きをする現在分詞"
+ },
+ {
+  "id": "G-14-d",
+  "unit": "G",
+  "no": "14",
+  "jp": "ハンサムな男性",
+  "answers": [
+   "a good-looking man"
+  ],
+  "audio": "audio/G/G-14-d-.mp3",
+  "type": "recall",
+  "secTitle": "前置詞の働きをする現在分詞"
+ },
+ {
+  "id": "G-14-e",
+  "unit": "G",
+  "no": "14",
+  "jp": "勤勉な国民",
+  "answers": [
+   "a hard-working people"
+  ],
+  "audio": "audio/G/G-14-e-.mp3",
+  "type": "recall",
+  "secTitle": "前置詞の働きをする現在分詞"
+ },
+ {
+  "id": "G-15",
+  "unit": "G",
+  "no": "15",
+  "jp": "クギや割れたガラスや他の破片に注意してください。",
+  "answers": [
+   "Be careful of nails, broken glass, and other debris."
+  ],
+  "audio": "audio/G/G-15-.mp3",
+  "pronNote": "debris の -s は発音しない文字です。",
+  "tags": [
+   "間違いがあれば訂正"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Be careful of nails, broke glass, and other debris.",
+  "secTitle": "前置詞の働きをする現在分詞"
+ },
+ {
+  "id": "G-16",
+  "unit": "G",
+  "no": "16",
+  "jp": "ケガをした乗客はただちに近くの病院に搬送された。",
+  "answers": [
+   "The injured passengers were rushed to the nearest hospital."
+  ],
+  "audio": "audio/G/G-16-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The "
+   },
+   {
+    "t": "blank",
+    "hint": "i"
+   },
+   {
+    "t": "text",
+    "v": " passengers were rushed to the nearest hospital."
+   }
+  ],
+  "solutions": [
+   [
+    "injured"
+   ]
+  ],
+  "secTitle": "前置詞の働きをする現在分詞"
+ },
+ {
+  "id": "G-17",
+  "unit": "G",
+  "no": "17",
+  "jp": "上記で述べた理由から私はこの製品をお勧めします。",
+  "answers": [
+   "I recommend this product, for the reasons mentioned above."
+  ],
+  "audio": "audio/G/G-17-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I recommend this product, for the "
+   },
+   {
+    "t": "order",
+    "words": [
+     "above",
+     "reasons",
+     "mentioned"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "reasons mentioned above"
+   ]
+  ],
+  "secTitle": "前置詞の働きをする現在分詞"
+ },
+ {
+  "id": "G-18",
+  "unit": "G",
+  "no": "18",
+  "jp": "このお店は紙でできた装飾用の商品を売っています。",
+  "answers": [
+   "This shop sells decorative goods made of paper."
+  ],
+  "audio": "audio/G/G-18-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "This shop sells decorative "
+   },
+   {
+    "t": "order",
+    "words": [
+     "paper",
+     "goods",
+     "of",
+     "made"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "goods made of paper"
+   ]
+  ],
+  "secTitle": "前置詞の働きをする現在分詞"
+ },
+ {
+  "id": "G-19",
+  "unit": "G",
+  "no": "19",
+  "jp": "私が戻ってきた時には，食べる物は全く残っていなかった。",
+  "answers": [
+   "When I came back, there was no food left."
+  ],
+  "audio": "audio/G/G-19-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "When I came back, there was "
+   },
+   {
+    "t": "order",
+    "words": [
+     "left",
+     "food",
+     "no"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "no food left"
+   ]
+  ],
+  "secTitle": "前置詞の働きをする現在分詞"
+ },
+ {
+  "id": "G-20",
+  "unit": "G",
+  "no": "20",
+  "jp": "その収益金は全てチャリティーに寄付されます。",
+  "answers": [
+   "All the money made goes to charity."
+  ],
+  "audio": "audio/G/G-20-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "All "
+   },
+   {
+    "t": "order",
+    "words": [
+     "money",
+     "the",
+     "made"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " goes to charity."
+   }
+  ],
+  "solutions": [
+   [
+    "the money made"
+   ]
+  ],
+  "secTitle": "前置詞の働きをする現在分詞"
+ },
+ {
+  "id": "G-21",
+  "unit": "G",
+  "no": "21",
+  "jp": "どんな数もその数で割ると１になる。",
+  "answers": [
+   "Any number divided by itself equals one."
+  ],
+  "audio": "audio/G/G-21-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Any "
+   },
+   {
+    "t": "order",
+    "words": [
+     "itself",
+     "number",
+     "divided",
+     "by"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " equals one."
+   }
+  ],
+  "solutions": [
+   [
+    "number divided by itself"
+   ]
+  ],
+  "secTitle": "前置詞の働きをする現在分詞"
+ },
+ {
+  "id": "G-22",
+  "unit": "G",
+  "no": "22",
+  "jp": "喜びは分かち合うと二倍になり，悲しみは分かち合うと半分になる。",
+  "answers": [
+   "A joy shared is doubled; a sorrow shared is halved."
+  ],
+  "audio": "audio/G/G-22-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "A "
+   },
+   {
+    "t": "order",
+    "words": [
+     "joy",
+     "is",
+     "shared"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " doubled; a "
+   },
+   {
+    "t": "order",
+    "words": [
+     "sorrow",
+     "is",
+     "shared"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " halved."
+   }
+  ],
+  "solutions": [
+   [
+    "joy shared is",
+    "sorrow shared is"
+   ]
+  ],
+  "secTitle": "前置詞の働きをする現在分詞"
+ },
+ {
+  "id": "G-23",
+  "unit": "G",
+  "no": "23",
+  "jp": "この奨学金を授与される学生は教授団の投票によって決まります。",
+  "answers": [
+   "The student awarded this scholarship is to be determined by a vote of the faculty."
+  ],
+  "audio": "audio/G/G-23-.mp3",
+  "section": {
+   "title": "過去分詞の形容詞用法 ②",
+   "body": "第4 文型や第5 文型の他動詞が過去分詞になり，後ろに目的語や補語が残る場合，それぞれ 「過去分詞＋目的語」「過去分詞＋補語」 という形の過去分詞句ができる。これらの過去分詞句は修飾する名詞の（ A ）に置く。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The student "
+   },
+   {
+    "t": "order",
+    "words": [
+     "is",
+     "this scholarship",
+     "awarded"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " to be determined by a vote of the faculty."
+   }
+  ],
+  "solutions": [
+   [
+    "awarded this scholarship is"
+   ]
+  ],
+  "secTitle": "過去分詞の形容詞用法 ②"
+ },
+ {
+  "id": "G-24",
+  "unit": "G",
+  "no": "24",
+  "jp": "ジョセフ・スミスという（名前の）人から私の携帯に電話がありました。",
+  "answers": [
+   "A man named Joseph Smith called me on my cell phone."
+  ],
+  "audio": "audio/G/G-24-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "A man "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " Joseph Smith called me on my cell phone."
+   }
+  ],
+  "solutions": [
+   [
+    "named"
+   ]
+  ],
+  "secTitle": "過去分詞の形容詞用法 ②"
+ },
+ {
+  "id": "G-25",
+  "unit": "G",
+  "no": "25",
+  "jp": "その本は 「よくわかる英語」ということばで宣伝されています。",
+  "answers": [
+   "The book is advertised as \"English made easy.\""
+  ],
+  "audio": "audio/G/G-25-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The book is advertised as \""
+   },
+   {
+    "t": "order",
+    "words": [
+     "easy",
+     "English",
+     "made"
+    ]
+   },
+   {
+    "t": "text",
+    "v": ".\""
+   }
+  ],
+  "solutions": [
+   [
+    "English made easy"
+   ]
+  ],
+  "secTitle": "過去分詞の形容詞用法 ②"
+ },
+ {
+  "id": "G-26",
+  "unit": "G",
+  "no": "26",
+  "jp": "先進国は発展途上国に対し，金融援助，医療，技術を提供して支援するべきだ。",
+  "answers": [
+   "Developed countries should assist developing countries by providing financial aid, medicines, and technology."
+  ],
+  "audio": "audio/G/G-26-.mp3",
+  "section": {
+   "title": "自動詞の過去分詞",
+   "body": "（ A ）の過去分詞は 「 …された」「 …されている」 という 「受身」 の形容詞（句）になるが，（ B ）の過去分詞は 「既に…し終えた」 「既に…してしまっている」 という「完了・結果」 の形容詞（句）になる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank",
+    "hint": "D"
+   },
+   {
+    "t": "text",
+    "v": " countries should assist "
+   },
+   {
+    "t": "blank",
+    "hint": "d"
+   },
+   {
+    "t": "text",
+    "v": " countries by providing financial aid, medicines, and technology."
+   }
+  ],
+  "solutions": [
+   [
+    "Developed",
+    "developing"
+   ]
+  ],
+  "secTitle": "自動詞の過去分詞"
+ },
+ {
+  "id": "G-27",
+  "unit": "G",
+  "no": "27",
+  "jp": "多くの道路が倒れた木や電線によって遮断されていた。",
+  "answers": [
+   "Many roads were blocked by fallen trees and power lines."
+  ],
+  "audio": "audio/G/G-27-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Many roads were blocked by "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "fell",
+     "fallen",
+     "falling"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " trees and power lines."
+   }
+  ],
+  "solutions": [
+   [
+    "fallen"
+   ]
+  ],
+  "secTitle": "自動詞の過去分詞"
+ },
+ {
+  "id": "G-28",
+  "unit": "G",
+  "no": "28",
+  "jp": "私には前の結婚での成人した娘がいます。",
+  "answers": [
+   "I have a grown daughter from a previous marriage."
+  ],
+  "audio": "audio/G/G-28-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I have a "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "grew",
+     "grown",
+     "growing"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " daughter from a previous marriage."
+   }
+  ],
+  "solutions": [
+   [
+    "grown"
+   ]
+  ],
+  "secTitle": "自動詞の過去分詞"
+ },
+ {
+  "id": "G-29",
+  "unit": "G",
+  "no": "29",
+  "jp": "昔の曲は過ぎ去った日々の記憶を呼び覚ます。",
+  "answers": [
+   "Old songs evoke memories of days gone by."
+  ],
+  "audio": "audio/G/G-29-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Old songs evoke memories "
+   },
+   {
+    "t": "order",
+    "words": [
+     "gone",
+     "days",
+     "of",
+     "by"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "of days gone by"
+   ]
+  ],
+  "secTitle": "自動詞の過去分詞"
+ },
+ {
+  "id": "G-30",
+  "unit": "G",
+  "no": "30",
+  "jp": "その旅行は私にとって長年の夢でした。",
+  "answers": [
+   "The trip was a dream come true for me."
+  ],
+  "audio": "audio/G/G-30-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The trip was "
+   },
+   {
+    "t": "order",
+    "words": [
+     "true",
+     "dream",
+     "a",
+     "come"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " for me."
+   }
+  ],
+  "solutions": [
+   [
+    "a dream come true"
+   ]
+  ],
+  "secTitle": "自動詞の過去分詞"
+ },
+ {
+  "id": "G-31",
+  "unit": "G",
+  "no": "31",
+  "jp": "私達の料理は厳選された素材で作られています。",
+  "answers": [
+   "Our dishes are made from carefully selected ingredients."
+  ],
+  "audio": "audio/G/G-31-.mp3",
+  "section": {
+   "title": "過去分詞に副詞やハイフンが付く場合",
+   "body": "「副詞」 が過去分詞を修飾する場合，原則として副詞を過去分詞の 「前」 に置く。この 「副詞＋過去分詞」 は修飾する名詞の（ A ）に置く。また，well-known のようなハイフンで繋がれた過去分詞は１語の（ B ）と見なし，修飾する名詞の前に置く。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Our dishes are made from "
+   },
+   {
+    "t": "order",
+    "words": [
+     "ingredients",
+     "carefully",
+     "selected"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "carefully selected ingredients"
+   ]
+  ],
+  "secTitle": "過去分詞に副詞やハイフンが付く場合"
+ },
+ {
+  "id": "G-32",
+  "unit": "G",
+  "no": "32",
+  "jp": "自動車は高度に発達した技術が必要とされる製品です。",
+  "answers": [
+   "A motor vehicle is a product that requires highly developed technology."
+  ],
+  "audio": "audio/G/G-32-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "A motor vehicle is a product that requires "
+   },
+   {
+    "t": "order",
+    "words": [
+     "technology",
+     "highly",
+     "developed"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "highly developed technology"
+   ]
+  ],
+  "secTitle": "過去分詞に副詞やハイフンが付く場合"
+ },
+ {
+  "id": "G-33",
+  "unit": "G",
+  "no": "33",
+  "jp": "彼らは堅い守りと強力な攻撃力をもつバランスの取れたチームだ。",
+  "answers": [
+   "They are a well-balanced team, with solid defense and powerful attack."
+  ],
+  "audio": "audio/G/G-33-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "They are "
+   },
+   {
+    "t": "order",
+    "words": [
+     "well-balanced",
+     "a",
+     "team"
+    ]
+   },
+   {
+    "t": "text",
+    "v": ", with solid defense and powerful attack."
+   }
+  ],
+  "solutions": [
+   [
+    "a well-balanced team"
+   ]
+  ],
+  "secTitle": "過去分詞に副詞やハイフンが付く場合"
+ },
+ {
+  "id": "G-34",
+  "unit": "G",
+  "no": "34",
+  "jp": "政府は国営の郵便事業を民営化する計画である",
+  "answers": [
+   "The government plans to privatize the state-run postal service."
+  ],
+  "audio": "audio/G/G-34-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The government plans to privatize the state-"
+   },
+   {
+    "t": "blank",
+    "hint": "r"
+   },
+   {
+    "t": "text",
+    "v": " postal service."
+   }
+  ],
+  "solutions": [
+   [
+    "run"
+   ]
+  ],
+  "secTitle": "過去分詞に副詞やハイフンが付く場合"
+ },
+ {
+  "id": "G-35",
+  "unit": "G",
+  "no": "35",
+  "jp": "興味をお持ちの方は0120-333-909までお電話ください。",
+  "answers": [
+   "Anyone interested should contact us at 0120-333-909."
+  ],
+  "audio": "audio/G/G-35-.mp3",
+  "section": {
+   "title": "感情を表す分詞の使い分け",
+   "body": "interest，excite，tire のような 「人に与える感情・気持ち」 を表す他動詞の（ A ）は「人に及ぼす感情・気持ち」 を表す形容詞になり，（ B ）は 「自分が抱く感情・気持ち」を表す形容詞になる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Anyone "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "interesting",
+     "interested"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " should contact us at 0120-333-909."
+   }
+  ],
+  "solutions": [
+   [
+    "interested"
+   ]
+  ],
+  "secTitle": "感情を表す分詞の使い分け"
+ },
+ {
+  "id": "G-36",
+  "unit": "G",
+  "no": "36",
+  "jp": "私は興奮して眠れませんでした。",
+  "answers": [
+   "I was so excited I couldn't sleep."
+  ],
+  "audio": "audio/G/G-36-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I was so "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "exciting",
+     "excited"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " I couldn't sleep."
+   }
+  ],
+  "solutions": [
+   [
+    "excited"
+   ]
+  ],
+  "secTitle": "感情を表す分詞の使い分け"
+ },
+ {
+  "id": "G-37",
+  "unit": "G",
+  "no": "37",
+  "jp": "彼は私がそれまでに出会った中で最も刺激的な男性でした。",
+  "answers": [
+   "He was the most exciting man I had ever met."
+  ],
+  "audio": "audio/G/G-37-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He was the most "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "exciting",
+     "excited"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " man I had ever met."
+   }
+  ],
+  "solutions": [
+   [
+    "exciting"
+   ]
+  ],
+  "secTitle": "感情を表す分詞の使い分け"
+ },
+ {
+  "id": "G-38",
+  "unit": "G",
+  "no": "38",
+  "jp": "すごく退屈しています。ここはとても退屈なのです。",
+  "answers": [
+   "I'm so bored. It's so boring here."
+  ],
+  "audio": "audio/G/G-38-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'm so "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "boring",
+     "bored"
+    ]
+   },
+   {
+    "t": "text",
+    "v": ". It's so "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "boring",
+     "bored"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " here."
+   }
+  ],
+  "solutions": [
+   [
+    "bored",
+    "boring"
+   ]
+  ],
+  "secTitle": "感情を表す分詞の使い分け"
+ },
+ {
+  "id": "G-39",
+  "unit": "G",
+  "no": "39",
+  "jp": "一日中コンタクトレンズをして目が疲れています。",
+  "answers": [
+   "My eyes are tired from wearing contacts all day."
+  ],
+  "audio": "audio/G/G-39-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "My eyes are "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "tiring",
+     "tired"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " from wearing contacts all day."
+   }
+  ],
+  "solutions": [
+   [
+    "tired"
+   ]
+  ],
+  "secTitle": "感情を表す分詞の使い分け"
+ },
+ {
+  "id": "G-40",
+  "unit": "G",
+  "no": "40",
+  "jp": "「そんなに長い時間だと疲れるでしょう」「いいえ，全く。楽しんでいますから」",
+  "answers": [
+   "\"You must find such long hours tiring.\" \"Not in the least. I enjoy it.\""
+  ],
+  "audio": "audio/G/G-40-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"You must find such long hours "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "tiring",
+     "tired"
+    ]
+   },
+   {
+    "t": "text",
+    "v": ".\" \"Not in the least. I enjoy it.\""
+   }
+  ],
+  "solutions": [
+   [
+    "tiring"
+   ]
+  ],
+  "secTitle": "感情を表す分詞の使い分け"
+ },
+ {
+  "id": "G-41",
+  "unit": "G",
+  "no": "41",
+  "jp": "日本語には驚くべき数の英語の外来語があります。",
+  "answers": [
+   "Japanese has a surprising number of loanwords from English."
+  ],
+  "audio": "audio/G/G-41-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Japanese has a "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "surprising",
+     "surprised"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " number of loanwords from English."
+   }
+  ],
+  "solutions": [
+   [
+    "surprising"
+   ]
+  ],
+  "secTitle": "感情を表す分詞の使い分け"
+ }
+]

@@ -1,0 +1,3793 @@
+[
+ {
+  "id": "E-01-a",
+  "unit": "E",
+  "no": "01",
+  "jp": "目覚ましをかけるのを忘れないようにね。",
+  "answers": [
+   "Don't forget to turn the alarm on."
+  ],
+  "audio": "audio/E/E-01-a-.mp3",
+  "section": {
+   "title": "名詞用法 ① ～ 動詞の目的語や補語になる場合",
+   "body": "「to＋原形不定詞（＝動詞の原形）」 を 「to 不定詞」 と呼ぶ。to不定詞には動詞句を名詞句，形容詞句，副詞句に変える働きがある。to不定詞を「名詞句」として用いる場合は，他動詞の（ A ），be 動詞の（ B ）， 文の（ C ）など，一般の名詞と同じように用いるが，（ D ）の目的語では用いない。"
+  },
+  "tags": [
+   "適語を記入し２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Don't "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " turn the alarm on."
+   }
+  ],
+  "solutions": [
+   [
+    "forget",
+    "to"
+   ]
+  ],
+  "secTitle": "名詞用法 ① ～ 動詞の目的語や補語になる場合"
+ },
+ {
+  "id": "E-01-b",
+  "unit": "E",
+  "no": "01",
+  "jp": "目覚ましをかけるのを忘れないようにね。",
+  "answers": [
+   "Remember to turn the alarm on."
+  ],
+  "audio": "audio/E/E-01-b-.mp3",
+  "tags": [
+   "適語を記入し２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " turn the alarm on."
+   }
+  ],
+  "solutions": [
+   [
+    "Remember",
+    "to"
+   ]
+  ],
+  "secTitle": "名詞用法 ① ～ 動詞の目的語や補語になる場合"
+ },
+ {
+  "id": "E-02-a",
+  "unit": "E",
+  "no": "02",
+  "jp": "今晩夕食を一緒にどうですか？",
+  "answers": [
+   "Do you want to join us for dinner tonight?"
+  ],
+  "audio": "audio/E/E-02-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Do you "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " join us for dinner tonight?"
+   }
+  ],
+  "solutions": [
+   [
+    "want",
+    "to"
+   ]
+  ],
+  "secTitle": "名詞用法 ① ～ 動詞の目的語や補語になる場合"
+ },
+ {
+  "id": "E-02-b",
+  "unit": "E",
+  "no": "02",
+  "jp": "今晩夕食を一緒にどうですか？",
+  "answers": [
+   "Would you like to join us for dinner tonight?"
+  ],
+  "audio": "audio/E/E-02-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Would you "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " join us for dinner tonight?"
+   }
+  ],
+  "solutions": [
+   [
+    "like",
+    "to"
+   ]
+  ],
+  "secTitle": "名詞用法 ① ～ 動詞の目的語や補語になる場合"
+ },
+ {
+  "id": "E-03",
+  "unit": "E",
+  "no": "03",
+  "jp": "これから話すことを人に言わないと約束するかい？",
+  "answers": [
+   "Do you promise not to repeat what I'm going to say?"
+  ],
+  "audio": "audio/E/E-03-.mp3",
+  "tags": [
+   "適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Do you promise "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " repeat what I'm going to say?"
+   }
+  ],
+  "solutions": [
+   [
+    "not",
+    "to"
+   ]
+  ],
+  "secTitle": "名詞用法 ① ～ 動詞の目的語や補語になる場合"
+ },
+ {
+  "id": "E-04",
+  "unit": "E",
+  "no": "04",
+  "jp": "二兎を追う者は一兎をも得ず。",
+  "answers": [
+   "To do two things at once is to do neither."
+  ],
+  "audio": "audio/E/E-04-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " do two things at once "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " do neither."
+   }
+  ],
+  "solutions": [
+   [
+    "To",
+    "is",
+    "to"
+   ]
+  ],
+  "secTitle": "名詞用法 ① ～ 動詞の目的語や補語になる場合"
+ },
+ {
+  "id": "E-05",
+  "unit": "E",
+  "no": "05",
+  "jp": "彼の夢はソングライターとして認められることだ。",
+  "answers": [
+   "His dream is to be accepted as a songwriter."
+  ],
+  "audio": "audio/E/E-05-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "His dream is to accepted as a songwriter.",
+  "secTitle": "名詞用法 ① ～ 動詞の目的語や補語になる場合"
+ },
+ {
+  "id": "E-06",
+  "unit": "E",
+  "no": "06",
+  "jp": "私は休むことなく50 回以上の腕立て伏せが楽にできます。",
+  "answers": [
+   "I can easily do over 50 push-ups without taking a break."
+  ],
+  "audio": "audio/E/E-06-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I can easily do over 50 push-ups without to take a break.",
+  "secTitle": "名詞用法 ① ～ 動詞の目的語や補語になる場合"
+ },
+ {
+  "id": "E-07",
+  "unit": "E",
+  "no": "07",
+  "jp": "今となっては彼の言ったことを信じる以外にない。",
+  "answers": [
+   "At this point, we have no choice but to believe what he said."
+  ],
+  "audio": "audio/E/E-07-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "At this point, we have no choice but to believe what he said.",
+  "secTitle": "名詞用法 ① ～ 動詞の目的語や補語になる場合"
+ },
+ {
+  "id": "E-08-a",
+  "unit": "E",
+  "no": "08",
+  "jp": "自分でそれをやった方が安上がりだろうね。",
+  "answers": [
+   "To do it yourself would be cheaper."
+  ],
+  "audio": "audio/E/E-08-a-.mp3",
+  "section": {
+   "title": "名詞用法 ② ～ 「it ... to 不定詞」の構文",
+   "body": "主語に置かれるto不定詞は（ A ）で置き換えられて文末に回されることが多い。第5 文型の（ B ）に置かれるto不定詞も（ A ）で置き換えられて文末に回される。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " it yourself would "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " cheaper."
+   }
+  ],
+  "solutions": [
+   [
+    "To",
+    "do",
+    "be"
+   ]
+  ],
+  "secTitle": "名詞用法 ② ～ 「it ... to 不定詞」の構文"
+ },
+ {
+  "id": "E-08-b",
+  "unit": "E",
+  "no": "08",
+  "jp": "自分でそれをやった方が安上がりだろうね。",
+  "answers": [
+   "It would be cheaper to do it yourself."
+  ],
+  "audio": "audio/E/E-08-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " would "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " cheaper "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " it yourself."
+   }
+  ],
+  "solutions": [
+   [
+    "It",
+    "be",
+    "to",
+    "do"
+   ]
+  ],
+  "secTitle": "名詞用法 ② ～ 「it ... to 不定詞」の構文"
+ },
+ {
+  "id": "E-09",
+  "unit": "E",
+  "no": "09",
+  "jp": "一つの食品ばかり食べ過ぎないようにすることが重要です。",
+  "answers": [
+   "It is important not to eat too much of any one food."
+  ],
+  "audio": "audio/E/E-09-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It is important "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " eat too much of any one food."
+   }
+  ],
+  "solutions": [
+   [
+    "not",
+    "to"
+   ]
+  ],
+  "secTitle": "名詞用法 ② ～ 「it ... to 不定詞」の構文"
+ },
+ {
+  "id": "E-10",
+  "unit": "E",
+  "no": "10",
+  "jp": "二つ仕事を持つことは難しいと感じています。",
+  "answers": [
+   "I find it difficult to have two jobs."
+  ],
+  "audio": "audio/E/E-10-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I find "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " have two jobs."
+   }
+  ],
+  "solutions": [
+   [
+    "it",
+    "difficult",
+    "to"
+   ]
+  ],
+  "secTitle": "名詞用法 ② ～ 「it ... to 不定詞」の構文"
+ },
+ {
+  "id": "E-11",
+  "unit": "E",
+  "no": "11",
+  "jp": "コンピューターによって銀行詐欺のような犯罪が容易になった。",
+  "answers": [
+   "Computers have made it easier to commit crimes like bank fraud."
+  ],
+  "audio": "audio/E/E-11-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Computers have "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " easier to commit crimes like bank fraud."
+   }
+  ],
+  "solutions": [
+   [
+    "made",
+    "it"
+   ]
+  ],
+  "secTitle": "名詞用法 ② ～ 「it ... to 不定詞」の構文"
+ },
+ {
+  "id": "E-12",
+  "unit": "E",
+  "no": "12",
+  "jp": "どうすればいいのかまだ決めかねています。",
+  "answers": [
+   "I'm still unable to decide what to do."
+  ],
+  "audio": "audio/E/E-12-.mp3",
+  "section": {
+   "title": "名詞用法 ③ ～ 疑問詞＋to不定詞",
+   "body": "疑問詞（what, how, where など）の後ろにto不定詞が置かれると名詞句になる。この名詞句は他動詞や（ A ）の目的語，be 動詞の補語，文の（ B ）で用いられる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'm still unable to decide "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "what",
+    "do"
+   ]
+  ],
+  "secTitle": "名詞用法 ③ ～ 疑問詞＋to不定詞"
+ },
+ {
+  "id": "E-13",
+  "unit": "E",
+  "no": "13",
+  "jp": "日本はイラクに部隊を派遣すべきかどうかの決定を先延ばしにした。",
+  "answers": [
+   "Japan put off a decision on whether to send troops to Iraq."
+  ],
+  "audio": "audio/E/E-13-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Japan put off a decision on "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " send troops to Iraq."
+   }
+  ],
+  "solutions": [
+   [
+    "whether",
+    "to"
+   ]
+  ],
+  "secTitle": "名詞用法 ③ ～ 疑問詞＋to不定詞"
+ },
+ {
+  "id": "E-14",
+  "unit": "E",
+  "no": "14",
+  "jp": "問題はどうすれば新たな問題を引き起こすことなくこれが達成できるかである。",
+  "answers": [
+   "The question is how to achieve this without causing new problems."
+  ],
+  "audio": "audio/E/E-14-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The question "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " achieve this without causing new problems."
+   }
+  ],
+  "solutions": [
+   [
+    "is",
+    "how",
+    "to"
+   ]
+  ],
+  "secTitle": "名詞用法 ③ ～ 疑問詞＋to不定詞"
+ },
+ {
+  "id": "E-15",
+  "unit": "E",
+  "no": "15",
+  "jp": "彼は私になぜ神を信じるべきなのかを説明した。",
+  "answers": [
+   "He explained to me why I should believe in God."
+  ],
+  "audio": "audio/E/E-15-.mp3",
+  "tags": [
+   "間違いがあれば訂正"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "He explained to me why to believe in God.",
+  "secTitle": "名詞用法 ③ ～ 疑問詞＋to不定詞"
+ },
+ {
+  "id": "E-16",
+  "unit": "E",
+  "no": "16",
+  "jp": "ぼくも君と一緒に行くよ。今日は何もすることがないから。",
+  "answers": [
+   "I'll come with you. I don't have anything to do today."
+  ],
+  "audio": "audio/E/E-16-.mp3",
+  "section": {
+   "title": "形容詞用法 ① ～ to不定詞と修飾される名詞との関係",
+   "body": "to不定詞が 「…する」「…すべき」「…するための」 という意味の形容詞句として直前の名詞を修飾する用法を 「to不定詞の形容詞用法」 と呼ぶ。「修飾される名詞とto不定詞」 の関係は 「（ A ）と動詞」 の関係になるのが一般的だが，「（ B ）と動詞」 の関係になることもある。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'll come with you. I don't have "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " today."
+   }
+  ],
+  "solutions": [
+   [
+    "anything",
+    "to",
+    "do"
+   ]
+  ],
+  "secTitle": "形容詞用法 ① ～ to不定詞と修飾される名詞との関係"
+ },
+ {
+  "id": "E-17-a",
+  "unit": "E",
+  "no": "17",
+  "jp": "（手紙のような）書くもの",
+  "answers": [
+   "something to write (such as a letter)"
+  ],
+  "audio": "audio/E/E-17-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "something to write",
+  "secTitle": "形容詞用法 ① ～ to不定詞と修飾される名詞との関係"
+ },
+ {
+  "id": "E-17-b",
+  "unit": "E",
+  "no": "17",
+  "jp": "（鉛筆のような）筆記具",
+  "answers": [
+   "something to write with (such as a pencil)"
+  ],
+  "audio": "audio/E/E-17-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "something to write with",
+  "secTitle": "形容詞用法 ① ～ to不定詞と修飾される名詞との関係"
+ },
+ {
+  "id": "E-17-c",
+  "unit": "E",
+  "no": "17",
+  "jp": "（紙のような）書くもの",
+  "answers": [
+   "something to write on (such as a sheet of paper)"
+  ],
+  "audio": "audio/E/E-17-c-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "something to write on",
+  "secTitle": "形容詞用法 ① ～ to不定詞と修飾される名詞との関係"
+ },
+ {
+  "id": "E-17-d",
+  "unit": "E",
+  "no": "17",
+  "jp": "（自分の家族のような）書く話題",
+  "answers": [
+   "something to write about (such as your family)"
+  ],
+  "audio": "audio/E/E-17-d-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "something to write about",
+  "secTitle": "形容詞用法 ① ～ to不定詞と修飾される名詞との関係"
+ },
+ {
+  "id": "E-18",
+  "unit": "E",
+  "no": "18",
+  "jp": "この島には（人が）怖がるような動物はいません。",
+  "answers": [
+   "There aren't any beasts to be afraid of on this island."
+  ],
+  "audio": "audio/E/E-18-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "There aren't any beasts to be afraid on this island.",
+  "secTitle": "形容詞用法 ① ～ to不定詞と修飾される名詞との関係"
+ },
+ {
+  "id": "E-19",
+  "unit": "E",
+  "no": "19",
+  "jp": "参加者は作業用のエプロンか古着を持参してください。",
+  "answers": [
+   "Participants should bring an apron or old clothes to work in."
+  ],
+  "audio": "audio/E/E-19-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Participants should bring an apron or old clothes to work.",
+  "secTitle": "形容詞用法 ① ～ to不定詞と修飾される名詞との関係"
+ },
+ {
+  "id": "E-20",
+  "unit": "E",
+  "no": "20",
+  "jp": "たくさんの中から選べるようにしていますので，きっとぴったりのものが見つかりますよ。",
+  "answers": [
+   "We offer lots to choose from, so you're sure to find the right one for you."
+  ],
+  "audio": "audio/E/E-20-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "We offer lots to choose, so you're sure to find the right one for you.",
+  "secTitle": "形容詞用法 ① ～ to不定詞と修飾される名詞との関係"
+ },
+ {
+  "id": "E-21-a",
+  "unit": "E",
+  "no": "21",
+  "jp": "彼女には養わなければならない幼い子供が２人いる。",
+  "answers": [
+   "She has two young children to support."
+  ],
+  "audio": "audio/E/E-21-a-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "She has two young children to support.",
+  "secTitle": "形容詞用法 ① ～ to不定詞と修飾される名詞との関係"
+ },
+ {
+  "id": "E-21-b",
+  "unit": "E",
+  "no": "21",
+  "jp": "彼女には自分を養ってくれる金持ちの親がいる。",
+  "answers": [
+   "She has rich parents to support her."
+  ],
+  "audio": "audio/E/E-21-b-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "She has rich parents to support her.",
+  "secTitle": "形容詞用法 ① ～ to不定詞と修飾される名詞との関係"
+ },
+ {
+  "id": "E-22",
+  "unit": "E",
+  "no": "22",
+  "jp": "彼女はその病院の開業後ちょうど千人目の赤ん坊でした。",
+  "answers": [
+   "She was the 1,000th baby to be born since the hospital opened."
+  ],
+  "audio": "audio/E/E-22-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She was the 1,000th baby "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " since the hospital opened."
+   }
+  ],
+  "solutions": [
+   [
+    "to",
+    "be",
+    "born"
+   ]
+  ],
+  "secTitle": "形容詞用法 ① ～ to不定詞と修飾される名詞との関係"
+ },
+ {
+  "id": "E-23",
+  "unit": "E",
+  "no": "23",
+  "jp": "これは子育てに理想的な環境です。",
+  "answers": [
+   "This is an ideal environment in which to raise a family."
+  ],
+  "audio": "audio/E/E-23-.mp3",
+  "section": {
+   "title": "形容詞用法 ② ～ 「前置詞＋関係代名詞＋to不定詞」",
+   "body": "形容詞用法のto不定詞が 「to不定詞＋前置詞」 になる場合，前置詞を前に出して「前置詞＋（ A ）＋to不定詞」 とすることがある。これは 「to＋他動詞＋目的語＋前置詞」 を 「前置詞＋（ A ）＋to＋他動詞＋目的語」 で表したものが多い。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "This is an ideal environment "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " raise a family."
+   }
+  ],
+  "solutions": [
+   [
+    "in",
+    "which",
+    "to"
+   ]
+  ],
+  "secTitle": "形容詞用法 ② ～ 「前置詞＋関係代名詞＋to不定詞」"
+ },
+ {
+  "id": "E-24",
+  "unit": "E",
+  "no": "24",
+  "jp": "カップとはお茶やコーヒーなどを飲む容器のことである。",
+  "answers": [
+   "A cup is a container from which to drink tea, coffee, etc."
+  ],
+  "audio": "audio/E/E-24-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "A cup is a container "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " drink tea, coffee, etc."
+   }
+  ],
+  "solutions": [
+   [
+    "from",
+    "which",
+    "to"
+   ]
+  ],
+  "secTitle": "形容詞用法 ② ～ 「前置詞＋関係代名詞＋to不定詞」"
+ },
+ {
+  "id": "E-25",
+  "unit": "E",
+  "no": "25",
+  "jp": "彼女は自分の英語の練習ができる文通相手を探している。",
+  "answers": [
+   "She is looking for a pen pal with whom to practice her English."
+  ],
+  "audio": "audio/E/E-25-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She is looking for a pen pal "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " practice her English."
+   }
+  ],
+  "solutions": [
+   [
+    "with",
+    "whom",
+    "to"
+   ]
+  ],
+  "secTitle": "形容詞用法 ② ～ 「前置詞＋関係代名詞＋to不定詞」"
+ },
+ {
+  "id": "E-26",
+  "unit": "E",
+  "no": "26",
+  "jp": "どうやって勉強時間を確保していますか？",
+  "answers": [
+   "How do you get time to study?"
+  ],
+  "audio": "audio/E/E-26-.mp3",
+  "section": {
+   "title": "形容詞用法 ③ ～ 前置詞を省略する場合",
+   "body": "形容詞用法のto不定詞がtime, place, way, reason などの 「（ A ）の先行詞」 で用いられる名詞を修飾する場合は，to不定詞の末尾に（ B ）を置いてto不定詞と名詞の関係を（厳密に）示す必要はない。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "How do you get "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "?"
+   }
+  ],
+  "solutions": [
+   [
+    "time",
+    "to",
+    "study"
+   ]
+  ],
+  "secTitle": "形容詞用法 ③ ～ 前置詞を省略する場合"
+ },
+ {
+  "id": "E-27",
+  "unit": "E",
+  "no": "27",
+  "jp": "彼の話の信憑性を疑う理由は何もない。",
+  "answers": [
+   "There is no reason to doubt that his statement is true."
+  ],
+  "audio": "audio/E/E-27-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "There is "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " doubt that his statement is true."
+   }
+  ],
+  "solutions": [
+   [
+    "no",
+    "reason",
+    "to"
+   ]
+  ],
+  "secTitle": "形容詞用法 ③ ～ 前置詞を省略する場合"
+ },
+ {
+  "id": "E-28",
+  "unit": "E",
+  "no": "28",
+  "jp": "世界は核兵器を廃絶する方法を考えなければならない。",
+  "answers": [
+   "The world has to consider a way to eliminate nuclear weapons."
+  ],
+  "audio": "audio/E/E-28-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The world has to consider a "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " eliminate nuclear weapons."
+   }
+  ],
+  "solutions": [
+   [
+    "way",
+    "to"
+   ]
+  ],
+  "secTitle": "形容詞用法 ③ ～ 前置詞を省略する場合"
+ },
+ {
+  "id": "E-29-a",
+  "unit": "E",
+  "no": "29",
+  "jp": "私達が駐車場所を見つけるのに約30分かかった。",
+  "answers": [
+   "It took us about half an hour to find a place to park."
+  ],
+  "audio": "audio/E/E-29-a-.mp3",
+  "tags": [
+   "下線部の前置詞が不必要なものはどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "It took us about half an hour to find a place to park at.",
+  "secTitle": "形容詞用法 ③ ～ 前置詞を省略する場合"
+ },
+ {
+  "id": "E-29-b",
+  "unit": "E",
+  "no": "29",
+  "jp": "私達は学校が始まる前に住む家を見つける必要がある。",
+  "answers": [
+   "We need to find a house to live in before school starts."
+  ],
+  "audio": "audio/E/E-29-b-.mp3",
+  "tags": [
+   "下線部の前置詞が不必要なものはどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "We need to find a house to live in before school starts.",
+  "secTitle": "形容詞用法 ③ ～ 前置詞を省略する場合"
+ },
+ {
+  "id": "E-29-c",
+  "unit": "E",
+  "no": "29",
+  "jp": "残念なことに私はそれを買うお金がなかった。",
+  "answers": [
+   "Unfortunately, I didn't have the money to buy it."
+  ],
+  "audio": "audio/E/E-29-c-.mp3",
+  "tags": [
+   "下線部の前置詞が不必要なものはどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Unfortunately, I didn't have the money to buy it with.",
+  "secTitle": "形容詞用法 ③ ～ 前置詞を省略する場合"
+ },
+ {
+  "id": "E-30",
+  "unit": "E",
+  "no": "30",
+  "jp": "英語を話す機会があった時は全て十分に活用しましょう。",
+  "answers": [
+   "Make full use of every chance you have to speak English."
+  ],
+  "audio": "audio/E/E-30-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Make full use of every chance you "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " speak English."
+   }
+  ],
+  "solutions": [
+   [
+    "have",
+    "to"
+   ]
+  ],
+  "secTitle": "形容詞用法 ③ ～ 前置詞を省略する場合"
+ },
+ {
+  "id": "E-31",
+  "unit": "E",
+  "no": "31",
+  "jp": "彼が知事選に立候補すると決めたことに多くの人が驚いた。",
+  "answers": [
+   "His decision to run for governor took many by surprise."
+  ],
+  "audio": "audio/E/E-31-.mp3",
+  "section": {
+   "title": "形容詞用法 ④ ～ 動詞句と形容詞句の名詞化",
+   "body": "「他動詞＋to不定詞」 という動詞句を名詞句に変える場合は 「他動詞の名詞形＋to不定詞」 にする。例えば 「refuse to不定詞」 なら 「（ A ） to不定詞」 にする。また，「形容詞＋to不定詞」 という形容詞句を名詞句に変える場合は 「形容詞の名詞形＋to不定詞」 にする。例えば 「able to不定詞」 なら 「（ B ） to不定詞」 にする。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "His "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " run for governor took many by surprise."
+   }
+  ],
+  "solutions": [
+   [
+    "decision",
+    "to"
+   ]
+  ],
+  "secTitle": "形容詞用法 ④ ～ 動詞句と形容詞句の名詞化"
+ },
+ {
+  "id": "E-32",
+  "unit": "E",
+  "no": "32",
+  "jp": "Temper（気性）とは，怒ったり平静を保ったりという，人が有する傾向のことです。",
+  "answers": [
+   "Temper is the tendency you have to become angry or to stay calm."
+  ],
+  "audio": "audio/E/E-32-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Temper is the tendency you "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " become angry or to stay calm."
+   }
+  ],
+  "solutions": [
+   [
+    "have",
+    "to"
+   ]
+  ],
+  "secTitle": "形容詞用法 ④ ～ 動詞句と形容詞句の名詞化"
+ },
+ {
+  "id": "E-33",
+  "unit": "E",
+  "no": "33",
+  "jp": "飲酒を控えるようにと医者から言われています。",
+  "answers": [
+   "I'm under doctor's orders not to drink."
+  ],
+  "audio": "audio/E/E-33-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'm under doctor's orders "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " drink."
+   }
+  ],
+  "solutions": [
+   [
+    "not",
+    "to"
+   ]
+  ],
+  "secTitle": "形容詞用法 ④ ～ 動詞句と形容詞句の名詞化"
+ },
+ {
+  "id": "E-34",
+  "unit": "E",
+  "no": "34",
+  "jp": "彼はスペイン語が話せるのでその仕事に選ばれた。",
+  "answers": [
+   "He was picked for the job because of his ability to speak Spanish."
+  ],
+  "audio": "audio/E/E-34-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He was picked for the job because of his "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " speak Spanish."
+   }
+  ],
+  "solutions": [
+   [
+    "ability",
+    "to"
+   ]
+  ],
+  "secTitle": "形容詞用法 ④ ～ 動詞句と形容詞句の名詞化"
+ },
+ {
+  "id": "E-35",
+  "unit": "E",
+  "no": "35",
+  "jp": "時間通りそちらに着くように全力を尽くします。",
+  "answers": [
+   "I'll do my best to get there on time."
+  ],
+  "audio": "audio/E/E-35-.mp3",
+  "section": {
+   "title": "副詞用法 ① ～ 目的と結果を表す場合",
+   "body": "to不定詞は 「副詞句」 としても働き，（ A ）や形容詞，副詞，（ B ）全体を修飾する。この副詞句は（ A ）が表す行為の 「目的」 や 「結果」 を表すことができる。「目的」  の意味を特に明確に［強調］したい場合は 「in （ C ）  to」 や 「so （ D ） to」 を用いる。"
+  },
+  "tags": [
+   "並べ替え"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'll "
+   },
+   {
+    "t": "order",
+    "words": [
+     "get there",
+     "do my best",
+     "to",
+     "on time"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "do my best to get there on time"
+   ]
+  ],
+  "secTitle": "副詞用法 ① ～ 目的と結果を表す場合"
+ },
+ {
+  "id": "E-36",
+  "unit": "E",
+  "no": "36",
+  "jp": "健康でいるためには，良い食事と運動が必要です。",
+  "answers": [
+   "In order to stay healthy you need to eat well and exercise."
+  ],
+  "audio": "audio/E/E-36-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " stay healthy you need to eat well and exercise."
+   }
+  ],
+  "solutions": [
+   [
+    "In",
+    "order",
+    "to"
+   ]
+  ],
+  "secTitle": "副詞用法 ① ～ 目的と結果を表す場合"
+ },
+ {
+  "id": "E-37",
+  "unit": "E",
+  "no": "37",
+  "jp": "彼女はイスラム教徒の感情を害さないようにスカーフを顔に巻いていた。",
+  "answers": [
+   "She wore a headscarf so as not to offend Muslim sensibilities.",
+   "She wore a headscarf in order not to offend Muslim sensibilities."
+  ],
+  "audio": "audio/E/E-37-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "She wore a headscarf not to offend Muslim sensibilities.",
+  "secTitle": "副詞用法 ① ～ 目的と結果を表す場合"
+ },
+ {
+  "id": "E-38",
+  "unit": "E",
+  "no": "38",
+  "jp": "そのコーヒーをキーボードの上にこぼさないよう気をつけてくれよ。",
+  "answers": [
+   "Be careful not to spill that coffee on the keyboard."
+  ],
+  "audio": "audio/E/E-38-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Be careful "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " spill that coffee on the keyboard."
+   }
+  ],
+  "solutions": [
+   [
+    "not",
+    "to"
+   ]
+  ],
+  "secTitle": "副詞用法 ① ～ 目的と結果を表す場合"
+ },
+ {
+  "id": "E-39",
+  "unit": "E",
+  "no": "39",
+  "jp": "助けが必要な場合は遠慮なく私の所に来てください。",
+  "answers": [
+   "Don't hesitate to come to see me if you need help.",
+   "Don't hesitate to come and see me if you need help."
+  ],
+  "audio": "audio/E/E-39-.mp3",
+  "tags": [
+   "適語を記入し２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Don't hesitate to come "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " see me if you need help."
+   }
+  ],
+  "solutions": [
+   [
+    "to"
+   ],
+   [
+    "and"
+   ]
+  ],
+  "secTitle": "副詞用法 ① ～ 目的と結果を表す場合"
+ },
+ {
+  "id": "E-40",
+  "unit": "E",
+  "no": "40",
+  "jp": "今日からは毎日英語を勉強するように頑張ります。",
+  "answers": [
+   "From now on, I'll try to study English every day.",
+   "From now on, I'll try and study English every day."
+  ],
+  "audio": "audio/E/E-40-.mp3",
+  "tags": [
+   "適語を記入し２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "From now on, I'll try "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " study English every day."
+   }
+  ],
+  "solutions": [
+   [
+    "to"
+   ],
+   [
+    "and"
+   ]
+  ],
+  "secTitle": "副詞用法 ① ～ 目的と結果を表す場合"
+ },
+ {
+  "id": "E-41",
+  "unit": "E",
+  "no": "41",
+  "jp": "100歳まで生きるという彼女の夢は実現しなかった。",
+  "answers": [
+   "Her dream of living to be 100 did not come true."
+  ],
+  "audio": "audio/E/E-41-.mp3",
+  "tags": [
+   "適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Her dream of living "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " 100 did not come true."
+   }
+  ],
+  "solutions": [
+   [
+    "to",
+    "be"
+   ]
+  ],
+  "secTitle": "副詞用法 ① ～ 目的と結果を表す場合"
+ },
+ {
+  "id": "E-42-a",
+  "unit": "E",
+  "no": "42",
+  "jp": "家に戻ってみると裏のドアがこじ開けられていた。",
+  "answers": [
+   "I returned home and found my back door forced open."
+  ],
+  "audio": "audio/E/E-42-a-.mp3",
+  "tags": [
+   "適語を記入し2 通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I returned home "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " found my back door forced open."
+   }
+  ],
+  "solutions": [
+   [
+    "and"
+   ]
+  ],
+  "secTitle": "副詞用法 ① ～ 目的と結果を表す場合"
+ },
+ {
+  "id": "E-42-b",
+  "unit": "E",
+  "no": "42",
+  "jp": "家に戻ってみると裏のドアがこじ開けられていた。",
+  "answers": [
+   "I returned home to find my back door forced open."
+  ],
+  "audio": "audio/E/E-42-b-.mp3",
+  "tags": [
+   "適語を記入し2 通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I returned home "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " find my back door forced open."
+   }
+  ],
+  "solutions": [
+   [
+    "to"
+   ]
+  ],
+  "secTitle": "副詞用法 ① ～ 目的と結果を表す場合"
+ },
+ {
+  "id": "E-43",
+  "unit": "E",
+  "no": "43",
+  "jp": "彼女は1984年に公の場から姿を消し，その後二度と姿を見せることはなかった。",
+  "answers": [
+   "She disappeared from public view in 1984, never to reappear."
+  ],
+  "audio": "audio/E/E-43-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She disappeared from public view in 1984, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " reappear."
+   }
+  ],
+  "solutions": [
+   [
+    "never",
+    "to"
+   ]
+  ],
+  "secTitle": "副詞用法 ① ～ 目的と結果を表す場合"
+ },
+ {
+  "id": "E-44-a",
+  "unit": "E",
+  "no": "44",
+  "jp": "彼女は理想の男性と結婚したが，実は仕事と結婚しているような人だとわかった。",
+  "answers": [
+   "She married her dream guy, only to find out he was married to his work."
+  ],
+  "audio": "audio/E/E-44-a-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "She married her dream guy, only to find out he was married to his work.",
+  "secTitle": "副詞用法 ① ～ 目的と結果を表す場合"
+ },
+ {
+  "id": "E-44-b",
+  "unit": "E",
+  "no": "44",
+  "jp": "両親を喜ばせたい一心でジャックと結婚したとベティは言った。",
+  "answers": [
+   "Betty said that she had married Jack only to please her parents."
+  ],
+  "audio": "audio/E/E-44-b-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Betty said that she had married Jack only to please her parents.",
+  "secTitle": "副詞用法 ① ～ 目的と結果を表す場合"
+ },
+ {
+  "id": "E-45",
+  "unit": "E",
+  "no": "45",
+  "jp": "それはよかった。（（相手の話を聞いて嬉しく感じた時のことば））",
+  "answers": [
+   "I'm glad to hear it."
+  ],
+  "audio": "audio/E/E-45-.mp3",
+  "section": {
+   "title": "副詞用法 ② ～ 原因・理由や判断の根拠を表す場合",
+   "body": "to不定詞は（ A ）を表す形容詞の直後に置いて，その（ A ）が生じた 「原因・理由」を表現できる。このto不定詞は 「…して」 と訳せることが多い。また断定や推測を述べた文や感嘆文の（ B ）に置いて（文全体を修飾し），「…するとは」「…するなんて」という意味で 「判断の根拠」 を表すこともできる。"
+  },
+  "tags": [
+   "相手の話を聞いて嬉しく感じた時のことば"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'm "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " hear it."
+   }
+  ],
+  "solutions": [
+   [
+    "glad",
+    "to"
+   ]
+  ],
+  "secTitle": "副詞用法 ② ～ 原因・理由や判断の根拠を表す場合"
+ },
+ {
+  "id": "E-46",
+  "unit": "E",
+  "no": "46",
+  "jp": "君がタバコを吸っているなんて驚きだ。前は吸っていなかったのに。",
+  "answers": [
+   "I'm surprised to see you smoking. You didn't use to."
+  ],
+  "audio": "audio/E/E-46-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'm "
+   },
+   {
+    "t": "blank",
+    "hint": "s"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " see you smoking. You didn't use to."
+   }
+  ],
+  "solutions": [
+   [
+    "surprised",
+    "to"
+   ]
+  ],
+  "secTitle": "副詞用法 ② ～ 原因・理由や判断の根拠を表す場合"
+ },
+ {
+  "id": "E-47",
+  "unit": "E",
+  "no": "47",
+  "jp": "うわー，そんなことがわかるなんてあなたってとても頭がいいのね。",
+  "answers": [
+   "Wow, you must be pretty smart to be able to figure that out!"
+  ],
+  "audio": "audio/E/E-47-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Wow, you must be pretty smart "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " able to figure that out!"
+   }
+  ],
+  "solutions": [
+   [
+    "to",
+    "be"
+   ]
+  ],
+  "secTitle": "副詞用法 ② ～ 原因・理由や判断の根拠を表す場合"
+ },
+ {
+  "id": "E-48",
+  "unit": "E",
+  "no": "48",
+  "jp": "私に向かってそんなことを言うとは失礼な！ 私は君より10も年上なんだぞ。",
+  "answers": [
+   "How rude you are to say that to me! I'm ten years older than you."
+  ],
+  "audio": "audio/E/E-48-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "How rude you "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " say that to me! I'm ten years older than you."
+   }
+  ],
+  "solutions": [
+   [
+    "are",
+    "to"
+   ]
+  ],
+  "secTitle": "副詞用法 ② ～ 原因・理由や判断の根拠を表す場合"
+ },
+ {
+  "id": "E-49-a",
+  "unit": "E",
+  "no": "49",
+  "jp": "僕の年齢では（まだ）投票ができません。",
+  "answers": [
+   "I'm too young to vote."
+  ],
+  "audio": "audio/E/E-49-a-.mp3",
+  "section": {
+   "title": "副詞用法 ③ ～ 程度を表す場合",
+   "body": "「～ ( A ） to不定詞」 は 「…するのに十分［足るだけ］～」 という意味で形容詞，副詞，名詞，動詞を修飾し，「（ B ）～ to不定詞」 は「…するには～過ぎる（その結果できない）」という意味で形容詞か副詞を修飾する。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'm "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to vote."
+   }
+  ],
+  "solutions": [
+   [
+    "too",
+    "young"
+   ]
+  ],
+  "secTitle": "副詞用法 ③ ～ 程度を表す場合"
+ },
+ {
+  "id": "E-49-b",
+  "unit": "E",
+  "no": "49",
+  "jp": "僕の年齢では（まだ）投票ができません。",
+  "answers": [
+   "I'm not old enough to vote."
+  ],
+  "audio": "audio/E/E-49-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'm not "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to vote."
+   }
+  ],
+  "solutions": [
+   [
+    "old",
+    "enough"
+   ]
+  ],
+  "secTitle": "副詞用法 ③ ～ 程度を表す場合"
+ },
+ {
+  "id": "E-50",
+  "unit": "E",
+  "no": "50",
+  "jp": "会議室は最大で30人を収容できる広さです。",
+  "answers": [
+   "The meeting room is large enough to accommodate up to 30 people."
+  ],
+  "audio": "audio/E/E-50-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "The meeting room is enough large to accommodate up to 30 people.",
+  "secTitle": "副詞用法 ③ ～ 程度を表す場合"
+ },
+ {
+  "id": "E-51",
+  "unit": "E",
+  "no": "51",
+  "jp": "彼は賢明な人間だからそんなばかげた嘘は信じません。",
+  "answers": [
+   "He is too sensible a person to believe that ridiculous lie."
+  ],
+  "audio": "audio/E/E-51-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "He is a too sensible person to believe that ridiculous lie.",
+  "secTitle": "副詞用法 ③ ～ 程度を表す場合"
+ },
+ {
+  "id": "E-52",
+  "unit": "E",
+  "no": "52",
+  "jp": "６月13日には必ず彼に投票しに行ってください。",
+  "answers": [
+   "Be sure to go and vote for him on June 13th."
+  ],
+  "audio": "audio/E/E-52-.mp3",
+  "section": {
+   "title": "副詞用法 ④ ～ 形容詞の意味を限定する場合",
+   "body": "「be＋形容詞＋to不定詞」 のto不定詞は 「（ A ）」 という意味で形容詞を修飾することがある。これは，be able to のような慣用表現を除き，文の主語がto不定詞の（ B ）になり，形容詞はeasy やhard のような 「難易」 を表す語がよく用いられる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Be "
+   },
+   {
+    "t": "order",
+    "words": [
+     "go",
+     "to",
+     "and",
+     "sure"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " vote for him on June 13th."
+   }
+  ],
+  "solutions": [
+   [
+    "sure to go and"
+   ]
+  ],
+  "secTitle": "副詞用法 ④ ～ 形容詞の意味を限定する場合"
+ },
+ {
+  "id": "E-53",
+  "unit": "E",
+  "no": "53",
+  "jp": "激しい背中の痛みで彼は夜眠ることができなかった。",
+  "answers": [
+   "Severe back pain left him unable to sleep at night."
+  ],
+  "audio": "audio/E/E-53-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Severe back pain left him "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " sleep at night."
+   }
+  ],
+  "solutions": [
+   [
+    "unable",
+    "to"
+   ]
+  ],
+  "secTitle": "副詞用法 ④ ～ 形容詞の意味を限定する場合"
+ },
+ {
+  "id": "E-54",
+  "unit": "E",
+  "no": "54",
+  "jp": "「ご注文はお決まりですか？」「はい。これとこれをお願いします」",
+  "answers": [
+   "\"Are you ready to order yet?\" \"Yes, please. I'll have this and this.\""
+  ],
+  "audio": "audio/E/E-54-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"Are you "
+   },
+   {
+    "t": "blank",
+    "hint": "r"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " order yet?\" \"Yes, please. I'll have this and this.\""
+   }
+  ],
+  "solutions": [
+   [
+    "ready",
+    "to"
+   ]
+  ],
+  "secTitle": "副詞用法 ④ ～ 形容詞の意味を限定する場合"
+ },
+ {
+  "id": "E-55",
+  "unit": "E",
+  "no": "55",
+  "jp": "日本政府はアメリカの（その）要請を受け入れる可能性が高い。",
+  "answers": [
+   "The Japanese government is likely to agree to the US request."
+  ],
+  "audio": "audio/E/E-55-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The Japanese government is "
+   },
+   {
+    "t": "blank",
+    "hint": "l"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " agree to the US request."
+   }
+  ],
+  "solutions": [
+   [
+    "likely",
+    "to"
+   ]
+  ],
+  "secTitle": "副詞用法 ④ ～ 形容詞の意味を限定する場合"
+ },
+ {
+  "id": "E-56",
+  "unit": "E",
+  "no": "56",
+  "jp": "それを修理するのにいくら払ってもいいと考えていますか？",
+  "answers": [
+   "How much are you willing to pay to have it fixed?"
+  ],
+  "audio": "audio/E/E-56-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "How much are you "
+   },
+   {
+    "t": "blank",
+    "hint": "w"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " pay to have it fixed?"
+   }
+  ],
+  "solutions": [
+   [
+    "willing",
+    "to"
+   ]
+  ],
+  "secTitle": "副詞用法 ④ ～ 形容詞の意味を限定する場合"
+ },
+ {
+  "id": "E-57-a",
+  "unit": "E",
+  "no": "57",
+  "jp": "インド政府は中国政府との関係改善を強く望んでいた。",
+  "answers": [
+   "New Delhi was eager to improve its ties with Beijing."
+  ],
+  "audio": "audio/E/E-57-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "New Delhi was "
+   },
+   {
+    "t": "blank",
+    "hint": "e"
+   },
+   {
+    "t": "text",
+    "v": " to improve its ties with Beijing."
+   }
+  ],
+  "solutions": [
+   [
+    "eager"
+   ]
+  ],
+  "secTitle": "副詞用法 ④ ～ 形容詞の意味を限定する場合"
+ },
+ {
+  "id": "E-57-b",
+  "unit": "E",
+  "no": "57",
+  "jp": "インド政府は中国政府との関係改善を強く望んでいた。",
+  "answers": [
+   "New Delhi was anxious to improve its ties with Beijing."
+  ],
+  "audio": "audio/E/E-57-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "New Delhi was "
+   },
+   {
+    "t": "blank",
+    "hint": "a"
+   },
+   {
+    "t": "text",
+    "v": " to improve its ties with Beijing."
+   }
+  ],
+  "solutions": [
+   [
+    "anxious"
+   ]
+  ],
+  "secTitle": "副詞用法 ④ ～ 形容詞の意味を限定する場合"
+ },
+ {
+  "id": "E-58",
+  "unit": "E",
+  "no": "58",
+  "jp": "医者は，私は手術が必要かもしれないと言います。",
+  "answers": [
+   "The doctor says I may need to have an operation."
+  ],
+  "audio": "audio/E/E-58-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "The doctor says I may be necessary to have an operation.",
+  "secTitle": "副詞用法 ④ ～ 形容詞の意味を限定する場合"
+ },
+ {
+  "id": "E-59",
+  "unit": "E",
+  "no": "59",
+  "jp": "今晩の我々のパーティーに参加することは可能ですか？",
+  "answers": [
+   "Will you be able to join us for the party tonight?"
+  ],
+  "audio": "audio/E/E-59-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Will you be possible to join us for the party tonight?",
+  "secTitle": "副詞用法 ④ ～ 形容詞の意味を限定する場合"
+ },
+ {
+  "id": "E-60",
+  "unit": "E",
+  "no": "60",
+  "jp": "これは全て，言うは易く行うは難しである。",
+  "answers": [
+   "All of this is easy to say but difficult to do."
+  ],
+  "audio": "audio/E/E-60-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "All of this is "
+   },
+   {
+    "t": "order",
+    "words": [
+     "say",
+     "easy",
+     "do",
+     "difficult",
+     "but",
+     "to",
+     "to"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "easy to say but difficult to do"
+   ]
+  ],
+  "secTitle": "副詞用法 ④ ～ 形容詞の意味を限定する場合"
+ },
+ {
+  "id": "E-61",
+  "unit": "E",
+  "no": "61",
+  "jp": "残念ながら，後者の必要条件を満たすことは不可能です。",
+  "answers": [
+   "Unfortunately, the latter requirement is impossible to satisfy."
+  ],
+  "audio": "audio/E/E-61-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Unfortunately, the latter requirement is "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " satisfy."
+   }
+  ],
+  "solutions": [
+   [
+    "impossible",
+    "to"
+   ]
+  ],
+  "secTitle": "副詞用法 ④ ～ 形容詞の意味を限定する場合"
+ },
+ {
+  "id": "E-62",
+  "unit": "E",
+  "no": "62",
+  "jp": "彼は話をしていてとても面白い人です。",
+  "answers": [
+   "He is very interesting to talk to."
+  ],
+  "audio": "audio/E/E-62-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He is very interesting "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank",
+    "hint": "t"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "to",
+    "talk",
+    "to"
+   ]
+  ],
+  "secTitle": "副詞用法 ④ ～ 形容詞の意味を限定する場合"
+ },
+ {
+  "id": "E-63",
+  "unit": "E",
+  "no": "63",
+  "jp": "（（相手の話を受けて）） それはよかった。",
+  "answers": [
+   "That's great to hear."
+  ],
+  "audio": "audio/E/E-63-.mp3",
+  "tags": [
+   "相手の話を受けて"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "That's "
+   },
+   {
+    "t": "order",
+    "words": [
+     "great",
+     "to",
+     "hear"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "great to hear"
+   ]
+  ],
+  "secTitle": "副詞用法 ④ ～ 形容詞の意味を限定する場合"
+ },
+ {
+  "id": "E-64",
+  "unit": "E",
+  "no": "64",
+  "jp": "彼は扱いにくい男だ。",
+  "answers": [
+   "He is a hard man to deal with."
+  ],
+  "audio": "audio/E/E-64-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He is a hard "
+   },
+   {
+    "t": "order",
+    "words": [
+     "deal",
+     "with",
+     "to",
+     "man"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "man to deal with"
+   ]
+  ],
+  "secTitle": "副詞用法 ④ ～ 形容詞の意味を限定する場合"
+ },
+ {
+  "id": "E-65",
+  "unit": "E",
+  "no": "65",
+  "jp": "彼は背が高いので人混みの中でも見つけやすい。",
+  "answers": [
+   "His height makes him easy to see in the crowd."
+  ],
+  "audio": "audio/E/E-65-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "His height makes "
+   },
+   {
+    "t": "order",
+    "words": [
+     "see",
+     "him",
+     "to",
+     "easy"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " in the crowd."
+   }
+  ],
+  "solutions": [
+   [
+    "him easy to see"
+   ]
+  ],
+  "secTitle": "副詞用法 ④ ～ 形容詞の意味を限定する場合"
+ },
+ {
+  "id": "E-66-a",
+  "unit": "E",
+  "no": "66",
+  "jp": "実を言うと，今の仕事には嫌気がさしているんだ。すごく疲れるんだよ。",
+  "answers": [
+   "To tell you the truth, I'm tired of my job. It's so tiring."
+  ],
+  "audio": "audio/E/E-66-a-.mp3",
+  "section": {
+   "title": "副詞用法 ⑤ ～ 独立不定詞",
+   "body": "to不定詞の慣用表現には，文頭，（ A ），文中に置いて 「前置き」 や 「補足」 をするものがある。このタイプの慣用表現は大半が 「（ B ）」 という意味である。"
+  },
+  "tags": [
+   "空所に入る慣用表現を1 ～10 の選択肢から選ぶ"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": ", I'm tired of my job. It's so tiring."
+   }
+  ],
+  "bank": [
+   "to tell you the truth",
+   "to begin with",
+   "to say the least",
+   "to make matters worse",
+   "not to mention",
+   "not to say",
+   "so to speak",
+   "needless to say",
+   "to hear him talk",
+   "to cut a long story short"
+  ],
+  "solutions": [
+   [
+    "To tell you the truth"
+   ]
+  ],
+  "secTitle": "副詞用法 ⑤ ～ 独立不定詞"
+ },
+ {
+  "id": "E-66-b",
+  "unit": "E",
+  "no": "66",
+  "jp": "それは言わば本末転倒（荷車を馬の前に置くこと）であった。",
+  "answers": [
+   "It was putting the cart before the horse, so to speak."
+  ],
+  "audio": "audio/E/E-66-b-.mp3",
+  "tags": [
+   "空所に入る慣用表現を1 ～10 の選択肢から選ぶ"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It was putting the cart before the horse, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "bank": [
+   "to tell you the truth",
+   "to begin with",
+   "to say the least",
+   "to make matters worse",
+   "not to mention",
+   "not to say",
+   "so to speak",
+   "needless to say",
+   "to hear him talk",
+   "to cut a long story short"
+  ],
+  "solutions": [
+   [
+    "so to speak"
+   ]
+  ],
+  "secTitle": "副詞用法 ⑤ ～ 独立不定詞"
+ },
+ {
+  "id": "E-66-c",
+  "unit": "E",
+  "no": "66",
+  "jp": "彼の行動は控えめに言ってもかなり思慮を欠いていた。",
+  "answers": [
+   "He was rather thoughtless, to say the least."
+  ],
+  "audio": "audio/E/E-66-c-.mp3",
+  "tags": [
+   "空所に入る慣用表現を1 ～10 の選択肢から選ぶ"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He was rather thoughtless, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "bank": [
+   "to tell you the truth",
+   "to begin with",
+   "to say the least",
+   "to make matters worse",
+   "not to mention",
+   "not to say",
+   "so to speak",
+   "needless to say",
+   "to hear him talk",
+   "to cut a long story short"
+  ],
+  "solutions": [
+   [
+    "to say the least"
+   ]
+  ],
+  "secTitle": "副詞用法 ⑤ ～ 独立不定詞"
+ },
+ {
+  "id": "E-66-d",
+  "unit": "E",
+  "no": "66",
+  "jp": "食事と飲み物は言うまでもなく，サービスが素晴らしかった。",
+  "answers": [
+   "The service was wonderful, not to mention the food and drinks."
+  ],
+  "audio": "audio/E/E-66-d-.mp3",
+  "tags": [
+   "空所に入る慣用表現を1 ～10 の選択肢から選ぶ"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The service was wonderful, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the food and drinks."
+   }
+  ],
+  "bank": [
+   "to tell you the truth",
+   "to begin with",
+   "to say the least",
+   "to make matters worse",
+   "not to mention",
+   "not to say",
+   "so to speak",
+   "needless to say",
+   "to hear him talk",
+   "to cut a long story short"
+  ],
+  "solutions": [
+   [
+    "not to mention"
+   ]
+  ],
+  "secTitle": "副詞用法 ⑤ ～ 独立不定詞"
+ },
+ {
+  "id": "E-66-e",
+  "unit": "E",
+  "no": "66",
+  "jp": "我々はチャンピオンチームと対戦し，言うまでもなく，また敗れた。",
+  "answers": [
+   "We played the champions and, needless to say, lost again."
+  ],
+  "audio": "audio/E/E-66-e-.mp3",
+  "tags": [
+   "空所に入る慣用表現を1 ～10 の選択肢から選ぶ"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We played the champions and, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": ", lost again."
+   }
+  ],
+  "bank": [
+   "to tell you the truth",
+   "to begin with",
+   "to say the least",
+   "to make matters worse",
+   "not to mention",
+   "not to say",
+   "so to speak",
+   "needless to say",
+   "to hear him talk",
+   "to cut a long story short"
+  ],
+  "solutions": [
+   [
+    "needless to say"
+   ]
+  ],
+  "secTitle": "副詞用法 ⑤ ～ 独立不定詞"
+ },
+ {
+  "id": "E-66-f",
+  "unit": "E",
+  "no": "66",
+  "jp": "そのタイトルは不適切だ。誤解を招くとさえ言える。",
+  "answers": [
+   "The title is inadequate, not to say misleading."
+  ],
+  "audio": "audio/E/E-66-f-.mp3",
+  "tags": [
+   "空所に入る慣用表現を1 ～10 の選択肢から選ぶ"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The title is inadequate, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " misleading."
+   }
+  ],
+  "bank": [
+   "to tell you the truth",
+   "to begin with",
+   "to say the least",
+   "to make matters worse",
+   "not to mention",
+   "not to say",
+   "so to speak",
+   "needless to say",
+   "to hear him talk",
+   "to cut a long story short"
+  ],
+  "solutions": [
+   [
+    "not to say"
+   ]
+  ],
+  "secTitle": "副詞用法 ⑤ ～ 独立不定詞"
+ },
+ {
+  "id": "E-66-g",
+  "unit": "E",
+  "no": "66",
+  "jp": "彼は私の鞄をなくしてしまい，さらに悪いことに，中には私の所持金全てが入っていた。",
+  "answers": [
+   "He lost my bag, and to make matters worse it had all my money in it."
+  ],
+  "audio": "audio/E/E-66-g-.mp3",
+  "tags": [
+   "空所に入る慣用表現を1 ～10 の選択肢から選ぶ"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He lost my bag, and "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " it had all my money in it."
+   }
+  ],
+  "bank": [
+   "to tell you the truth",
+   "to begin with",
+   "to say the least",
+   "to make matters worse",
+   "not to mention",
+   "not to say",
+   "so to speak",
+   "needless to say",
+   "to hear him talk",
+   "to cut a long story short"
+  ],
+  "solutions": [
+   [
+    "to make matters worse"
+   ]
+  ],
+  "secTitle": "副詞用法 ⑤ ～ 独立不定詞"
+ },
+ {
+  "id": "E-66-h",
+  "unit": "E",
+  "no": "66",
+  "jp": "まず始めに，今日ここにお越しいただいたことに対して，皆様にお礼を申し上げます。",
+  "answers": [
+   "To begin with, let me thank you all for coming here today."
+  ],
+  "audio": "audio/E/E-66-h-.mp3",
+  "tags": [
+   "空所に入る慣用表現を1 ～10 の選択肢から選ぶ"
+  ],
+  "sheetJp": false,
+  "type": "recall",
+  "secTitle": "副詞用法 ⑤ ～ 独立不定詞"
+ },
+ {
+  "id": "E-66-i",
+  "unit": "E",
+  "no": "66",
+  "jp": "かいつまんで言うと，彼女はロシア人と結婚して今モスクワで暮らしています。",
+  "answers": [
+   "To cut a long story short, she married a Russian and now lives in Moscow."
+  ],
+  "audio": "audio/E/E-66-i-.mp3",
+  "type": "recall",
+  "secTitle": "副詞用法 ⑤ ～ 独立不定詞"
+ },
+ {
+  "id": "E-66-j",
+  "unit": "E",
+  "no": "66",
+  "jp": "彼の話を聞けば，彼のことをかなり信心深い人だと思うことでしょう。",
+  "answers": [
+   "To hear him talk, you would think he is quite a religious man."
+  ],
+  "audio": "audio/E/E-66-j-.mp3",
+  "type": "recall",
+  "secTitle": "副詞用法 ⑤ ～ 独立不定詞"
+ },
+ {
+  "id": "E-67",
+  "unit": "E",
+  "no": "67",
+  "jp": "私達の計画は子供ができたら私が仕事をやめるというものでした。",
+  "answers": [
+   "Our plan was for me to stop working when we had a child."
+  ],
+  "audio": "audio/E/E-67-.mp3",
+  "section": {
+   "title": "to不定詞の意味上の主語",
+   "body": "「to不定詞の行い手」 を示す必要がある場合はto不定詞の前に「（ A ）＋（代）名詞」を置く。この（代）名詞を 「to不定詞の意味上の主語」 と呼ぶ。to不定詞の意味上の主語は人でも人以外［無生物］でもかまわない。また，to不定詞の名詞用法，形容詞用法，副詞用法の全てで用いることができる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Our plan was "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " stop working when we had a child."
+   }
+  ],
+  "solutions": [
+   [
+    "for",
+    "me",
+    "to"
+   ]
+  ],
+  "secTitle": "to不定詞の意味上の主語"
+ },
+ {
+  "id": "E-68-a",
+  "unit": "E",
+  "no": "68",
+  "jp": "こんな事が起こるというのは残念なことだ。",
+  "answers": [
+   "For such a thing to happen is a shame."
+  ],
+  "audio": "audio/E/E-68-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " such a thing "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " happen "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " a shame."
+   }
+  ],
+  "solutions": [
+   [
+    "For",
+    "to",
+    "is"
+   ]
+  ],
+  "secTitle": "to不定詞の意味上の主語"
+ },
+ {
+  "id": "E-68-b",
+  "unit": "E",
+  "no": "68",
+  "jp": "こんな事が起こるというのは残念なことだ。",
+  "answers": [
+   "It's a shame for such a thing to happen."
+  ],
+  "audio": "audio/E/E-68-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It's a shame "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " such a thing "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " happen."
+   }
+  ],
+  "solutions": [
+   [
+    "for",
+    "to"
+   ]
+  ],
+  "secTitle": "to不定詞の意味上の主語"
+ },
+ {
+  "id": "E-69",
+  "unit": "E",
+  "no": "69",
+  "jp": "ドアに鍵を掛けないなんて君も不注意だったな。",
+  "answers": [
+   "It was careless of you to leave the door unlocked."
+  ],
+  "audio": "audio/E/E-69-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It was careless "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " leave the door unlocked."
+   }
+  ],
+  "solutions": [
+   [
+    "of",
+    "you",
+    "to"
+   ]
+  ],
+  "secTitle": "to不定詞の意味上の主語"
+ },
+ {
+  "id": "E-70",
+  "unit": "E",
+  "no": "70",
+  "jp": "インターネットによって多くの人が自宅で仕事ができるようになっている。",
+  "answers": [
+   "The Internet makes it possible for many people to work at home."
+  ],
+  "audio": "audio/E/E-70-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The Internet makes "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " many people to work at home."
+   }
+  ],
+  "solutions": [
+   [
+    "it",
+    "possible",
+    "for"
+   ]
+  ],
+  "secTitle": "to不定詞の意味上の主語"
+ },
+ {
+  "id": "E-71-a",
+  "unit": "E",
+  "no": "71",
+  "jp": "彼女は５時頃に来ると思います。",
+  "answers": [
+   "I expect her to come at about five o'clock."
+  ],
+  "audio": "audio/E/E-71-a-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I expect for her to come at about five o'clock.",
+  "secTitle": "to不定詞の意味上の主語"
+ },
+ {
+  "id": "E-71-b",
+  "unit": "E",
+  "no": "71",
+  "jp": "我々はこの危機が平和的に解決されることを願っています。",
+  "answers": [
+   "We hope for this crisis to be resolved in a peaceful manner."
+  ],
+  "audio": "audio/E/E-71-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "We hope this crisis to be resolved in a peaceful manner.",
+  "secTitle": "to不定詞の意味上の主語"
+ },
+ {
+  "id": "E-71-c",
+  "unit": "E",
+  "no": "71",
+  "jp": "タクシーがホテルまでお迎えにあがるよう手配しておきます。",
+  "answers": [
+   "I'll arrange for a cab to pick you up at your hotel."
+  ],
+  "audio": "audio/E/E-71-c-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I'll arrange for a cab to pick you up at your hotel.",
+  "secTitle": "to不定詞の意味上の主語"
+ },
+ {
+  "id": "E-71-d",
+  "unit": "E",
+  "no": "71",
+  "jp": "彼女は自分にふさわしい男性が自分の前に現れるのを待っている。",
+  "answers": [
+   "She's waiting for the right man to come along."
+  ],
+  "audio": "audio/E/E-71-d-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "She's waiting the right man to come along.",
+  "secTitle": "to不定詞の意味上の主語"
+ },
+ {
+  "id": "E-72",
+  "unit": "E",
+  "no": "72",
+  "jp": "我々が情報公開を検討すべき時が来ている。",
+  "answers": [
+   "It's time for us to consider information disclosure."
+  ],
+  "audio": "audio/E/E-72-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It's "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " consider information disclosure."
+   }
+  ],
+  "solutions": [
+   [
+    "time",
+    "for",
+    "us",
+    "to"
+   ]
+  ],
+  "secTitle": "to不定詞の意味上の主語"
+ },
+ {
+  "id": "E-73",
+  "unit": "E",
+  "no": "73",
+  "jp": "そりゃぁ，君がそう言うのは簡単さ。",
+  "answers": [
+   "Well, that's easy for you to say."
+  ],
+  "audio": "audio/E/E-73-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Well, that's "
+   },
+   {
+    "t": "order",
+    "words": [
+     "for",
+     "you",
+     "say",
+     "to",
+     "easy"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "easy for you to say"
+   ]
+  ],
+  "secTitle": "to不定詞の意味上の主語"
+ },
+ {
+  "id": "E-74",
+  "unit": "E",
+  "no": "74",
+  "jp": "ストーリー自体は子供がついていけるほど単純です。",
+  "answers": [
+   "The story itself is simple enough for children to follow."
+  ],
+  "audio": "audio/E/E-74-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The story itself is simple "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " children "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " follow."
+   }
+  ],
+  "solutions": [
+   [
+    "enough",
+    "for",
+    "to"
+   ]
+  ],
+  "secTitle": "to不定詞の意味上の主語"
+ },
+ {
+  "id": "E-75",
+  "unit": "E",
+  "no": "75",
+  "jp": "その机は重すぎて一人では運ぶことができなかった。",
+  "answers": [
+   "The desk was too heavy for one person to carry."
+  ],
+  "audio": "audio/E/E-75-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The desk was "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " one person to carry."
+   }
+  ],
+  "solutions": [
+   [
+    "too",
+    "heavy",
+    "for"
+   ]
+  ],
+  "secTitle": "to不定詞の意味上の主語"
+ },
+ {
+  "id": "E-76",
+  "unit": "E",
+  "no": "76",
+  "jp": "そんなに時間を取らせてすみませんでした。",
+  "answers": [
+   "I'm sorry to have taken so much of your time."
+  ],
+  "audio": "audio/E/E-76-.mp3",
+  "section": {
+   "title": "to不定詞の完了形",
+   "body": "一般に，「to＋動詞の原形」 は述語動詞と 「同じ時」 か述語動詞より 「未来」 のことを表す。to不定詞の時制を述語動詞よりも 「過去」 にしたい場合や，述語動詞までの 「完了・結果・経験・継続」 を表すようにしたい場合は 「to ＋（ A ) ＋（ B ）」 にし，これを 「to不定詞の完了形」 と呼ぶ。to不定詞の完了形の 「受動態」 は 「to ＋（ C ）＋（ D ）＋（ E ）」 にする。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'm sorry "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank",
+    "hint": "t"
+   },
+   {
+    "t": "text",
+    "v": " so much of your time."
+   }
+  ],
+  "solutions": [
+   [
+    "to",
+    "have",
+    "taken"
+   ]
+  ],
+  "secTitle": "to不定詞の完了形"
+ },
+ {
+  "id": "E-77",
+  "unit": "E",
+  "no": "77",
+  "jp": "彼はあなたのアドバイスに従ったみたいよ。",
+  "answers": [
+   "He seems to have followed your advice."
+  ],
+  "audio": "audio/E/E-77-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He "
+   },
+   {
+    "t": "blank",
+    "hint": "s"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " followed your advice."
+   }
+  ],
+  "solutions": [
+   [
+    "seems",
+    "to",
+    "have"
+   ]
+  ],
+  "secTitle": "to不定詞の完了形"
+ },
+ {
+  "id": "E-78",
+  "unit": "E",
+  "no": "78",
+  "jp": "欠陥のあるバルブが爆発の原因だったと考えられています。",
+  "answers": [
+   "A faulty valve is thought to have been responsible for the explosion.",
+   "A faulty valve is believed to have been responsible for the explosion."
+  ],
+  "audio": "audio/E/E-78-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "A faulty valve is "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " responsible for the explosion."
+   }
+  ],
+  "solutions": [
+   [
+    "thought",
+    "to",
+    "have",
+    "been"
+   ],
+   [
+    "believed",
+    "to",
+    "have",
+    "been"
+   ]
+  ],
+  "secTitle": "to不定詞の完了形"
+ },
+ {
+  "id": "E-79",
+  "unit": "E",
+  "no": "79",
+  "jp": "彼には多額の口止め料が与えられたと言われている。",
+  "answers": [
+   "He is said to have been given a large sum of hush money."
+  ],
+  "audio": "audio/E/E-79-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "He is said to have given a large sum of hush money.",
+  "secTitle": "to不定詞の完了形"
+ },
+ {
+  "id": "E-80",
+  "unit": "E",
+  "no": "80",
+  "jp": "小さい頃ここで遊んだのを覚えています。",
+  "answers": [
+   "I remember playing here when I was a little boy."
+  ],
+  "audio": "audio/E/E-80-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I remember to have played here when I was a little boy.",
+  "secTitle": "to不定詞の完了形"
+ },
+ {
+  "id": "E-81",
+  "unit": "E",
+  "no": "81",
+  "jp": "技術者達は（その時まで）二日間作業をし続けていた様子でした。",
+  "answers": [
+   "The engineers appeared to have been working for two days."
+  ],
+  "audio": "audio/E/E-81-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The engineers appeared "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " for two days."
+   }
+  ],
+  "solutions": [
+   [
+    "to",
+    "have",
+    "been",
+    "working"
+   ]
+  ],
+  "secTitle": "to不定詞の完了形"
+ }
+]

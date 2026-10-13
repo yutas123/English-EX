@@ -1,0 +1,1755 @@
+[
+ {
+  "id": "F-01",
+  "unit": "F",
+  "no": "01",
+  "jp": "メモを取るのはボーッとしないための最も良い方法の一つです。",
+  "answers": [
+   "Taking notes is one of the best ways to stay alert."
+  ],
+  "audio": "audio/F/F-01-.mp3",
+  "section": {
+   "title": "動名詞の基本",
+   "body": "動詞の原形にing を付けて 「…すること」 という 「名詞」 に変えたものを 「動名詞」と呼ぶ。「動詞＋目的語」「動詞＋補語」「動詞＋副詞」 などの動詞句を名詞句（＝動名詞句）に変えると，それぞれ 「動詞のing 形＋目的語」「動詞のing 形＋補語」「動詞のing 形＋副詞」 になる。これらの名詞句（＝動名詞句）は 「単数名詞」 として扱う。動名詞（句）は名詞と同じ働きをし，文の（ A ），be 動詞の補語，（ B ）や（ C ）の目的語などで用いられる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Taking notes are one of the best ways to stay alert.",
+  "secTitle": "動名詞の基本"
+ },
+ {
+  "id": "F-02-a",
+  "unit": "F",
+  "no": "02",
+  "jp": "彼の最近の趣味は孫のためにするおもちゃ作りです。",
+  "answers": [
+   "His latest hobby is to make toys for his grandchildren."
+  ],
+  "audio": "audio/F/F-02-a-.mp3",
+  "tags": [
+   "適語を記入し２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "His latest hobby "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " toys for his grandchildren."
+   }
+  ],
+  "solutions": [
+   [
+    "is",
+    "to",
+    "make"
+   ]
+  ],
+  "secTitle": "動名詞の基本"
+ },
+ {
+  "id": "F-02-b",
+  "unit": "F",
+  "no": "02",
+  "jp": "彼の最近の趣味は孫のためにするおもちゃ作りです。",
+  "answers": [
+   "His latest hobby is making toys for his grandchildren."
+  ],
+  "audio": "audio/F/F-02-b-.mp3",
+  "tags": [
+   "適語を記入し２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "His latest hobby "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " toys for his grandchildren."
+   }
+  ],
+  "solutions": [
+   [
+    "is",
+    "making"
+   ]
+  ],
+  "secTitle": "動名詞の基本"
+ },
+ {
+  "id": "F-03",
+  "unit": "F",
+  "no": "03",
+  "jp": "私は50歳の時に喫煙をやめました。",
+  "answers": [
+   "I quit smoking when I was 50 years old.",
+   "I stopped smoking when I was 50 years old."
+  ],
+  "audio": "audio/F/F-03-.mp3",
+  "tags": [
+   "適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " when I was 50 years old."
+   }
+  ],
+  "solutions": [
+   [
+    "quit",
+    "smoking"
+   ],
+   [
+    "stopped",
+    "smoking"
+   ]
+  ],
+  "secTitle": "動名詞の基本"
+ },
+ {
+  "id": "F-04",
+  "unit": "F",
+  "no": "04",
+  "jp": "「ちょっと外で待っていただいていいですか？」「ええ，いいですよ」",
+  "answers": [
+   "\"Would you mind waiting outside a moment?\" \"Not at all.\""
+  ],
+  "audio": "audio/F/F-04-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"Would you "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " outside a moment?\" \"Not at all.\""
+   }
+  ],
+  "solutions": [
+   [
+    "mind",
+    "waiting"
+   ]
+  ],
+  "secTitle": "動名詞の基本"
+ },
+ {
+  "id": "F-05",
+  "unit": "F",
+  "no": "05",
+  "jp": "ひざを曲げずにつま先に手が届きますか？",
+  "answers": [
+   "Can you touch your toes without bending your knees?"
+  ],
+  "audio": "audio/F/F-05-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Can you touch your toes without bend your knees?",
+  "secTitle": "動名詞の基本"
+ },
+ {
+  "id": "F-06",
+  "unit": "F",
+  "no": "06",
+  "jp": "とりあえずここに置いて後で取りに来るっていうのはどう？",
+  "answers": [
+   "What about leaving it here and collecting it later?"
+  ],
+  "audio": "audio/F/F-06-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "What about leaving it here and collect it later?",
+  "secTitle": "動名詞の基本"
+ },
+ {
+  "id": "F-07",
+  "unit": "F",
+  "no": "07",
+  "jp": "彼は緊張すると爪を噛む癖があります。",
+  "answers": [
+   "He has a habit of biting his nails when he's nervous."
+  ],
+  "audio": "audio/F/F-07-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He has a habit "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " biting his nails when he's nervous."
+   }
+  ],
+  "solutions": [
+   [
+    "of"
+   ]
+  ],
+  "secTitle": "動名詞の基本"
+ },
+ {
+  "id": "F-08",
+  "unit": "F",
+  "no": "08",
+  "jp": "目下，中古車を買うことを検討中です。",
+  "answers": [
+   "I'm considering buying a used car."
+  ],
+  "audio": "audio/F/F-08-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I'm considering buying a used car.",
+  "secTitle": "動名詞の基本"
+ },
+ {
+  "id": "F-09",
+  "unit": "F",
+  "no": "09",
+  "jp": "彼にこのことを話すのをもうこれ以上は先延ばしできない。",
+  "answers": [
+   "I can't put off telling him about this any longer."
+  ],
+  "audio": "audio/F/F-09-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I can't put off to tell him about this any longer.",
+  "secTitle": "動名詞の基本"
+ },
+ {
+  "id": "F-10",
+  "unit": "F",
+  "no": "10",
+  "jp": "初めてのお子さんなら彼女が心配になるのも無理はないわ。",
+  "answers": [
+   "If it's her first baby, she can't help feeling anxious."
+  ],
+  "audio": "audio/F/F-10-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "If it's her first baby, she can't "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " feeling anxious."
+   }
+  ],
+  "solutions": [
+   [
+    "help"
+   ]
+  ],
+  "secTitle": "動名詞の基本"
+ },
+ {
+  "id": "F-12",
+  "unit": "F",
+  "no": "12",
+  "jp": "私は自分が騙されたのではないかと考え始めています。",
+  "answers": [
+   "I'm beginning to think that I've been deceived."
+  ],
+  "audio": "audio/F/F-12-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'm beginning "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "to think",
+     "thinking"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " that I've been deceived."
+   }
+  ],
+  "solutions": [
+   [
+    "to think"
+   ]
+  ],
+  "secTitle": "動名詞の基本"
+ },
+ {
+  "id": "F-13",
+  "unit": "F",
+  "no": "13",
+  "jp": "私は嘘をつくのも嘘をつかれるのも嫌いです。",
+  "answers": [
+   "I hate lying and being lied to."
+  ],
+  "audio": "audio/F/F-13-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I hate "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " and "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to."
+   }
+  ],
+  "solutions": [
+   [
+    "lying",
+    "being",
+    "lied"
+   ]
+  ],
+  "secTitle": "動名詞の基本"
+ },
+ {
+  "id": "F-14",
+  "unit": "F",
+  "no": "14",
+  "jp": "言いたくないけれど，あなた少し太ったわね。",
+  "answers": [
+   "I hate to say it, but you've gained some weight."
+  ],
+  "audio": "audio/F/F-14-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I hate "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "to say",
+     "saying"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " it, but you've gained some weight."
+   }
+  ],
+  "solutions": [
+   [
+    "to say"
+   ]
+  ],
+  "secTitle": "動名詞の基本"
+ },
+ {
+  "id": "F-15",
+  "unit": "F",
+  "no": "15",
+  "jp": "仕事が終わったら飲みに行きませんか？",
+  "answers": [
+   "Would you like to go for a drink after work?"
+  ],
+  "audio": "audio/F/F-15-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Would you like going for a drink after work?",
+  "secTitle": "動名詞の基本"
+ },
+ {
+  "id": "F-16",
+  "unit": "F",
+  "no": "16",
+  "jp": "僕は，バスケットボールは見るよりやる方が好きです。",
+  "answers": [
+   "I prefer playing basketball to watching it."
+  ],
+  "audio": "audio/F/F-16-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I prefer "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " basketball "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " it."
+   }
+  ],
+  "solutions": [
+   [
+    "playing",
+    "to",
+    "watching"
+   ]
+  ],
+  "secTitle": "動名詞の基本"
+ },
+ {
+  "id": "F-17-a",
+  "unit": "F",
+  "no": "17",
+  "jp": "パスポートか身分証明書を忘れずに持ってきてください。",
+  "answers": [
+   "Remember to bring your passport or identity card."
+  ],
+  "audio": "audio/F/F-17-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Remember "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "to bring",
+     "bringing"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " your passport or identity card."
+   }
+  ],
+  "solutions": [
+   [
+    "to bring"
+   ]
+  ],
+  "secTitle": "動名詞の基本"
+ },
+ {
+  "id": "F-17-b",
+  "unit": "F",
+  "no": "17",
+  "jp": "パスポートか身分証明書を忘れずに持ってきてください。",
+  "answers": [
+   "Don't forget to bring your passport or identity card."
+  ],
+  "audio": "audio/F/F-17-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Don't forget "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "to bring",
+     "bringing"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " your passport or identity card."
+   }
+  ],
+  "solutions": [
+   [
+    "to bring"
+   ]
+  ],
+  "secTitle": "動名詞の基本"
+ },
+ {
+  "id": "F-18",
+  "unit": "F",
+  "no": "18",
+  "jp": "初めてヤンキースタジアムを見た時のことは忘れません。",
+  "answers": [
+   "I'll never forget seeing Yankee Stadium for the first time."
+  ],
+  "audio": "audio/F/F-18-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'll never forget "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "to see",
+     "to have seen",
+     "seeing"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Yankee Stadium for the first time."
+   }
+  ],
+  "solutions": [
+   [
+    "seeing"
+   ]
+  ],
+  "secTitle": "動名詞の基本"
+ },
+ {
+  "id": "F-19-a",
+  "unit": "F",
+  "no": "19",
+  "jp": "独身時代にもっとお金を貯めておかなかったことを後悔している。",
+  "answers": [
+   "I regret that I didn't save more money when I was single."
+  ],
+  "audio": "audio/F/F-19-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I regret that I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " save more money when I was single."
+   }
+  ],
+  "solutions": [
+   [
+    "didn't"
+   ]
+  ],
+  "secTitle": "動名詞の基本"
+ },
+ {
+  "id": "F-19-b",
+  "unit": "F",
+  "no": "19",
+  "jp": "独身時代にもっとお金を貯めておかなかったことを後悔している。",
+  "answers": [
+   "I regret not saving more money when I was single."
+  ],
+  "audio": "audio/F/F-19-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I regret "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " more money when I was single."
+   }
+  ],
+  "solutions": [
+   [
+    "not",
+    "saving"
+   ]
+  ],
+  "secTitle": "動名詞の基本"
+ },
+ {
+  "id": "F-20",
+  "unit": "F",
+  "no": "20",
+  "jp": "まことに遺憾ながら今回の採用は見送らせていただくことをご通知申し上げます。",
+  "answers": [
+   "We regret to inform you that your application for the job was unsuccessful."
+  ],
+  "audio": "audio/F/F-20-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We regret "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "to inform",
+     "informing"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " you that your application for the job was unsuccessful."
+   }
+  ],
+  "solutions": [
+   [
+    "to inform"
+   ]
+  ],
+  "secTitle": "動名詞の基本"
+ },
+ {
+  "id": "F-21",
+  "unit": "F",
+  "no": "21",
+  "jp": "リセットしようとボタンを押してみたがだめだった。",
+  "answers": [
+   "I tried pushing the button to reset it but to no avail."
+  ],
+  "audio": "audio/F/F-21-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I tried "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "to push",
+     "pushing"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " the button to reset it but to no avail."
+   }
+  ],
+  "solutions": [
+   [
+    "pushing"
+   ]
+  ],
+  "secTitle": "動名詞の基本"
+ },
+ {
+  "id": "F-22",
+  "unit": "F",
+  "no": "22",
+  "jp": "忘れるようにしなよ。そんなことでくよくよしてもしょうがないんだから。",
+  "answers": [
+   "Try to forget it. It's not worth worrying about."
+  ],
+  "audio": "audio/F/F-22-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Try "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "to forget",
+     "forgetting"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " it. It's not worth "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "to worry",
+     "worrying",
+     "worrying about"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "to forget",
+    "worrying about"
+   ]
+  ],
+  "secTitle": "動名詞の基本"
+ },
+ {
+  "id": "F-23",
+  "unit": "F",
+  "no": "23",
+  "jp": "この洗濯機は修理が必要だ。",
+  "answers": [
+   "This washing machine needs repairing.",
+   "This washing machine wants repairing."
+  ],
+  "audio": "audio/F/F-23-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "This washing machine "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " repairing."
+   }
+  ],
+  "solutions": [
+   [
+    "needs"
+   ],
+   [
+    "wants"
+   ]
+  ],
+  "secTitle": "動名詞の基本"
+ },
+ {
+  "id": "F-24-a",
+  "unit": "F",
+  "no": "24",
+  "jp": "私は食料雑貨を買うためにスーパーに立ち寄った。",
+  "answers": [
+   "I stopped at the supermarket to buy some groceries."
+  ],
+  "audio": "audio/F/F-24-a-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I stopped at the supermarket for buying some groceries.",
+  "secTitle": "動名詞の基本"
+ },
+ {
+  "id": "F-24-b",
+  "unit": "F",
+  "no": "24",
+  "jp": "「それは何？」「これは穴を開けるための道具です」",
+  "answers": [
+   "\"What's that?\" \"It's a tool for making holes.\""
+  ],
+  "audio": "audio/F/F-24-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "\"What's that?\" \"It's a tool for making holes.\"",
+  "secTitle": "動名詞の基本"
+ },
+ {
+  "id": "F-24-c",
+  "unit": "F",
+  "no": "24",
+  "jp": "この包丁は肉と骨を分けるために使います。",
+  "answers": [
+   "This knife is used for separating the meat from the bone."
+  ],
+  "audio": "audio/F/F-24-c-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "This knife is used for separating the meat from the bone.",
+  "secTitle": "動名詞の基本"
+ },
+ {
+  "id": "F-25-a",
+  "unit": "F",
+  "no": "25",
+  "jp": "私はビールより（アルコール度の）強いものは飲み慣れていません。",
+  "answers": [
+   "I'm not used to drinking anything stronger than beer."
+  ],
+  "audio": "audio/F/F-25-a-.mp3",
+  "section": {
+   "title": "動名詞とto不定詞の使い分け ②",
+   "body": "to には 「to不定詞の to」 と 「（ A ）のto」 とがある。（ A ）の場合は， to の後に［代］名詞か動名詞を置き，動詞の原形を置かないように注意が必要である。"
+  },
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I'm not used to drink anything stronger than beer.",
+  "secTitle": "動名詞とto不定詞の使い分け ②"
+ },
+ {
+  "id": "F-25-b",
+  "unit": "F",
+  "no": "25",
+  "jp": "昔はタバコを吸っていましたが，去年やめました。",
+  "answers": [
+   "I used to smoke but I gave it up last year."
+  ],
+  "audio": "audio/F/F-25-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I used to smoke but I gave it up last year.",
+  "secTitle": "動名詞とto不定詞の使い分け ②"
+ },
+ {
+  "id": "F-25-c",
+  "unit": "F",
+  "no": "25",
+  "jp": "私はこのクラスで上達するのを楽しみにしています。",
+  "answers": [
+   "I'm looking forward to making progress in this class."
+  ],
+  "audio": "audio/F/F-25-c-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I'm looking forward to make progress in this class.",
+  "secTitle": "動名詞とto不定詞の使い分け ②"
+ },
+ {
+  "id": "F-25-d",
+  "unit": "F",
+  "no": "25",
+  "jp": "彼は後で売却して利益を得る目的でその不動産を買った。",
+  "answers": [
+   "He bought the property with a view to selling it later at a profit."
+  ],
+  "audio": "audio/F/F-25-d-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "He bought the property with a view to sell it later at a profit.",
+  "secTitle": "動名詞とto不定詞の使い分け ②"
+ },
+ {
+  "id": "F-25-e",
+  "unit": "F",
+  "no": "25",
+  "jp": "その二つの国は自由貿易協定に調印する間際である。",
+  "answers": [
+   "The two countries are close to signing a Free Trade Agreement."
+  ],
+  "audio": "audio/F/F-25-e-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "The two countries are close to sign a Free Trade Agreement.",
+  "secTitle": "動名詞とto不定詞の使い分け ②"
+ },
+ {
+  "id": "F-25-f",
+  "unit": "F",
+  "no": "25",
+  "jp": "午後ショッピングに行くというのはどうですか？",
+  "answers": [
+   "What would you say to going shopping this afternoon?"
+  ],
+  "audio": "audio/F/F-25-f-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "What would you say to going shopping this afternoon?",
+  "secTitle": "動名詞とto不定詞の使い分け ②"
+ },
+ {
+  "id": "F-26-a",
+  "unit": "F",
+  "no": "26",
+  "jp": "タバコを吸ってもかまいませんか？",
+  "answers": [
+   "Do you mind if I smoke?"
+  ],
+  "audio": "audio/F/F-26-a-.mp3",
+  "section": {
+   "title": "動名詞の意味上の主語",
+   "body": "動名詞の意味上の主語が文の主語と異なる場合は，意味上の主語を動名詞の（ A ）に置く。動名詞の意味上の主語は 「名詞」 であればそのままの形か（ B ）格に，「代名詞」 であれば（ C ）格か（ B ）格にする。動名詞の意味上の主語は，目的語に置かれる動名詞に付くことが多い。つまり，「他動詞 ＋＜意味上の主語＞＋ 動名詞」や 「 前置詞 ＋ ＜意味上の主語＞＋ 動名詞」  の形で用いられることが多い。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Do you "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " I smoke?"
+   }
+  ],
+  "solutions": [
+   [
+    "mind",
+    "if"
+   ]
+  ],
+  "secTitle": "動名詞の意味上の主語"
+ },
+ {
+  "id": "F-26-b",
+  "unit": "F",
+  "no": "26",
+  "jp": "タバコを吸ってもかまいませんか？",
+  "answers": [
+   "Would you mind my smoking?",
+   "Would you mind me smoking?"
+  ],
+  "audio": "audio/F/F-26-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Would you "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " smoking?"
+   }
+  ],
+  "solutions": [
+   [
+    "mind",
+    "my"
+   ],
+   [
+    "mind",
+    "me"
+   ]
+  ],
+  "secTitle": "動名詞の意味上の主語"
+ },
+ {
+  "id": "F-27",
+  "unit": "F",
+  "no": "27",
+  "jp": "彼が人の悪口を言ったという記憶は私にはありません。",
+  "answers": [
+   "I don't remember him saying a bad thing about anybody.",
+   "I don't remember his saying a bad thing about anybody."
+  ],
+  "audio": "audio/F/F-27-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I don't remember "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " a bad thing about anybody."
+   }
+  ],
+  "solutions": [
+   [
+    "him",
+    "saying"
+   ],
+   [
+    "his",
+    "saying"
+   ]
+  ],
+  "secTitle": "動名詞の意味上の主語"
+ },
+ {
+  "id": "F-28",
+  "unit": "F",
+  "no": "28",
+  "jp": "彼は娘がジャックと結婚するのに反対した。",
+  "answers": [
+   "He objected to his daughter marrying Jack."
+  ],
+  "audio": "audio/F/F-28-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He objected to his daughter "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "will marry",
+     "to marry",
+     "marrying"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Jack."
+   }
+  ],
+  "solutions": [
+   [
+    "marrying"
+   ]
+  ],
+  "secTitle": "動名詞の意味上の主語"
+ },
+ {
+  "id": "F-29",
+  "unit": "F",
+  "no": "29",
+  "jp": "「（カラオケに）行きたい人誰かいる？」「私は遠慮します。私の歌は悲惨ですから」",
+  "answers": [
+   "\"Who wants to go?\" \"Count me out―my singing is terrible.\""
+  ],
+  "audio": "audio/F/F-29-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"Who wants to go?\" \"Count me out―"
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " is terrible.\""
+   }
+  ],
+  "solutions": [
+   [
+    "my",
+    "singing"
+   ]
+  ],
+  "secTitle": "動名詞の意味上の主語"
+ },
+ {
+  "id": "F-30",
+  "unit": "F",
+  "no": "30",
+  "jp": "皆さんが彼に投票すると，皆さんの税金は上がるのですよ。",
+  "answers": [
+   "Your voting for him will result in your taxes being raised."
+  ],
+  "audio": "audio/F/F-30-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " voting for him will result in your taxes "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " raised."
+   }
+  ],
+  "solutions": [
+   [
+    "Your",
+    "being"
+   ]
+  ],
+  "secTitle": "動名詞の意味上の主語"
+ },
+ {
+  "id": "F-31",
+  "unit": "F",
+  "no": "31",
+  "jp": "私は祖母が重病だという嘘の話をでっちあげた。",
+  "answers": [
+   "I made up a story about my grandmother being very ill."
+  ],
+  "audio": "audio/F/F-31-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I made up a story about my grandmother "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " very ill."
+   }
+  ],
+  "solutions": [
+   [
+    "being"
+   ]
+  ],
+  "secTitle": "動名詞の意味上の主語"
+ },
+ {
+  "id": "F-32-a",
+  "unit": "F",
+  "no": "32",
+  "jp": "被告はそのような手紙はいっさい受け取らなかったと述べた。",
+  "answers": [
+   "The defendant denied that he had received any such letters."
+  ],
+  "audio": "audio/F/F-32-a-.mp3",
+  "section": {
+   "title": "動名詞の完了形",
+   "body": "動名詞が述語動詞より 「過去」 のことを表すようにしたい場合は，動名詞を 「（ A ）＋（ B ）」 という形にする。これを 「動名詞の完了形」 と呼ぶ。動名詞の完了形の「受動態」 は 「（ C ）＋（ D ）＋（ E ）」 にする。但し，remember やforget の目的語に置かれる動名詞は，単純形の動名詞（Ving）が述語動詞より過去の行為を表す。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The defendant denied that he "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank",
+    "hint": "r"
+   },
+   {
+    "t": "text",
+    "v": " any such letters."
+   }
+  ],
+  "solutions": [
+   [
+    "had",
+    "received"
+   ]
+  ],
+  "secTitle": "動名詞の完了形"
+ },
+ {
+  "id": "F-32-b",
+  "unit": "F",
+  "no": "32",
+  "jp": "被告はそのような手紙はいっさい受け取らなかったと述べた。",
+  "answers": [
+   "The defendant denied having received any such letters."
+  ],
+  "audio": "audio/F/F-32-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The defendant denied "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank",
+    "hint": "r"
+   },
+   {
+    "t": "text",
+    "v": " any such letters."
+   }
+  ],
+  "solutions": [
+   [
+    "having",
+    "received"
+   ]
+  ],
+  "secTitle": "動名詞の完了形"
+ },
+ {
+  "id": "F-33-a",
+  "unit": "F",
+  "no": "33",
+  "jp": "学校でもっとしっかり勉強しておけばよかったと後悔しています。",
+  "answers": [
+   "I regret not studying harder at school."
+  ],
+  "audio": "audio/F/F-33-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I regret "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " harder at school."
+   }
+  ],
+  "solutions": [
+   [
+    "not",
+    "studying"
+   ]
+  ],
+  "secTitle": "動名詞の完了形"
+ },
+ {
+  "id": "F-33-b",
+  "unit": "F",
+  "no": "33",
+  "jp": "学校でもっとしっかり勉強しておけばよかったと後悔しています。",
+  "answers": [
+   "I regret not having studied harder at school."
+  ],
+  "audio": "audio/F/F-33-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I regret "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " harder at school."
+   }
+  ],
+  "solutions": [
+   [
+    "not",
+    "having",
+    "studied"
+   ]
+  ],
+  "secTitle": "動名詞の完了形"
+ },
+ {
+  "id": "F-34",
+  "unit": "F",
+  "no": "34",
+  "jp": "私は宿題をしなかったことに対する言い訳を考えていた。",
+  "answers": [
+   "I was thinking of an excuse for not having done my homework."
+  ],
+  "audio": "audio/F/F-34-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I was thinking of an excuse for "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " my homework."
+   }
+  ],
+  "solutions": [
+   [
+    "not",
+    "having",
+    "done"
+   ]
+  ],
+  "secTitle": "動名詞の完了形"
+ },
+ {
+  "id": "F-35",
+  "unit": "F",
+  "no": "35",
+  "jp": "彼女は自分よりランキングの低い相手に敗れてショックを受けている。",
+  "answers": [
+   "She is disappointed at having been beaten by a player ranked lower than herself."
+  ],
+  "audio": "audio/F/F-35-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "She is disappointed at having beaten by a player ranked lower than herself.",
+  "secTitle": "動名詞の完了形"
+ },
+ {
+  "id": "F-36",
+  "unit": "F",
+  "no": "36",
+  "jp": "この法律は飲酒運転の防止を狙いとしています。",
+  "answers": [
+   "This law is aimed at preventing drunk driving."
+  ],
+  "audio": "audio/F/F-36-.mp3",
+  "section": {
+   "title": "動名詞の名詞的性質",
+   "body": "動名詞はto不定詞よりも名詞としての性質が強く，to不定詞にはない使い方ができる。例えば，動名詞は（ A ）で修飾をしたり，「動名詞＋（ B ）」 の形で（ B ）を修飾したりすることができる（後者の用法を 「動名詞の形容詞的用法」 と呼ぶ）。形容詞的用法の動名詞は主に 「用途」 や 「目的」 を表し，「…用の」 という訳語が当てはまることが多い。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "This law is aimed at preventing drunk "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "driving"
+   ]
+  ],
+  "secTitle": "動名詞の名詞的性質"
+ },
+ {
+  "id": "F-37",
+  "unit": "F",
+  "no": "37",
+  "jp": "不法駐車で車を持って行かれてしまった。",
+  "answers": [
+   "I had my car towed away for illegal parking."
+  ],
+  "audio": "audio/F/F-37-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I had my car towed away for illegal "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "parking"
+   ]
+  ],
+  "secTitle": "動名詞の名詞的性質"
+ },
+ {
+  "id": "F-38",
+  "unit": "F",
+  "no": "38",
+  "jp": "授業中の飲食は禁止されています。",
+  "answers": [
+   "No eating or drinking is allowed during class."
+  ],
+  "audio": "audio/F/F-38-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank",
+    "hint": "e"
+   },
+   {
+    "t": "text",
+    "v": " or "
+   },
+   {
+    "t": "blank",
+    "hint": "d"
+   },
+   {
+    "t": "text",
+    "v": " is allowed during class."
+   }
+  ],
+  "solutions": [
+   [
+    "No",
+    "eating",
+    "drinking"
+   ]
+  ],
+  "secTitle": "動名詞の名詞的性質"
+ },
+ {
+  "id": "F-39",
+  "unit": "F",
+  "no": "39",
+  "jp": "彼は 「禁煙」 の表示を無視してタバコに火をつけた。",
+  "answers": [
+   "He ignored the \"No Smoking\" sign and lit up."
+  ],
+  "audio": "audio/F/F-39-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He ignored the \""
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "\" sign and lit up."
+   }
+  ],
+  "solutions": [
+   [
+    "No",
+    "Smoking"
+   ]
+  ],
+  "secTitle": "動名詞の名詞的性質"
+ },
+ {
+  "id": "F-40",
+  "unit": "F",
+  "no": "40",
+  "jp": "観光バスが（何台か）駐車できる広さの無料駐車場があります。",
+  "answers": [
+   "There is a free parking area, large enough for sightseeing buses."
+  ],
+  "audio": "audio/F/F-40-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "There is a free "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " area, large enough for "
+   },
+   {
+    "t": "blank",
+    "hint": "s"
+   },
+   {
+    "t": "text",
+    "v": " buses."
+   }
+  ],
+  "solutions": [
+   [
+    "parking",
+    "sightseeing"
+   ]
+  ],
+  "secTitle": "動名詞の名詞的性質"
+ },
+ {
+  "id": "F-41",
+  "unit": "F",
+  "no": "41",
+  "jp": "私の場合，読解力の方がリスニング力よりだいぶ上です。",
+  "answers": [
+   "My reading comprehension is way above my listening comprehension."
+  ],
+  "audio": "audio/F/F-41-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "My "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " comprehension is way above my "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " comprehension."
+   }
+  ],
+  "solutions": [
+   [
+    "reading",
+    "listening"
+   ]
+  ],
+  "secTitle": "動名詞の名詞的性質"
+ }
+]

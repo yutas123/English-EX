@@ -1,0 +1,2326 @@
+[
+ {
+  "id": "D-01-a",
+  "unit": "D",
+  "no": "01",
+  "jp": "空気が汚染されている。",
+  "answers": [
+   "The air is polluted."
+  ],
+  "audio": "audio/D/D-01-a-.mp3",
+  "section": {
+   "title": "受動態の作り方",
+   "body": "「be 動詞＋過去分詞」 で 「…される」 という意味を表す形を 「受動態」 と呼ぶ。受動態は 「他動詞＋（ A ）」 の（ A ）を主語にした表現なので，（ A ）を取らない動詞（＝自動詞）は受動態で用いない。但し，自動詞であっても，laugh at やtake care of のように前置詞と一緒になって他動詞の働きをする動詞句は受動態にできるものが多い。「…によって」 という 「動作の行い手」 を示す場合は 「by ...」 とするが，実際に 「by ...」 を伴う受動態は少なく，特にby me [us, you, him, her, them, it] のような代名詞をとる形はほとんど用いられない。"
+  },
+  "tags": [
+   "下線部に注意して受動態に変える。by them は省略"
+  ],
+  "sheetJp": false,
+  "type": "compose",
+  "stem": "They pollute the air.",
+  "secTitle": "受動態の作り方"
+ },
+ {
+  "id": "D-01-b",
+  "unit": "D",
+  "no": "01",
+  "jp": "空気が汚染されていた。",
+  "answers": [
+   "The air was polluted."
+  ],
+  "audio": "audio/D/D-01-b-.mp3",
+  "tags": [
+   "下線部に注意して受動態に変える。by them は省略"
+  ],
+  "sheetJp": false,
+  "type": "compose",
+  "stem": "They polluted the air.",
+  "secTitle": "受動態の作り方"
+ },
+ {
+  "id": "D-01-c",
+  "unit": "D",
+  "no": "01",
+  "jp": "現在，空気が汚染されつつある。",
+  "answers": [
+   "The air is being polluted."
+  ],
+  "audio": "audio/D/D-01-c-.mp3",
+  "tags": [
+   "下線部に注意して受動態に変える。by them は省略"
+  ],
+  "sheetJp": false,
+  "type": "compose",
+  "stem": "They are polluting the air.",
+  "secTitle": "受動態の作り方"
+ },
+ {
+  "id": "D-01-d",
+  "unit": "D",
+  "no": "01",
+  "jp": "空気が汚染されつつあった。",
+  "answers": [
+   "The air was being polluted."
+  ],
+  "audio": "audio/D/D-01-d-.mp3",
+  "tags": [
+   "下線部に注意して受動態に変える。by them は省略"
+  ],
+  "sheetJp": false,
+  "type": "compose",
+  "stem": "They were polluting the air.",
+  "secTitle": "受動態の作り方"
+ },
+ {
+  "id": "D-01-e",
+  "unit": "D",
+  "no": "01",
+  "jp": "空気が（将来）汚染される。",
+  "answers": [
+   "The air will be polluted."
+  ],
+  "audio": "audio/D/D-01-e-.mp3",
+  "tags": [
+   "下線部に注意して受動態に変える。by them は省略"
+  ],
+  "sheetJp": false,
+  "type": "compose",
+  "stem": "They will pollute the air.",
+  "secTitle": "受動態の作り方"
+ },
+ {
+  "id": "D-01-f",
+  "unit": "D",
+  "no": "01",
+  "jp": "空気は既に汚染されてしまっている。",
+  "answers": [
+   "The air has been polluted."
+  ],
+  "audio": "audio/D/D-01-f-.mp3",
+  "tags": [
+   "下線部に注意して受動態に変える。by them は省略"
+  ],
+  "sheetJp": false,
+  "type": "compose",
+  "stem": "They have polluted the air.",
+  "secTitle": "受動態の作り方"
+ },
+ {
+  "id": "D-01-g",
+  "unit": "D",
+  "no": "01",
+  "jp": "空気は既に汚染されてしまっていた。",
+  "answers": [
+   "The air had been polluted."
+  ],
+  "audio": "audio/D/D-01-g-.mp3",
+  "tags": [
+   "下線部に注意して受動態に変える。by them は省略"
+  ],
+  "sheetJp": false,
+  "type": "compose",
+  "stem": "They had polluted the air.",
+  "secTitle": "受動態の作り方"
+ },
+ {
+  "id": "D-01-h",
+  "unit": "D",
+  "no": "01",
+  "jp": "空気は（その時までには）汚染されてしまっている（だろう）。",
+  "answers": [
+   "The air will have been polluted."
+  ],
+  "audio": "audio/D/D-01-h-.mp3",
+  "tags": [
+   "下線部に注意して受動態に変える。by them は省略"
+  ],
+  "sheetJp": false,
+  "type": "compose",
+  "stem": "They will have polluted the air. i) They are going to pollute the air.",
+  "secTitle": "受動態の作り方"
+ },
+ {
+  "id": "D-01-i",
+  "unit": "D",
+  "no": "01",
+  "jp": "空気が（将来）汚染される。",
+  "answers": [
+   "The air is going to be polluted."
+  ],
+  "audio": "audio/D/D-01-i-.mp3",
+  "type": "recall",
+  "secTitle": "受動態の作り方"
+ },
+ {
+  "id": "D-02-a",
+  "unit": "D",
+  "no": "02",
+  "jp": "島（というの）は周囲を水に囲まれている。",
+  "answers": [
+   "An island is surrounded by water."
+  ],
+  "audio": "audio/D/D-02-a-.mp3",
+  "tags": [
+   "能動態を参考にして→ の日本文が示す受動態を作る"
+  ],
+  "sheetJp": true,
+  "type": "compose",
+  "stem": "Water surrounds an island.",
+  "secTitle": "受動態の作り方"
+ },
+ {
+  "id": "D-02-b",
+  "unit": "D",
+  "no": "02",
+  "jp": "私はクラスメートに笑われた。",
+  "answers": [
+   "I was laughed at by my classmates."
+  ],
+  "audio": "audio/D/D-02-b-.mp3",
+  "tags": [
+   "能動態を参考にして→ の日本文が示す受動態を作る"
+  ],
+  "sheetJp": true,
+  "type": "compose",
+  "stem": "My classmates laughed at me.",
+  "secTitle": "受動態の作り方"
+ },
+ {
+  "id": "D-02-c",
+  "unit": "D",
+  "no": "02",
+  "jp": "彼は妹に尊敬されていた。",
+  "answers": [
+   "He was looked up to by his sister."
+  ],
+  "audio": "audio/D/D-02-c-.mp3",
+  "tags": [
+   "能動態を参考にして→ の日本文が示す受動態を作る"
+  ],
+  "sheetJp": true,
+  "type": "compose",
+  "stem": "His sister looked up to him.",
+  "secTitle": "受動態の作り方"
+ },
+ {
+  "id": "D-02-d",
+  "unit": "D",
+  "no": "02",
+  "jp": "我々のクラスはスペクター先生によって教えられることになる。",
+  "answers": [
+   "Our class will be taught by Ms. Specter."
+  ],
+  "audio": "audio/D/D-02-d-.mp3",
+  "tags": [
+   "能動態を参考にして→ の日本文が示す受動態を作る"
+  ],
+  "sheetJp": true,
+  "type": "compose",
+  "stem": "Ms. Specter will teach our class.",
+  "secTitle": "受動態の作り方"
+ },
+ {
+  "id": "D-02-e",
+  "unit": "D",
+  "no": "02",
+  "jp": "アルコールは未成年者に販売してはならない。",
+  "answers": [
+   "Alcohol may not be sold to minors."
+  ],
+  "audio": "audio/D/D-02-e-.mp3",
+  "tags": [
+   "能動態を参考にして→ の日本文が示す受動態を作る"
+  ],
+  "sheetJp": true,
+  "type": "compose",
+  "stem": "You may not sell alcohol to minors.",
+  "secTitle": "受動態の作り方"
+ },
+ {
+  "id": "D-02-f",
+  "unit": "D",
+  "no": "02",
+  "jp": "困っている人達は助けられねばならない。",
+  "answers": [
+   "Those in need have to be helped."
+  ],
+  "audio": "audio/D/D-02-f-.mp3",
+  "tags": [
+   "能動態を参考にして→ の日本文が示す受動態を作る"
+  ],
+  "sheetJp": true,
+  "type": "compose",
+  "stem": "You have to help those in need.",
+  "secTitle": "受動態の作り方"
+ },
+ {
+  "id": "D-02-g",
+  "unit": "D",
+  "no": "02",
+  "jp": "今までに街でイノシシが目撃されています。",
+  "answers": [
+   "Wild boars have been seen in the streets."
+  ],
+  "audio": "audio/D/D-02-g-.mp3",
+  "tags": [
+   "能動態を参考にして→ の日本文が示す受動態を作る"
+  ],
+  "sheetJp": true,
+  "type": "compose",
+  "stem": "People have seen wild boars in the streets.",
+  "secTitle": "受動態の作り方"
+ },
+ {
+  "id": "D-02-h",
+  "unit": "D",
+  "no": "02",
+  "jp": "川はその時にはすでに汚染されていた。",
+  "answers": [
+   "The river had been polluted."
+  ],
+  "audio": "audio/D/D-02-h-.mp3",
+  "tags": [
+   "能動態を参考にして→ の日本文が示す受動態を作る"
+  ],
+  "sheetJp": true,
+  "type": "compose",
+  "stem": "People had polluted the river. i) By then people will have solved this problem. j) Their nanny is now looking after the children. k) Millions of people were watching the TV show.",
+  "secTitle": "受動態の作り方"
+ },
+ {
+  "id": "D-02-i",
+  "unit": "D",
+  "no": "02",
+  "jp": "その時までにはもうこの問題は解決されていますよ。",
+  "answers": [
+   "By then this problem will have been solved."
+  ],
+  "audio": "audio/D/D-02-i-.mp3",
+  "type": "recall",
+  "secTitle": "受動態の作り方"
+ },
+ {
+  "id": "D-02-j",
+  "unit": "D",
+  "no": "02",
+  "jp": "その子供達は今，乳母によって世話されている。",
+  "answers": [
+   "The children are now being looked after by their nanny."
+  ],
+  "audio": "audio/D/D-02-j-.mp3",
+  "type": "recall",
+  "secTitle": "受動態の作り方"
+ },
+ {
+  "id": "D-02-k",
+  "unit": "D",
+  "no": "02",
+  "jp": "その番組は何百万人もの人々によって視聴されていた。",
+  "answers": [
+   "The TV show was being watched by millions of people."
+  ],
+  "audio": "audio/D/D-02-k-.mp3",
+  "type": "recall",
+  "secTitle": "受動態の作り方"
+ },
+ {
+  "id": "D-03-b",
+  "unit": "D",
+  "no": "03",
+  "jp": "その寺は人があまり行かない所にあり，観光客はめったに来ない。",
+  "answers": [
+   "The temple is off the beaten track and rarely visited by tourists."
+  ],
+  "audio": "audio/D/D-03-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "The temple is off the beaten track and rarely visited by tourists.",
+  "secTitle": "受動態の作り方"
+ },
+ {
+  "id": "D-04-b",
+  "unit": "D",
+  "no": "04",
+  "jp": "この土地は全てその大学に所有されている。",
+  "answers": [
+   "All this land is owned by the college."
+  ],
+  "audio": "audio/D/D-04-b-.mp3",
+  "tags": [
+   "下線部を主語にした受動態が可能なものはどれか"
+  ],
+  "sheetJp": false,
+  "type": "compose",
+  "stem": "The college owns all this land.",
+  "secTitle": "受動態の作り方"
+ },
+ {
+  "id": "D-05-a",
+  "unit": "D",
+  "no": "05",
+  "jp": "この絵はピカソが描いたのですか？",
+  "answers": [
+   "Was this picture painted by Picasso?"
+  ],
+  "audio": "audio/D/D-05-a-.mp3",
+  "tags": [
+   "並べ替えて受動態を作り全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "( this picture, was, painted, Picasso, by ) ?",
+  "secTitle": "受動態の作り方"
+ },
+ {
+  "id": "D-05-b",
+  "unit": "D",
+  "no": "05",
+  "jp": "電話は誰によって発明されたのですか？",
+  "answers": [
+   "Who was the telephone invented by?"
+  ],
+  "audio": "audio/D/D-05-b-.mp3",
+  "tags": [
+   "並べ替えて受動態を作り全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "( who, the telephone, was, invented, by ) ?",
+  "secTitle": "受動態の作り方"
+ },
+ {
+  "id": "D-05-c",
+  "unit": "D",
+  "no": "05",
+  "jp": "このお金は何に使われているのですか？",
+  "answers": [
+   "What is this money used for?"
+  ],
+  "audio": "audio/D/D-05-c-.mp3",
+  "tags": [
+   "並べ替えて受動態を作り全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "( what, this money, is, used, for ) ?",
+  "secTitle": "受動態の作り方"
+ },
+ {
+  "id": "D-05-d",
+  "unit": "D",
+  "no": "05",
+  "jp": "ブラジルでは何語が話されていますか？",
+  "answers": [
+   "What language is spoken in Brazil?"
+  ],
+  "audio": "audio/D/D-05-d-.mp3",
+  "tags": [
+   "並べ替えて受動態を作り全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "( what, language, in Brazil, is, spoken ) ?",
+  "secTitle": "受動態の作り方"
+ },
+ {
+  "id": "D-05-e",
+  "unit": "D",
+  "no": "05",
+  "jp": "第二次世界大戦で何人の人がなくなりましたか？",
+  "answers": [
+   "How many people were killed in World War II?"
+  ],
+  "audio": "audio/D/D-05-e-.mp3",
+  "tags": [
+   "並べ替えて受動態を作り全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "( how many, were, people, killed ) in World War II?",
+  "secTitle": "受動態の作り方"
+ },
+ {
+  "id": "D-06-a",
+  "unit": "D",
+  "no": "06",
+  "jp": "私は彼らのもてなしがとても嬉しかった。",
+  "answers": [
+   "I was very pleased with their hospitality."
+  ],
+  "audio": "audio/D/D-06-a-.mp3",
+  "section": {
+   "title": "「…に（よって）」 をby 以外で表す場合",
+   "body": "受動態の 「…に」 をby 以外の前置詞で表すことがある。これは過去分詞がinterested（興味をもって），satisfied（満足して），dressed（服を着て）のように（ A ）化していて 「…される」 という 「受身」 の意味が失われている場合や，be known to（＜人＞に知られている）のようにby 以外の前置詞が意味に合う場合である。"
+  },
+  "tags": [
+   "前置詞を入れて全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "I was very pleased ( ) their hospitality.",
+  "secTitle": "「…に（よって）」 をby 以外で表す場合"
+ },
+ {
+  "id": "D-06-b",
+  "unit": "D",
+  "no": "06",
+  "jp": "私は出席者の数に驚いた。",
+  "answers": [
+   "I was surprised at the number of people present.",
+   "I was surprised by the number of people present."
+  ],
+  "audio": "audio/D/D-06-b-.mp3",
+  "tags": [
+   "前置詞を入れて全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "I was surprised ( ) the number of people present.",
+  "secTitle": "「…に（よって）」 をby 以外で表す場合"
+ },
+ {
+  "id": "D-06-c",
+  "unit": "D",
+  "no": "06",
+  "jp": "触れる物は全てほこりだらけだった。",
+  "answers": [
+   "Everything I touched was covered with dust.",
+   "Everything I touched was covered in dust."
+  ],
+  "audio": "audio/D/D-06-c-.mp3",
+  "tags": [
+   "前置詞を入れて全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Everything I touched was covered ( ) dust.",
+  "secTitle": "「…に（よって）」 をby 以外で表す場合"
+ },
+ {
+  "id": "D-06-d",
+  "unit": "D",
+  "no": "06",
+  "jp": "帰宅途中に少し雨にあった。",
+  "answers": [
+   "On the way home I was caught in some rain."
+  ],
+  "audio": "audio/D/D-06-d-.mp3",
+  "tags": [
+   "前置詞を入れて全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "On the way home I was caught ( ) some rain.",
+  "secTitle": "「…に（よって）」 をby 以外で表す場合"
+ },
+ {
+  "id": "D-06-e",
+  "unit": "D",
+  "no": "06",
+  "jp": "彼は半ズボンとT シャツという服装だった。",
+  "answers": [
+   "He was dressed in shorts and a T-shirt."
+  ],
+  "audio": "audio/D/D-06-e-.mp3",
+  "tags": [
+   "前置詞を入れて全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "He was dressed ( ) shorts and a T-shirt.",
+  "secTitle": "「…に（よって）」 をby 以外で表す場合"
+ },
+ {
+  "id": "D-06-f",
+  "unit": "D",
+  "no": "06",
+  "jp": "彼女は私の兄と結婚している。",
+  "answers": [
+   "She's married to my older brother."
+  ],
+  "audio": "audio/D/D-06-f-.mp3",
+  "tags": [
+   "前置詞を入れて全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "She's married ( ) my older brother.",
+  "secTitle": "「…に（よって）」 をby 以外で表す場合"
+ },
+ {
+  "id": "D-07-a",
+  "unit": "D",
+  "no": "07",
+  "jp": "ワインは何からできていますか？",
+  "answers": [
+   "What is wine made from?"
+  ],
+  "audio": "audio/D/D-07-a-.mp3",
+  "tags": [
+   "前置詞を入れて全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "What is wine made ( )?",
+  "secTitle": "「…に（よって）」 をby 以外で表す場合"
+ },
+ {
+  "id": "D-07-b",
+  "unit": "D",
+  "no": "07",
+  "jp": "このブレスレットはステンレス製です。",
+  "answers": [
+   "This bracelet is made of stainless steel."
+  ],
+  "audio": "audio/D/D-07-b-.mp3",
+  "tags": [
+   "前置詞を入れて全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "This bracelet is made ( ) stainless steel.",
+  "secTitle": "「…に（よって）」 をby 以外で表す場合"
+ },
+ {
+  "id": "D-07-c",
+  "unit": "D",
+  "no": "07",
+  "jp": "彼女の小説は1980 年に映画化された。",
+  "answers": [
+   "Her novel was made into a movie in 1980."
+  ],
+  "audio": "audio/D/D-07-c-.mp3",
+  "tags": [
+   "前置詞を入れて全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Her novel was made ( ) a movie in 1980.",
+  "secTitle": "「…に（よって）」 をby 以外で表す場合"
+ },
+ {
+  "id": "D-08-a",
+  "unit": "D",
+  "no": "08",
+  "jp": "息子（の人格）はその父親でわかる。",
+  "answers": [
+   "The son is known by his father."
+  ],
+  "audio": "audio/D/D-08-a-.mp3",
+  "tags": [
+   "前置詞を入れて全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "The son is known ( ) his father.",
+  "secTitle": "「…に（よって）」 をby 以外で表す場合"
+ },
+ {
+  "id": "D-08-b",
+  "unit": "D",
+  "no": "08",
+  "jp": "京都はお寺や神社で最も有名です。",
+  "answers": [
+   "Kyoto is best known for its temples and shrines."
+  ],
+  "audio": "audio/D/D-08-b-.mp3",
+  "tags": [
+   "前置詞を入れて全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Kyoto is best known ( ) its temples and shrines.",
+  "secTitle": "「…に（よって）」 をby 以外で表す場合"
+ },
+ {
+  "id": "D-08-c",
+  "unit": "D",
+  "no": "08",
+  "jp": "彼の名前はごく少数のアメリカ人にしか知られていない。",
+  "answers": [
+   "His name is known to only a small number of Americans."
+  ],
+  "audio": "audio/D/D-08-c-.mp3",
+  "tags": [
+   "前置詞を入れて全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "His name is known ( ) only a small number of Americans.",
+  "secTitle": "「…に（よって）」 をby 以外で表す場合"
+ },
+ {
+  "id": "D-08-d",
+  "unit": "D",
+  "no": "08",
+  "jp": "\"Influenza\" は一般に \"flu\" と呼ばれる。",
+  "answers": [
+   "Influenza is commonly known as flu."
+  ],
+  "audio": "audio/D/D-08-d-.mp3",
+  "tags": [
+   "前置詞を入れて全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Influenza is commonly known ( ) flu.",
+  "secTitle": "「…に（よって）」 をby 以外で表す場合"
+ },
+ {
+  "id": "D-09",
+  "unit": "D",
+  "no": "09",
+  "jp": "このはさみはあまり切れない。",
+  "answers": [
+   "These scissors don't cut very well."
+  ],
+  "audio": "audio/D/D-09-.mp3",
+  "section": {
+   "title": "「能動態」 が受身の意味を表す動詞",
+   "body": "sell など一部の動詞は（ A ）で用いて 「受身」 の意味を表す。この場合，一般に動詞の後ろにはwell のような様態を表す副詞（句）が置かれる。"
+  },
+  "tags": [
+   "適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "These scissors "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " very well."
+   }
+  ],
+  "solutions": [
+   [
+    "don't",
+    "cut"
+   ]
+  ],
+  "secTitle": "「能動態」 が受身の意味を表す動詞"
+ },
+ {
+  "id": "D-10",
+  "unit": "D",
+  "no": "10",
+  "jp": "彼らの新しいアルバムはすごくよく売れている。",
+  "answers": [
+   "Their new album is selling like crazy."
+  ],
+  "audio": "audio/D/D-10-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Their new album "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " like crazy."
+   }
+  ],
+  "solutions": [
+   [
+    "is",
+    "selling"
+   ]
+  ],
+  "secTitle": "「能動態」 が受身の意味を表す動詞"
+ },
+ {
+  "id": "D-11",
+  "unit": "D",
+  "no": "11",
+  "jp": "全体的にその翻訳はよく書かれていて正確です。",
+  "answers": [
+   "On the whole the translation reads well and is accurate."
+  ],
+  "audio": "audio/D/D-11-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "On the whole the translation "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " well and is accurate."
+   }
+  ],
+  "solutions": [
+   [
+    "reads"
+   ]
+  ],
+  "secTitle": "「能動態」 が受身の意味を表す動詞"
+ },
+ {
+  "id": "D-12",
+  "unit": "D",
+  "no": "12",
+  "jp": "そのサラダは冷蔵庫の中に入れておけば数日持ちます。",
+  "answers": [
+   "The salad keeps for several days in the refrigerator."
+  ],
+  "audio": "audio/D/D-12-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The salad "
+   },
+   {
+    "t": "blank",
+    "hint": "k"
+   },
+   {
+    "t": "text",
+    "v": " for several days in the refrigerator."
+   }
+  ],
+  "solutions": [
+   [
+    "keeps"
+   ]
+  ],
+  "secTitle": "「能動態」 が受身の意味を表す動詞"
+ },
+ {
+  "id": "D-13-a",
+  "unit": "D",
+  "no": "13",
+  "jp": "2008 年にその大学は生徒不足が原因で閉校になった。",
+  "answers": [
+   "In 2008 the college was closed due to lack of students."
+  ],
+  "audio": "audio/D/D-13-a-.mp3",
+  "section": {
+   "title": "受動態の状態と動作",
+   "body": "「be 動詞＋過去分詞」 は 「…される」 という動作と，「…されている」 という状態を表し，どちらの意味かは文脈から判断する。但し，「（ A ）＋過去分詞」 と「become ＋過去分詞」 は（ B ）しか表さない。「（ A ）＋過去分詞」 は口語的で，通常，予期しないことや望ましくないことを述べるのに用いる。"
+  },
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "In 2008 the college was closed due to lack of students.",
+  "secTitle": "受動態の状態と動作"
+ },
+ {
+  "id": "D-13-b",
+  "unit": "D",
+  "no": "13",
+  "jp": "その博物館は我々の滞在中ずっと閉まっていた。",
+  "answers": [
+   "The museum was closed throughout our stay."
+  ],
+  "audio": "audio/D/D-13-b-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "The museum was closed throughout our stay.",
+  "secTitle": "受動態の状態と動作"
+ },
+ {
+  "id": "D-14-a",
+  "unit": "D",
+  "no": "14",
+  "jp": "レオナルドは友人からはレニーと呼ばれていた。",
+  "answers": [
+   "Leonardo was known to his friends as Lenny."
+  ],
+  "audio": "audio/D/D-14-a-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Leonardo was known to his friends as Lenny.",
+  "secTitle": "受動態の状態と動作"
+ },
+ {
+  "id": "D-14-b",
+  "unit": "D",
+  "no": "14",
+  "jp": "彼の哲学は後に儒教と呼ばれるようになった。",
+  "answers": [
+   "His philosophy later became known as Confucianism."
+  ],
+  "audio": "audio/D/D-14-b-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "His philosophy later became known as Confucianism.",
+  "secTitle": "受動態の状態と動作"
+ },
+ {
+  "id": "D-15-a",
+  "unit": "D",
+  "no": "15",
+  "jp": "彼らは出会って５年後に結婚した。",
+  "answers": [
+   "They got married five years after they met."
+  ],
+  "audio": "audio/D/D-15-a-.mp3",
+  "tags": [
+   "同じ動詞を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "They "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " married five years after they met."
+   }
+  ],
+  "solutions": [
+   [
+    "got"
+   ]
+  ],
+  "secTitle": "受動態の状態と動作"
+ },
+ {
+  "id": "D-15-b",
+  "unit": "D",
+  "no": "15",
+  "jp": "「今日クビになったよ」「えっ，なんですって？！」",
+  "answers": [
+   "\"I got fired today.\" \"You what?!\""
+  ],
+  "audio": "audio/D/D-15-b-.mp3",
+  "tags": [
+   "同じ動詞を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " fired today.\" \"You what?!\""
+   }
+  ],
+  "solutions": [
+   [
+    "got"
+   ]
+  ],
+  "secTitle": "受動態の状態と動作"
+ },
+ {
+  "id": "D-15-c",
+  "unit": "D",
+  "no": "15",
+  "jp": "幸運にもその事故でけが人や死者は出なかった。",
+  "answers": [
+   "Luckily, no one got injured or killed in the accident."
+  ],
+  "audio": "audio/D/D-15-c-.mp3",
+  "tags": [
+   "同じ動詞を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Luckily, no one "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " injured or killed in the accident."
+   }
+  ],
+  "solutions": [
+   [
+    "got"
+   ]
+  ],
+  "secTitle": "受動態の状態と動作"
+ },
+ {
+  "id": "D-16",
+  "unit": "D",
+  "no": "16",
+  "jp": "競争の中では，自分のポジションは簡単に他人に奪われる。",
+  "answers": [
+   "In a competition, it's easy to have one's place taken by others."
+  ],
+  "audio": "audio/D/D-16-.mp3",
+  "section": {
+   "title": "have [get] を第5 文型で用いた受動態",
+   "body": "第5 文型の 「have ＋目的語＋（ A ）」 は 「…を～される」 という受身の意味で用いることがある。これは被害や事故を表すのが一般的で，目的語は通常，主語の所有物や身体の一部になる。口語ではhave の代わりに（ B ）を用いることがある。"
+  },
+  "tags": [
+   "並べ替え"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "In a competition, it's easy to "
+   },
+   {
+    "t": "order",
+    "words": [
+     "have",
+     "taken",
+     "one's place"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " by others."
+   }
+  ],
+  "solutions": [
+   [
+    "have one's place taken"
+   ]
+  ],
+  "secTitle": "have [get] を第5 文型で用いた受動態"
+ },
+ {
+  "id": "D-17",
+  "unit": "D",
+  "no": "17",
+  "jp": "彼は強盗に車を荒らされ貴重品を盗まれた。",
+  "answers": [
+   "He had his car broken into and valuables stolen."
+  ],
+  "audio": "audio/D/D-17-.mp3",
+  "pronNote": "valuables の -s と stolen の s- を繋げて一つの s として発音します。",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He had "
+   },
+   {
+    "t": "order",
+    "words": [
+     "broken into",
+     "his car",
+     "valuables",
+     "and"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " stolen."
+   }
+  ],
+  "solutions": [
+   [
+    "his car broken into and valuables"
+   ]
+  ],
+  "secTitle": "have [get] を第5 文型で用いた受動態"
+ },
+ {
+  "id": "D-18",
+  "unit": "D",
+  "no": "18",
+  "jp": "昨日車のドアに親指を挟んでしまった。",
+  "answers": [
+   "Yesterday I got my thumb caught in the car door."
+  ],
+  "audio": "audio/D/D-18-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Yesterday I "
+   },
+   {
+    "t": "order",
+    "words": [
+     "got",
+     "caught",
+     "my thumb"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " in the car door."
+   }
+  ],
+  "solutions": [
+   [
+    "got my thumb caught"
+   ]
+  ],
+  "secTitle": "have [get] を第5 文型で用いた受動態"
+ },
+ {
+  "id": "D-19-a",
+  "unit": "D",
+  "no": "19",
+  "jp": "彼は会社から車を与えられた。",
+  "answers": [
+   "He has been provided with a car by the company."
+  ],
+  "audio": "audio/D/D-19-a-.mp3",
+  "section": {
+   "title": "前置詞句を伴う第3 文型の受動態",
+   "body": "「動詞＋目的語＋前置詞句」 という第３文型の受動態は 「（ A ）＋be 動詞＋過去分詞＋前置詞句」 になる。"
+  },
+  "tags": [
+   "下線部を主語にした受動態を作る。by them は省略"
+  ],
+  "sheetJp": true,
+  "type": "compose",
+  "stem": "The company has provided him with a car.",
+  "secTitle": "前置詞句を伴う第3 文型の受動態"
+ },
+ {
+  "id": "D-19-b",
+  "unit": "D",
+  "no": "19",
+  "jp": "火がさらに燃え広がるのは阻止された。",
+  "answers": [
+   "The fire was stopped from spreading further."
+  ],
+  "audio": "audio/D/D-19-b-.mp3",
+  "tags": [
+   "下線部を主語にした受動態を作る。by them は省略"
+  ],
+  "sheetJp": true,
+  "type": "compose",
+  "stem": "They stopped the fire from spreading further.",
+  "secTitle": "前置詞句を伴う第3 文型の受動態"
+ },
+ {
+  "id": "D-19-c",
+  "unit": "D",
+  "no": "19",
+  "jp": "私達は通りでの喫煙を禁止されることになります。",
+  "answers": [
+   "We will be prohibited from smoking on the streets."
+  ],
+  "audio": "audio/D/D-19-c-.mp3",
+  "tags": [
+   "下線部を主語にした受動態を作る。by them は省略"
+  ],
+  "sheetJp": true,
+  "type": "compose",
+  "stem": "They will prohibit us from smoking on the streets.",
+  "secTitle": "前置詞句を伴う第3 文型の受動態"
+ },
+ {
+  "id": "D-19-d",
+  "unit": "D",
+  "no": "19",
+  "jp": "彼は殴り倒され財布を奪われた。",
+  "answers": [
+   "He was knocked down and robbed of his wallet."
+  ],
+  "audio": "audio/D/D-19-d-.mp3",
+  "tags": [
+   "下線部を主語にした受動態を作る。by them は省略"
+  ],
+  "sheetJp": true,
+  "type": "compose",
+  "stem": "They knocked him down and robbed him of his wallet.",
+  "secTitle": "前置詞句を伴う第3 文型の受動態"
+ },
+ {
+  "id": "D-19-e",
+  "unit": "D",
+  "no": "19",
+  "jp": "あなたはその決定について既に知らされていますか？",
+  "answers": [
+   "Have you been notified of the decision?"
+  ],
+  "audio": "audio/D/D-19-e-.mp3",
+  "tags": [
+   "下線部を主語にした受動態を作る。by them は省略"
+  ],
+  "sheetJp": true,
+  "type": "compose",
+  "stem": "Have they notified you of the decision?",
+  "secTitle": "前置詞句を伴う第3 文型の受動態"
+ },
+ {
+  "id": "D-19-f",
+  "unit": "D",
+  "no": "19",
+  "jp": "10％のサービス料が勘定に付け加えられます。",
+  "answers": [
+   "A 10% service charge is added to the bill."
+  ],
+  "audio": "audio/D/D-19-f-.mp3",
+  "tags": [
+   "下線部を主語にした受動態を作る。by them は省略"
+  ],
+  "sheetJp": true,
+  "type": "compose",
+  "stem": "They add a 10% service charge to the bill.",
+  "secTitle": "前置詞句を伴う第3 文型の受動態"
+ },
+ {
+  "id": "D-20-a",
+  "unit": "D",
+  "no": "20",
+  "jp": "私達はたくさんの花や贈り物や祝福を受けた。",
+  "answers": [
+   "We were given a lot of flowers, gifts, and congratulations.",
+   "A lot of flowers, gifts, and congratulations were given to us."
+  ],
+  "audio": "audio/D/D-20-a-.mp3",
+  "section": {
+   "title": "第４文型の受動態",
+   "body": "目的語が２つ（間接目的語（O'）と直接目的語（O））ある第4 文型は，間接目的語（O'）を主語にした 「O'＋be 動詞＋過去分詞＋O」 と，直接目的語（O）を主語にした 「O＋be 動詞＋過去分詞＋（ A ）＋O'」 という２つの受動態ができる。但し，原則として，前者の受動態が可能なのは後者の受動態で（ A ）が（ B ）になる動詞である。"
+  },
+  "tags": [
+   "目的語に注意して各文の受動態を作る。但し，by ... は省略"
+  ],
+  "sheetJp": false,
+  "type": "compose",
+  "stem": "They gave us a lot of flowers, gifts, and congratulations.",
+  "secTitle": "第４文型の受動態"
+ },
+ {
+  "id": "D-20-b",
+  "unit": "D",
+  "no": "20",
+  "jp": "私の元には注文品が出荷されたことを告げるメールが届いた。",
+  "answers": [
+   "I was sent an e-mail saying that my order had been shipped.",
+   "An e-mail was sent to me saying that my order had been shipped."
+  ],
+  "audio": "audio/D/D-20-b-.mp3",
+  "tags": [
+   "目的語に注意して各文の受動態を作る。但し，by ... は省略"
+  ],
+  "sheetJp": false,
+  "type": "compose",
+  "stem": "They sent me an e-mail saying that my order had been shipped.",
+  "secTitle": "第４文型の受動態"
+ },
+ {
+  "id": "D-20-c",
+  "unit": "D",
+  "no": "20",
+  "jp": "今年の初めに彼女に適合するドナーが見つかった。",
+  "answers": [
+   "A suitable donor was found for her earlier this year."
+  ],
+  "audio": "audio/D/D-20-c-.mp3",
+  "tags": [
+   "目的語に注意して各文の受動態を作る。但し，by ... は省略"
+  ],
+  "sheetJp": false,
+  "type": "compose",
+  "stem": "They found her a suitable donor earlier this year.",
+  "secTitle": "第４文型の受動態"
+ },
+ {
+  "id": "D-20-d",
+  "unit": "D",
+  "no": "20",
+  "jp": "千羽鶴が，彼が病気の時に，彼のために作られた。",
+  "answers": [
+   "A thousand paper cranes were made for him when he was ill."
+  ],
+  "audio": "audio/D/D-20-d-.mp3",
+  "tags": [
+   "目的語に注意して各文の受動態を作る。但し，by ... は省略"
+  ],
+  "sheetJp": false,
+  "type": "compose",
+  "stem": "They made him a thousand paper cranes when he was ill.",
+  "secTitle": "第４文型の受動態"
+ },
+ {
+  "id": "D-20-e",
+  "unit": "D",
+  "no": "20",
+  "jp": "私はクリスマス・プレゼントとしてこのギターを買ってもらった。",
+  "answers": [
+   "I was bought this guitar as a Christmas gift.",
+   "This guitar was bought for me as a Christmas gift."
+  ],
+  "audio": "audio/D/D-20-e-.mp3",
+  "tags": [
+   "目的語に注意して各文の受動態を作る。但し，by ... は省略"
+  ],
+  "sheetJp": false,
+  "type": "compose",
+  "stem": "They bought me this guitar as a Christmas gift.",
+  "secTitle": "第４文型の受動態"
+ },
+ {
+  "id": "D-21-a",
+  "unit": "D",
+  "no": "21",
+  "jp": "そのプロジェクトについては色々と良いことを聞かされてきた。",
+  "answers": [
+   "I've been told many good things about the project."
+  ],
+  "audio": "audio/D/D-21-a-.mp3",
+  "tags": [
+   "文法的に間違いのある英文はどれか"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I've been heard many good things about the project.",
+  "secTitle": "第４文型の受動態"
+ },
+ {
+  "id": "D-21-b",
+  "unit": "D",
+  "no": "21",
+  "jp": "彼は16 の時に銃の使い方を教わった。",
+  "answers": [
+   "He was taught how to use a gun when he was 16."
+  ],
+  "audio": "audio/D/D-21-b-.mp3",
+  "tags": [
+   "文法的に間違いのある英文はどれか"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "He was taught how to use a gun when he was 16.",
+  "secTitle": "第４文型の受動態"
+ },
+ {
+  "id": "D-21-c",
+  "unit": "D",
+  "no": "21",
+  "jp": "私はバグダッドへの便が欠航になったことを告げられた。",
+  "answers": [
+   "I was told that the flight to Baghdad was canceled."
+  ],
+  "audio": "audio/D/D-21-c-.mp3",
+  "tags": [
+   "文法的に間違いのある英文はどれか"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I was said that the flight to Baghdad was canceled.",
+  "secTitle": "第４文型の受動態"
+ },
+ {
+  "id": "D-21-d",
+  "unit": "D",
+  "no": "21",
+  "jp": "私は自分の国のことについていろいろと尋ねられた。",
+  "answers": [
+   "I was asked various questions about my country."
+  ],
+  "audio": "audio/D/D-21-d-.mp3",
+  "tags": [
+   "文法的に間違いのある英文はどれか"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I was asked various questions about my country.",
+  "secTitle": "第４文型の受動態"
+ },
+ {
+  "id": "D-21-e",
+  "unit": "D",
+  "no": "21",
+  "jp": "たった２杯飲んだだけで50 ドルも請求されたんだ。",
+  "answers": [
+   "I was charged $50 for just two drinks!"
+  ],
+  "audio": "audio/D/D-21-e-.mp3",
+  "tags": [
+   "文法的に間違いのある英文はどれか"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I was charged $50 for just two drinks!",
+  "secTitle": "第４文型の受動態"
+ },
+ {
+  "id": "D-21-f",
+  "unit": "D",
+  "no": "21",
+  "jp": "夫に昼食を作ってもらいました。",
+  "answers": [
+   "I had my husband cook lunch for me.",
+   "My husband cooked me lunch.",
+   "My husband cooked lunch for me."
+  ],
+  "audio": "audio/D/D-21-f-.mp3",
+  "tags": [
+   "文法的に間違いのある英文はどれか"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I was cooked lunch by my husband.",
+  "secTitle": "第４文型の受動態"
+ },
+ {
+  "id": "D-21-g",
+  "unit": "D",
+  "no": "21",
+  "jp": "私達はゲームのルールを説明してもらった。",
+  "answers": [
+   "We had the rules of the game explained to us.",
+   "The rules of the game were explained to us."
+  ],
+  "audio": "audio/D/D-21-g-.mp3",
+  "tags": [
+   "文法的に間違いのある英文はどれか"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "We were explained the rules of the game.",
+  "secTitle": "第４文型の受動態"
+ },
+ {
+  "id": "D-21-h",
+  "unit": "D",
+  "no": "21",
+  "jp": "彼女はハンドバッグを盗まれ，カードを使われた。",
+  "answers": [
+   "Her handbag was stolen and her cards were used.",
+   "She had her handbag stolen and her cards used."
+  ],
+  "audio": "audio/D/D-21-h-.mp3",
+  "tags": [
+   "文法的に間違いのある英文はどれか"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "She was stolen her handbag and her cards were used.",
+  "secTitle": "第４文型の受動態"
+ },
+ {
+  "id": "D-22-a",
+  "unit": "D",
+  "no": "22",
+  "jp": "その新しい国はガーナと名付けられた。",
+  "answers": [
+   "The new country was named Ghana."
+  ],
+  "audio": "audio/D/D-22-a-.mp3",
+  "section": {
+   "title": "第５文型の受動態 ① ～ 補語が名詞や形容詞の場合",
+   "body": "第5 文型（SVOC）の受動態は 「O ＋be 動詞＋過去分詞＋（ A ）」 になる。（ A ）が「名詞［形容詞］」  の場合は  「O ＋be 動詞＋過去分詞＋名詞［形容詞］」  になる。"
+  },
+  "tags": [
+   "下線部を主語にした受動態を作る。by them [people] は省略"
+  ],
+  "sheetJp": true,
+  "type": "compose",
+  "stem": "They named the new country Ghana.",
+  "secTitle": "第５文型の受動態 ① ～ 補語が名詞や形容詞の場合"
+ },
+ {
+  "id": "D-22-b",
+  "unit": "D",
+  "no": "22",
+  "jp": "ニューヨークはビッグ・アップルと呼ばれることがある。",
+  "answers": [
+   "New York is sometimes called the Big Apple."
+  ],
+  "audio": "audio/D/D-22-b-.mp3",
+  "tags": [
+   "下線部を主語にした受動態を作る。by them [people] は省略"
+  ],
+  "sheetJp": true,
+  "type": "compose",
+  "stem": "People sometimes call New York the Big Apple.",
+  "secTitle": "第５文型の受動態 ① ～ 補語が名詞や形容詞の場合"
+ },
+ {
+  "id": "D-22-c",
+  "unit": "D",
+  "no": "22",
+  "jp": "彼は1973年にアトランタの市長に選出された。",
+  "answers": [
+   "He was elected mayor of Atlanta in 1973."
+  ],
+  "audio": "audio/D/D-22-c-.mp3",
+  "tags": [
+   "下線部を主語にした受動態を作る。by them [people] は省略"
+  ],
+  "sheetJp": true,
+  "type": "compose",
+  "stem": "They elected him mayor of Atlanta in 1973.",
+  "secTitle": "第５文型の受動態 ① ～ 補語が名詞や形容詞の場合"
+ },
+ {
+  "id": "D-22-d",
+  "unit": "D",
+  "no": "22",
+  "jp": "開票が始まって１時間後に彼の当選が確定した。",
+  "answers": [
+   "He was declared a winner an hour after the vote count began."
+  ],
+  "audio": "audio/D/D-22-d-.mp3",
+  "tags": [
+   "下線部を主語にした受動態を作る。by them [people] は省略"
+  ],
+  "sheetJp": true,
+  "type": "compose",
+  "stem": "They declared him a winner an hour after the vote count began.",
+  "secTitle": "第５文型の受動態 ① ～ 補語が名詞や形容詞の場合"
+ },
+ {
+  "id": "D-22-e",
+  "unit": "D",
+  "no": "22",
+  "jp": "多くの国ではげっぷは不作法と見なされます。",
+  "answers": [
+   "In many countries, burping is considered bad manners."
+  ],
+  "audio": "audio/D/D-22-e-.mp3",
+  "tags": [
+   "下線部を主語にした受動態を作る。by them [people] は省略"
+  ],
+  "sheetJp": true,
+  "type": "compose",
+  "stem": "In many countries, people consider burping bad manners.",
+  "secTitle": "第５文型の受動態 ① ～ 補語が名詞や形容詞の場合"
+ },
+ {
+  "id": "D-22-f",
+  "unit": "D",
+  "no": "22",
+  "jp": "この援助は寄付金と補助金によって可能になっています。",
+  "answers": [
+   "This aid is made possible by donations and grants."
+  ],
+  "audio": "audio/D/D-22-f-.mp3",
+  "tags": [
+   "下線部を主語にした受動態を作る。by them [people] は省略"
+  ],
+  "sheetJp": true,
+  "type": "compose",
+  "stem": "Donations and grants make this aid possible.",
+  "secTitle": "第５文型の受動態 ① ～ 補語が名詞や形容詞の場合"
+ },
+ {
+  "id": "D-23",
+  "unit": "D",
+  "no": "23",
+  "jp": "雨の中で30 分待たされた。",
+  "answers": [
+   "I was kept waiting in the rain for half an hour."
+  ],
+  "audio": "audio/D/D-23-.mp3",
+  "section": {
+   "title": "第５文型の受動態 ② ～ 補語が分詞の場合",
+   "body": "補語が「現在［過去］分詞」 である第5 文型の受動態は 「O ＋be 動詞＋過去分詞＋（ A ）」 になる。"
+  },
+  "tags": [
+   "適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I was "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " in the rain for half an hour."
+   }
+  ],
+  "solutions": [
+   [
+    "kept",
+    "waiting"
+   ]
+  ],
+  "secTitle": "第５文型の受動態 ② ～ 補語が分詞の場合"
+ },
+ {
+  "id": "D-24",
+  "unit": "D",
+  "no": "24",
+  "jp": "その公園はいつもきれいに保たれ，よく管理されています。",
+  "answers": [
+   "The park is always kept clean and well managed."
+  ],
+  "audio": "audio/D/D-24-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The park is always "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank",
+    "hint": "c"
+   },
+   {
+    "t": "text",
+    "v": " and well "
+   },
+   {
+    "t": "blank",
+    "hint": "m"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "kept",
+    "clean",
+    "managed"
+   ]
+  ],
+  "secTitle": "第５文型の受動態 ② ～ 補語が分詞の場合"
+ },
+ {
+  "id": "D-25",
+  "unit": "D",
+  "no": "25",
+  "jp": "私は彼らと話をしているところを人に見られたくなかった。",
+  "answers": [
+   "I didn't want to be seen talking to them."
+  ],
+  "audio": "audio/D/D-25-.mp3",
+  "tags": [
+   "並べ替え"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I didn't want to "
+   },
+   {
+    "t": "order",
+    "words": [
+     "them",
+     "talking",
+     "to",
+     "seen",
+     "be"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "be seen talking to them"
+   ]
+  ],
+  "secTitle": "第５文型の受動態 ② ～ 補語が分詞の場合"
+ },
+ {
+  "id": "D-26",
+  "unit": "D",
+  "no": "26",
+  "jp": "彼は数学の小テストでカンニングをしているところを見つかった。",
+  "answers": [
+   "He was caught cheating on a math quiz.",
+   "He got caught cheating on a math quiz."
+  ],
+  "audio": "audio/D/D-26-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank",
+    "hint": "c"
+   },
+   {
+    "t": "text",
+    "v": " cheating on a math quiz."
+   }
+  ],
+  "solutions": [
+   [
+    "was",
+    "caught"
+   ],
+   [
+    "got",
+    "caught"
+   ]
+  ],
+  "secTitle": "第５文型の受動態 ② ～ 補語が分詞の場合"
+ },
+ {
+  "id": "D-27",
+  "unit": "D",
+  "no": "27",
+  "jp": "これをあなたに渡すよう頼まれまして。ブルース・ウイリアムズさんからです。",
+  "answers": [
+   "I was asked to give this to you. It's from Bruce Williams."
+  ],
+  "audio": "audio/D/D-27-.mp3",
+  "section": {
+   "title": "第５文型の受動態 ③ ～ 補語がto不定詞の場合",
+   "body": "補語が 「to不定詞」 である第5 文型の受動態は 「O ＋be 動詞＋過去分詞＋（ A ）」になる。但し，「be said to 不定詞」 のように，第5 文型の能動態ではto不定詞の補語を取らないにもかかわらず受動態ではto不定詞を取るものもある。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " give this to you. It's from Bruce Williams."
+   }
+  ],
+  "solutions": [
+   [
+    "was",
+    "asked",
+    "to"
+   ]
+  ],
+  "secTitle": "第５文型の受動態 ③ ～ 補語がto不定詞の場合"
+ },
+ {
+  "id": "D-28",
+  "unit": "D",
+  "no": "28",
+  "jp": "子供の頃，私は見ず知らずの人を信用してはいけないと言われました。",
+  "answers": [
+   "As a child, I was told not to trust strangers."
+  ],
+  "audio": "audio/D/D-28-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "As a child, I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " trust strangers."
+   }
+  ],
+  "solutions": [
+   [
+    "was",
+    "told",
+    "not",
+    "to"
+   ]
+  ],
+  "secTitle": "第５文型の受動態 ③ ～ 補語がto不定詞の場合"
+ },
+ {
+  "id": "D-29",
+  "unit": "D",
+  "no": "29",
+  "jp": "犬も連れて入ってかまわないでしょうか？",
+  "answers": [
+   "Am I allowed to bring my dog in too?"
+  ],
+  "audio": "audio/D/D-29-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " allowed "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " bring my dog in too?"
+   }
+  ],
+  "solutions": [
+   [
+    "Am",
+    "I",
+    "to"
+   ]
+  ],
+  "secTitle": "第５文型の受動態 ③ ～ 補語がto不定詞の場合"
+ },
+ {
+  "id": "D-30",
+  "unit": "D",
+  "no": "30",
+  "jp": "このテーマパークは営業不振で（最近）閉鎖に追い込まれました。",
+  "answers": [
+   "This theme park has been forced to close due to poor business."
+  ],
+  "audio": "audio/D/D-30-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "This theme park has "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank",
+    "hint": "f"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " close due to poor business."
+   }
+  ],
+  "solutions": [
+   [
+    "been",
+    "forced",
+    "to"
+   ]
+  ],
+  "secTitle": "第５文型の受動態 ③ ～ 補語がto不定詞の場合"
+ },
+ {
+  "id": "D-31",
+  "unit": "D",
+  "no": "31",
+  "jp": "私は家族より仕事を優先することを期待されていました。",
+  "answers": [
+   "I was expected to put my work before my family."
+  ],
+  "audio": "audio/D/D-31-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank",
+    "hint": "e"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " put my work before my family."
+   }
+  ],
+  "solutions": [
+   [
+    "was",
+    "expected",
+    "to"
+   ]
+  ],
+  "secTitle": "第５文型の受動態 ③ ～ 補語がto不定詞の場合"
+ },
+ {
+  "id": "D-32",
+  "unit": "D",
+  "no": "32",
+  "jp": "光の速度を上回ることは不可能だと（一般に）考えられている。",
+  "answers": [
+   "Exceeding the speed of light is believed to be impossible."
+  ],
+  "audio": "audio/D/D-32-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Exceeding the speed of light "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank",
+    "hint": "b"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " be impossible."
+   }
+  ],
+  "solutions": [
+   [
+    "is",
+    "believed",
+    "to"
+   ]
+  ],
+  "secTitle": "第５文型の受動態 ③ ～ 補語がto不定詞の場合"
+ },
+ {
+  "id": "D-33",
+  "unit": "D",
+  "no": "33",
+  "jp": "ルーマニアはヨーロッパで最も安全な国の一つだと言われている。",
+  "answers": [
+   "Romania is said to be one of the safest countries in Europe."
+  ],
+  "audio": "audio/D/D-33-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Romania "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " be one of the safest countries in Europe."
+   }
+  ],
+  "solutions": [
+   [
+    "is",
+    "said",
+    "to"
+   ]
+  ],
+  "secTitle": "第５文型の受動態 ③ ～ 補語がto不定詞の場合"
+ },
+ {
+  "id": "D-34",
+  "unit": "D",
+  "no": "34",
+  "jp": "何してるの？ もう（子供は）寝ている時間でしょ。",
+  "answers": [
+   "What are you doing? You're supposed to be asleep."
+  ],
+  "audio": "audio/D/D-34-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "What are you doing? You're "
+   },
+   {
+    "t": "blank",
+    "hint": "s"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " be asleep."
+   }
+  ],
+  "solutions": [
+   [
+    "supposed",
+    "to"
+   ]
+  ],
+  "secTitle": "第５文型の受動態 ③ ～ 補語がto不定詞の場合"
+ },
+ {
+  "id": "D-35",
+  "unit": "D",
+  "no": "35",
+  "jp": "私達は聖書の中のいくつかの節を覚えさせられました。",
+  "answers": [
+   "We were made to memorize certain passages in the Bible."
+  ],
+  "audio": "audio/D/D-35-.mp3",
+  "section": {
+   "title": "第５文型の受動態 ④ ～ 補語が動詞の原形の場合",
+   "body": "補語が 「動詞の原形」 である第５文型の受動態は 「 O ＋be 動詞＋過去分詞＋（ A ）」になる。 但し，この受動態が可能な動詞は使役動詞の（ B ）と，知覚動詞の（ C ）ならびに（ D ）などに限られる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank",
+    "hint": "m"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " memorize certain passages in the Bible."
+   }
+  ],
+  "solutions": [
+   [
+    "were",
+    "made",
+    "to"
+   ]
+  ],
+  "secTitle": "第５文型の受動態 ④ ～ 補語が動詞の原形の場合"
+ },
+ {
+  "id": "D-36",
+  "unit": "D",
+  "no": "36",
+  "jp": "被告はその現場から走り去るところを目撃されていた。",
+  "answers": [
+   "The defendant was seen to run away from the scene."
+  ],
+  "audio": "audio/D/D-36-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The defendant "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " run away from the scene."
+   }
+  ],
+  "solutions": [
+   [
+    "was",
+    "seen",
+    "to"
+   ]
+  ],
+  "secTitle": "第５文型の受動態 ④ ～ 補語が動詞の原形の場合"
+ },
+ {
+  "id": "D-37",
+  "unit": "D",
+  "no": "37",
+  "jp": "彼らが共に歌う声が（人々によって）聞かれることはもう二度とない。",
+  "answers": [
+   "They will never be heard to sing together again."
+  ],
+  "audio": "audio/D/D-37-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "They will never "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " sing together again."
+   }
+  ],
+  "solutions": [
+   [
+    "be",
+    "heard",
+    "to"
+   ]
+  ],
+  "secTitle": "第５文型の受動態 ④ ～ 補語が動詞の原形の場合"
+ },
+ {
+  "id": "D-38",
+  "unit": "D",
+  "no": "38",
+  "jp": "彼はフランス人のスパイに助けられてスペインへと逃れた。",
+  "answers": [
+   "He was helped to flee to Spain by a French spy."
+  ],
+  "audio": "audio/D/D-38-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " flee to Spain by a French spy."
+   }
+  ],
+  "solutions": [
+   [
+    "was",
+    "helped",
+    "to"
+   ]
+  ],
+  "secTitle": "第５文型の受動態 ④ ～ 補語が動詞の原形の場合"
+ }
+]

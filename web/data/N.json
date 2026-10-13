@@ -1,0 +1,1800 @@
+[
+ {
+  "id": "N-01-a",
+  "unit": "N",
+  "no": "01",
+  "jp": "「今日って何日？」「10日だよ」",
+  "answers": [
+   "\"What date is it today?\" \"It's the tenth.\""
+  ],
+  "audio": "audio/N/N-01-a-.mp3",
+  "section": {
+   "title": "時・天候・状況などを表すit",
+   "body": "時・天候・距離・状況などを述べる文では，主語に（ A ）を用いることが多い。この（ A ）は文を成立させるための形式的な主語で，明確な意味をもたない。"
+  },
+  "tags": [
+   "下線部に当てはまる表現を選択肢から選ぶ"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "\"What date is it today?\" \" .\"",
+  "secTitle": "時・天候・状況などを表すit"
+ },
+ {
+  "id": "N-01-b",
+  "unit": "N",
+  "no": "01",
+  "jp": "「それはここからどのくらい離れていますか？」「ほんの0.5マイルです」",
+  "answers": [
+   "\"How far is it from here?\"  \"It's only half a mile.\""
+  ],
+  "audio": "audio/N/N-01-b-.mp3",
+  "tags": [
+   "下線部に当てはまる表現を選択肢から選ぶ"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "\"How far is it from here?\" \" .\"",
+  "secTitle": "時・天候・状況などを表すit"
+ },
+ {
+  "id": "N-01-c",
+  "unit": "N",
+  "no": "01",
+  "jp": "「今何時ですか？」「３時５分前です」",
+  "answers": [
+   "\"Do you have the time?\"  \"It's five to three.\""
+  ],
+  "audio": "audio/N/N-01-c-.mp3",
+  "tags": [
+   "下線部に当てはまる表現を選択肢から選ぶ"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "\"Do you have the time?\" \" .\"",
+  "secTitle": "時・天候・状況などを表すit"
+ },
+ {
+  "id": "N-01-d",
+  "unit": "N",
+  "no": "01",
+  "jp": "「次は誰の番？」「君の番だよ」",
+  "answers": [
+   "\"Who's next?\"  \"It's your turn.\""
+  ],
+  "audio": "audio/N/N-01-d-.mp3",
+  "tags": [
+   "下線部に当てはまる表現を選択肢から選ぶ"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "\"Who's next?\" \" .\"",
+  "secTitle": "時・天候・状況などを表すit"
+ },
+ {
+  "id": "N-01-e",
+  "unit": "N",
+  "no": "01",
+  "jp": "こちらはあいにくの天気で，雨が降っていて寒いです。",
+  "answers": [
+   "The weather is bad here. It's raining and cold."
+  ],
+  "audio": "audio/N/N-01-e-.mp3",
+  "tags": [
+   "下線部に当てはまる表現を選択肢から選ぶ"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "The weather is bad here. .",
+  "secTitle": "時・天候・状況などを表すit"
+ },
+ {
+  "id": "N-01-f",
+  "unit": "N",
+  "no": "01",
+  "jp": "暗くなってきたから帰ろう。",
+  "answers": [
+   "\"It's getting dark. Let's go home."
+  ],
+  "audio": "audio/N/N-01-f-.mp3",
+  "tags": [
+   "下線部に当てはまる表現を選択肢から選ぶ"
+  ],
+  "sheetJp": false,
+  "type": "compose",
+  "stem": ". Let's go home. It's Friday. It's the tenth. It's five to three. It's your turn. It's getting dark. It's only half a mile. It's raining and cold.",
+  "secTitle": "時・天候・状況などを表すit"
+ },
+ {
+  "id": "N-02",
+  "unit": "N",
+  "no": "02",
+  "jp": "起きる時間よ！ ８時15分前よ。",
+  "answers": [
+   "It's time to get up! It's a quarter to eight."
+  ],
+  "audio": "audio/N/N-02-.mp3",
+  "section": {
+   "title": "時や時間の経過を表すit の構文",
+   "body": "「時」 を表す構文には 「今は…する時である」 という意味の 「It is time for ...」「It is time to不定詞」「It is time (that) 節」 がある。また，「～して以来…が経つ」 という意味の 「It has been [It is] ... （ A ）～」 や，「～するまでに…がかかる（だろう）」 という意味の 「It will [may] be ... （ B ）～」 などがある。"
+  },
+  "tags": [
+   "適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to get up! It's a quarter to eight."
+   }
+  ],
+  "solutions": [
+   [
+    "It's",
+    "time"
+   ]
+  ],
+  "secTitle": "時や時間の経過を表すit の構文"
+ },
+ {
+  "id": "N-03-a",
+  "unit": "N",
+  "no": "03",
+  "jp": "日本は独自の外交政策を持つべき時期に来ていると思う。",
+  "answers": [
+   "I think it's time for Japan to have its own foreign policy."
+  ],
+  "audio": "audio/N/N-03-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I think it's time "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " Japan "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " have its own foreign policy."
+   }
+  ],
+  "solutions": [
+   [
+    "for",
+    "to"
+   ]
+  ],
+  "secTitle": "時や時間の経過を表すit の構文"
+ },
+ {
+  "id": "N-03-b",
+  "unit": "N",
+  "no": "03",
+  "jp": "日本は独自の外交政策を持つべき時期に来ていると思う。",
+  "answers": [
+   "I think it's time Japan had its own foreign policy."
+  ],
+  "audio": "audio/N/N-03-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I think it's time Japan "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " its own foreign policy."
+   }
+  ],
+  "solutions": [
+   [
+    "had"
+   ]
+  ],
+  "secTitle": "時や時間の経過を表すit の構文"
+ },
+ {
+  "id": "N-04-a",
+  "unit": "N",
+  "no": "04",
+  "jp": "彼女が27歳で亡くなってから今で20年が経ちます。",
+  "answers": [
+   "It has been 20 years since she passed away at the age of 27."
+  ],
+  "audio": "audio/N/N-04-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " 20 years "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " she passed away at the age of 27."
+   }
+  ],
+  "solutions": [
+   [
+    "It",
+    "has",
+    "been",
+    "since"
+   ]
+  ],
+  "secTitle": "時や時間の経過を表すit の構文"
+ },
+ {
+  "id": "N-04-b",
+  "unit": "N",
+  "no": "04",
+  "jp": "彼女が27歳で亡くなってから今で20年が経ちます。",
+  "answers": [
+   "It is 20 years since she passed away at the age of 27."
+  ],
+  "audio": "audio/N/N-04-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " 20 years "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " she passed away at the age of 27."
+   }
+  ],
+  "solutions": [
+   [
+    "It",
+    "is",
+    "since"
+   ]
+  ],
+  "secTitle": "時や時間の経過を表すit の構文"
+ },
+ {
+  "id": "N-05",
+  "unit": "N",
+  "no": "05",
+  "jp": "救急車が到着するまでに30分かかった。",
+  "answers": [
+   "It was 30 minutes before an ambulance arrived."
+  ],
+  "audio": "audio/N/N-05-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " 30 minutes "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " an ambulance arrived."
+   }
+  ],
+  "solutions": [
+   [
+    "was",
+    "before"
+   ]
+  ],
+  "secTitle": "時や時間の経過を表すit の構文"
+ },
+ {
+  "id": "N-06",
+  "unit": "N",
+  "no": "06",
+  "jp": "我々がその代償を支払わねばならない日はそう遠いことではないかもしれない。",
+  "answers": [
+   "It may not be long before we have to pay the price."
+  ],
+  "audio": "audio/N/N-06-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It may not "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " we have to pay the price."
+   }
+  ],
+  "solutions": [
+   [
+    "be",
+    "long",
+    "before"
+   ]
+  ],
+  "secTitle": "時や時間の経過を表すit の構文"
+ },
+ {
+  "id": "N-07",
+  "unit": "N",
+  "no": "07",
+  "jp": "一緒に出かける時，妻は支度に１時間かかる。",
+  "answers": [
+   "It takes my wife an hour to get ready when we go out."
+  ],
+  "audio": "audio/N/N-07-.mp3",
+  "section": {
+   "title": "後方の名詞句や名詞節を指すit",
+   "body": "to不定詞，（ A ），that 節などの 「名詞句」 や 「名詞節」を文の主語にすると，主語が長く述語が短いバランスの悪い文になることが多い。その場合，主語を（ B ）にして名詞句や名詞節を文末に置くことが多い。「動詞＋目的語＋補語」 や 「動詞＋目的語＋副詞句」 などの 「（ C ）」 が名詞句や名詞節になる場合も，（ C ）を（ B ）にして，名詞句や名詞節を文末に置く。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " my wife an hour "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " get ready when we go out."
+   }
+  ],
+  "solutions": [
+   [
+    "It",
+    "takes",
+    "to"
+   ]
+  ],
+  "secTitle": "後方の名詞句や名詞節を指すit"
+ },
+ {
+  "id": "N-08-a",
+  "unit": "N",
+  "no": "08",
+  "jp": "愛する人に別れを告げるのは悲しいことです。",
+  "answers": [
+   "It is sad to say goodbye to someone you love."
+  ],
+  "audio": "audio/N/N-08-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It is sad "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " goodbye to someone you love."
+   }
+  ],
+  "solutions": [
+   [
+    "to",
+    "say"
+   ]
+  ],
+  "secTitle": "後方の名詞句や名詞節を指すit"
+ },
+ {
+  "id": "N-08-b",
+  "unit": "N",
+  "no": "08",
+  "jp": "愛する人に別れを告げるのは悲しいことです。",
+  "answers": [
+   "It is sad saying goodbye to someone you love."
+  ],
+  "audio": "audio/N/N-08-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It is sad "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " goodbye to someone you love."
+   }
+  ],
+  "solutions": [
+   [
+    "saying"
+   ]
+  ],
+  "secTitle": "後方の名詞句や名詞節を指すit"
+ },
+ {
+  "id": "N-09-a",
+  "unit": "N",
+  "no": "09",
+  "jp": "フリーのカメラマンというのはどのようなものですか？",
+  "answers": [
+   "What's it like to be a freelance photographer?"
+  ],
+  "audio": "audio/N/N-09-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "What's "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " like "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " a freelance photographer?"
+   }
+  ],
+  "solutions": [
+   [
+    "it",
+    "to",
+    "be"
+   ]
+  ],
+  "secTitle": "後方の名詞句や名詞節を指すit"
+ },
+ {
+  "id": "N-09-b",
+  "unit": "N",
+  "no": "09",
+  "jp": "フリーのカメラマンというのはどのようなものですか？",
+  "answers": [
+   "What's it like being a freelance photographer?"
+  ],
+  "audio": "audio/N/N-09-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "What's "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " like "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " a freelance photographer?"
+   }
+  ],
+  "solutions": [
+   [
+    "it",
+    "being"
+   ]
+  ],
+  "secTitle": "後方の名詞句や名詞節を指すit"
+ },
+ {
+  "id": "N-10",
+  "unit": "N",
+  "no": "10",
+  "jp": "成功がやって来るのをじっと待っていてもだめだ。",
+  "answers": [
+   "It is no good sitting and waiting for success to come."
+  ],
+  "audio": "audio/N/N-10-.mp3",
+  "tags": [
+   "間違いがあれば訂正"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "It is no good sitting and wait for success to come.",
+  "secTitle": "後方の名詞句や名詞節を指すit"
+ },
+ {
+  "id": "N-11",
+  "unit": "N",
+  "no": "11",
+  "jp": "昨日言ったことを謝りたいんだ。あんなことを言って大人げなかったよ。",
+  "answers": [
+   "I want to apologize for what I said yesterday. It was mean of me to say that."
+  ],
+  "audio": "audio/N/N-11-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I want to apologize for what I said yesterday. It was mean "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " me to say that."
+   }
+  ],
+  "solutions": [
+   [
+    "of"
+   ]
+  ],
+  "secTitle": "後方の名詞句や名詞節を指すit"
+ },
+ {
+  "id": "N-12-a",
+  "unit": "N",
+  "no": "12",
+  "jp": "重要なことは，あなたがそのリスクについてわかっているということです。",
+  "answers": [
+   "It is important for you to be aware of the risks involved."
+  ],
+  "audio": "audio/N/N-12-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It is important "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " you to be aware of the risks involved."
+   }
+  ],
+  "solutions": [
+   [
+    "for"
+   ]
+  ],
+  "secTitle": "後方の名詞句や名詞節を指すit"
+ },
+ {
+  "id": "N-12-b",
+  "unit": "N",
+  "no": "12",
+  "jp": "重要なことは，あなたがそのリスクについてわかっているということです。",
+  "answers": [
+   "It is important that you be aware of the risks involved."
+  ],
+  "audio": "audio/N/N-12-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It is important that you "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " aware of the risks involved."
+   }
+  ],
+  "solutions": [
+   [
+    "be"
+   ]
+  ],
+  "secTitle": "後方の名詞句や名詞節を指すit"
+ },
+ {
+  "id": "N-13",
+  "unit": "N",
+  "no": "13",
+  "jp": "世界には太りすぎの人が10億人以上いると言われています。",
+  "answers": [
+   "It is said that there are over one billion overweight people in the world."
+  ],
+  "audio": "audio/N/N-13-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " that there are over one billion overweight people in the world."
+   }
+  ],
+  "solutions": [
+   [
+    "It",
+    "is",
+    "said"
+   ]
+  ],
+  "secTitle": "後方の名詞句や名詞節を指すit"
+ },
+ {
+  "id": "N-14-a",
+  "unit": "N",
+  "no": "14",
+  "jp": "長期的にどんな影響が出るか現時点ではまだわからない。",
+  "answers": [
+   "It remains to be seen what the long-term effects will be."
+  ],
+  "audio": "audio/N/N-14-a-.mp3",
+  "tags": [
+   "各文のIt が指す内容を指摘し，全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "It remains to be seen what the long-term effects will be.",
+  "secTitle": "後方の名詞句や名詞節を指すit"
+ },
+ {
+  "id": "N-14-b",
+  "unit": "N",
+  "no": "14",
+  "jp": "彼がこれを承諾するかどうか疑わしい。",
+  "answers": [
+   "It is doubtful whether he will agree to this."
+  ],
+  "audio": "audio/N/N-14-b-.mp3",
+  "tags": [
+   "各文のIt が指す内容を指摘し，全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "It is doubtful whether he will agree to this.",
+  "secTitle": "後方の名詞句や名詞節を指すit"
+ },
+ {
+  "id": "N-14-c",
+  "unit": "N",
+  "no": "14",
+  "jp": "いつどこでホッケーが始まったのかはわかっていません。",
+  "answers": [
+   "It is not known when and where hockey began."
+  ],
+  "audio": "audio/N/N-14-c-.mp3",
+  "tags": [
+   "各文のIt が指す内容を指摘し，全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "It is not known when and where hockey began.",
+  "secTitle": "後方の名詞句や名詞節を指すit"
+ },
+ {
+  "id": "N-14-d",
+  "unit": "N",
+  "no": "14",
+  "jp": "歩みを止めない限り，どれだけ歩みが遅くてもかまわない。",
+  "answers": [
+   "It doesn't matter how slowly you go as long as you don't stop."
+  ],
+  "audio": "audio/N/N-14-d-.mp3",
+  "tags": [
+   "各文のIt が指す内容を指摘し，全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "It doesn't matter how slowly you go as long as you don't stop.",
+  "secTitle": "後方の名詞句や名詞節を指すit"
+ },
+ {
+  "id": "N-14-e",
+  "unit": "N",
+  "no": "14",
+  "jp": "彼は気がころころ変わるから心配なんですよ。",
+  "answers": [
+   "It worries me the way he keeps changing his mind."
+  ],
+  "audio": "audio/N/N-14-e-.mp3",
+  "tags": [
+   "各文のIt が指す内容を指摘し，全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "It worries me the way he keeps changing his mind.",
+  "secTitle": "後方の名詞句や名詞節を指すit"
+ },
+ {
+  "id": "N-15",
+  "unit": "N",
+  "no": "15",
+  "jp": "利益の減少によって事業のリストラが必要になった。",
+  "answers": [
+   "Falling profits made it necessary to restructure the business."
+  ],
+  "audio": "audio/N/N-15-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Falling profits "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " necessary "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " restructure the business."
+   }
+  ],
+  "solutions": [
+   [
+    "made",
+    "it",
+    "to"
+   ]
+  ],
+  "secTitle": "後方の名詞句や名詞節を指すit"
+ },
+ {
+  "id": "N-16",
+  "unit": "N",
+  "no": "16",
+  "jp": "にやけた表情からして，彼が喜んでいるのは明らかでした。",
+  "answers": [
+   "His grin made it evident that he was pleased."
+  ],
+  "audio": "audio/N/N-16-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "His grin "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " evident "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " he was pleased."
+   }
+  ],
+  "solutions": [
+   [
+    "made",
+    "it",
+    "that"
+   ]
+  ],
+  "secTitle": "後方の名詞句や名詞節を指すit"
+ },
+ {
+  "id": "N-17-a",
+  "unit": "N",
+  "no": "17",
+  "jp": "いつでも僕に助けてもらえると思ったら間違いだよ。",
+  "answers": [
+   "Don't take it for granted that I will always help you."
+  ],
+  "audio": "audio/N/N-17-a-.mp3",
+  "tags": [
+   "各文の空所に適語を入れ，全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Don't take ( ) for granted ( ) I will always help you.",
+  "secTitle": "後方の名詞句や名詞節を指すit"
+ },
+ {
+  "id": "N-17-b",
+  "unit": "N",
+  "no": "17",
+  "jp": "心配するな。彼が君の邪魔をしないようにしてやるから。",
+  "answers": [
+   "Don't worry, I'll see to it that he doesn't get in your way."
+  ],
+  "audio": "audio/N/N-17-b-.mp3",
+  "tags": [
+   "各文の空所に適語を入れ，全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Don't worry, I'll see to ( ) ( ) he doesn't get in your way.",
+  "secTitle": "後方の名詞句や名詞節を指すit"
+ },
+ {
+  "id": "N-17-c",
+  "unit": "N",
+  "no": "17",
+  "jp": "噂によると，彼女は彼のお金が目当てで結婚したということだ。",
+  "answers": [
+   "Rumor has it that she only married him for his money."
+  ],
+  "audio": "audio/N/N-17-c-.mp3",
+  "tags": [
+   "各文の空所に適語を入れ，全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Rumor has ( ) ( ) she only married him for his money.",
+  "secTitle": "後方の名詞句や名詞節を指すit"
+ },
+ {
+  "id": "N-18",
+  "unit": "N",
+  "no": "18",
+  "jp": "お母さんに定期的に連絡をしてあげれば，心配をかけないで済むよ。",
+  "answers": [
+   "It will save your mom a lot of worry if you write to her regularly."
+  ],
+  "audio": "audio/N/N-18-.mp3",
+  "section": {
+   "title": "後方の副詞節を指すit",
+   "body": "it は後方の名詞句や名詞節を指すのが一般的だが，if やwhether, when などに導かれる（ A ）を指すこともある。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " will save your mom a lot of worry "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " you write to her regularly."
+   }
+  ],
+  "solutions": [
+   [
+    "It",
+    "if"
+   ]
+  ],
+  "secTitle": "後方の副詞節を指すit"
+ },
+ {
+  "id": "N-19",
+  "unit": "N",
+  "no": "19",
+  "jp": "この話が本当であろうとなかろうと，そんなことはどうでもいい。",
+  "answers": [
+   "It doesn't matter whether or not this story is true."
+  ],
+  "audio": "audio/N/N-19-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " doesn't matter "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " this story is true."
+   }
+  ],
+  "solutions": [
+   [
+    "It",
+    "whether",
+    "or",
+    "not"
+   ]
+  ],
+  "secTitle": "後方の副詞節を指すit"
+ },
+ {
+  "id": "N-20",
+  "unit": "N",
+  "no": "20",
+  "jp": "現金でお支払いいただけるとありがたいのですが。",
+  "answers": [
+   "I'd appreciate it if you paid in cash.",
+   "I'd be grateful if you paid in cash."
+  ],
+  "audio": "audio/N/N-20-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'd appreciate "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " you paid in cash."
+   }
+  ],
+  "solutions": [
+   [
+    "it",
+    "if"
+   ]
+  ],
+  "secTitle": "後方の副詞節を指すit"
+ },
+ {
+  "id": "N-21-a",
+  "unit": "N",
+  "no": "21",
+  "jp": "映画の最中におしゃべりをする人がいるけど，あれは嫌ですね。",
+  "answers": [
+   "It upsets me when people talk during a movie."
+  ],
+  "audio": "audio/N/N-21-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " upsets "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " when people talk during a movie."
+   }
+  ],
+  "solutions": [
+   [
+    "It",
+    "me"
+   ]
+  ],
+  "secTitle": "後方の副詞節を指すit"
+ },
+ {
+  "id": "N-21-b",
+  "unit": "N",
+  "no": "21",
+  "jp": "映画の最中におしゃべりをする人がいるけど，あれは嫌ですね。",
+  "answers": [
+   "I hate it when people talk during a movie."
+  ],
+  "audio": "audio/N/N-21-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I hate "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " people talk during a movie."
+   }
+  ],
+  "solutions": [
+   [
+    "it",
+    "when"
+   ]
+  ],
+  "secTitle": "後方の副詞節を指すit"
+ },
+ {
+  "id": "N-22-a",
+  "unit": "N",
+  "no": "22",
+  "jp": "どうやらこちらの申し出は断られたようですね。",
+  "answers": [
+   "Apparently, our offer has been rejected."
+  ],
+  "audio": "audio/N/N-22-a-.mp3",
+  "section": {
+   "title": "「It ... that」 の慣用表現",
+   "body": "「It （ A ） that ～」（～であるようだ）や 「It is （ B ） that ～」（～だというのではない）のように 「It ... that 節」 の 「...」  が 「～」 全体を修飾する慣用表現がある。"
+  },
+  "tags": [
+   " a) とほぼ同じ意味になるようにb) に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Apparently, our offer has been rejected.",
+  "secTitle": "「It ... that」 の慣用表現"
+ },
+ {
+  "id": "N-22-b",
+  "unit": "N",
+  "no": "22",
+  "jp": "どうやらこちらの申し出は断られたようですね。",
+  "answers": [
+   "It appears that our offer has been rejected."
+  ],
+  "audio": "audio/N/N-22-b-.mp3",
+  "tags": [
+   " a) とほぼ同じ意味になるようにb) に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " our offer has been rejected."
+   }
+  ],
+  "solutions": [
+   [
+    "It",
+    "appears",
+    "that"
+   ]
+  ],
+  "secTitle": "「It ... that」 の慣用表現"
+ },
+ {
+  "id": "N-23",
+  "unit": "N",
+  "no": "23",
+  "jp": "私には，彼女はただすねているだけだと思えるのですが。",
+  "answers": [
+   "It seems to me that she is just sulking."
+  ],
+  "audio": "audio/N/N-23-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " seems "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " that she is just sulking."
+   }
+  ],
+  "solutions": [
+   [
+    "It",
+    "to",
+    "me"
+   ]
+  ],
+  "secTitle": "「It ... that」 の慣用表現"
+ },
+ {
+  "id": "N-24",
+  "unit": "N",
+  "no": "24",
+  "jp": "私は自分の職にしがみつきたいというのではなく，任務をやり遂げたいのです。",
+  "answers": [
+   "It's not that I want to cling to my position, but I'd like to fulfill my mission."
+  ],
+  "audio": "audio/N/N-24-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It's "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " I want to cling to my position, but I'd like to fulfill my mission."
+   }
+  ],
+  "solutions": [
+   [
+    "not",
+    "that"
+   ]
+  ],
+  "secTitle": "「It ... that」 の慣用表現"
+ },
+ {
+  "id": "N-25",
+  "unit": "N",
+  "no": "25",
+  "jp": "君の髪（形）はそれでいいんだよ。ただ，髪が伸びすぎなんだよ。",
+  "answers": [
+   "Your hair is all right―it's just that you need a haircut."
+  ],
+  "audio": "audio/N/N-25-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Your hair is all right―"
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " that you need a haircut."
+   }
+  ],
+  "solutions": [
+   [
+    "it's",
+    "just"
+   ]
+  ],
+  "secTitle": "「It ... that」 の慣用表現"
+ },
+ {
+  "id": "N-26-a",
+  "unit": "N",
+  "no": "26",
+  "jp": "難しいのは最初のとっかかりだけです。",
+  "answers": [
+   "It is only the first step that is difficult."
+  ],
+  "audio": "audio/N/N-26-a-.mp3",
+  "section": {
+   "title": "「It ... that ～」 の強調構文",
+   "body": "「It is ... that ～」 の 「...」 には名詞（句・節）や（ A ）を置いてそれらのことばを強調することができる。この表現のthat はくだけた会話ではよく省略される。話の内容が過去の場合は 「It is」 を 「It （ B ）」 とするのが一般的で，強調することばがyesterday のような 「過去を表す副詞」 の場合には必ず（ B ）を用いる。"
+  },
+  "tags": [
+   "下線部を強調するIt ... that の文を作り，全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Only the first step is difficult.",
+  "secTitle": "「It ... that ～」 の強調構文"
+ },
+ {
+  "id": "N-26-b",
+  "unit": "N",
+  "no": "26",
+  "jp": "あなたに一番必要なのは十分な休養です。",
+  "answers": [
+   "It's a good rest that you need most."
+  ],
+  "audio": "audio/N/N-26-b-.mp3",
+  "tags": [
+   "下線部を強調するIt ... that の文を作り，全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "You need a good rest most.",
+  "secTitle": "「It ... that ～」 の強調構文"
+ },
+ {
+  "id": "N-26-c",
+  "unit": "N",
+  "no": "26",
+  "jp": "大きな喜びと共に，ゲスト講演者を紹介させていただきます。",
+  "answers": [
+   "It is with great pleasure that I introduce our guest speaker."
+  ],
+  "audio": "audio/N/N-26-c-.mp3",
+  "tags": [
+   "下線部を強調するIt ... that の文を作り，全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "I introduce our guest speaker with great pleasure.",
+  "secTitle": "「It ... that ～」 の強調構文"
+ },
+ {
+  "id": "N-26-d",
+  "unit": "N",
+  "no": "26",
+  "jp": "彼女の離婚は彼の浮気が原因です。",
+  "answers": [
+   "It was because he cheated that she divorced him."
+  ],
+  "audio": "audio/N/N-26-d-.mp3",
+  "tags": [
+   "下線部を強調するIt ... that の文を作り，全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "She divorced him because he cheated.",
+  "secTitle": "「It ... that ～」 の強調構文"
+ },
+ {
+  "id": "N-27",
+  "unit": "N",
+  "no": "27",
+  "jp": "私がここで働き始めたのはちょうど去年の今日です。",
+  "answers": [
+   "It was a year ago today that I began working here."
+  ],
+  "audio": "audio/N/N-27-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "It is a year ago today that I began working here.",
+  "secTitle": "「It ... that ～」 の強調構文"
+ },
+ {
+  "id": "N-28",
+  "unit": "N",
+  "no": "28",
+  "jp": "僕が心配しているのはフィリップのことであって，マークのことじゃない。",
+  "answers": [
+   "It's Philip I'm worried about, not Mark."
+  ],
+  "audio": "audio/N/N-28-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " Philip "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " worried about, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " Mark."
+   }
+  ],
+  "solutions": [
+   [
+    "It's",
+    "I'm",
+    "not"
+   ]
+  ],
+  "secTitle": "「It ... that ～」 の強調構文"
+ },
+ {
+  "id": "N-29",
+  "unit": "N",
+  "no": "29",
+  "jp": "大事なのはことばではなくて行動です。",
+  "answers": [
+   "It is not what you say but what you do that counts."
+  ],
+  "audio": "audio/N/N-29-.mp3",
+  "type": "recall",
+  "secTitle": "「It ... that ～」 の強調構文"
+ },
+ {
+  "id": "N-30-a",
+  "unit": "N",
+  "no": "30",
+  "jp": "彼は24歳になって初めてガールフレンドができた。",
+  "answers": [
+   "He didn't have a girlfriend until he was 24."
+  ],
+  "audio": "audio/N/N-30-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " have a girlfriend until he was 24."
+   }
+  ],
+  "solutions": [
+   [
+    "didn't"
+   ]
+  ],
+  "secTitle": "「It ... that ～」 の強調構文"
+ },
+ {
+  "id": "N-30-b",
+  "unit": "N",
+  "no": "30",
+  "jp": "彼は24歳になって初めてガールフレンドができた。",
+  "answers": [
+   "It wasn't until he was 24 that he had a girlfriend."
+  ],
+  "audio": "audio/N/N-30-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " he was 24 "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " he had a girlfriend."
+   }
+  ],
+  "solutions": [
+   [
+    "wasn't",
+    "until",
+    "that"
+   ]
+  ],
+  "secTitle": "「It ... that ～」 の強調構文"
+ },
+ {
+  "id": "N-31",
+  "unit": "N",
+  "no": "31",
+  "jp": "望遠鏡を発明したのって誰でしたっけ。",
+  "answers": [
+   "Who was it that invented the telescope?"
+  ],
+  "audio": "audio/N/N-31-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Who "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " invented the telescope?"
+   }
+  ],
+  "solutions": [
+   [
+    "was",
+    "it",
+    "that"
+   ]
+  ],
+  "secTitle": "「It ... that ～」 の強調構文"
+ },
+ {
+  "id": "N-32",
+  "unit": "N",
+  "no": "32",
+  "jp": "あなたはいったい私のどこが気に入らないの？",
+  "answers": [
+   "What is it you don't like about me?"
+  ],
+  "audio": "audio/N/N-32-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " you don't like about me?"
+   }
+  ],
+  "solutions": [
+   [
+    "What",
+    "is",
+    "it"
+   ]
+  ],
+  "secTitle": "「It ... that ～」 の強調構文"
+ },
+ {
+  "id": "N-33",
+  "unit": "N",
+  "no": "33",
+  "jp": "彼らがベトナムに多額の投資をしているのはいったい何故なのですか？",
+  "answers": [
+   "Why is it that they are investing heavily in Vietnam?"
+  ],
+  "audio": "audio/N/N-33-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " that they are investing heavily in Vietnam?"
+   }
+  ],
+  "solutions": [
+   [
+    "Why",
+    "is",
+    "it"
+   ]
+  ],
+  "secTitle": "「It ... that ～」 の強調構文"
+ },
+ {
+  "id": "N-34-a",
+  "unit": "N",
+  "no": "34",
+  "jp": "私が歌に興味をもつきっかけを作ってくれたのは音楽の先生でした。",
+  "answers": [
+   "It was my music teacher who got me interested in singing."
+  ],
+  "audio": "audio/N/N-34-a-.mp3",
+  "section": {
+   "title": "「It is ... 疑問詞 ～」 の強調構文",
+   "body": "「It is ... that ～」 の強調構文の 「...」 が 「人」 でthat 節の主語になる場合は，that の代わりに（ A ）を用いることが多い。但し，that 節の（ B ）になる場合はthat を用いるのが一般的である。"
+  },
+  "tags": [
+   "下線部を強調するIt ... who の文を作り，全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "My music teacher got me interested in singing.",
+  "secTitle": "「It is ... 疑問詞 ～」 の強調構文"
+ },
+ {
+  "id": "N-34-b",
+  "unit": "N",
+  "no": "34",
+  "jp": "親の離婚で一番辛い思いをするのは子供です。",
+  "answers": [
+   "When parents go through a divorce, it is the children who suffer the most."
+  ],
+  "audio": "audio/N/N-34-b-.mp3",
+  "tags": [
+   "下線部を強調するIt ... who の文を作り，全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "When parents go through a divorce, the children suffer the most.",
+  "secTitle": "「It is ... 疑問詞 ～」 の強調構文"
+ }
+]

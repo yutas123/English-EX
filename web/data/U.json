@@ -1,0 +1,2729 @@
+[
+ {
+  "id": "U-01",
+  "unit": "U",
+  "no": "01",
+  "jp": "「それは何？」「婚約指輪だよ」",
+  "answers": [
+   "\"What's that?\" \"It's an engagement ring.\""
+  ],
+  "audio": "audio/U/U-01-.mp3",
+  "section": {
+   "title": "it とthat の使い分け",
+   "body": "近くにある物や相手が持っている物を指して 「それ」 と言う場合や，相手が言った［した］ことを指して 「それ」 と言う場合は（ A ）を用いる。他方，前文中の名詞を指したり，前文を受けて一般論を述べる際に 「それ」 と言う場合は（ B ）を用いる。"
+  },
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"What's "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "it",
+     "that"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "?\" \"It's an engagement ring.\""
+   }
+  ],
+  "solutions": [
+   [
+    "that"
+   ]
+  ],
+  "secTitle": "it とthat の使い分け"
+ },
+ {
+  "id": "U-02",
+  "unit": "U",
+  "no": "02",
+  "jp": "すみません，その傘は私のなんですが。",
+  "answers": [
+   "Excuse me, that umbrella is mine."
+  ],
+  "audio": "audio/U/U-02-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Excuse me, "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "its",
+     "that",
+     "the"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " umbrella is mine."
+   }
+  ],
+  "solutions": [
+   [
+    "that"
+   ]
+  ],
+  "secTitle": "it とthat の使い分け"
+ },
+ {
+  "id": "U-03",
+  "unit": "U",
+  "no": "03",
+  "jp": "「今晩は外食にしない？」「それはいい考えね」",
+  "answers": [
+   "\"How about eating out tonight?\" \"That's a good idea.\""
+  ],
+  "audio": "audio/U/U-03-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"How about eating out tonight?\" \""
+   },
+   {
+    "t": "choice",
+    "options": [
+     "It's",
+     "That's"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " a good idea.\""
+   }
+  ],
+  "solutions": [
+   [
+    "That's"
+   ]
+  ],
+  "secTitle": "it とthat の使い分け"
+ },
+ {
+  "id": "U-04",
+  "unit": "U",
+  "no": "04",
+  "jp": "飲酒運転は絶対にやめましょう。飲酒運転は違法であり危険です。",
+  "answers": [
+   "Never drink and drive—it's illegal and dangerous."
+  ],
+  "audio": "audio/U/U-04-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Never drink and drive—"
+   },
+   {
+    "t": "choice",
+    "options": [
+     "it's",
+     "that's"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " illegal and dangerous."
+   }
+  ],
+  "solutions": [
+   [
+    "it's"
+   ]
+  ],
+  "secTitle": "it とthat の使い分け"
+ },
+ {
+  "id": "U-05",
+  "unit": "U",
+  "no": "05",
+  "jp": "「これ，プレゼントです」「あっ，これはご親切にありがとうございます」",
+  "answers": [
+   "\"This is a gift for you.\" \"Oh, that's very nice of you. Thank you.\""
+  ],
+  "audio": "audio/U/U-05-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"This is a gift for you.\" \"Oh, "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "it's",
+     "that's"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " very nice of you. Thank you.\""
+   }
+  ],
+  "solutions": [
+   [
+    "that's"
+   ]
+  ],
+  "secTitle": "it とthat の使い分け"
+ },
+ {
+  "id": "U-06",
+  "unit": "U",
+  "no": "06",
+  "jp": "私達は今朝，あの日のことを思い出すために，数分，時間を取った。",
+  "answers": [
+   "We took a few minutes this morning to remember that day."
+  ],
+  "audio": "audio/U/U-06-.mp3",
+  "section": {
+   "title": "this とthat の使い分け",
+   "body": "this は物理的・時間的・心理的に距離が（ A ）ものを指し，that は（ B ）ものを指す。this とthat はどちらも 「直前」 の文や句・節を指すが，「直後」 の文を指す場合は（ C ）を用いる。"
+  },
+  "tags": [
+   "適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We took a few minutes "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " morning to remember "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " day."
+   }
+  ],
+  "solutions": [
+   [
+    "this",
+    "that"
+   ]
+  ],
+  "secTitle": "this とthat の使い分け"
+ },
+ {
+  "id": "U-07",
+  "unit": "U",
+  "no": "07",
+  "jp": "ただ子供らしく自由奔放に生きていれば何の心配もなかった。あの頃はよかった。",
+  "answers": [
+   "I didn't have a care in the world except to live and be free as a kid. Those were the good old days."
+  ],
+  "audio": "audio/U/U-07-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I didn't have a care in the world except to live and be free as a kid. "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "These",
+     "Those"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " were the good old days."
+   }
+  ],
+  "solutions": [
+   [
+    "Those"
+   ]
+  ],
+  "secTitle": "this とthat の使い分け"
+ },
+ {
+  "id": "U-08",
+  "unit": "U",
+  "no": "08",
+  "jp": "でも，マジな話，それってそんなにひどかったの？",
+  "answers": [
+   "But seriously, was it that bad?"
+  ],
+  "audio": "audio/U/U-08-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "But seriously, was it "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " bad?"
+   }
+  ],
+  "solutions": [
+   [
+    "that"
+   ]
+  ],
+  "secTitle": "this とthat の使い分け"
+ },
+ {
+  "id": "U-09",
+  "unit": "U",
+  "no": "09",
+  "jp": "「何の話をしてたの？」「まぁ，あれこれとね」",
+  "answers": [
+   "\"What did you talk about?\" \"Oh, this and that.\""
+  ],
+  "audio": "audio/U/U-09-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "\"What did you talk about?\" \"Oh, that and this.\"",
+  "secTitle": "this とthat の使い分け"
+ },
+ {
+  "id": "U-10",
+  "unit": "U",
+  "no": "10",
+  "jp": "「もしもし，ホワイトさんですか？」「そうですが，どちら様ですか？」",
+  "answers": [
+   "\"Hello, is this Ms. White?\" \"Yes. Who is this, please?\""
+  ],
+  "audio": "audio/U/U-10-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "\"Hello, is this Ms. White?\" \"Yes. Who is this, please?\"",
+  "secTitle": "this とthat の使い分け"
+ },
+ {
+  "id": "U-11-a",
+  "unit": "U",
+  "no": "11",
+  "jp": "私は動物が大好きです。それで私は菜食主義者なんです。",
+  "answers": [
+   "I love animals—that's why I'm a vegetarian."
+  ],
+  "audio": "audio/U/U-11-a-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I love animals—that's why I'm a vegetarian.",
+  "secTitle": "this とthat の使い分け"
+ },
+ {
+  "id": "U-11-b",
+  "unit": "U",
+  "no": "11",
+  "jp": "彼はこう言った。「私はそうするのは間違いだと思う」",
+  "answers": [
+   "This is what he said: \"I think that would be a mistake.\""
+  ],
+  "audio": "audio/U/U-11-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "That is what he said: \"I think that would be a mistake.\"",
+  "secTitle": "this とthat の使い分け"
+ },
+ {
+  "id": "U-12",
+  "unit": "U",
+  "no": "12",
+  "jp": "「あなたが新任の先生ですね？」「ええ，そうです」",
+  "answers": [
+   "\"You're the new teacher?\" \"That's right.\""
+  ],
+  "audio": "audio/U/U-12-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"You're the new teacher?\" \""
+   },
+   {
+    "t": "choice",
+    "options": [
+     "This is",
+     "That's"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " right.\""
+   }
+  ],
+  "solutions": [
+   [
+    "That's"
+   ]
+  ],
+  "secTitle": "this とthat の使い分け"
+ },
+ {
+  "id": "U-13",
+  "unit": "U",
+  "no": "13",
+  "jp": "あちこち探したのですが，パスポートがどこにも見当たりません。",
+  "answers": [
+   "I've looked everywhere for my passport, but I can't find it."
+  ],
+  "audio": "audio/U/U-13-.mp3",
+  "section": {
+   "title": "it とone の使い分け",
+   "body": "「the＋単数名詞」 で置き換えられる場合の代名詞は（ A ）で，「a [an]＋単数名詞」で置き換えられる場合の代名詞は（ B ）である。また，（ B ）は形容詞を伴う場合に既出の可算名詞を置き換えることもできる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I've looked everywhere for my passport, but I can't find it.",
+  "secTitle": "it とone の使い分け"
+ },
+ {
+  "id": "U-14",
+  "unit": "U",
+  "no": "14",
+  "jp": "「あなたは幽霊の存在を信じますか？」「はい，でもまだ見たことはありません」",
+  "answers": [
+   "\"Do you believe in ghosts?\" \"Yes, but I haven't seen one yet.\""
+  ],
+  "audio": "audio/U/U-14-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "\"Do you believe in ghosts?\" \"Yes, but I haven't seen it yet.\"",
+  "secTitle": "it とone の使い分け"
+ },
+ {
+  "id": "U-15",
+  "unit": "U",
+  "no": "15",
+  "jp": "日本には明確なビジョンが必要ですが，新首相にはそれがあるのでしょうか？",
+  "answers": [
+   "Japan needs a clear vision. Does the new prime minister have one?"
+  ],
+  "audio": "audio/U/U-15-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Japan needs a clear vision. Does the new prime minister have it?",
+  "secTitle": "it とone の使い分け"
+ },
+ {
+  "id": "U-16",
+  "unit": "U",
+  "no": "16",
+  "jp": "洗濯機が故障したので新しいのを買いました。",
+  "answers": [
+   "My washing machine broke down and I bought a new one."
+  ],
+  "audio": "audio/U/U-16-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "My washing machine broke down and I bought new one.",
+  "secTitle": "it とone の使い分け"
+ },
+ {
+  "id": "U-17-a",
+  "unit": "U",
+  "no": "17",
+  "jp": "赤い唐辛子は緑の唐辛子よりも甘い。",
+  "answers": [
+   "Red peppers are sweeter than green ones."
+  ],
+  "audio": "audio/U/U-17-a-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Red peppers are sweeter than green ones.",
+  "secTitle": "it とone の使い分け"
+ },
+ {
+  "id": "U-17-b",
+  "unit": "U",
+  "no": "17",
+  "jp": "「いちごは好きですか？」「はい，大好きです」",
+  "answers": [
+   "\"Do you like strawberries?\" \"Yes, I love them."
+  ],
+  "audio": "audio/U/U-17-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "\"Do you like strawberries?\" \"Yes, I love ones.\"",
+  "secTitle": "it とone の使い分け"
+ },
+ {
+  "id": "U-18",
+  "unit": "U",
+  "no": "18",
+  "jp": "彼の支持率は第二次大戦後の他のどの大統領よりも低い。",
+  "answers": [
+   "His approval rating is lower than that of any other president since World War II."
+  ],
+  "audio": "audio/U/U-18-.mp3",
+  "section": {
+   "title": "that, one, those の使い分け",
+   "body": "前置詞句や関係詞節が名詞を修飾する場合，その名詞が 「the＋既出の名詞の単数形」 の場合は（ A ）で，「a [an]＋既出の名詞の単数形」 の場合は（ B ）で，「（the＋）既出の名詞の複数形」 の場合は（ C ）で，それぞれ置き換えることができる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "His approval rating is lower than "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " any other president since World War II."
+   }
+  ],
+  "solutions": [
+   [
+    "that",
+    "of"
+   ]
+  ],
+  "secTitle": "that, one, those の使い分け"
+ },
+ {
+  "id": "U-19-a",
+  "unit": "U",
+  "no": "19",
+  "jp": "香港の離婚率は米国の離婚率よりも低い。",
+  "answers": [
+   "The divorce rate in Hong Kong is lower than that in the US."
+  ],
+  "audio": "audio/U/U-19-a-.mp3",
+  "tags": [
+   "適語を記入し２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The divorce rate in Hong Kong is lower than "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " in the US."
+   }
+  ],
+  "solutions": [
+   [
+    "that"
+   ]
+  ],
+  "secTitle": "that, one, those の使い分け"
+ },
+ {
+  "id": "U-19-b",
+  "unit": "U",
+  "no": "19",
+  "jp": "香港の離婚率は米国の離婚率よりも低い。",
+  "answers": [
+   "The divorce rate in Hong Kong is lower than the one in the US."
+  ],
+  "audio": "audio/U/U-19-b-.mp3",
+  "tags": [
+   "適語を記入し２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The divorce rate in Hong Kong is lower than "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " in the US."
+   }
+  ],
+  "solutions": [
+   [
+    "the",
+    "one"
+   ]
+  ],
+  "secTitle": "that, one, those の使い分け"
+ },
+ {
+  "id": "U-20",
+  "unit": "U",
+  "no": "20",
+  "jp": "今年の税収は昨年の税収を上回った。",
+  "answers": [
+   "This year's tax revenues exceeded those of last year."
+  ],
+  "audio": "audio/U/U-20-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "This year's tax revenues exceeded that of last year.",
+  "secTitle": "that, one, those の使い分け"
+ },
+ {
+  "id": "U-21",
+  "unit": "U",
+  "no": "21",
+  "jp": "ジュリーの小さな顔に浮かんでいたのは驚きの表情であった。",
+  "answers": [
+   "The look on Julie's small face was one of surprise."
+  ],
+  "audio": "audio/U/U-21-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "The look on Julie's small face was one of surprise.",
+  "secTitle": "that, one, those の使い分け"
+ },
+ {
+  "id": "U-22",
+  "unit": "U",
+  "no": "22",
+  "jp": "それは軽い内容ではなく簡単でもないが，読むに値する本です。",
+  "answers": [
+   "It is not a light or easy book, but one that is worth reading."
+  ],
+  "audio": "audio/U/U-22-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "It is not a light or easy book, but one that is worth reading.",
+  "secTitle": "that, one, those の使い分け"
+ },
+ {
+  "id": "U-23",
+  "unit": "U",
+  "no": "23",
+  "jp": "片手でラケットを持って，もう一方の手でボールを持ってください。",
+  "answers": [
+   "Hold the racket in one hand and the ball in the other."
+  ],
+  "audio": "audio/U/U-23-.mp3",
+  "section": {
+   "title": "one, another, the other の使い分け",
+   "body": "一般に，２つのものが存在する状況でどちらか一方を指す場合は（ A ）を用い，残ったもう一方を指す場合は（ B ）を用いる。また，３つ以上のものが存在する状況でどれか１つを指す場合は（ A ）を用い，別の１つを指す場合は（ C ）を，最後に残ったものを指す場合は（ D ）を用いる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Hold the racket in "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " hand and the ball in "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "one",
+    "the",
+    "other"
+   ]
+  ],
+  "secTitle": "one, another, the other の使い分け"
+ },
+ {
+  "id": "U-24",
+  "unit": "U",
+  "no": "24",
+  "jp": "こちらから向こう側は見えますが，反対方向からは見えないようになっています。",
+  "answers": [
+   "From this side, you can see the other side, but not the other way around."
+  ],
+  "audio": "audio/U/U-24-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "From this side, you can see "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " side, but not the other way around."
+   }
+  ],
+  "solutions": [
+   [
+    "the",
+    "other"
+   ]
+  ],
+  "secTitle": "one, another, the other の使い分け"
+ },
+ {
+  "id": "U-25",
+  "unit": "U",
+  "no": "25",
+  "jp": "その記念碑は３面の構造で，１つはニューヨークの方角を，１つはペンシルベニアを，そしてもう１つはニュージャージーの方角を向いています。",
+  "answers": [
+   "The monument has three sides: one toward New York, another toward Pennsylvania, and the other toward New Jersey.",
+   "The monument has three sides: one toward New York, another toward Pennsylvania, and the third toward New Jersey."
+  ],
+  "audio": "audio/U/U-25-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The monument has three sides: "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " toward New York, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " toward Pennsylvania, and "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " toward New Jersey."
+   }
+  ],
+  "solutions": [
+   [
+    "one",
+    "another",
+    "the",
+    "other"
+   ],
+   [
+    "one",
+    "another",
+    "the",
+    "third"
+   ]
+  ],
+  "secTitle": "one, another, the other の使い分け"
+ },
+ {
+  "id": "U-26",
+  "unit": "U",
+  "no": "26",
+  "jp": "その４人の女性のうち，１人は22歳，もう１人は23歳，３人目は30歳，４人目は75歳だった。",
+  "answers": [
+   "Of the four women, one was 22, another was 23, a third was 30, and the fourth was 75."
+  ],
+  "audio": "audio/U/U-26-.mp3",
+  "type": "recall",
+  "secTitle": "one, another, the other の使い分け"
+ },
+ {
+  "id": "U-27",
+  "unit": "U",
+  "no": "27",
+  "jp": "その中の１人がヤジを飛ばすと，他の全員が笑った。",
+  "answers": [
+   "One of them jeered and the others laughed."
+  ],
+  "audio": "audio/U/U-27-.mp3",
+  "section": {
+   "title": "some, others, the others の使い分け",
+   "body": "多数のものをいくつかずつ指す場合，「最初のいくつか」 は （ A ）で表し，「他のいくつか」 は（ B ）で表し，「残り全部」 は（ C ）（ D ）で表す。「…なものもあれば，～なものもある」 と言う場合は慣用的に前者を（ A ）で表し，後者を（ B ）で表す。（ B ）は 「他の人々」 という意味でも用いることがある。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "One of them jeered and "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " laughed."
+   }
+  ],
+  "solutions": [
+   [
+    "the",
+    "others"
+   ]
+  ],
+  "secTitle": "some, others, the others の使い分け"
+ },
+ {
+  "id": "U-28",
+  "unit": "U",
+  "no": "28",
+  "jp": "この本しか見つからなかったけど，他にもあるかもしれない。",
+  "answers": [
+   "I only found this book but there might be others."
+  ],
+  "audio": "audio/U/U-28-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I only found this book but there might be "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "others"
+   ]
+  ],
+  "secTitle": "some, others, the others の使い分け"
+ },
+ {
+  "id": "U-29",
+  "unit": "U",
+  "no": "29",
+  "jp": "嫌だという人もいるかもしれないけど，楽しいと思う人もいますよ。",
+  "answers": [
+   "Some people might dislike it, while others will enjoy it."
+  ],
+  "audio": "audio/U/U-29-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " people might dislike it, while "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " will enjoy it."
+   }
+  ],
+  "solutions": [
+   [
+    "Some",
+    "others"
+   ]
+  ],
+  "secTitle": "some, others, the others の使い分け"
+ },
+ {
+  "id": "U-30",
+  "unit": "U",
+  "no": "30",
+  "jp": "あなたは他人からどう思われているのかが気になりますか？",
+  "answers": [
+   "Do you care about what others think of you?"
+  ],
+  "audio": "audio/U/U-30-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Do you care about what "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " think of you?"
+   }
+  ],
+  "solutions": [
+   [
+    "others"
+   ]
+  ],
+  "secTitle": "some, others, the others の使い分け"
+ },
+ {
+  "id": "U-31-a",
+  "unit": "U",
+  "no": "31",
+  "jp": "私達は毎晩電話で（お互いに）話をしている。",
+  "answers": [
+   "We talk to each other on the phone every night."
+  ],
+  "audio": "audio/U/U-31-a-.mp3",
+  "section": {
+   "title": "one, another, other の慣用表現",
+   "body": "「お互い」 は 「each other」 か 「（ A ） another」 で表す。「次から次へ」 は 「one （...）after（ B ）」 とする。「…と～は別物である」 は 「… is （ A ） thing, ～ is （ B ）」 で表す。"
+  },
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "We talk each other on the phone every night.",
+  "secTitle": "one, another, other の慣用表現"
+ },
+ {
+  "id": "U-31-b",
+  "unit": "U",
+  "no": "31",
+  "jp": "彼女の３人の息子は，次から次へと家を出て行った。",
+  "answers": [
+   "Her three sons left home, one after another."
+  ],
+  "audio": "audio/U/U-31-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Her three sons left home, one after another.",
+  "secTitle": "one, another, other の慣用表現"
+ },
+ {
+  "id": "U-32",
+  "unit": "U",
+  "no": "32",
+  "jp": "酒を１杯飲んだ後，彼は次から次へとタバコを吸った。",
+  "answers": [
+   "After a glass of liquor, he smoked one cigarette after another."
+  ],
+  "audio": "audio/U/U-32-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "After a glass of liquor, he smoked "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " cigarette "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "one",
+    "after",
+    "another"
+   ]
+  ],
+  "secTitle": "one, another, other の慣用表現"
+ },
+ {
+  "id": "U-33",
+  "unit": "U",
+  "no": "33",
+  "jp": "自信と傲慢は別です。",
+  "answers": [
+   "Confidence is one thing; arrogance is another."
+  ],
+  "audio": "audio/U/U-33-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Confidence is "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "; arrogance is "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "one",
+    "thing",
+    "another"
+   ]
+  ],
+  "secTitle": "one, another, other の慣用表現"
+ },
+ {
+  "id": "U-34-a",
+  "unit": "U",
+  "no": "34",
+  "jp": "私の辞書にはこれらの単語のいくつかが見つかりません。",
+  "answers": [
+   "I can't find some of these words in my dictionary."
+  ],
+  "audio": "audio/U/U-34-a-.mp3",
+  "section": {
+   "title": "some とany の使い分け",
+   "body": "（ A ）は 「いくつか［いくらか，一部］（の）」 という意味や 「ある」「なんらか（の）」という意味で用いる。 疑問文で用いると（ B ）の答えを期待［予想］した聞き方になり，勧誘や依頼の表現にもなる。（ C ）は 「いかなるどんな（もの）」 という意味で，肯定文では 「どんな…でも」，否定文では 「何［どれ］も…ない」，疑問文やif 節では「いくらかでも」 「何か」 という意味になる。"
+  },
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "I can't find some of these words in my dictionary.",
+  "secTitle": "some とany の使い分け"
+ },
+ {
+  "id": "U-34-b",
+  "unit": "U",
+  "no": "34",
+  "jp": "私の辞書にはこれらの単語がどれも見つかりません。",
+  "answers": [
+   "I can't find any of these words in my dictionary."
+  ],
+  "audio": "audio/U/U-34-b-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "I can't find any of these words in my dictionary.",
+  "secTitle": "some とany の使い分け"
+ },
+ {
+  "id": "U-35",
+  "unit": "U",
+  "no": "35",
+  "jp": "いつでも電話してください。",
+  "answers": [
+   "Call me any time."
+  ],
+  "audio": "audio/U/U-35-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Call me "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "some",
+     "any"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " time."
+   }
+  ],
+  "solutions": [
+   [
+    "any"
+   ]
+  ],
+  "secTitle": "some とany の使い分け"
+ },
+ {
+  "id": "U-36",
+  "unit": "U",
+  "no": "36",
+  "jp": "その筆記試験はどんなお馬鹿でも受かるほど易しいよ。",
+  "answers": [
+   "The written test is so easy that any fool could pass it."
+  ],
+  "audio": "audio/U/U-36-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The written test is so easy that "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "some",
+     "any"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " fool could pass it."
+   }
+  ],
+  "solutions": [
+   [
+    "any"
+   ]
+  ],
+  "secTitle": "some とany の使い分け"
+ },
+ {
+  "id": "U-37",
+  "unit": "U",
+  "no": "37",
+  "jp": "私は兄弟も姉妹もいないのですが，あなたは？",
+  "answers": [
+   "I have no brothers or sisters－do you have any?"
+  ],
+  "audio": "audio/U/U-37-.mp3",
+  "type": "recall",
+  "secTitle": "some とany の使い分け"
+ },
+ {
+  "id": "U-38-a",
+  "unit": "U",
+  "no": "38",
+  "jp": "冷蔵庫に牛乳は残ってる？",
+  "answers": [
+   "Is there any milk left in the fridge?"
+  ],
+  "audio": "audio/U/U-38-a-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Is there any milk left in the fridge?",
+  "secTitle": "some とany の使い分け"
+ },
+ {
+  "id": "U-38-b",
+  "unit": "U",
+  "no": "38",
+  "jp": "冷蔵庫に牛乳が残ってるよね？",
+  "answers": [
+   "Is there some milk left in the fridge?"
+  ],
+  "audio": "audio/U/U-38-b-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Is there some milk left in the fridge?",
+  "secTitle": "some とany の使い分け"
+ },
+ {
+  "id": "U-39",
+  "unit": "U",
+  "no": "39",
+  "jp": "今から買い物に行くけど，何か要るものある？",
+  "answers": [
+   "I'm going shopping. You need anything?"
+  ],
+  "audio": "audio/U/U-39-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'm going shopping. You need "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "something",
+     "anything"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "?"
+   }
+  ],
+  "solutions": [
+   [
+    "anything"
+   ]
+  ],
+  "secTitle": "some とany の使い分け"
+ },
+ {
+  "id": "U-40",
+  "unit": "U",
+  "no": "40",
+  "jp": "誤りがあれば訂正しなさい。",
+  "answers": [
+   "Correct errors, if any."
+  ],
+  "audio": "audio/U/U-40-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Correct errors, if "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "some",
+     "any"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "any"
+   ]
+  ],
+  "secTitle": "some とany の使い分け"
+ },
+ {
+  "id": "U-41",
+  "unit": "U",
+  "no": "41",
+  "jp": "「コーヒーはいかがですか？」「はい，頂きます」",
+  "answers": [
+   "\"Won't you have some coffee?\" \"Yes, please.\""
+  ],
+  "audio": "audio/U/U-41-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"Won't you have "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "some",
+     "any"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " coffee?\" \"Yes, please.\""
+   }
+  ],
+  "solutions": [
+   [
+    "some"
+   ]
+  ],
+  "secTitle": "some とany の使い分け"
+ },
+ {
+  "id": "U-42-a",
+  "unit": "U",
+  "no": "42",
+  "jp": "これを実現する何らかの方法があるはずだ。",
+  "answers": [
+   "There must be some way we can make this happen."
+  ],
+  "audio": "audio/U/U-42-a-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "There must be some way we can make this happen.",
+  "secTitle": "some とany の使い分け"
+ },
+ {
+  "id": "U-42-b",
+  "unit": "U",
+  "no": "42",
+  "jp": "万里の長城はおよそ2千年前に建てられた。",
+  "answers": [
+   "The Great Wall was built some 2,000 years ago."
+  ],
+  "audio": "audio/U/U-42-b-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "The Great Wall was built some 2,000 years ago.",
+  "secTitle": "some とany の使い分け"
+ },
+ {
+  "id": "U-43-a",
+  "unit": "U",
+  "no": "43",
+  "jp": "これ以上彼の話は聞くに堪えない。",
+  "answers": [
+   "I can't stand listening to him any longer."
+  ],
+  "audio": "audio/U/U-43-a-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "I can't stand listening to him any longer.",
+  "secTitle": "some とany の使い分け"
+ },
+ {
+  "id": "U-43-b",
+  "unit": "U",
+  "no": "43",
+  "jp": "ねぇ，もう少し速く歩けない？",
+  "answers": [
+   "Come on, can't you walk any faster?"
+  ],
+  "audio": "audio/U/U-43-b-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Come on, can't you walk any faster?",
+  "secTitle": "some とany の使い分け"
+ },
+ {
+  "id": "U-44",
+  "unit": "U",
+  "no": "44",
+  "jp": "みなさん各自，自分の好きな詩を見つけて，それを暗記してほしいのです。",
+  "answers": [
+   "I want each of you to find a poem you like and memorize it."
+  ],
+  "audio": "audio/U/U-44-.mp3",
+  "section": {
+   "title": "every とeach の使い分け",
+   "body": "every は 「どの…も全て」 という意味で形容詞として用い，each は 「それぞれ（の）」「めいめい（の）」 という意味で形容詞と（ A ）で用いる。every は一つ一つを考慮に入れながら全体をひとまとめにして述べるのに対し，each は全体を意識せず一つ一つの個別性を強調する。どちらも（ B ）形の名詞を修飾する。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I want "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " of you to find a poem you like and memorize it."
+   }
+  ],
+  "solutions": [
+   [
+    "each"
+   ]
+  ],
+  "secTitle": "every とeach の使い分け"
+ },
+ {
+  "id": "U-45",
+  "unit": "U",
+  "no": "45",
+  "jp": "私は友達全員にこの本を薦めました。",
+  "answers": [
+   "I have recommended this book to every one of my friends."
+  ],
+  "audio": "audio/U/U-45-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I have recommended this book to "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " of my friends."
+   }
+  ],
+  "solutions": [
+   [
+    "every",
+    "one"
+   ]
+  ],
+  "secTitle": "every とeach の使い分け"
+ },
+ {
+  "id": "U-46-a",
+  "unit": "U",
+  "no": "46",
+  "jp": "全ての子供にはその子なりのユニークな才能や能力がある。",
+  "answers": [
+   "Every child has his or her own unique talents and abilities."
+  ],
+  "audio": "audio/U/U-46-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Every child has "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " or "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " own unique talents and abilities."
+   }
+  ],
+  "solutions": [
+   [
+    "his",
+    "her"
+   ]
+  ],
+  "secTitle": "every とeach の使い分け"
+ },
+ {
+  "id": "U-46-b",
+  "unit": "U",
+  "no": "46",
+  "jp": "全ての子供にはその子なりのユニークな才能や能力がある。",
+  "answers": [
+   "Every child has their own unique talents and abilities.",
+   "Every child has his own unique talents and abilities."
+  ],
+  "audio": "audio/U/U-46-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Every child has "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " own unique talents and abilities."
+   }
+  ],
+  "solutions": [
+   [
+    "their"
+   ],
+   [
+    "his"
+   ]
+  ],
+  "secTitle": "every とeach の使い分け"
+ },
+ {
+  "id": "U-47",
+  "unit": "U",
+  "no": "47",
+  "jp": "アメリカの大統領選挙は４年ごとに行われる。",
+  "answers": [
+   "U.S. presidential elections are held every four years."
+  ],
+  "audio": "audio/U/U-47-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "U.S. presidential elections are held "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " years."
+   }
+  ],
+  "solutions": [
+   [
+    "every",
+    "four"
+   ]
+  ],
+  "secTitle": "every とeach の使い分け"
+ },
+ {
+  "id": "U-48",
+  "unit": "U",
+  "no": "48",
+  "jp": "修正のための余白が必要なので，１行おきに書いてください。",
+  "answers": [
+   "Write on every other line to allow room for revisions.",
+   "Write on every second line to allow room for revisions."
+  ],
+  "audio": "audio/U/U-48-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Write on "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " line to allow room for revisions."
+   }
+  ],
+  "solutions": [
+   [
+    "every",
+    "other"
+   ],
+   [
+    "every",
+    "second"
+   ]
+  ],
+  "secTitle": "every とeach の使い分け"
+ },
+ {
+  "id": "U-49-a",
+  "unit": "U",
+  "no": "49",
+  "jp": "通りの両側には家が建っている。",
+  "answers": [
+   "There are houses on both sides of the street."
+  ],
+  "audio": "audio/U/U-49-a-.mp3",
+  "section": {
+   "title": "both とall の使い方",
+   "body": "２つ［２人］のうちの 「両方」 は（ A ）で表し，３つ［３人］以上の中での 「全て」 は（ B ）で表す。（ A ）は可算名詞にしか用いないが，（ B ）は可算名詞と不可算名詞の両方に用いる。both とall を 「of …」 が修飾する場合，「…」 には範囲が限定された名詞か（ C ）が置かれ，名詞が置かれる場合は（ D ）を省略することが多い。"
+  },
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "There are houses on both "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "side",
+     "sides"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " of the street."
+   }
+  ],
+  "solutions": [
+   [
+    "sides"
+   ]
+  ],
+  "secTitle": "both とall の使い方"
+ },
+ {
+  "id": "U-49-b",
+  "unit": "U",
+  "no": "49",
+  "jp": "我々はいろんな種類の問題に対処しなければならない。",
+  "answers": [
+   "We have to deal with all kinds of problems."
+  ],
+  "audio": "audio/U/U-49-b-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We have to deal with all "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "kind",
+     "kinds"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " of problems."
+   }
+  ],
+  "solutions": [
+   [
+    "kinds"
+   ]
+  ],
+  "secTitle": "both とall の使い方"
+ },
+ {
+  "id": "U-49-c",
+  "unit": "U",
+  "no": "49",
+  "jp": "EUは全ての輸入米に関税をかけている。",
+  "answers": [
+   "The EU imposes import taxes on all imported rice."
+  ],
+  "audio": "audio/U/U-49-c-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The EU imposes import taxes on "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "all",
+     "every"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " imported rice."
+   }
+  ],
+  "solutions": [
+   [
+    "all"
+   ]
+  ],
+  "secTitle": "both とall の使い方"
+ },
+ {
+  "id": "U-50",
+  "unit": "U",
+  "no": "50",
+  "jp": "誰にもこれら全ての問題を解決することはできません。",
+  "answers": [
+   "No one can solve all these problems."
+  ],
+  "audio": "audio/U/U-50-.mp3",
+  "tags": [
+   "間違いがあれば訂正"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "No one can solve these all problems.",
+  "secTitle": "both とall の使い方"
+ },
+ {
+  "id": "U-51-a",
+  "unit": "U",
+  "no": "51",
+  "jp": "頑張ってください。万事うまくいくことを祈っています。",
+  "answers": [
+   "Good luck! I hope all goes well."
+  ],
+  "audio": "audio/U/U-51-a-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Good luck! I hope all "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "go",
+     "goes"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " well."
+   }
+  ],
+  "solutions": [
+   [
+    "goes"
+   ]
+  ],
+  "secTitle": "both とall の使い方"
+ },
+ {
+  "id": "U-51-b",
+  "unit": "U",
+  "no": "51",
+  "jp": "うちのスタッフは若い。全員30歳未満です。",
+  "answers": [
+   "Our staff is young―all are under the age of 30."
+  ],
+  "audio": "audio/U/U-51-b-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Our staff is young―all "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "is",
+     "are"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " under the age of 30."
+   }
+  ],
+  "solutions": [
+   [
+    "are"
+   ]
+  ],
+  "secTitle": "both とall の使い方"
+ },
+ {
+  "id": "U-51-c",
+  "unit": "U",
+  "no": "51",
+  "jp": "彼らは仲良しです。二人とも９年生（＝中学３年生）です。",
+  "answers": [
+   "They are good friends and both are ninth graders."
+  ],
+  "audio": "audio/U/U-51-c-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "They are good friends and both "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "is",
+     "are"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " ninth graders."
+   }
+  ],
+  "solutions": [
+   [
+    "are"
+   ]
+  ],
+  "secTitle": "both とall の使い方"
+ },
+ {
+  "id": "U-52-a",
+  "unit": "U",
+  "no": "52",
+  "jp": "全ての動物は生きるために食べなければならない。",
+  "answers": [
+   "All animals have to eat in order to live."
+  ],
+  "audio": "audio/U/U-52-a-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "All of animals have to eat in order to live.",
+  "secTitle": "both とall の使い方"
+ },
+ {
+  "id": "U-52-b",
+  "unit": "U",
+  "no": "52",
+  "jp": "我々は二人とも今ダイエット中です。",
+  "answers": [
+   "Both of us are on a diet at the moment."
+  ],
+  "audio": "audio/U/U-52-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Both of us are on a diet at the moment.",
+  "secTitle": "both とall の使い方"
+ },
+ {
+  "id": "U-52-c",
+  "unit": "U",
+  "no": "52",
+  "jp": "あなたの夢と希望が全て実現しますように。",
+  "answers": [
+   "May all your dreams and wishes come true!"
+  ],
+  "audio": "audio/U/U-52-c-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "May all your dreams and wishes come true!",
+  "secTitle": "both とall の使い方"
+ },
+ {
+  "id": "U-53-a",
+  "unit": "U",
+  "no": "53",
+  "jp": "被告人達は全員有罪の判決を受けた。",
+  "answers": [
+   "All of the defendants were found guilty."
+  ],
+  "audio": "audio/U/U-53-a-.mp3",
+  "tags": [
+   "適語を記入し３通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the defendants were found guilty."
+   }
+  ],
+  "solutions": [
+   [
+    "All",
+    "of"
+   ]
+  ],
+  "secTitle": "both とall の使い方"
+ },
+ {
+  "id": "U-53-b",
+  "unit": "U",
+  "no": "53",
+  "jp": "被告人達は全員有罪の判決を受けた。",
+  "answers": [
+   "All the defendants were found guilty."
+  ],
+  "audio": "audio/U/U-53-b-.mp3",
+  "tags": [
+   "適語を記入し３通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the defendants were found guilty."
+   }
+  ],
+  "solutions": [
+   [
+    "All"
+   ]
+  ],
+  "secTitle": "both とall の使い方"
+ },
+ {
+  "id": "U-53-c",
+  "unit": "U",
+  "no": "53",
+  "jp": "被告人達は全員有罪の判決を受けた。",
+  "answers": [
+   "The defendants were all found guilty."
+  ],
+  "audio": "audio/U/U-53-c-.mp3",
+  "tags": [
+   "適語を記入し３通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The defendants were "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " found guilty."
+   }
+  ],
+  "solutions": [
+   [
+    "all"
+   ]
+  ],
+  "secTitle": "both とall の使い方"
+ },
+ {
+  "id": "U-54-a",
+  "unit": "U",
+  "no": "54",
+  "jp": "私の親は２人とも平日は仕事をしています。",
+  "answers": [
+   "Both of my parents work on weekdays."
+  ],
+  "audio": "audio/U/U-54-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " my parents work on weekdays."
+   }
+  ],
+  "solutions": [
+   [
+    "Both",
+    "of"
+   ]
+  ],
+  "secTitle": "both とall の使い方"
+ },
+ {
+  "id": "U-54-b",
+  "unit": "U",
+  "no": "54",
+  "jp": "私の親は２人とも平日は仕事をしています。",
+  "answers": [
+   "Both my parents work on weekdays."
+  ],
+  "audio": "audio/U/U-54-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " my parents work on weekdays."
+   }
+  ],
+  "solutions": [
+   [
+    "Both"
+   ]
+  ],
+  "secTitle": "both とall の使い方"
+ },
+ {
+  "id": "U-54-c",
+  "unit": "U",
+  "no": "54",
+  "jp": "私の親は２人とも平日は仕事をしています。",
+  "answers": [
+   "My parents both work on weekdays."
+  ],
+  "audio": "audio/U/U-54-c-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "My parents "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " work on weekdays."
+   }
+  ],
+  "solutions": [
+   [
+    "both"
+   ]
+  ],
+  "secTitle": "both とall の使い方"
+ },
+ {
+  "id": "U-55",
+  "unit": "U",
+  "no": "55",
+  "jp": "その木には，地面近くの１，２枚を除き，葉がついていなかった。",
+  "answers": [
+   "The tree had no leaves save one or two near the ground."
+  ],
+  "audio": "audio/U/U-55-.mp3",
+  "section": {
+   "title": "no とnone の使い方",
+   "body": "no は形容詞として可算名詞と不可算名詞を修飾する。可算名詞を修飾する場合，ふつうあるとすれば１つと考えられるものは（ A ）形に，２つ以上あると考えられるものは（ B ）形にする。none は 「not any」 や 「no＋既出の名詞」 を指す代名詞で，可算名詞にも不可算名詞にも用いる。no はまた，be 動詞の補語で名詞や（ C ）を修飾することがあるが，その場合は 「…では全くない」 という意味になる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The tree had no "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "leaf",
+     "leaves"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " save one or two near the ground."
+   }
+  ],
+  "solutions": [
+   [
+    "leaves"
+   ]
+  ],
+  "secTitle": "no とnone の使い方"
+ },
+ {
+  "id": "U-56",
+  "unit": "U",
+  "no": "56",
+  "jp": "このコートにはチャックもボタンもついていない。",
+  "answers": [
+   "This coat has no zipper or buttons."
+  ],
+  "audio": "audio/U/U-56-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "This coat has no "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "zipper",
+     "zippers"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " or "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "button",
+     "buttons"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "zipper",
+    "buttons"
+   ]
+  ],
+  "secTitle": "no とnone の使い方"
+ },
+ {
+  "id": "U-57",
+  "unit": "U",
+  "no": "57",
+  "jp": "あの夫婦には子供がいません。",
+  "answers": [
+   "That married couple has no children."
+  ],
+  "audio": "audio/U/U-57-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "That married couple has no "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "child",
+     "children"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "children"
+   ]
+  ],
+  "secTitle": "no とnone の使い方"
+ },
+ {
+  "id": "U-58-a",
+  "unit": "U",
+  "no": "58",
+  "jp": "「お金をもってる？」「いいや，全然（お金は）ない」",
+  "answers": [
+   "\"Do you have any money?\" \"No, none at all.\""
+  ],
+  "audio": "audio/U/U-58-a-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "\"Do you have any money?\" \"No, nothing at all.\"",
+  "secTitle": "no とnone の使い方"
+ },
+ {
+  "id": "U-58-b",
+  "unit": "U",
+  "no": "58",
+  "jp": "私には娘が２人いますが，どちらも結婚していません。",
+  "answers": [
+   "I have two daughters but neither of them is married."
+  ],
+  "audio": "audio/U/U-58-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I have two daughters but none of them is married.",
+  "secTitle": "no とnone の使い方"
+ },
+ {
+  "id": "U-59",
+  "unit": "U",
+  "no": "59",
+  "jp": "多くの提案がなされましたが，どれも採用されませんでした。",
+  "answers": [
+   "Many suggestions were made, but none were adopted."
+  ],
+  "audio": "audio/U/U-59-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Many suggestions were made, but "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " were adopted."
+   }
+  ],
+  "solutions": [
+   [
+    "none"
+   ]
+  ],
+  "secTitle": "no とnone の使い方"
+ },
+ {
+  "id": "U-60",
+  "unit": "U",
+  "no": "60",
+  "jp": "そのお金は一切，彼らの懐には入らなかった。",
+  "answers": [
+   "None of the money went into their own pockets."
+  ],
+  "audio": "audio/U/U-60-.mp3",
+  "type": "recall",
+  "secTitle": "no とnone の使い方"
+ },
+ {
+  "id": "U-61-a",
+  "unit": "U",
+  "no": "61",
+  "jp": "彼は教師ではない。",
+  "answers": [
+   "He's not a teacher."
+  ],
+  "audio": "audio/U/U-61-a-.mp3",
+  "tags": [
+   "下線部に注意して和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "He's not a teacher.",
+  "secTitle": "no とnone の使い方"
+ },
+ {
+  "id": "U-61-b",
+  "unit": "U",
+  "no": "61",
+  "jp": "彼には教師の資質がない。",
+  "answers": [
+   "He is no teacher."
+  ],
+  "audio": "audio/U/U-61-b-.mp3",
+  "tags": [
+   "下線部に注意して和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "He is no teacher.",
+  "secTitle": "no とnone の使い方"
+ },
+ {
+  "id": "U-62",
+  "unit": "U",
+  "no": "62",
+  "jp": "あいつはろくでもない奴だ。あいつとは付き合わない方がいい。",
+  "answers": [
+   "That guy is no good. You should stay away from him."
+  ],
+  "audio": "audio/U/U-62-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "That guy is "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "not",
+     "no"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " good. You should stay away from him."
+   }
+  ],
+  "solutions": [
+   [
+    "no"
+   ]
+  ],
+  "secTitle": "no とnone の使い方"
+ },
+ {
+  "id": "U-63",
+  "unit": "U",
+  "no": "63",
+  "jp": "天気を予想するというのは少しも容易なことではない。",
+  "answers": [
+   "Predicting the weather is no easy task."
+  ],
+  "audio": "audio/U/U-63-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Predicting the weather is "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " easy task."
+   }
+  ],
+  "solutions": [
+   [
+    "no"
+   ]
+  ],
+  "secTitle": "no とnone の使い方"
+ },
+ {
+  "id": "U-64",
+  "unit": "U",
+  "no": "64",
+  "jp": "アメリカ人の多くは感謝祭に七面鳥を食べます。",
+  "answers": [
+   "Many Americans eat turkey on Thanksgiving Day."
+  ],
+  "audio": "audio/U/U-64-.mp3",
+  "section": {
+   "title": "「部分詞＋of」 の後ろに置かれる語",
+   "body": "many, most, some, (a) few のような部分詞（＝全体の中の部分を表す語）は大半が「形容詞」 と 「代名詞」 の両方で用いる。「形容詞」 で用いる場合は 「部分詞＋（ A ）されていない名詞」 にし，「代名詞」 で用いる場合は 「部分詞＋of ...」 にして 「…」部分に（ A ）された名詞か（ B ）を置く。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Many of Americans eat turkey on Thanksgiving Day.",
+  "secTitle": "「部分詞＋of」 の後ろに置かれる語"
+ },
+ {
+  "id": "U-65",
+  "unit": "U",
+  "no": "65",
+  "jp": "明確な目的をもって一生懸命に勉強している日本人の学生はほとんどいない。",
+  "answers": [
+   "Few Japanese students study hard with a clear purpose."
+  ],
+  "audio": "audio/U/U-65-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Few of Japanese students study hard with a clear purpose.",
+  "secTitle": "「部分詞＋of」 の後ろに置かれる語"
+ },
+ {
+  "id": "U-66-b",
+  "unit": "U",
+  "no": "66",
+  "jp": "収益金の一部はその地域のチャリティに寄付されます。",
+  "answers": [
+   "Some of the proceeds will go to local charities."
+  ],
+  "audio": "audio/U/U-66-b-.mp3",
+  "tags": [
+   "適切な英訳はどちらか"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Some of the proceeds will go to local charities.",
+  "secTitle": "「部分詞＋of」 の後ろに置かれる語"
+ },
+ {
+  "id": "U-67",
+  "unit": "U",
+  "no": "67",
+  "jp": "委員の中には倫理的な理由から反対する者もいた。",
+  "answers": [
+   "Some members objected on ethical grounds."
+  ],
+  "audio": "audio/U/U-67-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Some members objected on ethical grounds.",
+  "secTitle": "「部分詞＋of」 の後ろに置かれる語"
+ },
+ {
+  "id": "U-68",
+  "unit": "U",
+  "no": "68",
+  "jp": "みなさんに私の特別な友人を紹介したいと思います。",
+  "answers": [
+   "I'd like you all to meet a very special friend of mine."
+  ],
+  "audio": "audio/U/U-68-.mp3",
+  "section": {
+   "title": "you と総称人称の代名詞",
+   "body": "you には二人称の単数（あなた）と複数（あなた達）の用法があるが，通常には（ A ）の意味で用いる。また，話し相手の国や地域の 「人全般」 を表したり，一般論で「人は...」 と言う場合に用いる。「人」 を表す代名詞には他に，you より堅い表現の（ B ）や，「我々は」 という意味のwe，話し手と話し相手を除いた（ C ）がある。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I'd like you to meet a very special friend of mine.",
+  "secTitle": "you と総称人称の代名詞"
+ },
+ {
+  "id": "U-69",
+  "unit": "U",
+  "no": "69",
+  "jp": "「Yummy （おいしい）」って中国語ではどう言えばいいの？  （（中国人に対する質問））",
+  "answers": [
+   "How do you say \"yummy\" in Chinese?"
+  ],
+  "audio": "audio/U/U-69-.mp3",
+  "tags": [
+   "中国人に対する質問"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "How do "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " say \"yummy\" in Chinese?"
+   }
+  ],
+  "solutions": [
+   [
+    "you"
+   ]
+  ],
+  "secTitle": "you と総称人称の代名詞"
+ },
+ {
+  "id": "U-70-a",
+  "unit": "U",
+  "no": "70",
+  "jp": "年を取ると色々なことに対して感謝ができるようになります。",
+  "answers": [
+   "You learn to appreciate things more as you get older.",
+   "We learn to appreciate things more as we get older."
+  ],
+  "audio": "audio/U/U-70-a-.mp3",
+  "tags": [
+   "代名詞を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " learn to appreciate things more as "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " get older."
+   }
+  ],
+  "solutions": [
+   [
+    "You",
+    "you"
+   ],
+   [
+    "We",
+    "we"
+   ]
+  ],
+  "secTitle": "you と総称人称の代名詞"
+ },
+ {
+  "id": "U-70-b",
+  "unit": "U",
+  "no": "70",
+  "jp": "年を取ると色々なことに対して感謝ができるようになります。",
+  "answers": [
+   "One learns to appreciate things more as one gets older."
+  ],
+  "audio": "audio/U/U-70-b-.mp3",
+  "tags": [
+   "代名詞を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " learns to appreciate things more as "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " gets older."
+   }
+  ],
+  "solutions": [
+   [
+    "One",
+    "one"
+   ]
+  ],
+  "secTitle": "you と総称人称の代名詞"
+ },
+ {
+  "id": "U-71",
+  "unit": "U",
+  "no": "71",
+  "jp": "私は高校３年生で，私達の学校は海の近くにあります。",
+  "answers": [
+   "I'm a senior and my school is near the sea."
+  ],
+  "audio": "audio/U/U-71-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I'm a senior and our school is near the sea.",
+  "secTitle": "you と総称人称の代名詞"
+ },
+ {
+  "id": "U-72",
+  "unit": "U",
+  "no": "72",
+  "jp": "家の中で傘を開くのは縁起が悪いそうです。",
+  "answers": [
+   "They say it's bad luck to open an umbrella inside the house."
+  ],
+  "audio": "audio/U/U-72-.mp3",
+  "tags": [
+   "代名詞を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " say it's bad luck to open an umbrella inside the house."
+   }
+  ],
+  "solutions": [
+   [
+    "They"
+   ]
+  ],
+  "secTitle": "you と総称人称の代名詞"
+ }
+]

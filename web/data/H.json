@@ -1,0 +1,2129 @@
+[
+ {
+  "id": "H-01",
+  "unit": "H",
+  "no": "01",
+  "jp": "今は独身でいることに満足ですが，いつかは結婚して子供が欲しいです。",
+  "answers": [
+   "I'm happy being single for now, but I'd like to settle down and have a family someday."
+  ],
+  "audio": "audio/H/H-01-.mp3",
+  "section": {
+   "title": "分詞構文の基本",
+   "body": "現在分詞と過去分詞は形容詞の働き以外に（ A ）の働きがある。（ A ）の働きをする現在分詞と過去分詞は動詞（句）や文全体を修飾し，この構造の文を 「分詞構文」 と呼ぶ。分詞構文で用いる現在分詞と過去分詞は動詞（句）や文の（ B ）に置かれることが多い。一般に現在分詞は 「…しながら」「…して」 という意味で用い，過去分詞は 「…されながら」「…されて」 という意味で用いる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'm happy "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " single for now, but I'd like to settle down and have a family someday."
+   }
+  ],
+  "solutions": [
+   [
+    "being"
+   ]
+  ],
+  "secTitle": "分詞構文の基本"
+ },
+ {
+  "id": "H-02",
+  "unit": "H",
+  "no": "02",
+  "jp": "彼女に金の無心をしなければならず，ばつの悪い思いをした。",
+  "answers": [
+   "I felt really awkward having to ask her for money."
+  ],
+  "audio": "audio/H/H-02-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I felt really awkward "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to ask her for money."
+   }
+  ],
+  "solutions": [
+   [
+    "having"
+   ]
+  ],
+  "secTitle": "分詞構文の基本"
+ },
+ {
+  "id": "H-03",
+  "unit": "H",
+  "no": "03",
+  "jp": "父は人生の大半を同じ会社に勤めて過ごした。",
+  "answers": [
+   "My father spent most of his life working for the same company."
+  ],
+  "audio": "audio/H/H-03-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "My father "
+   },
+   {
+    "t": "blank",
+    "hint": "s"
+   },
+   {
+    "t": "text",
+    "v": " most of his life "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " for the same company."
+   }
+  ],
+  "solutions": [
+   [
+    "spent",
+    "working"
+   ]
+  ],
+  "secTitle": "分詞構文の基本"
+ },
+ {
+  "id": "H-04",
+  "unit": "H",
+  "no": "04",
+  "jp": "まだ雨が降っていたのでトランプをして時間をつぶした。",
+  "answers": [
+   "It was still raining, so we killed some time playing cards."
+  ],
+  "audio": "audio/H/H-04-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It was still raining, so we "
+   },
+   {
+    "t": "blank",
+    "hint": "k"
+   },
+   {
+    "t": "text",
+    "v": " some time "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " cards."
+   }
+  ],
+  "solutions": [
+   [
+    "killed",
+    "playing"
+   ]
+  ],
+  "secTitle": "分詞構文の基本"
+ },
+ {
+  "id": "H-05",
+  "unit": "H",
+  "no": "05",
+  "jp": "夜なかなか眠れません。",
+  "answers": [
+   "I have trouble getting to sleep at night."
+  ],
+  "audio": "audio/H/H-05-.mp3",
+  "tags": [
+   "並べ替え"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "order",
+    "words": [
+     "trouble",
+     "have",
+     "getting"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " to sleep at night."
+   }
+  ],
+  "solutions": [
+   [
+    "have trouble getting"
+   ]
+  ],
+  "secTitle": "分詞構文の基本"
+ },
+ {
+  "id": "H-06",
+  "unit": "H",
+  "no": "06",
+  "jp": "彼女は今大学の受験勉強でとても忙しい。",
+  "answers": [
+   "She's very busy studying for her college entrance examinations."
+  ],
+  "audio": "audio/H/H-06-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She's very "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank",
+    "hint": "s"
+   },
+   {
+    "t": "text",
+    "v": " for her college entrance examinations."
+   }
+  ],
+  "solutions": [
+   [
+    "busy",
+    "studying"
+   ]
+  ],
+  "secTitle": "分詞構文の基本"
+ },
+ {
+  "id": "H-07",
+  "unit": "H",
+  "no": "07",
+  "jp": "彼女は家から走り出てきて，私の腕の中に飛び込んできた。",
+  "answers": [
+   "She came running out of the house and jumped into my arms."
+  ],
+  "audio": "audio/H/H-07-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She "
+   },
+   {
+    "t": "blank",
+    "hint": "c"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank",
+    "hint": "r"
+   },
+   {
+    "t": "text",
+    "v": " out of the house and jumped into my arms."
+   }
+  ],
+  "solutions": [
+   [
+    "came",
+    "running"
+   ]
+  ],
+  "secTitle": "分詞構文の基本"
+ },
+ {
+  "id": "H-08",
+  "unit": "H",
+  "no": "08",
+  "jp": "私はくたくたで，つまずいた拍子に転んでしまった。",
+  "answers": [
+   "I stumbled and fell, exhausted."
+  ],
+  "audio": "audio/H/H-08-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I stumbled "
+   },
+   {
+    "t": "order",
+    "words": [
+     "exhausted",
+     "fell",
+     ",",
+     "and"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "and fell, exhausted"
+   ]
+  ],
+  "secTitle": "分詞構文の基本"
+ },
+ {
+  "id": "H-09",
+  "unit": "H",
+  "no": "09",
+  "jp": "彼は一言のコメントも述べずに，弁護士に付き添われて裁判所を後にした。",
+  "answers": [
+   "He made no comment as he left the court accompanied by his lawyer."
+  ],
+  "audio": "audio/H/H-09-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He made no comment as he "
+   },
+   {
+    "t": "order",
+    "words": [
+     "accompanied",
+     "left",
+     "by",
+     "the court"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " his lawyer."
+   }
+  ],
+  "solutions": [
+   [
+    "left the court accompanied by"
+   ]
+  ],
+  "secTitle": "分詞構文の基本"
+ },
+ {
+  "id": "H-10",
+  "unit": "H",
+  "no": "10",
+  "jp": "その病院は桜の木に囲まれ，湖を見渡すようにして建っている。",
+  "answers": [
+   "The hospital stands surrounded by cherry trees, overlooking the lake."
+  ],
+  "audio": "audio/H/H-10-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The hospital "
+   },
+   {
+    "t": "blank",
+    "hint": "s"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank",
+    "hint": "s"
+   },
+   {
+    "t": "text",
+    "v": " by cherry trees, overlooking the lake."
+   }
+  ],
+  "solutions": [
+   [
+    "stands",
+    "surrounded"
+   ]
+  ],
+  "secTitle": "分詞構文の基本"
+ },
+ {
+  "id": "H-11",
+  "unit": "H",
+  "no": "11",
+  "jp": "その金（ゴールド）はその山のどこかに隠されていると言われている。",
+  "answers": [
+   "It is said that the gold lies hidden somewhere in the mountain."
+  ],
+  "audio": "audio/H/H-11-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It is said that the gold "
+   },
+   {
+    "t": "blank",
+    "hint": "l"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank",
+    "hint": "h"
+   },
+   {
+    "t": "text",
+    "v": " somewhere in the mountain."
+   }
+  ],
+  "solutions": [
+   [
+    "lies",
+    "hidden"
+   ]
+  ],
+  "secTitle": "分詞構文の基本"
+ },
+ {
+  "id": "H-12",
+  "unit": "H",
+  "no": "12",
+  "jp": "彼らはテーブルを囲んで座り，談笑をしていた。",
+  "answers": [
+   "They were sitting around the table talking and laughing."
+  ],
+  "audio": "audio/H/H-12-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "They were "
+   },
+   {
+    "t": "blank",
+    "hint": "s"
+   },
+   {
+    "t": "text",
+    "v": " around the table "
+   },
+   {
+    "t": "blank",
+    "hint": "t"
+   },
+   {
+    "t": "text",
+    "v": " and "
+   },
+   {
+    "t": "blank",
+    "hint": "l"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "sitting",
+    "talking",
+    "laughing"
+   ]
+  ],
+  "secTitle": "分詞構文の基本"
+ },
+ {
+  "id": "H-13-b",
+  "unit": "H",
+  "no": "13",
+  "jp": "ベティはぶつぶつ文句を言いながらピアノのレッスンに出かけた。",
+  "answers": [
+   "Betty departed for her piano lesson grumbling."
+  ],
+  "audio": "audio/H/H-13-b-.mp3",
+  "tags": [
+   " a) とほぼ同じ意味になるようにb) とc) に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Betty departed for her piano lesson "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "grumbling"
+   ]
+  ],
+  "secTitle": "分詞構文の基本"
+ },
+ {
+  "id": "H-13-c",
+  "unit": "H",
+  "no": "13",
+  "jp": "ぶつぶつ文句を言いながらベティはピアノのレッスンに出かけた。",
+  "answers": [
+   "Grumbling, Betty departed for her piano lesson."
+  ],
+  "audio": "audio/H/H-13-c-.mp3",
+  "tags": [
+   " a) とほぼ同じ意味になるようにb) とc) に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": ", Betty departed for her piano lesson."
+   }
+  ],
+  "solutions": [
+   [
+    "Grumbling"
+   ]
+  ],
+  "secTitle": "分詞構文の基本"
+ },
+ {
+  "id": "H-14",
+  "unit": "H",
+  "no": "14",
+  "jp": "ニューヨークで暮らしていた私は超高層ビルをごく当たり前のものだと思っていた。",
+  "answers": [
+   "Living in New York, I took skyscrapers for granted."
+  ],
+  "audio": "audio/H/H-14-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " in New York, I took skyscrapers for granted."
+   }
+  ],
+  "solutions": [
+   [
+    "Living"
+   ]
+  ],
+  "secTitle": "分詞構文の基本"
+ },
+ {
+  "id": "H-15",
+  "unit": "H",
+  "no": "15",
+  "jp": "平易な英語で書かれていて，このガイドブックはわかりやすい。",
+  "answers": [
+   "Written in plain English, this guide is easy to follow."
+  ],
+  "audio": "audio/H/H-15-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " in plain English, this guide is easy to follow."
+   }
+  ],
+  "solutions": [
+   [
+    "Written"
+   ]
+  ],
+  "secTitle": "分詞構文の基本"
+ },
+ {
+  "id": "H-16",
+  "unit": "H",
+  "no": "16",
+  "jp": "最古の栽培穀物と言われている（が）大麦は西アジア原産である。",
+  "answers": [
+   "Said to be the oldest cultivated grain, barley is native to western Asia."
+  ],
+  "audio": "audio/H/H-16-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to be the oldest cultivated grain, barley is native to western Asia."
+   }
+  ],
+  "solutions": [
+   [
+    "Said"
+   ]
+  ],
+  "secTitle": "分詞構文の基本"
+ },
+ {
+  "id": "H-17",
+  "unit": "H",
+  "no": "17",
+  "jp": "彼はひどいケガをしていて，歩くことができなかった。",
+  "answers": [
+   "Badly injured, he couldn't walk."
+  ],
+  "audio": "audio/H/H-17-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Badly "
+   },
+   {
+    "t": "blank",
+    "hint": "i"
+   },
+   {
+    "t": "text",
+    "v": ", he couldn't walk."
+   }
+  ],
+  "solutions": [
+   [
+    "injured"
+   ]
+  ],
+  "secTitle": "分詞構文の基本"
+ },
+ {
+  "id": "H-18",
+  "unit": "H",
+  "no": "18",
+  "jp": "上空から見ると，そのヤシの森は緑のじゅうたんのように見える。",
+  "answers": [
+   "Seen from the air, the palm forest looks like a green carpet."
+  ],
+  "audio": "audio/H/H-18-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank",
+    "hint": "S"
+   },
+   {
+    "t": "text",
+    "v": " from the air, the palm forest looks like a green carpet."
+   }
+  ],
+  "solutions": [
+   [
+    "Seen"
+   ]
+  ],
+  "secTitle": "分詞構文の基本"
+ },
+ {
+  "id": "H-19",
+  "unit": "H",
+  "no": "19",
+  "jp": "シンガポールは他の国と比較して極めて安全だと言われる。",
+  "answers": [
+   "Singapore is said to be extremely safe, compared to other countries."
+  ],
+  "audio": "audio/H/H-19-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Singapore is said to be extremely safe, "
+   },
+   {
+    "t": "blank",
+    "hint": "c"
+   },
+   {
+    "t": "text",
+    "v": " to other countries."
+   }
+  ],
+  "solutions": [
+   [
+    "compared"
+   ]
+  ],
+  "secTitle": "分詞構文の基本"
+ },
+ {
+  "id": "H-20-b",
+  "unit": "H",
+  "no": "20",
+  "jp": "どうしたらいいのかわからず，私は上司に助けを求めた。",
+  "answers": [
+   "Not knowing what to do, I asked my boss for help."
+  ],
+  "audio": "audio/H/H-20-b-.mp3",
+  "tags": [
+   " a) とほぼ同じ意味になるようにb) に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " what to do, I asked my boss for help."
+   }
+  ],
+  "solutions": [
+   [
+    "Not",
+    "knowing"
+   ]
+  ],
+  "secTitle": "分詞構文の基本"
+ },
+ {
+  "id": "H-21-b",
+  "unit": "H",
+  "no": "21",
+  "jp": "引き出しを開けて，彼は銃を取り出した。",
+  "answers": [
+   "Opening the drawer, he took out a gun."
+  ],
+  "audio": "audio/H/H-21-b-.mp3",
+  "tags": [
+   " a) とほぼ同じ意味になるようにb) に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the drawer, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " took out a gun."
+   }
+  ],
+  "solutions": [
+   [
+    "Opening",
+    "he"
+   ]
+  ],
+  "secTitle": "分詞構文の基本"
+ },
+ {
+  "id": "H-22",
+  "unit": "H",
+  "no": "22",
+  "jp": "ブライアンは妻に心配をかけたくなくて自分の病気のことを黙っていた。",
+  "answers": [
+   "Brian, not wanting to worry his wife, kept his illness a secret."
+  ],
+  "audio": "audio/H/H-22-.mp3",
+  "section": {
+   "title": "分詞が主語と動詞の間に置かれる場合",
+   "body": "現在［過去］分詞は主語と動詞の間に挿入されて 「主語，現在［過去］分詞，述語動詞」 という形で用いられることがある。この分詞は 「文頭」 で用いられる場合と同じ時制を表す。この分詞は述語動詞を修飾する（ A ）の働きをすると考えられるが，主語（＝名詞）を補足説明する（ B ）の働きをしているとも考えられる。このタイプの分詞構文は主に書き言葉で用いる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Brian, "
+   },
+   {
+    "t": "order",
+    "words": [
+     "worry",
+     "not",
+     "to",
+     "wanting"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " his wife, kept his illness a secret."
+   }
+  ],
+  "solutions": [
+   [
+    "not wanting to worry"
+   ]
+  ],
+  "secTitle": "分詞が主語と動詞の間に置かれる場合"
+ },
+ {
+  "id": "H-23",
+  "unit": "H",
+  "no": "23",
+  "jp": "犬は彼女を見ると吠えながら彼女を追いかけ，もう少しで噛みつくところだった。",
+  "answers": [
+   "The dog, seeing her, ran after her barking and almost bit her."
+  ],
+  "audio": "audio/H/H-23-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The dog, "
+   },
+   {
+    "t": "order",
+    "words": [
+     "ran after her",
+     "seeing her",
+     "barking",
+     ","
+    ]
+   },
+   {
+    "t": "text",
+    "v": " and almost bit her."
+   }
+  ],
+  "solutions": [
+   [
+    "seeing her, ran after her barking"
+   ]
+  ],
+  "secTitle": "分詞が主語と動詞の間に置かれる場合"
+ },
+ {
+  "id": "H-24",
+  "unit": "H",
+  "no": "24",
+  "jp": "2人の首脳は互いの妻に付き添われて宴会場に入っていった。",
+  "answers": [
+   "The two leaders, accompanied by their wives, walked into the banquet hall."
+  ],
+  "audio": "audio/H/H-24-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The two leaders, "
+   },
+   {
+    "t": "order",
+    "words": [
+     "walked",
+     "accompanied by",
+     "their wives",
+     ","
+    ]
+   },
+   {
+    "t": "text",
+    "v": " into the banquet hall."
+   }
+  ],
+  "solutions": [
+   [
+    "accompanied by their wives, walked"
+   ]
+  ],
+  "secTitle": "分詞が主語と動詞の間に置かれる場合"
+ },
+ {
+  "id": "H-25-b",
+  "unit": "H",
+  "no": "25",
+  "jp": "彼は俳優として（業界の仕事を）始め，1990年に監督としてデビューした。",
+  "answers": [
+   "He started as an actor, making his debut as a director in 1990."
+  ],
+  "audio": "audio/H/H-25-b-.mp3",
+  "tags": [
+   " a) とほぼ同じ意味になるようにb) に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He started as an actor, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " his debut as a director in 1990."
+   }
+  ],
+  "solutions": [
+   [
+    "making"
+   ]
+  ],
+  "secTitle": "分詞が主語と動詞の間に置かれる場合"
+ },
+ {
+  "id": "H-26",
+  "unit": "H",
+  "no": "26",
+  "jp": "強い台風がその地域を直撃し，21人の死者と15人の行方不明者が出ました。",
+  "answers": [
+   "A powerful typhoon hit the region, leaving 21 people dead and 15 missing."
+  ],
+  "audio": "audio/H/H-26-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "A powerful typhoon hit the region, "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "leaving",
+     "left"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " 21 people dead and 15 missing."
+   }
+  ],
+  "solutions": [
+   [
+    "leaving"
+   ]
+  ],
+  "secTitle": "分詞が主語と動詞の間に置かれる場合"
+ },
+ {
+  "id": "H-27",
+  "unit": "H",
+  "no": "27",
+  "jp": "我々の主要な市場は北米で，その次に西ヨーロッパと中国が続きます。",
+  "answers": [
+   "Our main market is North America, followed by Western Europe and China."
+  ],
+  "audio": "audio/H/H-27-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Our main market is North America, "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "following",
+     "followed by"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Western Europe and China."
+   }
+  ],
+  "solutions": [
+   [
+    "followed by"
+   ]
+  ],
+  "secTitle": "分詞が主語と動詞の間に置かれる場合"
+ },
+ {
+  "id": "H-28-a",
+  "unit": "H",
+  "no": "28",
+  "jp": "彼は サンドイッチを食べながら急いで家を出て行った。",
+  "answers": [
+   "Eating a sandwich, he rushed out of the house."
+  ],
+  "audio": "audio/H/H-28-a-.mp3",
+  "section": {
+   "title": "分詞の完了形",
+   "body": "分詞に 「完了・結果・経験・継続」 の意味を持たせる場合や，分詞が 「述語動詞より過去のこと」 であるのを明確にする場合は，分詞を 「（ A ）（ B ）」（能動態）か 「（ C ）（ D ）（ E ）」（受動態）にする。否定形は否定語がnot ならhaving の 「前」 に置き，never ならhaving の 「前」 と 「後」  のどちらにも置くことができる。"
+  },
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Eating a sandwich, he rushed out of the house.",
+  "secTitle": "分詞の完了形"
+ },
+ {
+  "id": "H-28-b",
+  "unit": "H",
+  "no": "28",
+  "jp": "彼はサンドイッチを食べ終え，急いで家を出て行った。",
+  "answers": [
+   "Having eaten a sandwich, he rushed out of the house."
+  ],
+  "audio": "audio/H/H-28-b-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Having eaten a sandwich, he rushed out of the house.",
+  "secTitle": "分詞の完了形"
+ },
+ {
+  "id": "H-29",
+  "unit": "H",
+  "no": "29",
+  "jp": "すでに三度失敗しており，再挑戦しようという気にはならなかった。",
+  "answers": [
+   "Having failed three times, I didn't want to try again."
+  ],
+  "audio": "audio/H/H-29-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank",
+    "hint": "f"
+   },
+   {
+    "t": "text",
+    "v": " three times, I didn't want to try again."
+   }
+  ],
+  "solutions": [
+   [
+    "Having",
+    "failed"
+   ]
+  ],
+  "secTitle": "分詞の完了形"
+ },
+ {
+  "id": "H-30",
+  "unit": "H",
+  "no": "30",
+  "jp": "父は晩婚で，私が生まれた時には50歳になっていました。",
+  "answers": [
+   "Having married late in life, my father was 50 when I was born."
+  ],
+  "audio": "audio/H/H-30-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank",
+    "hint": "m"
+   },
+   {
+    "t": "text",
+    "v": " late in life, my father was 50 when I was born."
+   }
+  ],
+  "solutions": [
+   [
+    "Having",
+    "married"
+   ]
+  ],
+  "secTitle": "分詞の完了形"
+ },
+ {
+  "id": "H-31",
+  "unit": "H",
+  "no": "31",
+  "jp": "初めは彼女だと気がつきませんでした。なにせ20年間会っていなかったのです。",
+  "answers": [
+   "I couldn't recognize her at first, not having seen her for 20 years."
+  ],
+  "audio": "audio/H/H-31-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "recall",
+  "secTitle": "分詞の完了形"
+ },
+ {
+  "id": "H-32",
+  "unit": "H",
+  "no": "32",
+  "jp": "その女性はもうそこには住んでいなかった。３週間前に交通事故で亡くなっていたのだ。",
+  "answers": [
+   "The woman no longer lived there, having been killed in a car accident three weeks before."
+  ],
+  "audio": "audio/H/H-32-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The woman no longer lived there, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank",
+    "hint": "k"
+   },
+   {
+    "t": "text",
+    "v": " in a car accident three weeks before."
+   }
+  ],
+  "solutions": [
+   [
+    "having",
+    "been",
+    "killed"
+   ]
+  ],
+  "secTitle": "分詞の完了形"
+ },
+ {
+  "id": "H-33-a",
+  "unit": "H",
+  "no": "33",
+  "jp": "私は生まれも育ちもオハイオですが，現在はアイオワで暮らしています。",
+  "answers": [
+   "Born and raised in Ohio, I now live in Iowa."
+  ],
+  "audio": "audio/H/H-33-a-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Born and raised in Ohio, I now live in Iowa.",
+  "secTitle": "分詞の完了形"
+ },
+ {
+  "id": "H-33-b",
+  "unit": "H",
+  "no": "33",
+  "jp": "この犬は一度もきちんと訓練をされたことがなく人を噛む可能性があります。",
+  "answers": [
+   "Never trained properly, this dog may bite you."
+  ],
+  "audio": "audio/H/H-33-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Never trained properly, this dog may bite you.",
+  "secTitle": "分詞の完了形"
+ },
+ {
+  "id": "H-34",
+  "unit": "H",
+  "no": "34",
+  "jp": "疲れと空腹の中，我々はやっとホテルに到着した。",
+  "answers": [
+   "Tired and hungry, we finally reached the hotel."
+  ],
+  "audio": "audio/H/H-34-.mp3",
+  "section": {
+   "title": "being が省略される場合",
+   "body": "分詞が 「being＋（ A ）」 や 「being＋場所の副詞句」 の場合は，being を省略して「（ A ）」 や 「場所の副詞句」 だけを残すことがある。また，「being＋（冠詞）＋（ A ）＋名詞」 もbeing が省略されて 「（冠詞）＋（ A ）＋名詞」 だけにすることがある。これらの語句は通常文頭（＝主語の前）に置くが，（ A ）は文末に置くこともある。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " and "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": ", we finally reached the hotel."
+   }
+  ],
+  "solutions": [
+   [
+    "Tired",
+    "hungry"
+   ]
+  ],
+  "secTitle": "being が省略される場合"
+ },
+ {
+  "id": "H-35",
+  "unit": "H",
+  "no": "35",
+  "jp": "繁華街から10分足らずの所にあり，そのホテルは全ての主要観光スポットへのアクセスが容易です。",
+  "answers": [
+   "Only 10 minutes away from the downtown area, the hotel provides easy access to all major attractions."
+  ],
+  "audio": "audio/H/H-35-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Only "
+   },
+   {
+    "t": "order",
+    "words": [
+     "the downtown area",
+     "from",
+     "10 minutes",
+     "away"
+    ]
+   },
+   {
+    "t": "text",
+    "v": ", the hotel provides easy access to all major attractions."
+   }
+  ],
+  "solutions": [
+   [
+    "10 minutes away from the downtown area"
+   ]
+  ],
+  "secTitle": "being が省略される場合"
+ },
+ {
+  "id": "H-36-b",
+  "unit": "H",
+  "no": "36",
+  "jp": "こらえきれずに，誰かが吹き出すように笑った。",
+  "answers": [
+   "Unable to hold it any longer, someone burst out laughing."
+  ],
+  "audio": "audio/H/H-36-b-.mp3",
+  "tags": [
+   " a) とほぼ同じ意味になるようにb) とc) に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " hold it any longer, someone burst out laughing."
+   }
+  ],
+  "solutions": [
+   [
+    "Unable",
+    "to"
+   ]
+  ],
+  "secTitle": "being が省略される場合"
+ },
+ {
+  "id": "H-36-c",
+  "unit": "H",
+  "no": "36",
+  "jp": "誰かが，こらえきれずに吹き出すように笑った。",
+  "answers": [
+   "Someone burst out laughing, unable to hold it any longer."
+  ],
+  "audio": "audio/H/H-36-c-.mp3",
+  "tags": [
+   " a) とほぼ同じ意味になるようにb) とc) に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Someone burst out laughing, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " hold it any longer."
+   }
+  ],
+  "solutions": [
+   [
+    "unable",
+    "to"
+   ]
+  ],
+  "secTitle": "being が省略される場合"
+ },
+ {
+  "id": "H-37",
+  "unit": "H",
+  "no": "37",
+  "jp": "信仰心の厚いニュートンは神が秩序ある宇宙の創造主だと信じていた。",
+  "answers": [
+   "A religious man, Newton believed God to be the creator of the orderly universe."
+  ],
+  "audio": "audio/H/H-37-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "A "
+   },
+   {
+    "t": "order",
+    "words": [
+     "man",
+     ",",
+     "religious",
+     "Newton"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " believed God to be the creator of the orderly universe."
+   }
+  ],
+  "solutions": [
+   [
+    "religious man, Newton"
+   ]
+  ],
+  "secTitle": "being が省略される場合"
+ },
+ {
+  "id": "H-38-b",
+  "unit": "H",
+  "no": "38",
+  "jp": "彼は全員に別れの抱擁をした。彼の目は涙でいっぱいであった。",
+  "answers": [
+   "He hugged everyone goodbye, his eyes filled with tears."
+  ],
+  "audio": "audio/H/H-38-b-.mp3",
+  "tags": [
+   " a) とほぼ同じ意味になるようにb) とc) に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He hugged everyone goodbye, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " with tears."
+   }
+  ],
+  "solutions": [
+   [
+    "his",
+    "eyes",
+    "filled"
+   ]
+  ],
+  "secTitle": "being が省略される場合"
+ },
+ {
+  "id": "H-38-c",
+  "unit": "H",
+  "no": "38",
+  "jp": "彼は全員に別れの抱擁をした。彼の目は涙でいっぱいであった。",
+  "answers": [
+   "He hugged everyone goodbye with his eyes filled with tears."
+  ],
+  "audio": "audio/H/H-38-c-.mp3",
+  "tags": [
+   " a) とほぼ同じ意味になるようにb) とc) に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He hugged everyone goodbye "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " with tears."
+   }
+  ],
+  "solutions": [
+   [
+    "with",
+    "his",
+    "eyes",
+    "filled"
+   ]
+  ],
+  "secTitle": "being が省略される場合"
+ },
+ {
+  "id": "H-39-b",
+  "unit": "H",
+  "no": "39",
+  "jp": "「ごめんなさい」と彼女は唇を震わせながら言った。",
+  "answers": [
+   "\"I'm sorry,\" she said, her lip quivering."
+  ],
+  "audio": "audio/H/H-39-b-.mp3",
+  "tags": [
+   " a) とほぼ同じ意味になるようにb) とc) に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"I'm sorry,\" she said, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "her",
+    "lip",
+    "quivering"
+   ]
+  ],
+  "secTitle": "being が省略される場合"
+ },
+ {
+  "id": "H-39-c",
+  "unit": "H",
+  "no": "39",
+  "jp": "「ごめんなさい」と彼女は唇を震わせながら言った。",
+  "answers": [
+   "\"I'm sorry,\" she said with her lip quivering."
+  ],
+  "audio": "audio/H/H-39-c-.mp3",
+  "tags": [
+   " a) とほぼ同じ意味になるようにb) とc) に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"I'm sorry,\" she said "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "with",
+    "her",
+    "lip",
+    "quivering"
+   ]
+  ],
+  "secTitle": "being が省略される場合"
+ },
+ {
+  "id": "H-40-a",
+  "unit": "H",
+  "no": "40",
+  "jp": "悪い知らせを予想しながら，私は電話をとった。",
+  "answers": [
+   "I picked up the phone expecting bad news."
+  ],
+  "audio": "audio/H/H-40-a-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I picked up the phone with expecting bad news.",
+  "secTitle": "being が省略される場合"
+ },
+ {
+  "id": "H-40-b",
+  "unit": "H",
+  "no": "40",
+  "jp": "そんなの簡単さ。目をつぶってでもできるよ。",
+  "answers": [
+   "That's a piece of cake. I can do it with my eyes closed."
+  ],
+  "audio": "audio/H/H-40-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "That's a piece of cake. I can do it with closing my eyes.",
+  "secTitle": "being が省略される場合"
+ },
+ {
+  "id": "H-41",
+  "unit": "H",
+  "no": "41",
+  "jp": "お祈りが終わり，彼らは棺を地中へと降ろした。",
+  "answers": [
+   "Their prayers finished, they lowered the casket into the ground."
+  ],
+  "audio": "audio/H/H-41-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Their "
+   },
+   {
+    "t": "order",
+    "words": [
+     "they",
+     "finished",
+     ",",
+     "prayers"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " lowered the casket into the ground."
+   }
+  ],
+  "solutions": [
+   [
+    "prayers finished, they"
+   ]
+  ],
+  "secTitle": "being が省略される場合"
+ },
+ {
+  "id": "H-42-b",
+  "unit": "H",
+  "no": "42",
+  "jp": "そのジェット機は墜落し，（積まれている）燃料が衝突と同時に爆発した。",
+  "answers": [
+   "The jet crashed, its fuel load exploding upon impact."
+  ],
+  "audio": "audio/H/H-42-b-.mp3",
+  "tags": [
+   " a) とほぼ同じ意味になるようにb) に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The jet crashed, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " upon impact."
+   }
+  ],
+  "solutions": [
+   [
+    "its",
+    "fuel",
+    "load",
+    "exploding"
+   ]
+  ],
+  "secTitle": "being が省略される場合"
+ },
+ {
+  "id": "H-43",
+  "unit": "H",
+  "no": "43",
+  "jp": "ルチアーノ・パヴァロッティは，プラシド・ドミンゴ，ホセ・カレーラスと並び，三大テノールの一人であった。",
+  "answers": [
+   "Luciano Pavarotti was one of the \"Three Tenors,\" the others being Placido Domingo and Jose Carreras."
+  ],
+  "audio": "audio/H/H-43-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Luciano Pavarotti was one of the \"Three Tenors,\" the others "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " Placido Domingo and Jose Carreras."
+   }
+  ],
+  "solutions": [
+   [
+    "being"
+   ]
+  ],
+  "secTitle": "being が省略される場合"
+ },
+ {
+  "id": "H-44",
+  "unit": "H",
+  "no": "44",
+  "jp": "20人のフィリピン人がここで働いており，その大半は女性です。",
+  "answers": [
+   "There are 20 Filipinos working here, most of them women."
+  ],
+  "audio": "audio/H/H-44-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "There are 20 Filipinos working here, most of "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "them",
+    "women"
+   ]
+  ],
+  "secTitle": "being が省略される場合"
+ },
+ {
+  "id": "H-45",
+  "unit": "H",
+  "no": "45",
+  "jp": "当時ベルギーには死刑がなく，彼女は終身刑に処された。",
+  "answers": [
+   "There being no death penalty in Belgium at the time, she was sent to prison for life."
+  ],
+  "audio": "audio/H/H-45-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " no death penalty in Belgium at the time, she was sent to prison for life."
+   }
+  ],
+  "solutions": [
+   [
+    "There",
+    "being"
+   ]
+  ],
+  "secTitle": "being が省略される場合"
+ },
+ {
+  "id": "H-46",
+  "unit": "H",
+  "no": "46",
+  "jp": "天気が良ければ，浜辺でたき火をします。",
+  "answers": [
+   "We'll have a bonfire on the beach, weather permitting."
+  ],
+  "audio": "audio/H/H-46-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We'll "
+   },
+   {
+    "t": "order",
+    "words": [
+     "have",
+     "a bonfire",
+     "permitting",
+     "on the beach",
+     ",",
+     "weather"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "have a bonfire on the beach, weather permitting"
+   ]
+  ],
+  "secTitle": "being が省略される場合"
+ },
+ {
+  "id": "H-47-a",
+  "unit": "H",
+  "no": "47",
+  "jp": "ジョンと言えば，彼は今どこに住んでいるんだ？",
+  "answers": [
+   "Speaking of John, where's he living now?"
+  ],
+  "audio": "audio/H/H-47-a-.mp3",
+  "section": {
+   "title": "独立分詞構文（分詞の慣用表現）",
+   "body": "Speaking of ... のような 「分詞の慣用表現」 は独立した副詞句と見なされるため，分詞の行い手と文の主語が異なっても（ A ）を置かない。「分詞の慣用表現」 は「（ B ）」 という意味を表すことが多い。また，慣用表現でなくても，文学作品などでは分詞と文の主語が異なる場合に（文脈から判断して誤解の余地がないことを条件に）あえて意味上の主語を置かないことがある。但し，このような分詞構文は標準的ではないので，安易に使用すべきではない。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " John, where's he living now?"
+   }
+  ],
+  "solutions": [
+   [
+    "Speaking",
+    "of"
+   ]
+  ],
+  "secTitle": "独立分詞構文（分詞の慣用表現）"
+ },
+ {
+  "id": "H-47-b",
+  "unit": "H",
+  "no": "47",
+  "jp": "ジョンと言えば，彼は今どこに住んでいるんだ？",
+  "answers": [
+   "Talking of John, where's he living now?"
+  ],
+  "audio": "audio/H/H-47-b-.mp3",
+  "section": {
+   "title": "独立分詞構文（分詞の慣用表現）",
+   "body": "Speaking of ... のような 「分詞の慣用表現」 は独立した副詞句と見なされるため，分詞の行い手と文の主語が異なっても（ A ）を置かない。「分詞の慣用表現」 は「（ B ）」 という意味を表すことが多い。また，慣用表現でなくても，文学作品などでは分詞と文の主語が異なる場合に（文脈から判断して誤解の余地がないことを条件に）あえて意味上の主語を置かないことがある。但し，このような分詞構文は標準的ではないので，安易に使用すべきではない。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " John, where's he living now?"
+   }
+  ],
+  "solutions": [
+   [
+    "Talking",
+    "of"
+   ]
+  ],
+  "secTitle": "独立分詞構文（分詞の慣用表現）"
+ },
+ {
+  "id": "H-48",
+  "unit": "H",
+  "no": "48",
+  "jp": "厳密に言えばこの文章は文法的に正しくない。",
+  "answers": [
+   "Strictly speaking, this sentence is not grammatically correct."
+  ],
+  "audio": "audio/H/H-48-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Strictly spoken, this sentence is not grammatically correct.",
+  "secTitle": "独立分詞構文（分詞の慣用表現）"
+ },
+ {
+  "id": "H-49",
+  "unit": "H",
+  "no": "49",
+  "jp": "彼女の態度から（判断）すると，僕にもまだ望みはありそうだ。",
+  "answers": [
+   "Judging from her attitude, there still seems to be some hope for me."
+  ],
+  "audio": "audio/H/H-49-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Judged from her attitude, there still seems to be some hope for me.",
+  "secTitle": "独立分詞構文（分詞の慣用表現）"
+ },
+ {
+  "id": "H-50-a",
+  "unit": "H",
+  "no": "50",
+  "jp": "状況を考えれば，彼らは非常によくやったと思う。",
+  "answers": [
+   "Considering the circumstances, I think they did a marvelous job."
+  ],
+  "audio": "audio/H/H-50-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank",
+    "hint": "C"
+   },
+   {
+    "t": "text",
+    "v": " the circumstances, I think they did a marvelous job."
+   }
+  ],
+  "solutions": [
+   [
+    "Considering"
+   ]
+  ],
+  "secTitle": "独立分詞構文（分詞の慣用表現）"
+ },
+ {
+  "id": "H-50-b",
+  "unit": "H",
+  "no": "50",
+  "jp": "状況を考えれば，彼らは非常によくやったと思う。",
+  "answers": [
+   "Given the circumstances, I think they did a marvelous job."
+  ],
+  "audio": "audio/H/H-50-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank",
+    "hint": "G"
+   },
+   {
+    "t": "text",
+    "v": " the circumstances, I think they did a marvelous job."
+   }
+  ],
+  "solutions": [
+   [
+    "Given"
+   ]
+  ],
+  "secTitle": "独立分詞構文（分詞の慣用表現）"
+ },
+ {
+  "id": "H-51-a",
+  "unit": "H",
+  "no": "51",
+  "jp": "ITというテーマに戻りますが，授業の中でそれをどう活用していますか？",
+  "answers": [
+   "Returning to the subject of IT, how do you use it in your teaching?"
+  ],
+  "audio": "audio/H/H-51-a-.mp3",
+  "tags": [
+   "下線部の分詞の行い手（＝意味上の主語）を考え，全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Returning to the subject of IT, how do you use it in your teaching?",
+  "secTitle": "独立分詞構文（分詞の慣用表現）"
+ },
+ {
+  "id": "H-51-b",
+  "unit": "H",
+  "no": "51",
+  "jp": "20年ぶりにかつて通った学校の中を歩いてみると，さまざまな記憶が走馬灯のように駆け巡った。",
+  "answers": [
+   "Walking around my old school twenty years later, memories came rushing back to me."
+  ],
+  "audio": "audio/H/H-51-b-.mp3",
+  "tags": [
+   "下線部の分詞の行い手（＝意味上の主語）を考え，全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Walking around my old school twenty years later, memories came rushing back to me.",
+  "secTitle": "独立分詞構文（分詞の慣用表現）"
+ }
+]

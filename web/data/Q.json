@@ -1,0 +1,3830 @@
+[
+ {
+  "id": "Q-01-a",
+  "unit": "Q",
+  "no": "01",
+  "jp": "私は先週ひどい風邪をひいていたが，今はよくなっている。",
+  "answers": [
+   "I had a very bad cold last week, but I'm feeling better now."
+  ],
+  "audio": "audio/Q/Q-01-a-.mp3",
+  "section": {
+   "title": "規則変化と不規則変化",
+   "body": "一般に，比較級は原級に-er をつけるか，原級の前に（ A ）を置いて作り，最上級は原級に-est をつけるか，原級の前に（ B ）を置いて作る。これを 「規則変化」 と呼ぶ。他方，good やbad のように規則変化をしない（＝「不規則変化」の）語もある。また，old，late，far のように比較級と最上級がそれぞれ２つある語もある。"
+  },
+  "tags": [
+   "下線部の語の原級は何か"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I had a very bad cold last week, but I'm feeling better now.",
+  "secTitle": "規則変化と不規則変化"
+ },
+ {
+  "id": "Q-01-b",
+  "unit": "Q",
+  "no": "01",
+  "jp": "相手のプレーはあまり良くなかったが，我々のプレーは更に悪かった。",
+  "answers": [
+   "They didn't play very well, but we played even worse."
+  ],
+  "audio": "audio/Q/Q-01-b-.mp3",
+  "tags": [
+   "下線部の語の原級は何か"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "They didn't play very well, but we played even worse.",
+  "secTitle": "規則変化と不規則変化"
+ },
+ {
+  "id": "Q-01-c",
+  "unit": "Q",
+  "no": "01",
+  "jp": "2006年のワールドカップでは誰が最多のゴールを挙げましたか？",
+  "answers": [
+   "Who scored the most goals at World Cup 2006?"
+  ],
+  "audio": "audio/Q/Q-01-c-.mp3",
+  "tags": [
+   "下線部の語の原級は何か"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Who scored the most goals at World Cup 2006?",
+  "secTitle": "規則変化と不規則変化"
+ },
+ {
+  "id": "Q-01-d",
+  "unit": "Q",
+  "no": "01",
+  "jp": "彼女は肉が一番少ない料理を選んだ。",
+  "answers": [
+   "She chose the dish that had the least meat in it."
+  ],
+  "audio": "audio/Q/Q-01-d-.mp3",
+  "tags": [
+   "下線部の語の原級は何か"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "She chose the dish that had the least meat in it.",
+  "secTitle": "規則変化と不規則変化"
+ },
+ {
+  "id": "Q-02",
+  "unit": "Q",
+  "no": "02",
+  "jp": "私は美術が好きですが，体育はもっと好きです。",
+  "answers": [
+   "I like fine arts but I like PE even more.",
+   "I like fine arts but I like PE even better."
+  ],
+  "audio": "audio/Q/Q-02-.mp3",
+  "tags": [
+   "適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I like fine arts but I like PE even "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "more"
+   ],
+   [
+    "better"
+   ]
+  ],
+  "secTitle": "規則変化と不規則変化"
+ },
+ {
+  "id": "Q-03",
+  "unit": "Q",
+  "no": "03",
+  "jp": "彼の長女は彼の今の妻よりも年が上だ。",
+  "answers": [
+   "His eldest daughter is older than his current wife."
+  ],
+  "audio": "audio/Q/Q-03-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "His eldest daughter is elder than his current wife.",
+  "secTitle": "規則変化と不規則変化"
+ },
+ {
+  "id": "Q-04",
+  "unit": "Q",
+  "no": "04",
+  "jp": "彼は現在，最新アルバムのプロモーションで北京を訪れている。",
+  "answers": [
+   "He is currently in Beijing to promote his latest album."
+  ],
+  "audio": "audio/Q/Q-04-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He is currently in Beijing to promote his "
+   },
+   {
+    "t": "blank",
+    "hint": "l"
+   },
+   {
+    "t": "text",
+    "v": " album."
+   }
+  ],
+  "solutions": [
+   [
+    "latest"
+   ]
+  ],
+  "secTitle": "規則変化と不規則変化"
+ },
+ {
+  "id": "Q-05",
+  "unit": "Q",
+  "no": "05",
+  "jp": "少なくとも現時点では，後者の選択肢の方が良いです。",
+  "answers": [
+   "I prefer the latter alternative, at least at present."
+  ],
+  "audio": "audio/Q/Q-05-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I prefer the "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " alternative, at least at present."
+   }
+  ],
+  "solutions": [
+   [
+    "latter"
+   ]
+  ],
+  "secTitle": "規則変化と不規則変化"
+ },
+ {
+  "id": "Q-06",
+  "unit": "Q",
+  "no": "06",
+  "jp": "この問題に関してはそれ以上話すことは何もありません。",
+  "answers": [
+   "I have nothing further to say on this issue."
+  ],
+  "audio": "audio/Q/Q-06-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I have nothing "
+   },
+   {
+    "t": "blank",
+    "hint": "f"
+   },
+   {
+    "t": "text",
+    "v": " to say on this issue."
+   }
+  ],
+  "solutions": [
+   [
+    "further"
+   ]
+  ],
+  "secTitle": "規則変化と不規則変化"
+ },
+ {
+  "id": "Q-07",
+  "unit": "Q",
+  "no": "07",
+  "jp": "（それより）安いものを見せてもらえますか？",
+  "answers": [
+   "Could you show me something less expensive?"
+  ],
+  "audio": "audio/Q/Q-07-.mp3",
+  "section": {
+   "title": "less, least の使い方",
+   "body": "「より…である」 「最も…である」 は比較級と最上級で表すが，「より（程度が）少なく…」 「最も（程度が）少なく…」  は 「（ A ）＋原級」 と「（ B ）＋原級」 で表す。"
+  },
+  "tags": [
+   "買い物でのことば"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Could you show me something "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " expensive?"
+   }
+  ],
+  "solutions": [
+   [
+    "less"
+   ]
+  ],
+  "secTitle": "less, least の使い方"
+ },
+ {
+  "id": "Q-08",
+  "unit": "Q",
+  "no": "08",
+  "jp": "ブレーブスはワールドシリーズを制覇する可能性が最も低いと見られている。",
+  "answers": [
+   "The Braves are considered the least likely to win the World Series."
+  ],
+  "audio": "audio/Q/Q-08-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The Braves are considered the "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " likely to win the World Series."
+   }
+  ],
+  "solutions": [
+   [
+    "least"
+   ]
+  ],
+  "secTitle": "less, least の使い方"
+ },
+ {
+  "id": "Q-09-a",
+  "unit": "Q",
+  "no": "09",
+  "jp": "僕は彼より背が低い。",
+  "answers": [
+   "I'm shorter than he is."
+  ],
+  "audio": "audio/Q/Q-09-a-.mp3",
+  "section": {
+   "title": "「比較級＋than」の使い方",
+   "body": "「…よりも」 という意味で比較の対象を表すthan は接続詞と（ A ）の両方で用いる。接続詞で用いる場合，than 以下は前の語句と重複する部分を省略することができる。（ A ）で用いるのはややくだけた言い方である。"
+  },
+  "tags": [
+   "適語を記入し２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'm shorter than "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "he",
+    "is"
+   ]
+  ],
+  "secTitle": "「比較級＋than」の使い方"
+ },
+ {
+  "id": "Q-09-b",
+  "unit": "Q",
+  "no": "09",
+  "jp": "僕は彼より背が低い。",
+  "answers": [
+   "I'm shorter than him."
+  ],
+  "audio": "audio/Q/Q-09-b-.mp3",
+  "tags": [
+   "適語を記入し２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'm shorter than "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "him"
+   ]
+  ],
+  "secTitle": "「比較級＋than」の使い方"
+ },
+ {
+  "id": "Q-10-a",
+  "unit": "Q",
+  "no": "10",
+  "jp": "息子は私よりコンピューターに詳しい。",
+  "answers": [
+   "My son knows more about computers than I do."
+  ],
+  "audio": "audio/Q/Q-10-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "My son knows more about computers than "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "I",
+    "do"
+   ]
+  ],
+  "secTitle": "「比較級＋than」の使い方"
+ },
+ {
+  "id": "Q-10-b",
+  "unit": "Q",
+  "no": "10",
+  "jp": "息子は私よりコンピューターに詳しい。",
+  "answers": [
+   "My son knows more about computers than me."
+  ],
+  "audio": "audio/Q/Q-10-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "My son knows more about computers than "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "me"
+   ]
+  ],
+  "secTitle": "「比較級＋than」の使い方"
+ },
+ {
+  "id": "Q-11",
+  "unit": "Q",
+  "no": "11",
+  "jp": "実のところ，彼は映画で見るより背が低い。",
+  "answers": [
+   "Actually, he's shorter than he looks on screen."
+  ],
+  "audio": "audio/Q/Q-11-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Actually, he's shorter than "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " on screen."
+   }
+  ],
+  "solutions": [
+   [
+    "he",
+    "looks"
+   ]
+  ],
+  "secTitle": "「比較級＋than」の使い方"
+ },
+ {
+  "id": "Q-12",
+  "unit": "Q",
+  "no": "12",
+  "jp": "攻撃に出るより退却する方が難しい。",
+  "answers": [
+   "It is harder to retreat than it is to go on the attack."
+  ],
+  "audio": "audio/Q/Q-12-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It is harder to retreat than "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " go on the attack."
+   }
+  ],
+  "solutions": [
+   [
+    "it",
+    "is",
+    "to"
+   ]
+  ],
+  "secTitle": "「比較級＋than」の使い方"
+ },
+ {
+  "id": "Q-13-a",
+  "unit": "Q",
+  "no": "13",
+  "jp": "大半の本は，閉じた状態では，縦長である。",
+  "answers": [
+   "Most books when closed are taller than they are wide."
+  ],
+  "audio": "audio/Q/Q-13-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Most books when closed are taller than "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " wide."
+   }
+  ],
+  "solutions": [
+   [
+    "they",
+    "are"
+   ]
+  ],
+  "secTitle": "「比較級＋than」の使い方"
+ },
+ {
+  "id": "Q-13-b",
+  "unit": "Q",
+  "no": "13",
+  "jp": "大半の本は，閉じた状態では，縦長である。",
+  "answers": [
+   "Most books when closed are more tall than wide."
+  ],
+  "audio": "audio/Q/Q-13-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Most books when closed are "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " than "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "more",
+    "tall",
+    "wide"
+   ]
+  ],
+  "secTitle": "「比較級＋than」の使い方"
+ },
+ {
+  "id": "Q-14",
+  "unit": "Q",
+  "no": "14",
+  "jp": "我々の流通制度は英国よりも効率が悪い。",
+  "answers": [
+   "Our distribution system is less efficient than that of the UK."
+  ],
+  "audio": "audio/Q/Q-14-.mp3",
+  "tags": [
+   "間違いがあれば訂正"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Our distribution system is less efficient than the UK.",
+  "secTitle": "「比較級＋than」の使い方"
+ },
+ {
+  "id": "Q-15",
+  "unit": "Q",
+  "no": "15",
+  "jp": "彼もあなたと同じくらいサーフィンが大好きです。",
+  "answers": [
+   "He loves surfing as much as you do."
+  ],
+  "audio": "audio/Q/Q-15-.mp3",
+  "section": {
+   "title": "「as＋原級＋as」 の使い方",
+   "body": "「～と同じだけ…」 は 「as ... as ～」 で表すことができ，「～ほど…ない」 は 「not as ... as ～」 や 「not （ A ）... as ～」 で表すことができる。「as ～」 のas は接続詞と（ B ）の両方で用いる。（ B ）で用いるのはややくだけた言い方である。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He loves surfing as "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "much",
+    "as",
+    "you",
+    "do"
+   ]
+  ],
+  "secTitle": "「as＋原級＋as」 の使い方"
+ },
+ {
+  "id": "Q-16",
+  "unit": "Q",
+  "no": "16",
+  "jp": "当時の記憶は今でも，昨日のことのように鮮明だ。",
+  "answers": [
+   "Those memories are still as vivid as yesterday."
+  ],
+  "audio": "audio/Q/Q-16-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Those memories are still as vivid "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "as",
+    "yesterday"
+   ]
+  ],
+  "secTitle": "「as＋原級＋as」 の使い方"
+ },
+ {
+  "id": "Q-17-a",
+  "unit": "Q",
+  "no": "17",
+  "jp": "パリでの滞在はあなたが思っているほど高くはありません。",
+  "answers": [
+   "Staying in Paris is not as expensive as you think.",
+   "Staying in Paris is not so expensive as you think."
+  ],
+  "audio": "audio/Q/Q-17-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Staying in Paris is not "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " expensive "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " you think."
+   }
+  ],
+  "solutions": [
+   [
+    "as",
+    "as"
+   ],
+   [
+    "so",
+    "as"
+   ]
+  ],
+  "secTitle": "「as＋原級＋as」 の使い方"
+ },
+ {
+  "id": "Q-17-b",
+  "unit": "Q",
+  "no": "17",
+  "jp": "パリでの滞在はあなたが思っているほど高くはありません。",
+  "answers": [
+   "Staying in Paris is less expensive than you think."
+  ],
+  "audio": "audio/Q/Q-17-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Staying in Paris is "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " expensive "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " you think."
+   }
+  ],
+  "solutions": [
+   [
+    "less",
+    "than"
+   ]
+  ],
+  "secTitle": "「as＋原級＋as」 の使い方"
+ },
+ {
+  "id": "Q-18",
+  "unit": "Q",
+  "no": "18",
+  "jp": "私はニコンを使っていますが，キャノンも同じだけ良いです。",
+  "answers": [
+   "I use Nikon, but Canon is just as good."
+  ],
+  "audio": "audio/Q/Q-18-.mp3",
+  "pronNote": "Nikon というブランドは一般に 「ナイコン」 と発音されます。",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I use Nikon, but Canon is just "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "as",
+    "good"
+   ]
+  ],
+  "secTitle": "「as＋原級＋as」 の使い方"
+ },
+ {
+  "id": "Q-19",
+  "unit": "Q",
+  "no": "19",
+  "jp": "そのお店は平日はそれほど（＝週末ほど）混んではいません。",
+  "answers": [
+   "The restaurant is not as crowded on weekdays."
+  ],
+  "audio": "audio/Q/Q-19-.mp3",
+  "tags": [
+   "並べ替え"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The restaurant is "
+   },
+   {
+    "t": "order",
+    "words": [
+     "not",
+     "crowded",
+     "on",
+     "as",
+     "weekdays"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "not as crowded on weekdays"
+   ]
+  ],
+  "secTitle": "「as＋原級＋as」 の使い方"
+ },
+ {
+  "id": "Q-20",
+  "unit": "Q",
+  "no": "20",
+  "jp": "毎月定額で，好きなだけゲームを借りることができます。",
+  "answers": [
+   "For a flat monthly fee, you can rent as many games as you want."
+  ],
+  "audio": "audio/Q/Q-20-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "For a flat monthly fee, you can "
+   },
+   {
+    "t": "order",
+    "words": [
+     "rent",
+     "games",
+     "many",
+     "as"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " as you want."
+   }
+  ],
+  "solutions": [
+   [
+    "rent as many games"
+   ]
+  ],
+  "secTitle": "「as＋原級＋as」 の使い方"
+ },
+ {
+  "id": "Q-21",
+  "unit": "Q",
+  "no": "21",
+  "jp": "捜査員の仕事はできるだけ多くの情報を集めることです。",
+  "answers": [
+   "The investigator's job is to collect as much information as possible."
+  ],
+  "audio": "audio/Q/Q-21-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The investigator's job is to collect "
+   },
+   {
+    "t": "order",
+    "words": [
+     "as",
+     "as",
+     "much",
+     "possible",
+     "information"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "as much information as possible"
+   ]
+  ],
+  "secTitle": "「as＋原級＋as」 の使い方"
+ },
+ {
+  "id": "Q-22",
+  "unit": "Q",
+  "no": "22",
+  "jp": "たぶん彼ほど話術がうまい人はいないだろう。",
+  "answers": [
+   "There is probably no one who is as good a talker as he is."
+  ],
+  "audio": "audio/Q/Q-22-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "There is probably no one who is as a good talker as he is.",
+  "secTitle": "「as＋原級＋as」 の使い方"
+ },
+ {
+  "id": "Q-23-a",
+  "unit": "Q",
+  "no": "23",
+  "jp": "息子は私と同じ身長で，力はたぶん私より強い。",
+  "answers": [
+   "My son is as tall as me, and maybe stronger."
+  ],
+  "audio": "audio/Q/Q-23-a-.mp3",
+  "section": {
+   "title": "「as＋原級＋as」 の２つの意味",
+   "body": "「A is as ... as B」 は 「A もB もどちらも（同じように）…である」 ことを意味するが，old, large, tall のように 「How＋形容詞...?」 の形で年齢・寸法・数量などを尋ねる形容詞の場合は 「A とB が同じ年齢［大きさ，高さ］である」 という意味になる。但し，B に明らかに古い［大きい，高い］とわかる物や人を置いた場合は 「A もB もどちらも（同じように）古い［大きい，高い］」 という意味になる。"
+  },
+  "tags": [
+   "各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "My son is as tall as me, and maybe stronger.",
+  "secTitle": "「as＋原級＋as」 の２つの意味"
+ },
+ {
+  "id": "Q-23-b",
+  "unit": "Q",
+  "no": "23",
+  "jp": "息子はプロのバスケットボール選手と同じくらい背が高い。",
+  "answers": [
+   "My son is as tall as a pro basketball player."
+  ],
+  "audio": "audio/Q/Q-23-b-.mp3",
+  "tags": [
+   "各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "My son is as tall as a pro basketball player.",
+  "secTitle": "「as＋原級＋as」 の２つの意味"
+ },
+ {
+  "id": "Q-24-a",
+  "unit": "Q",
+  "no": "24",
+  "jp": "アイスランドはニューヨーク州とほぼ同じ大きさだ。",
+  "answers": [
+   "Iceland is nearly as large as the State of New York."
+  ],
+  "audio": "audio/Q/Q-24-a-.mp3",
+  "tags": [
+   "各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Iceland is nearly as large as the State of New York.",
+  "secTitle": "「as＋原級＋as」 の２つの意味"
+ },
+ {
+  "id": "Q-24-b",
+  "unit": "Q",
+  "no": "24",
+  "jp": "シロナガスクジラの心臓は小型車と同じくらい大きい。",
+  "answers": [
+   "The heart of a blue whale is as large as a small car."
+  ],
+  "audio": "audio/Q/Q-24-b-.mp3",
+  "tags": [
+   "各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "The heart of a blue whale is as large as a small car.",
+  "secTitle": "「as＋原級＋as」 の２つの意味"
+ },
+ {
+  "id": "Q-25-a",
+  "unit": "Q",
+  "no": "25",
+  "jp": "ジョージには一度会ったことがあるが，とても物静かな人だった。",
+  "answers": [
+   "I met George once and he was as quiet as a mouse."
+  ],
+  "audio": "audio/Q/Q-25-a-.mp3",
+  "section": {
+   "title": "「as＋原級＋as」 の直喩表現",
+   "body": "「A is as ... as B」 の表現ではB に特定の名詞を置き 「B のようにとても…だ」 と いう意味で用いることがあり，これを 「直喩（くゆ）」 と呼ぶ。この表現では 「as ... as」 の（ A ）のas を省略することができる。"
+  },
+  "tags": [
+   "空所に入る適語を選択肢から選ぶ"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I met George once and he was as quiet as a "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "mouse"
+   ]
+  ],
+  "secTitle": "「as＋原級＋as」 の直喩表現"
+ },
+ {
+  "id": "Q-25-b",
+  "unit": "Q",
+  "no": "25",
+  "jp": "君は常に沈着冷静なようだね。",
+  "answers": [
+   "You always look as cool as a cucumber."
+  ],
+  "audio": "audio/Q/Q-25-b-.mp3",
+  "tags": [
+   "空所に入る適語を選択肢から選ぶ"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "You always look as cool as a "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "cucumber"
+   ]
+  ],
+  "secTitle": "「as＋原級＋as」 の直喩表現"
+ },
+ {
+  "id": "Q-25-c",
+  "unit": "Q",
+  "no": "25",
+  "jp": "彼女は今週，仕事が非常に忙しかった。",
+  "answers": [
+   "She's been as busy as a beaver at work this week."
+  ],
+  "audio": "audio/Q/Q-25-c-.mp3",
+  "tags": [
+   "空所に入る適語を選択肢から選ぶ"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She's been as busy as a "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " at work this week."
+   }
+  ],
+  "solutions": [
+   [
+    "beaver"
+   ]
+  ],
+  "secTitle": "「as＋原級＋as」 の直喩表現"
+ },
+ {
+  "id": "Q-25-d",
+  "unit": "Q",
+  "no": "25",
+  "jp": "おじいちゃんはもうじき90歳ですが，とても元気です。",
+  "answers": [
+   "My grandpa is nearly ninety, but he's fit as a fiddle."
+  ],
+  "audio": "audio/Q/Q-25-d-.mp3",
+  "tags": [
+   "空所に入る適語を選択肢から選ぶ"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "My grandpa is nearly ninety, but he's fit as a "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "fiddle"
+   ]
+  ],
+  "secTitle": "「as＋原級＋as」 の直喩表現"
+ },
+ {
+  "id": "Q-25-e",
+  "unit": "Q",
+  "no": "25",
+  "jp": "それは非常にアメリカ的なサクセス・ストーリーだ。",
+  "answers": [
+   "It's a success story as American as apple pie."
+  ],
+  "audio": "audio/Q/Q-25-e-.mp3",
+  "tags": [
+   "空所に入る適語を選択肢から選ぶ"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It's a success story as American as "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "apple pie"
+   ]
+  ],
+  "secTitle": "「as＋原級＋as」 の直喩表現"
+ },
+ {
+  "id": "Q-25-f",
+  "unit": "Q",
+  "no": "25",
+  "jp": "彼の息子は北京大学に入学したので，彼は非常に自慢げだ。",
+  "answers": [
+   "His son got into Beijing University, so he's proud as a peacock."
+  ],
+  "audio": "audio/Q/Q-25-f-.mp3",
+  "tags": [
+   "空所に入る適語を選択肢から選ぶ"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "His son got into Beijing University, so he's proud as a "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "peacock"
+   ]
+  ],
+  "secTitle": "「as＋原級＋as」 の直喩表現"
+ },
+ {
+  "id": "Q-25-g",
+  "unit": "Q",
+  "no": "25",
+  "jp": "新しいドレスを身にまとった彼女はとても美しかった。",
+  "answers": [
+   "She was pretty as a picture in her new dress."
+  ],
+  "audio": "audio/Q/Q-25-g-.mp3",
+  "tags": [
+   "空所に入る適語を選択肢から選ぶ"
+  ],
+  "sheetJp": false,
+  "type": "recall",
+  "secTitle": "「as＋原級＋as」 の直喩表現"
+ },
+ {
+  "id": "Q-26",
+  "unit": "Q",
+  "no": "26",
+  "jp": "そのイベントには８万人もの人が集まった。",
+  "answers": [
+   "The event attracted as many as eighty thousand people."
+  ],
+  "audio": "audio/Q/Q-26-.mp3",
+  "section": {
+   "title": "「as＋原級＋as」 と 「比較級＋than」 の強調表現",
+   "body": "「as ～ as ...」 の 「…」 部分に（ A ）を置くと 「（なんと）～も（の）…」 という数量・大小・長さなどを強調した表現になる。また， 「no（ B ） than ...」 は 「（たった）…だけ」 という意味で少なさを強調した表現に， 「no（ C ） than ...」 は 「（なんと）…も」という意味で多さを強調した表現になる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The event attracted as "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " as eighty thousand people."
+   }
+  ],
+  "solutions": [
+   [
+    "many"
+   ]
+  ],
+  "secTitle": "「as＋原級＋as」 と 「比較級＋than」 の強調表現"
+ },
+ {
+  "id": "Q-27",
+  "unit": "Q",
+  "no": "27",
+  "jp": "その女優は映画一本当たり1700万ドルも稼ぎます。",
+  "answers": [
+   "The actress earns as much as 17 million dollars per movie."
+  ],
+  "audio": "audio/Q/Q-27-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The actress earns as "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " as 17 million dollars per movie."
+   }
+  ],
+  "solutions": [
+   [
+    "much"
+   ]
+  ],
+  "secTitle": "「as＋原級＋as」 と 「比較級＋than」 の強調表現"
+ },
+ {
+  "id": "Q-28",
+  "unit": "Q",
+  "no": "28",
+  "jp": "ホホジロザメは６メートルもの長さになることがある。",
+  "answers": [
+   "Great white sharks can measure as long as six meters."
+  ],
+  "audio": "audio/Q/Q-28-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Great white sharks can measure "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " six meters."
+   }
+  ],
+  "solutions": [
+   [
+    "as",
+    "long",
+    "as"
+   ]
+  ],
+  "secTitle": "「as＋原級＋as」 と 「比較級＋than」 の強調表現"
+ },
+ {
+  "id": "Q-29",
+  "unit": "Q",
+  "no": "29",
+  "jp": "最初の新聞は早くも17世紀に現れた。",
+  "answers": [
+   "The first newspapers appeared as early as the 17th century."
+  ],
+  "audio": "audio/Q/Q-29-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The first newspapers appeared "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the 17th century."
+   }
+  ],
+  "solutions": [
+   [
+    "as",
+    "early",
+    "as"
+   ]
+  ],
+  "secTitle": "「as＋原級＋as」 と 「比較級＋than」 の強調表現"
+ },
+ {
+  "id": "Q-30",
+  "unit": "Q",
+  "no": "30",
+  "jp": "それは小さくて，縦が10センチ，横が4センチしかありません。",
+  "answers": [
+   "It is small, being no more than 10 cm long and 4 cm wide."
+  ],
+  "audio": "audio/Q/Q-30-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It is small, being "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " than 10 cm long and 4 cm wide."
+   }
+  ],
+  "solutions": [
+   [
+    "no",
+    "more"
+   ]
+  ],
+  "secTitle": "「as＋原級＋as」 と 「比較級＋than」 の強調表現"
+ },
+ {
+  "id": "Q-31",
+  "unit": "Q",
+  "no": "31",
+  "jp": "日本は自国で消費する原油の９割も，その地域から輸入している。",
+  "answers": [
+   "Japan imports no less than 90 percent of its oil from the region."
+  ],
+  "audio": "audio/Q/Q-31-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Japan imports no "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " than 90 percent of its oil from the region."
+   }
+  ],
+  "solutions": [
+   [
+    "less"
+   ]
+  ],
+  "secTitle": "「as＋原級＋as」 と 「比較級＋than」 の強調表現"
+ },
+ {
+  "id": "Q-32-a",
+  "unit": "Q",
+  "no": "32",
+  "jp": "彼女は少なくとも私の２倍多く稼いでいます。",
+  "answers": [
+   "She earns at least twice as much as I do."
+  ],
+  "audio": "audio/Q/Q-32-a-.mp3",
+  "section": {
+   "title": "「as＋原級＋as」 や 「比較級＋than」 の倍数表現",
+   "body": "「as ... as ～」 と 「比較級 than ～」 の前にtwice やthree times などの（ A ）を置くと「～の２倍［３倍］…」 という意味になり，「as ... as ～」 の前にhalf やtwo(-)thirds などの（ B ）を置くと 「～の2 分の１［３分の２］の…」 という意味になる。但し，size，number, age のような 「寸法・数量・年齢」 などの名詞やwhat 節を置く場合は「as ... as」 や 「比較級 than」 を用いず，それらの名詞の前に直接（ A ）か（ B ）を置く。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She earns at least "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " as I do."
+   }
+  ],
+  "solutions": [
+   [
+    "twice",
+    "as",
+    "much"
+   ]
+  ],
+  "secTitle": "「as＋原級＋as」 や 「比較級＋than」 の倍数表現"
+ },
+ {
+  "id": "Q-32-b",
+  "unit": "Q",
+  "no": "32",
+  "jp": "彼女は少なくとも私の２倍多く稼いでいます。",
+  "answers": [
+   "She earns at least two times as much as I do."
+  ],
+  "audio": "audio/Q/Q-32-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She earns at least "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " as I do."
+   }
+  ],
+  "solutions": [
+   [
+    "two",
+    "times",
+    "as",
+    "much"
+   ]
+  ],
+  "secTitle": "「as＋原級＋as」 や 「比較級＋than」 の倍数表現"
+ },
+ {
+  "id": "Q-33-a",
+  "unit": "Q",
+  "no": "33",
+  "jp": "正方形の周囲は一辺の４倍の長さである。",
+  "answers": [
+   "The perimeter of a square is four times as long as its side."
+  ],
+  "audio": "audio/Q/Q-33-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The perimeter of a square is four times "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " its side."
+   }
+  ],
+  "solutions": [
+   [
+    "as",
+    "long",
+    "as"
+   ]
+  ],
+  "secTitle": "「as＋原級＋as」 や 「比較級＋than」 の倍数表現"
+ },
+ {
+  "id": "Q-33-b",
+  "unit": "Q",
+  "no": "33",
+  "jp": "正方形の周囲は一辺の４倍の長さである。",
+  "answers": [
+   "The perimeter of a square is four times longer than its side."
+  ],
+  "audio": "audio/Q/Q-33-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The perimeter of a square is four times "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " its side."
+   }
+  ],
+  "solutions": [
+   [
+    "longer",
+    "than"
+   ]
+  ],
+  "secTitle": "「as＋原級＋as」 や 「比較級＋than」 の倍数表現"
+ },
+ {
+  "id": "Q-33-c",
+  "unit": "Q",
+  "no": "33",
+  "jp": "正方形の周囲は一辺の４倍の長さである。",
+  "answers": [
+   "The perimeter of a square is four times the length of its side."
+  ],
+  "audio": "audio/Q/Q-33-c-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The perimeter of a square is four times the "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " its side."
+   }
+  ],
+  "solutions": [
+   [
+    "length",
+    "of"
+   ]
+  ],
+  "secTitle": "「as＋原級＋as」 や 「比較級＋than」 の倍数表現"
+ },
+ {
+  "id": "Q-34-a",
+  "unit": "Q",
+  "no": "34",
+  "jp": "今ではそれは10年前の８倍の値段になっている。",
+  "answers": [
+   "It now costs eight times as much as it did ten years ago."
+  ],
+  "audio": "audio/Q/Q-34-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It now costs eight times "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " it did ten years ago."
+   }
+  ],
+  "solutions": [
+   [
+    "as",
+    "much",
+    "as"
+   ]
+  ],
+  "secTitle": "「as＋原級＋as」 や 「比較級＋than」 の倍数表現"
+ },
+ {
+  "id": "Q-34-b",
+  "unit": "Q",
+  "no": "34",
+  "jp": "今ではそれは10年前の８倍の値段になっている。",
+  "answers": [
+   "It now costs eight times what it did ten years ago."
+  ],
+  "audio": "audio/Q/Q-34-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It now costs eight times "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " it did ten years ago."
+   }
+  ],
+  "solutions": [
+   [
+    "what"
+   ]
+  ],
+  "secTitle": "「as＋原級＋as」 や 「比較級＋than」 の倍数表現"
+ },
+ {
+  "id": "Q-35",
+  "unit": "Q",
+  "no": "35",
+  "jp": "二十歳の時，彼女は年齢が２倍上の男性に恋をした。",
+  "answers": [
+   "When she was 20, she fell in love with a man twice her age."
+  ],
+  "audio": "audio/Q/Q-35-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "When she was 20, she fell in love with a man "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "twice",
+    "her",
+    "age"
+   ]
+  ],
+  "secTitle": "「as＋原級＋as」 や 「比較級＋than」 の倍数表現"
+ },
+ {
+  "id": "Q-36-a",
+  "unit": "Q",
+  "no": "36",
+  "jp": "火星は我々の惑星の半分の大きさしかない。",
+  "answers": [
+   "Mars is only half as large as our planet."
+  ],
+  "audio": "audio/Q/Q-36-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Mars is only "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " large as our planet."
+   }
+  ],
+  "solutions": [
+   [
+    "half",
+    "as"
+   ]
+  ],
+  "secTitle": "「as＋原級＋as」 や 「比較級＋than」 の倍数表現"
+ },
+ {
+  "id": "Q-36-b",
+  "unit": "Q",
+  "no": "36",
+  "jp": "火星は我々の惑星の半分の大きさしかない。",
+  "answers": [
+   "Mars is only half the size of our planet."
+  ],
+  "audio": "audio/Q/Q-36-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Mars is only "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " of our planet."
+   }
+  ],
+  "solutions": [
+   [
+    "half",
+    "the",
+    "size"
+   ]
+  ],
+  "secTitle": "「as＋原級＋as」 や 「比較級＋than」 の倍数表現"
+ },
+ {
+  "id": "Q-37",
+  "unit": "Q",
+  "no": "37",
+  "jp": "冥王星の直径は2,390キロで，月の約３分の２，地球の約５分の１です。",
+  "answers": [
+   "Pluto is 2,390 kilometers across. It's about two-thirds as wide as the Moon and about one-fifth as wide as the Earth."
+  ],
+  "audio": "audio/Q/Q-37-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Pluto is 2,390 kilometers across. It's about two-"
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " wide "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the Moon and about one-"
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " wide "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the Earth."
+   }
+  ],
+  "solutions": [
+   [
+    "thirds",
+    "as",
+    "as",
+    "fifth",
+    "as",
+    "as"
+   ]
+  ],
+  "secTitle": "「as＋原級＋as」 や 「比較級＋than」 の倍数表現"
+ },
+ {
+  "id": "Q-38-a",
+  "unit": "Q",
+  "no": "38",
+  "jp": "それの高さはそれの幅のおよそ４分の３です。",
+  "answers": [
+   "It is roughly three-fourths as high as it is wide."
+  ],
+  "audio": "audio/Q/Q-38-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It is roughly three-"
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " high "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " it is wide."
+   }
+  ],
+  "solutions": [
+   [
+    "fourths",
+    "as",
+    "as"
+   ]
+  ],
+  "secTitle": "「as＋原級＋as」 や 「比較級＋than」 の倍数表現"
+ },
+ {
+  "id": "Q-38-b",
+  "unit": "Q",
+  "no": "38",
+  "jp": "それの高さはそれの幅のおよそ４分の３です。",
+  "answers": [
+   "Its height is roughly three-fourths its width.",
+   "Its height is roughly three-quarters its width."
+  ],
+  "audio": "audio/Q/Q-38-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Its "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " is roughly three-"
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " its "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "height",
+    "fourths",
+    "width"
+   ],
+   [
+    "height",
+    "quarters",
+    "width"
+   ]
+  ],
+  "secTitle": "「as＋原級＋as」 や 「比較級＋than」 の倍数表現"
+ },
+ {
+  "id": "Q-39",
+  "unit": "Q",
+  "no": "39",
+  "jp": "我々の全てのライバルの中で最大のライバルはイングランドです。",
+  "answers": [
+   "Of all our rivals the biggest is England."
+  ],
+  "audio": "audio/Q/Q-39-.mp3",
+  "section": {
+   "title": "最上級の表現",
+   "body": "「最も［一番］…で」 という意味は最上級で表す。母集団を表す 「～の中で」 は，「国・地域・組織・集団の中で」 ならin を用い，「同種の複数のものの中で」ならof を用いる。最上級が 「（代）名詞」 の場合や， 後ろの（ A ）を修飾する「形容詞」の場合はthe をつけるが，（ A ）を修飾せずに文の（ B ）で用いられる場合や，最上級が（ C ）の場合はthe をつけなくてもよい。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "In all our rivals the biggest is England.",
+  "secTitle": "最上級の表現"
+ },
+ {
+  "id": "Q-40",
+  "unit": "Q",
+  "no": "40",
+  "jp": "この方法が一番速いが，最も不正確です。",
+  "answers": [
+   "This method is fastest, but least accurate.",
+   "This method is quickest, but least accurate."
+  ],
+  "audio": "audio/Q/Q-40-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "This method is "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": ", but "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " accurate."
+   }
+  ],
+  "solutions": [
+   [
+    "fastest",
+    "least"
+   ],
+   [
+    "quickest",
+    "least"
+   ]
+  ],
+  "secTitle": "最上級の表現"
+ },
+ {
+  "id": "Q-41",
+  "unit": "Q",
+  "no": "41",
+  "jp": "残念ながら，現時点で私にできるのはそれだけです。",
+  "answers": [
+   "I'm sorry, but it's the best I can do right now."
+  ],
+  "audio": "audio/Q/Q-41-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I'm sorry, but it's best I can do right now.",
+  "secTitle": "最上級の表現"
+ },
+ {
+  "id": "Q-42",
+  "unit": "Q",
+  "no": "42",
+  "jp": "数学が一番良くできて，地理が一番だめでした。",
+  "answers": [
+   "I did best in Math and worst in Geography."
+  ],
+  "audio": "audio/Q/Q-42-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I did "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " in Math and "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " in Geography."
+   }
+  ],
+  "solutions": [
+   [
+    "best",
+    "worst"
+   ]
+  ],
+  "secTitle": "最上級の表現"
+ },
+ {
+  "id": "Q-43",
+  "unit": "Q",
+  "no": "43",
+  "jp": "ミシシッピ川は，ミズーリ川に次いで，アメリカで２番目に長い川です。",
+  "answers": [
+   "The Mississippi is the second longest river, after the Missouri, in the US."
+  ],
+  "audio": "audio/Q/Q-43-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The Mississippi is the "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " river, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the Missouri, in the US."
+   }
+  ],
+  "solutions": [
+   [
+    "second",
+    "longest",
+    "after"
+   ]
+  ],
+  "secTitle": "最上級の表現"
+ },
+ {
+  "id": "Q-44",
+  "unit": "Q",
+  "no": "44",
+  "jp": "「何をしている時が一番幸せですか？」「歌を歌っている時が一番幸せです」",
+  "answers": [
+   "\"What gives you the most happiness?\" \"I'm happiest when I'm singing.\""
+  ],
+  "audio": "audio/Q/Q-44-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "\"What gives you most happiness?\" \"I'm the happiest when I'm singing.\"",
+  "secTitle": "最上級の表現"
+ },
+ {
+  "id": "Q-45",
+  "unit": "Q",
+  "no": "45",
+  "jp": "とても楽しい夜でした。また次の機会を心待ちにしています。",
+  "answers": [
+   "That was a most enjoyable evening and I can't wait for the next one!"
+  ],
+  "audio": "audio/Q/Q-45-.mp3",
+  "tags": [
+   "下線部を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "That was a most enjoyable evening and I can't wait for the next one!",
+  "secTitle": "最上級の表現"
+ },
+ {
+  "id": "Q-46-a",
+  "unit": "Q",
+  "no": "46",
+  "jp": "鯨は全ての動物の中で最も大きい。",
+  "answers": [
+   "The whale is the largest of all animals."
+  ],
+  "audio": "audio/Q/Q-46-a-.mp3",
+  "section": {
+   "title": "原級や比較級を用いた最上級表現",
+   "body": "最上級の意味を 「as 原級 as ～」 や 「比較級 than ～」 で表すこともできる。前者には 「（ A ）other 単数名詞 ... as 原級 as ～」 があり， 後者には 「... 比較級 than （ B ）other 単数名詞」 と 「（ A ）other 単数名詞 ... 比較級 than ～」 がある。これらの表現のother はしばしば省略される。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The whale is "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " all animals."
+   }
+  ],
+  "solutions": [
+   [
+    "the",
+    "largest",
+    "of"
+   ]
+  ],
+  "secTitle": "原級や比較級を用いた最上級表現"
+ },
+ {
+  "id": "Q-46-b",
+  "unit": "Q",
+  "no": "46",
+  "jp": "鯨はいかなる他の動物よりも大きい。",
+  "answers": [
+   "The whale is larger than any other animal."
+  ],
+  "audio": "audio/Q/Q-46-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The whale is larger than "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "any",
+    "other",
+    "animal"
+   ]
+  ],
+  "secTitle": "原級や比較級を用いた最上級表現"
+ },
+ {
+  "id": "Q-46-c",
+  "unit": "Q",
+  "no": "46",
+  "jp": "他のどんな動物も鯨ほど大きくはない。",
+  "answers": [
+   "No other animal is as large as the whale.",
+   "No other animal is so large as the whale."
+  ],
+  "audio": "audio/Q/Q-46-c-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " other animal is "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the whale."
+   }
+  ],
+  "solutions": [
+   [
+    "No",
+    "as",
+    "large",
+    "as"
+   ],
+   [
+    "No",
+    "so",
+    "large",
+    "as"
+   ]
+  ],
+  "secTitle": "原級や比較級を用いた最上級表現"
+ },
+ {
+  "id": "Q-47",
+  "unit": "Q",
+  "no": "47",
+  "jp": "どんな仕事より健康の方が大事なんだからね。",
+  "answers": [
+   "Your health is more important than any job."
+  ],
+  "audio": "audio/Q/Q-47-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Your health is more important than any other job.",
+  "secTitle": "原級や比較級を用いた最上級表現"
+ },
+ {
+  "id": "Q-48",
+  "unit": "Q",
+  "no": "48",
+  "jp": "私にとって，それは他の何よりもはるかに重要なことなのです。",
+  "answers": [
+   "To me, that's far more important than anything else."
+  ],
+  "audio": "audio/Q/Q-48-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "To me, that's far more important than "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "anything",
+    "else"
+   ]
+  ],
+  "secTitle": "原級や比較級を用いた最上級表現"
+ },
+ {
+  "id": "Q-49",
+  "unit": "Q",
+  "no": "49",
+  "jp": "コレステロールを下げるのに，オート麦よりも優れた穀物はない。",
+  "answers": [
+   "No other grain is better than oats for lowering cholesterol."
+  ],
+  "audio": "audio/Q/Q-49-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " grain is "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " oats for lowering cholesterol."
+   }
+  ],
+  "solutions": [
+   [
+    "No",
+    "other",
+    "better",
+    "than"
+   ]
+  ],
+  "secTitle": "原級や比較級を用いた最上級表現"
+ },
+ {
+  "id": "Q-50",
+  "unit": "Q",
+  "no": "50",
+  "jp": "国際的な航空産業はどんな国際的産業にも劣らず競争が激しい。",
+  "answers": [
+   "The global airline industry is as competitive as any global business."
+  ],
+  "audio": "audio/Q/Q-50-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The global airline industry is "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " competitive "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " any global business."
+   }
+  ],
+  "solutions": [
+   [
+    "as",
+    "as"
+   ]
+  ],
+  "secTitle": "原級や比較級を用いた最上級表現"
+ },
+ {
+  "id": "Q-51",
+  "unit": "Q",
+  "no": "51",
+  "jp": "そのワイシャツはいつもより1000円安かった。",
+  "answers": [
+   "The shirt cost 1,000 yen less than usual."
+  ],
+  "audio": "audio/Q/Q-51-.mp3",
+  "section": {
+   "title": "比較級と最上級の修飾と強調",
+   "body": "比較級や最上級の程度を名詞や副詞で示す場合は，名詞や副詞を比較級・最上級の（ A ）に置く。比較級を 「ずっと」 という意味で強調する語句にはmuch, （ B ）, a lot などがあり，「少し」 という意味で修飾する語句にはa little, a bit などがある。また，最上級を 「断然」 「はるかに」 と強調する語句にはby far や （ C ）などがある。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The shirt cost 1,000 yen "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "less",
+    "than",
+    "usual"
+   ]
+  ],
+  "secTitle": "比較級と最上級の修飾と強調"
+ },
+ {
+  "id": "Q-52",
+  "unit": "Q",
+  "no": "52",
+  "jp": "それはiPhoneより少し小さくなりますが，少し分厚くなります。",
+  "answers": [
+   "It will be a little smaller than the iPhone, but slightly thicker.",
+   "It will be a bit smaller than the iPhone, but slightly thicker."
+  ],
+  "audio": "audio/Q/Q-52-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It will be "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " smaller than the iPhone, but "
+   },
+   {
+    "t": "blank",
+    "hint": "s"
+   },
+   {
+    "t": "text",
+    "v": " thicker."
+   }
+  ],
+  "solutions": [
+   [
+    "a",
+    "little",
+    "slightly"
+   ],
+   [
+    "a",
+    "bit",
+    "slightly"
+   ]
+  ],
+  "secTitle": "比較級と最上級の修飾と強調"
+ },
+ {
+  "id": "Q-53",
+  "unit": "Q",
+  "no": "53",
+  "jp": "今日の科学技術は私達の生活を昔よりずっと楽で，はるかに便利にしている。",
+  "answers": [
+   "Today's technology makes our lives a lot easier and far more convenient than in the past.",
+   "Today's technology makes our lives a lot easier and much more convenient than in the past."
+  ],
+  "audio": "audio/Q/Q-53-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Today's technology makes our lives a "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " easier and "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " more convenient than in the past."
+   }
+  ],
+  "solutions": [
+   [
+    "lot",
+    "far"
+   ],
+   [
+    "lot",
+    "much"
+   ]
+  ],
+  "secTitle": "比較級と最上級の修飾と強調"
+ },
+ {
+  "id": "Q-54",
+  "unit": "Q",
+  "no": "54",
+  "jp": "私はどこよりも職場にいる時間がずっと長い。",
+  "answers": [
+   "I spend many more hours at work than anywhere else."
+  ],
+  "audio": "audio/Q/Q-54-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I spend much more hours at work than anywhere else.",
+  "secTitle": "比較級と最上級の修飾と強調"
+ },
+ {
+  "id": "Q-55",
+  "unit": "Q",
+  "no": "55",
+  "jp": "あとどのくらい待てばよいでしょうか？",
+  "answers": [
+   "How much longer am I to wait?"
+  ],
+  "audio": "audio/Q/Q-55-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " longer am I to wait?"
+   }
+  ],
+  "solutions": [
+   [
+    "How",
+    "much"
+   ]
+  ],
+  "secTitle": "比較級と最上級の修飾と強調"
+ },
+ {
+  "id": "Q-56",
+  "unit": "Q",
+  "no": "56",
+  "jp": "スパーキーは私が今までに飼った中でダントツで頭の良い犬です。",
+  "answers": [
+   "Sparky is by far the smartest dog I've ever had."
+  ],
+  "audio": "audio/Q/Q-56-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Sparky is "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the smartest dog I've ever had."
+   }
+  ],
+  "solutions": [
+   [
+    "by",
+    "far"
+   ]
+  ],
+  "secTitle": "比較級と最上級の修飾と強調"
+ },
+ {
+  "id": "Q-57",
+  "unit": "Q",
+  "no": "57",
+  "jp": "何事であれ，ただ自分にできる精一杯のことをしなさい。",
+  "answers": [
+   "Just do the very best you can, whatever you're doing."
+  ],
+  "audio": "audio/Q/Q-57-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Just do the "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " best you can, whatever you're doing."
+   }
+  ],
+  "solutions": [
+   [
+    "very"
+   ]
+  ],
+  "secTitle": "比較級と最上級の修飾と強調"
+ },
+ {
+  "id": "Q-58",
+  "unit": "Q",
+  "no": "58",
+  "jp": "その事件はまさに最悪の時期に起こった。",
+  "answers": [
+   "The incident occurred at the worst possible time."
+  ],
+  "audio": "audio/Q/Q-58-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The incident occurred at the worst "
+   },
+   {
+    "t": "blank",
+    "hint": "p"
+   },
+   {
+    "t": "text",
+    "v": " time."
+   }
+  ],
+  "solutions": [
+   [
+    "possible"
+   ]
+  ],
+  "secTitle": "比較級と最上級の修飾と強調"
+ },
+ {
+  "id": "Q-59",
+  "unit": "Q",
+  "no": "59",
+  "jp": "ケビンはその２人のうちのおとなしい方で，ジェイソンはより活発な方です。",
+  "answers": [
+   "Kevin is the quieter of the two, and Jason the more active."
+  ],
+  "audio": "audio/Q/Q-59-.mp3",
+  "section": {
+   "title": "「the＋比較級」 の表現",
+   "body": "「２つ［２人］の中で，より…な方」 と言う場合や，「その分，より…」 と言う場合，「より～するにつれて，その分より～」 と言う場合は比較級の前に（ A ）を置く。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Kevin is "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank",
+    "hint": "q"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the two, and Jason "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " active."
+   }
+  ],
+  "solutions": [
+   [
+    "the",
+    "quieter",
+    "of",
+    "the",
+    "more"
+   ]
+  ],
+  "secTitle": "「the＋比較級」 の表現"
+ },
+ {
+  "id": "Q-60",
+  "unit": "Q",
+  "no": "60",
+  "jp": "彼女の正直さに，私はいっそう彼女のことを尊敬した。",
+  "answers": [
+   "Her honesty made me respect her all the more."
+  ],
+  "audio": "audio/Q/Q-60-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Her honesty made me respect her "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "all",
+    "the",
+    "more"
+   ]
+  ],
+  "secTitle": "「the＋比較級」 の表現"
+ },
+ {
+  "id": "Q-61",
+  "unit": "Q",
+  "no": "61",
+  "jp": "彼らを失望させたくなかったから，私はよりいっそう頑張った。",
+  "answers": [
+   "I worked all the harder because I didn't want to let them down."
+  ],
+  "audio": "audio/Q/Q-61-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I worked "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " harder because I didn't want to let them down."
+   }
+  ],
+  "solutions": [
+   [
+    "all",
+    "the"
+   ]
+  ],
+  "secTitle": "「the＋比較級」 の表現"
+ },
+ {
+  "id": "Q-62",
+  "unit": "Q",
+  "no": "62",
+  "jp": "昔のクリスマスはひっそりしていたが，だからと言って悪いわけではなかった。",
+  "answers": [
+   "Christmas was a quiet time, but none the worse for that."
+  ],
+  "audio": "audio/Q/Q-62-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Christmas was a quiet time, but "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " worse "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " that."
+   }
+  ],
+  "solutions": [
+   [
+    "none",
+    "the",
+    "for"
+   ]
+  ],
+  "secTitle": "「the＋比較級」 の表現"
+ },
+ {
+  "id": "Q-63-a",
+  "unit": "Q",
+  "no": "63",
+  "jp": "それについて聞けば聞くほど，（より）嫌悪感を覚えます。",
+  "answers": [
+   "As I hear more about it, I get more disgusted."
+  ],
+  "audio": "audio/Q/Q-63-a-.mp3",
+  "tags": [
+   " a) とほぼ同じ意味になるようにb) に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "As I hear more about it, I get more disgusted.",
+  "secTitle": "「the＋比較級」 の表現"
+ },
+ {
+  "id": "Q-63-b",
+  "unit": "Q",
+  "no": "63",
+  "jp": "それについて聞けば聞くほど，（より）嫌悪感を覚えます。",
+  "answers": [
+   "The more I hear about it, the more disgusted I get."
+  ],
+  "audio": "audio/Q/Q-63-b-.mp3",
+  "tags": [
+   " a) とほぼ同じ意味になるようにb) に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " I hear about it, the "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "The",
+    "more",
+    "more",
+    "disgusted",
+    "I",
+    "get"
+   ]
+  ],
+  "secTitle": "「the＋比較級」 の表現"
+ },
+ {
+  "id": "Q-64",
+  "unit": "Q",
+  "no": "64",
+  "jp": "問題の発見は早ければ早いほど，それだけ解決に費やせる時間が増えます。",
+  "answers": [
+   "The sooner we see a problem, the more time we have to solve it."
+  ],
+  "audio": "audio/Q/Q-64-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "The sooner we see a problem, the more we have time to solve it.",
+  "secTitle": "「the＋比較級」 の表現"
+ },
+ {
+  "id": "Q-65",
+  "unit": "Q",
+  "no": "65",
+  "jp": "ワインというのは古くなればなるほどおいしくなるのですか？",
+  "answers": [
+   "Does wine taste better the older it gets?"
+  ],
+  "audio": "audio/Q/Q-65-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Does wine taste "
+   },
+   {
+    "t": "order",
+    "words": [
+     "it",
+     "the",
+     "older",
+     "better",
+     "gets"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "?"
+   }
+  ],
+  "solutions": [
+   [
+    "better the older it gets"
+   ]
+  ],
+  "secTitle": "「the＋比較級」 の表現"
+ },
+ {
+  "id": "Q-66",
+  "unit": "Q",
+  "no": "66",
+  "jp": "「いつ予約しようか？」「早ければ早いほどいい」",
+  "answers": [
+   "\"When should we book?\" \"The sooner, the better.\""
+  ],
+  "audio": "audio/Q/Q-66-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"When should we book?\" \""
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": ", "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": ".\""
+   }
+  ],
+  "solutions": [
+   [
+    "The",
+    "sooner",
+    "the",
+    "better"
+   ]
+  ],
+  "secTitle": "「the＋比較級」 の表現"
+ },
+ {
+  "id": "Q-67",
+  "unit": "Q",
+  "no": "67",
+  "jp": "株価は企業が成長するにつれてどんどん高くなっていった。",
+  "answers": [
+   "Stock prices rose higher and higher as businesses grew."
+  ],
+  "audio": "audio/Q/Q-67-.mp3",
+  "section": {
+   "title": "比較級の慣用表現",
+   "body": "「どんどん［ますます］…」 という意味は  「（ A ） and （ A ）」  で表すことができる。否定文に続けて 「…はなおさらそうでない」 と言う場合は 「much [still] （ B ）…」 で表すことができる。「X はY と同様に…ではない」 は 「X is no （ C ）… than Y」 で表すことができる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Stock prices rose "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " and "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " as businesses grew."
+   }
+  ],
+  "solutions": [
+   [
+    "higher",
+    "higher"
+   ]
+  ],
+  "secTitle": "比較級の慣用表現"
+ },
+ {
+  "id": "Q-68",
+  "unit": "Q",
+  "no": "68",
+  "jp": "英語は職場でますます重要になってきている。",
+  "answers": [
+   "English is becoming more and more important in the work environment."
+  ],
+  "audio": "audio/Q/Q-68-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "English is becoming "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " important in the work environment."
+   }
+  ],
+  "solutions": [
+   [
+    "more",
+    "and",
+    "more"
+   ]
+  ],
+  "secTitle": "比較級の慣用表現"
+ },
+ {
+  "id": "Q-69",
+  "unit": "Q",
+  "no": "69",
+  "jp": "そのような情景を目にすることは最近どんどん減ってきています。",
+  "answers": [
+   "Such scenes are seen less and less often these days."
+  ],
+  "audio": "audio/Q/Q-69-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Such scenes are seen "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " often these days."
+   }
+  ],
+  "solutions": [
+   [
+    "less",
+    "and",
+    "less"
+   ]
+  ],
+  "secTitle": "比較級の慣用表現"
+ },
+ {
+  "id": "Q-70",
+  "unit": "Q",
+  "no": "70",
+  "jp": "彼女は自分を養うことができないのに，赤ん坊なんてなおさらよ。",
+  "answers": [
+   "She can't support herself, much less a baby.",
+   "She can't support herself, still less a baby."
+  ],
+  "audio": "audio/Q/Q-70-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She can't support herself, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " a baby."
+   }
+  ],
+  "solutions": [
+   [
+    "much",
+    "less"
+   ],
+   [
+    "still",
+    "less"
+   ]
+  ],
+  "secTitle": "比較級の慣用表現"
+ },
+ {
+  "id": "Q-71",
+  "unit": "Q",
+  "no": "71",
+  "jp": "マリファナの危険性はアルコールと変わらないと思っている人もいる。",
+  "answers": [
+   "Some people believe marijuana is no more dangerous than alcohol."
+  ],
+  "audio": "audio/Q/Q-71-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Some people believe marijuana is "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " dangerous "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " alcohol."
+   }
+  ],
+  "solutions": [
+   [
+    "no",
+    "more",
+    "than"
+   ]
+  ],
+  "secTitle": "比較級の慣用表現"
+ },
+ {
+  "id": "Q-72",
+  "unit": "Q",
+  "no": "72",
+  "jp": "元気な子供は子犬と同様，じっと座っていることができない。",
+  "answers": [
+   "A healthy child can no more sit still than a puppy can."
+  ],
+  "audio": "audio/Q/Q-72-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "A healthy child can "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " sit still "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " a puppy can."
+   }
+  ],
+  "solutions": [
+   [
+    "no",
+    "more",
+    "than"
+   ]
+  ],
+  "secTitle": "比較級の慣用表現"
+ },
+ {
+  "id": "Q-73",
+  "unit": "Q",
+  "no": "73",
+  "jp": "受動喫煙は（能動）喫煙に劣らず危険である。",
+  "answers": [
+   "Passive smoking is no less dangerous than active smoking."
+  ],
+  "audio": "audio/Q/Q-73-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Passive smoking is "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " dangerous "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " active smoking."
+   }
+  ],
+  "solutions": [
+   [
+    "no",
+    "less",
+    "than"
+   ]
+  ],
+  "secTitle": "比較級の慣用表現"
+ },
+ {
+  "id": "Q-74",
+  "unit": "Q",
+  "no": "74",
+  "jp": "生活を維持するために２つ以上の仕事をしている人もいる。",
+  "answers": [
+   "Some people have more than one job to make ends meet."
+  ],
+  "audio": "audio/Q/Q-74-.mp3",
+  "section": {
+   "title": "比較級を用いた 「…以上・以下」 「…未満」 の表現",
+   "body": "数詞を伴い 「…より多い」 と言う場合は 「( A ) ( B )  数詞」 とし，「…より少ない」 と言う場合は 「( C ) ( D )  数詞」 とする。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Some people have more than "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank",
+    "hint": "j"
+   },
+   {
+    "t": "text",
+    "v": " to make ends meet."
+   }
+  ],
+  "solutions": [
+   [
+    "one",
+    "job"
+   ]
+  ],
+  "secTitle": "比較級を用いた 「…以上・以下」 「…未満」 の表現"
+ },
+ {
+  "id": "Q-75",
+  "unit": "Q",
+  "no": "75",
+  "jp": "その規制が適用されるのは従業員が100人以上の企業です。",
+  "answers": [
+   "The regulations apply to businesses with 100 or more employees."
+  ],
+  "audio": "audio/Q/Q-75-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The regulations apply to businesses with "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " employees."
+   }
+  ],
+  "solutions": [
+   [
+    "100",
+    "or",
+    "more"
+   ]
+  ],
+  "secTitle": "比較級を用いた 「…以上・以下」 「…未満」 の表現"
+ },
+ {
+  "id": "Q-76-b",
+  "unit": "Q",
+  "no": "76",
+  "jp": "200ドル未満で買えるマウンテン・バイクを探しています。",
+  "answers": [
+   "I'm looking for a mountain bike for less than 200 dollars."
+  ],
+  "audio": "audio/Q/Q-76-b-.mp3",
+  "tags": [
+   "適切な英訳はどれか"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I'm looking for a mountain bike for less than 200 dollars.",
+  "secTitle": "比較級を用いた 「…以上・以下」 「…未満」 の表現"
+ },
+ {
+  "id": "Q-76-c",
+  "unit": "Q",
+  "no": "76",
+  "jp": "200ドル未満で買えるマウンテン・バイクを探しています。",
+  "answers": [
+   "I'm looking for a mountain bike for under 200 dollars."
+  ],
+  "audio": "audio/Q/Q-76-c-.mp3",
+  "tags": [
+   "適切な英訳はどれか"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I'm looking for a mountain bike for under 200 dollars.",
+  "secTitle": "比較級を用いた 「…以上・以下」 「…未満」 の表現"
+ }
+]

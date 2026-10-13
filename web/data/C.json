@@ -1,0 +1,2213 @@
+[
+ {
+  "id": "C-01-a",
+  "unit": "C",
+  "no": "01",
+  "jp": "誕生日に彼女に何を買ってあげたの？",
+  "answers": [
+   "What did you buy her for her birthday?"
+  ],
+  "audio": "audio/C/C-01-a-.mp3",
+  "section": {
+   "title": "第4 文型（S V O' O）の基本",
+   "body": "他動詞の中には後ろに（代）名詞を２つ置いて 「他動詞＋名詞（O'）＋名詞（O）」 の形で 「O'にOを…する」 という意味にできるものがある。この場合のO'を 「間接目的語」，O を 「直接目的語」 と呼び，「主語＋他動詞＋間接目的語（O'）＋直接目的語（O）」 の文を 「第４文型」 と呼ぶ。間接目的語（O'）には主として（ A ）格の代名詞や名詞を置き，直接目的語（O）には（ B ）もしくは（ B ）に相当する語句や節を置く。"
+  },
+  "tags": [
+   "下線部の動詞の間接目的語（O'）と直接目的語（O）を指摘"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "What did you buy her for her birthday?",
+  "secTitle": "第4 文型（S V O' O）の基本"
+ },
+ {
+  "id": "C-01-b",
+  "unit": "C",
+  "no": "01",
+  "jp": "それの記入方法を私に教えていただけますか？",
+  "answers": [
+   "Could you show me how to fill it in?"
+  ],
+  "audio": "audio/C/C-01-b-.mp3",
+  "tags": [
+   "下線部の動詞の間接目的語（O'）と直接目的語（O）を指摘"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Could you show me how to fill it in?",
+  "secTitle": "第4 文型（S V O' O）の基本"
+ },
+ {
+  "id": "C-01-c",
+  "unit": "C",
+  "no": "01",
+  "jp": "暗くなる前に帰宅すると約束しなさい。",
+  "answers": [
+   "Promise me you'll be home before dark."
+  ],
+  "audio": "audio/C/C-01-c-.mp3",
+  "tags": [
+   "下線部の動詞の間接目的語（O'）と直接目的語（O）を指摘"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Promise me you'll be home before dark.",
+  "secTitle": "第4 文型（S V O' O）の基本"
+ },
+ {
+  "id": "C-01-d",
+  "unit": "C",
+  "no": "01",
+  "jp": "あなたがそれを気に入っているか否かを私に教えてくれますか？",
+  "answers": [
+   "Can you tell me if you like it or not?"
+  ],
+  "audio": "audio/C/C-01-d-.mp3",
+  "tags": [
+   "下線部の動詞の間接目的語（O'）と直接目的語（O）を指摘"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Can you tell me if you like it or not?",
+  "secTitle": "第4 文型（S V O' O）の基本"
+ },
+ {
+  "id": "C-01-e",
+  "unit": "C",
+  "no": "01",
+  "jp": "何をしているの？ と彼は私に尋ねた。",
+  "answers": [
+   "\"What are you doing?\" he asked me."
+  ],
+  "audio": "audio/C/C-01-e-.mp3",
+  "tags": [
+   "下線部の動詞の間接目的語（O'）と直接目的語（O）を指摘"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "\"What are you doing?\" he asked me.",
+  "secTitle": "第4 文型（S V O' O）の基本"
+ },
+ {
+  "id": "C-02",
+  "unit": "C",
+  "no": "02",
+  "jp": "医者はルーシーに喫煙を続けることの危険性を説明した。",
+  "answers": [
+   "The doctor explained to Lucy the risks of continuing to smoke."
+  ],
+  "audio": "audio/C/C-02-.mp3",
+  "tags": [
+   "間違いがあれば訂正"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "The doctor explained Lucy the risks of continuing to smoke.",
+  "secTitle": "第4 文型（S V O' O）の基本"
+ },
+ {
+  "id": "C-03",
+  "unit": "C",
+  "no": "03",
+  "jp": "私は妹に500ドル借りています。",
+  "answers": [
+   "I owe my sister 500 dollars."
+  ],
+  "audio": "audio/C/C-03-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I borrow my sister 500 dollars.",
+  "secTitle": "第4 文型（S V O' O）の基本"
+ },
+ {
+  "id": "C-04",
+  "unit": "C",
+  "no": "04",
+  "jp": "彼女は上品に微笑んで，私にそれを手渡した。",
+  "answers": [
+   "She smiled politely as she handed it to me."
+  ],
+  "audio": "audio/C/C-04-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "She smiled politely as she handed me it.",
+  "secTitle": "第4 文型（S V O' O）の基本"
+ },
+ {
+  "id": "C-05",
+  "unit": "C",
+  "no": "05",
+  "jp": "君にこれをあげるから，僕にそれをくれよ。",
+  "answers": [
+   "I'll give you this and you give me that."
+  ],
+  "audio": "audio/C/C-05-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I'll give you this and you give me that.",
+  "secTitle": "第4 文型（S V O' O）の基本"
+ },
+ {
+  "id": "C-06-a",
+  "unit": "C",
+  "no": "06",
+  "jp": "休暇中私はジャネットに葉書を書いた。",
+  "answers": [
+   "When I was on vacation, I wrote Janet a postcard."
+  ],
+  "audio": "audio/C/C-06-a-.mp3",
+  "section": {
+   "title": "第4 文型（S V O' O）で用いる動詞",
+   "body": "一般に，第４文型（SVO'O）は，間接目的語（O'）と直接目的語（O）の順序を入れ替えて 「他動詞＋直接目的語（O）＋前置詞＋間接目的語（O'）」 という第３文型で表すことができる。この場合，give のように前置詞に（ A ）を用いる動詞と，buy のように前置詞に（ B ）を用いる動詞があるが，cost のように前置詞を用いて（目的語の順序を入れ替えて）第３文型にすることはできない動詞もある。"
+  },
+  "tags": [
+   "２つの文がほぼ同じ意味になるように適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "When I was on vacation, I wrote Janet a postcard.",
+  "secTitle": "第4 文型（S V O' O）で用いる動詞"
+ },
+ {
+  "id": "C-06-b",
+  "unit": "C",
+  "no": "06",
+  "jp": "休暇中私は葉書をジャネットに書いた。",
+  "answers": [
+   "When I was on vacation, I wrote a postcard to Janet."
+  ],
+  "audio": "audio/C/C-06-b-.mp3",
+  "tags": [
+   "２つの文がほぼ同じ意味になるように適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "When I was on vacation, I wrote a postcard "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " Janet."
+   }
+  ],
+  "solutions": [
+   [
+    "to"
+   ]
+  ],
+  "secTitle": "第4 文型（S V O' O）で用いる動詞"
+ },
+ {
+  "id": "C-07-a",
+  "unit": "C",
+  "no": "07",
+  "jp": "私は客達にコーヒーを入れた。",
+  "answers": [
+   "I made my guests some coffee."
+  ],
+  "audio": "audio/C/C-07-a-.mp3",
+  "tags": [
+   "２つの文がほぼ同じ意味になるように適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I made my guests some coffee.",
+  "secTitle": "第4 文型（S V O' O）で用いる動詞"
+ },
+ {
+  "id": "C-07-b",
+  "unit": "C",
+  "no": "07",
+  "jp": "私はコーヒーを客達に入れた。",
+  "answers": [
+   "I made some coffee for my guests."
+  ],
+  "audio": "audio/C/C-07-b-.mp3",
+  "tags": [
+   "２つの文がほぼ同じ意味になるように適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I made some coffee "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " my guests."
+   }
+  ],
+  "solutions": [
+   [
+    "for"
+   ]
+  ],
+  "secTitle": "第4 文型（S V O' O）で用いる動詞"
+ },
+ {
+  "id": "C-08-a",
+  "unit": "C",
+  "no": "08",
+  "jp": "彼は妻に自分の全財産を残した。",
+  "answers": [
+   "He left his wife all his property."
+  ],
+  "audio": "audio/C/C-08-a-.mp3",
+  "tags": [
+   "２つの文のニュアンスの違いを考える"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "He left his wife all his property.",
+  "secTitle": "第4 文型（S V O' O）で用いる動詞"
+ },
+ {
+  "id": "C-08-b",
+  "unit": "C",
+  "no": "08",
+  "jp": "彼は自分の全財産を妻に残した。",
+  "answers": [
+   "He left all his property to his wife."
+  ],
+  "audio": "audio/C/C-08-b-.mp3",
+  "tags": [
+   "２つの文のニュアンスの違いを考える"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "He left all his property to his wife.",
+  "secTitle": "第4 文型（S V O' O）で用いる動詞"
+ },
+ {
+  "id": "C-09",
+  "unit": "C",
+  "no": "09",
+  "jp": "その新事業は納税者に38億ポンドの負担を強いることになる。",
+  "answers": [
+   "The new project will cost taxpayers 3.8 billion pounds."
+  ],
+  "audio": "audio/C/C-09-.mp3",
+  "tags": [
+   "適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The new project will "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " taxpayers 3.8 billion pounds."
+   }
+  ],
+  "solutions": [
+   [
+    "cost"
+   ]
+  ],
+  "secTitle": "第4 文型（S V O' O）で用いる動詞"
+ },
+ {
+  "id": "C-10-a",
+  "unit": "C",
+  "no": "10",
+  "jp": "おい，冷蔵庫に行くんだったらもう一本ビールを持ってきてくれ。",
+  "answers": [
+   "Hey, if you're going to the fridge, get me another beer."
+  ],
+  "audio": "audio/C/C-10-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Hey, if you're going to the fridge, "
+   },
+   {
+    "t": "blank",
+    "hint": "g"
+   },
+   {
+    "t": "text",
+    "v": " me another beer."
+   }
+  ],
+  "solutions": [
+   [
+    "get"
+   ]
+  ],
+  "secTitle": "第4 文型（S V O' O）で用いる動詞"
+ },
+ {
+  "id": "C-10-b",
+  "unit": "C",
+  "no": "10",
+  "jp": "とにかくそれをやってみてどうなるか見てみたら？",
+  "answers": [
+   "Why don't you give it a try and see what happens?"
+  ],
+  "audio": "audio/C/C-10-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Why don't you "
+   },
+   {
+    "t": "blank",
+    "hint": "g"
+   },
+   {
+    "t": "text",
+    "v": " it a try and see what happens?"
+   }
+  ],
+  "solutions": [
+   [
+    "give"
+   ]
+  ],
+  "secTitle": "第4 文型（S V O' O）で用いる動詞"
+ },
+ {
+  "id": "C-10-c",
+  "unit": "C",
+  "no": "10",
+  "jp": "お腹が減っていたので母さんに夜食を作ってと頼んだ。",
+  "answers": [
+   "I was hungry and asked my mom to cook me supper."
+  ],
+  "audio": "audio/C/C-10-c-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I was hungry and asked my mom to "
+   },
+   {
+    "t": "blank",
+    "hint": "c"
+   },
+   {
+    "t": "text",
+    "v": " me supper."
+   }
+  ],
+  "solutions": [
+   [
+    "cook"
+   ]
+  ],
+  "secTitle": "第4 文型（S V O' O）で用いる動詞"
+ },
+ {
+  "id": "C-10-d",
+  "unit": "C",
+  "no": "10",
+  "jp": "その使い方を覚えるのに私は３時間かかった。",
+  "answers": [
+   "It took me three hours to learn how to use it."
+  ],
+  "audio": "audio/C/C-10-d-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It "
+   },
+   {
+    "t": "blank",
+    "hint": "t"
+   },
+   {
+    "t": "text",
+    "v": " me three hours to learn how to use it."
+   }
+  ],
+  "solutions": [
+   [
+    "took"
+   ]
+  ],
+  "secTitle": "第4 文型（S V O' O）で用いる動詞"
+ },
+ {
+  "id": "C-10-e",
+  "unit": "C",
+  "no": "10",
+  "jp": "手伝ってくれてありがとう。おかげですごく手間が省けたよ。",
+  "answers": [
+   "Thank you for your help―it saved me a lot of work."
+  ],
+  "audio": "audio/C/C-10-e-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Thank you for your help―it "
+   },
+   {
+    "t": "blank",
+    "hint": "s"
+   },
+   {
+    "t": "text",
+    "v": " me a lot of work."
+   }
+  ],
+  "solutions": [
+   [
+    "saved"
+   ]
+  ],
+  "secTitle": "第4 文型（S V O' O）で用いる動詞"
+ },
+ {
+  "id": "C-10-f",
+  "unit": "C",
+  "no": "10",
+  "jp": "仕事の面接がうまくいくことを祈っています。",
+  "answers": [
+   "I wish you good luck with your job interview."
+  ],
+  "audio": "audio/C/C-10-f-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "blank",
+    "hint": "w"
+   },
+   {
+    "t": "text",
+    "v": " you good luck with your job interview."
+   }
+  ],
+  "solutions": [
+   [
+    "wish"
+   ]
+  ],
+  "secTitle": "第4 文型（S V O' O）で用いる動詞"
+ },
+ {
+  "id": "C-10-g",
+  "unit": "C",
+  "no": "10",
+  "jp": "クラブは彼にコーチの仕事を申し出たが，彼はそれを断った。",
+  "answers": [
+   "The club offered him a coaching job, but he turned it down."
+  ],
+  "audio": "audio/C/C-10-g-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The club "
+   },
+   {
+    "t": "blank",
+    "hint": "o"
+   },
+   {
+    "t": "text",
+    "v": " him a coaching job, but he turned it down."
+   }
+  ],
+  "solutions": [
+   [
+    "offered"
+   ]
+  ],
+  "secTitle": "第4 文型（S V O' O）で用いる動詞"
+ },
+ {
+  "id": "C-10-h",
+  "unit": "C",
+  "no": "10",
+  "jp": "頼むからこのことは誰にも言わないでね。",
+  "answers": [
+   "Do me a favor and don't tell anyone about this, okay?"
+  ],
+  "audio": "audio/C/C-10-h-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank",
+    "hint": "D"
+   },
+   {
+    "t": "text",
+    "v": " me a favor and don't tell anyone about this, okay?"
+   }
+  ],
+  "solutions": [
+   [
+    "Do"
+   ]
+  ],
+  "secTitle": "第4 文型（S V O' O）で用いる動詞"
+ },
+ {
+  "id": "C-11-a",
+  "unit": "C",
+  "no": "11",
+  "jp": "君によいアルバイトを見つけてあげるよ。",
+  "answers": [
+   "I'll find you a good part-time job."
+  ],
+  "audio": "audio/C/C-11-a-.mp3",
+  "section": {
+   "title": "第５ 文型（SVOC）の基本",
+   "body": "他動詞の中には，keep it a secret や make you smile のように，後ろに２つの要素をとり，その間に 「主語と述語」 の関係が成立するものがある。この場合，１番目の要素を目的語（O），２番目の要素を補語（C）と呼び，「主語＋他動詞＋目的語（O）＋補語（C）」 の文を 「第５文型」 と呼ぶ。目的語には主として名詞や（ A ）格の代名詞が置かれ，補語には（ B ），名詞，現在分詞，過去分詞，to不定詞や（ C ）が置かれる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I'll find you a good part-time job.",
+  "secTitle": "第５ 文型（SVOC）の基本"
+ },
+ {
+  "id": "C-11-b",
+  "unit": "C",
+  "no": "11",
+  "jp": "今度の新しい仕事はとてもやりがいがあっておもしろい。",
+  "answers": [
+   "I find my new job very rewarding and interesting."
+  ],
+  "audio": "audio/C/C-11-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I find my new job very rewarding and interesting.",
+  "secTitle": "第５ 文型（SVOC）の基本"
+ },
+ {
+  "id": "C-11-c",
+  "unit": "C",
+  "no": "11",
+  "jp": "目が覚めてみるとベッドのすぐ脇の床の上で寝ていた。",
+  "answers": [
+   "I woke up and found myself lying on the floor beside the bed."
+  ],
+  "audio": "audio/C/C-11-c-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I woke up and found myself lying on the floor beside the bed.",
+  "secTitle": "第５ 文型（SVOC）の基本"
+ },
+ {
+  "id": "C-12",
+  "unit": "C",
+  "no": "12",
+  "jp": "人々は青年期を自由で楽しい時期だと考える。",
+  "answers": [
+   "People consider youth a time of freedom and joy."
+  ],
+  "audio": "audio/C/C-12-.mp3",
+  "tags": [
+   "適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "People "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " youth a time of freedom and joy."
+   }
+  ],
+  "solutions": [
+   [
+    "consider"
+   ]
+  ],
+  "secTitle": "第５ 文型（SVOC）の基本"
+ },
+ {
+  "id": "C-13-a",
+  "unit": "C",
+  "no": "13",
+  "jp": "私達はその猫をPatricia と名付けたが，短くしてPat と呼んでいる。",
+  "answers": [
+   "We named the cat Patricia but call her Pat for short."
+  ],
+  "audio": "audio/C/C-13-a-.mp3",
+  "tags": [
+   "並べ替え"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We "
+   },
+   {
+    "t": "order",
+    "words": [
+     "call",
+     "named",
+     "Patricia",
+     "the cat",
+     "but"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " her Pat for short."
+   }
+  ],
+  "solutions": [
+   [
+    "named the cat Patricia but call"
+   ]
+  ],
+  "secTitle": "第５ 文型（SVOC）の基本"
+ },
+ {
+  "id": "C-13-b",
+  "unit": "C",
+  "no": "13",
+  "jp": "私達はトム・ブラウンを生徒会の会長に選んだ。",
+  "answers": [
+   "We elected Tom Brown president of the school body."
+  ],
+  "audio": "audio/C/C-13-b-.mp3",
+  "tags": [
+   "並べ替え"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We "
+   },
+   {
+    "t": "order",
+    "words": [
+     "elected",
+     "the",
+     "president",
+     "Tom Brown",
+     "of"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " school body."
+   }
+  ],
+  "solutions": [
+   [
+    "elected Tom Brown president of the"
+   ]
+  ],
+  "secTitle": "第５ 文型（SVOC）の基本"
+ },
+ {
+  "id": "C-14-a",
+  "unit": "C",
+  "no": "14",
+  "jp": "その映画で彼女はほとんど一夜にしてスターになった。",
+  "answers": [
+   "The film made her a star almost overnight."
+  ],
+  "audio": "audio/C/C-14-a-.mp3",
+  "tags": [
+   "drive, get, make, set から適語を選び適当な形にする"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The film "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " her a star almost overnight."
+   }
+  ],
+  "solutions": [
+   [
+    "made"
+   ]
+  ],
+  "secTitle": "第５ 文型（SVOC）の基本"
+ },
+ {
+  "id": "C-14-b",
+  "unit": "C",
+  "no": "14",
+  "jp": "あの老婦人にはすごく腹が立つ時があります。",
+  "answers": [
+   "That old lady gets me so angry sometimes."
+  ],
+  "audio": "audio/C/C-14-b-.mp3",
+  "tags": [
+   "drive, get, make, set から適語を選び適当な形にする"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "That old lady "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " me so angry sometimes."
+   }
+  ],
+  "solutions": [
+   [
+    "gets"
+   ]
+  ],
+  "secTitle": "第５ 文型（SVOC）の基本"
+ },
+ {
+  "id": "C-14-c",
+  "unit": "C",
+  "no": "14",
+  "jp": "あの騒音で頭がおかしくなりそうだ。",
+  "answers": [
+   "That noise is driving me crazy!"
+  ],
+  "audio": "audio/C/C-14-c-.mp3",
+  "tags": [
+   "drive, get, make, set から適語を選び適当な形にする"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "That noise is "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " me crazy!"
+   }
+  ],
+  "solutions": [
+   [
+    "driving"
+   ]
+  ],
+  "secTitle": "第５ 文型（SVOC）の基本"
+ },
+ {
+  "id": "C-14-d",
+  "unit": "C",
+  "no": "14",
+  "jp": "もう少しで台所が火事になるところだったじゃないの！",
+  "answers": [
+   "You nearly set the kitchen on fire!"
+  ],
+  "audio": "audio/C/C-14-d-.mp3",
+  "tags": [
+   "drive, get, make, set から適語を選び適当な形にする"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "You nearly "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the kitchen on fire!"
+   }
+  ],
+  "solutions": [
+   [
+    "set"
+   ]
+  ],
+  "secTitle": "第５ 文型（SVOC）の基本"
+ },
+ {
+  "id": "C-15",
+  "unit": "C",
+  "no": "15",
+  "jp": "ドイツ語はあまりうまくないけど，自分の意思を伝えることはできます。",
+  "answers": [
+   "I'm not very good at German, but I can make myself understood."
+  ],
+  "audio": "audio/C/C-15-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'm not very good at German, but I can "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " myself "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "make",
+    "understood"
+   ]
+  ],
+  "secTitle": "第５ 文型（SVOC）の基本"
+ },
+ {
+  "id": "C-16-a",
+  "unit": "C",
+  "no": "16",
+  "jp": "なぜ塀を黄色に塗ったのですか？",
+  "answers": [
+   "Why did you paint the fence yellow?"
+  ],
+  "audio": "audio/C/C-16-a-.mp3",
+  "tags": [
+   "各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Why did you paint the fence yellow?",
+  "secTitle": "第５ 文型（SVOC）の基本"
+ },
+ {
+  "id": "C-16-b",
+  "unit": "C",
+  "no": "16",
+  "jp": "彼女は16 の時に髪をピンク色に染めた。",
+  "answers": [
+   "She dyed her hair pink when she was 16."
+  ],
+  "audio": "audio/C/C-16-b-.mp3",
+  "tags": [
+   "各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "She dyed her hair pink when she was 16.",
+  "secTitle": "第５ 文型（SVOC）の基本"
+ },
+ {
+  "id": "C-17-a",
+  "unit": "C",
+  "no": "17",
+  "jp": "彼は意図的にドアを開けたままにしていた。",
+  "answers": [
+   "He kept the door open."
+  ],
+  "audio": "audio/C/C-17-a-.mp3",
+  "tags": [
+   "下線部に注意し各文のニュアンスの違いを指摘"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "He kept the door open.",
+  "secTitle": "第５ 文型（SVOC）の基本"
+ },
+ {
+  "id": "C-17-b",
+  "unit": "C",
+  "no": "17",
+  "jp": "彼はドアを（閉めるのを忘れて）開けっ放しにした。",
+  "answers": [
+   "He left the door open."
+  ],
+  "audio": "audio/C/C-17-b-.mp3",
+  "tags": [
+   "下線部に注意し各文のニュアンスの違いを指摘"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "He left the door open.",
+  "secTitle": "第５ 文型（SVOC）の基本"
+ },
+ {
+  "id": "C-17-c",
+  "unit": "C",
+  "no": "17",
+  "jp": "彼はドアが閉まらないようにじっと押さえていた。",
+  "answers": [
+   "He held the door open."
+  ],
+  "audio": "audio/C/C-17-c-.mp3",
+  "tags": [
+   "下線部に注意し各文のニュアンスの違いを指摘"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "He held the door open.",
+  "secTitle": "第５ 文型（SVOC）の基本"
+ },
+ {
+  "id": "C-18",
+  "unit": "C",
+  "no": "18",
+  "jp": "私はたいてい玄関の戸は閉めていたが，裏の戸は開けっ放しにしていた。",
+  "answers": [
+   "I usually kept the front door closed, but left the back door open.",
+   "I usually kept the front door shut, but left the back door open."
+  ],
+  "audio": "audio/C/C-18-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I usually "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the front door "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": ", but "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the back door open."
+   }
+  ],
+  "solutions": [
+   [
+    "kept",
+    "closed",
+    "left"
+   ],
+   [
+    "kept",
+    "shut",
+    "left"
+   ]
+  ],
+  "secTitle": "第５ 文型（SVOC）の基本"
+ },
+ {
+  "id": "C-19-a",
+  "unit": "C",
+  "no": "19",
+  "jp": "私どもの所にお泊まり頂きありがとうございました。",
+  "answers": [
+   "It was a pleasure to have you staying with us."
+  ],
+  "audio": "audio/C/C-19-a-.mp3",
+  "tags": [
+   "同じ動詞を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It was a pleasure to "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " you staying with us."
+   }
+  ],
+  "solutions": [
+   [
+    "have"
+   ]
+  ],
+  "secTitle": "第５ 文型（SVOC）の基本"
+ },
+ {
+  "id": "C-19-b",
+  "unit": "C",
+  "no": "19",
+  "jp": "週末に親戚がこちらに来ることになっているのです。",
+  "answers": [
+   "I have relatives coming over this weekend."
+  ],
+  "audio": "audio/C/C-19-b-.mp3",
+  "tags": [
+   "同じ動詞を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " relatives coming over this weekend."
+   }
+  ],
+  "solutions": [
+   [
+    "have"
+   ]
+  ],
+  "secTitle": "第５ 文型（SVOC）の基本"
+ },
+ {
+  "id": "C-20",
+  "unit": "C",
+  "no": "20",
+  "jp": "聖書は私達に，隣人と敵の両方を愛しなさいと言います。",
+  "answers": [
+   "The Bible tells us to love both our neighbors and our enemies."
+  ],
+  "audio": "audio/C/C-20-.mp3",
+  "section": {
+   "title": "第５ 文型 ～ 補語にto不定詞をとる動詞",
+   "body": "tell, ask, want などの動詞は第５文型で用い補語に（ A ）をとることができる。consider やfind も第５文型の補語に（ A ）をとるが， 「（ B ）（ C ）＋形容詞［名詞］」 の場合には （ B ）（ C ） を省略することが多い。　＊ B, C の空欄には英単語が入る。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The Bible tells "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " love both our neighbors and our enemies."
+   }
+  ],
+  "solutions": [
+   [
+    "us",
+    "to"
+   ]
+  ],
+  "secTitle": "第５ 文型 ～ 補語にto不定詞をとる動詞"
+ },
+ {
+  "id": "C-21",
+  "unit": "C",
+  "no": "21",
+  "jp": "医者は彼に長期の静養を取るよう勧めた。",
+  "answers": [
+   "His doctor advised him to take a long rest."
+  ],
+  "audio": "audio/C/C-21-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "His doctor "
+   },
+   {
+    "t": "blank",
+    "hint": "a"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " take a long rest."
+   }
+  ],
+  "solutions": [
+   [
+    "advised",
+    "him",
+    "to"
+   ]
+  ],
+  "secTitle": "第５ 文型 ～ 補語にto不定詞をとる動詞"
+ },
+ {
+  "id": "C-22",
+  "unit": "C",
+  "no": "22",
+  "jp": "彼女から明日電話があると思います。",
+  "answers": [
+   "I expect her to call tomorrow."
+  ],
+  "audio": "audio/C/C-22-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "blank",
+    "hint": "e"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " call tomorrow."
+   }
+  ],
+  "solutions": [
+   [
+    "expect",
+    "her",
+    "to"
+   ]
+  ],
+  "secTitle": "第５ 文型 ～ 補語にto不定詞をとる動詞"
+ },
+ {
+  "id": "C-23",
+  "unit": "C",
+  "no": "23",
+  "jp": "法律により全ての労働者は所得税を納めなければならない。",
+  "answers": [
+   "The law requires all workers to pay income tax."
+  ],
+  "audio": "audio/C/C-23-.mp3",
+  "type": "recall",
+  "secTitle": "第５ 文型 ～ 補語にto不定詞をとる動詞"
+ },
+ {
+  "id": "C-24-a",
+  "unit": "C",
+  "no": "24",
+  "jp": "駅まであなたを車で迎えに行きましょうか？",
+  "answers": [
+   "Shall I pick you up at the station?"
+  ],
+  "audio": "audio/C/C-24-a-.mp3",
+  "tags": [
+   "２つの文がほぼ同じ意味になるように適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Shall I pick you up at the station?",
+  "secTitle": "第５ 文型 ～ 補語にto不定詞をとる動詞"
+ },
+ {
+  "id": "C-24-b",
+  "unit": "C",
+  "no": "24",
+  "jp": "駅まであなたを車で迎えに行きましょうか？",
+  "answers": [
+   "Do you want me to pick you up at the station?",
+   "Would you like me to pick you up at the station?"
+  ],
+  "audio": "audio/C/C-24-b-.mp3",
+  "tags": [
+   "２つの文がほぼ同じ意味になるように適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " you "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to pick you up at the station?"
+   }
+  ],
+  "solutions": [
+   [
+    "Do",
+    "want",
+    "me"
+   ],
+   [
+    "Would",
+    "like",
+    "me"
+   ]
+  ],
+  "secTitle": "第５ 文型 ～ 補語にto不定詞をとる動詞"
+ },
+ {
+  "id": "C-25-a",
+  "unit": "C",
+  "no": "25",
+  "jp": "それをできるだけ早くやってほしい。",
+  "answers": [
+   "I want it done as soon as possible."
+  ],
+  "audio": "audio/C/C-25-a-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I want it done as soon as possible.",
+  "secTitle": "第５ 文型 ～ 補語にto不定詞をとる動詞"
+ },
+ {
+  "id": "C-25-b",
+  "unit": "C",
+  "no": "25",
+  "jp": "（私の）コーヒーは熱いのにしてください。",
+  "answers": [
+   "I want my coffee hot, please."
+  ],
+  "audio": "audio/C/C-25-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I want my coffee hot, please.",
+  "secTitle": "第５ 文型 ～ 補語にto不定詞をとる動詞"
+ },
+ {
+  "id": "C-26",
+  "unit": "C",
+  "no": "26",
+  "jp": "何でまたそんなに急に考えが変わったのですか？",
+  "answers": [
+   "What has caused you to change your mind so suddenly?"
+  ],
+  "audio": "audio/C/C-26-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "What has "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " you to change your mind so suddenly?"
+   }
+  ],
+  "solutions": [
+   [
+    "caused"
+   ]
+  ],
+  "secTitle": "第５ 文型 ～ 補語にto不定詞をとる動詞"
+ },
+ {
+  "id": "C-27",
+  "unit": "C",
+  "no": "27",
+  "jp": "ちょっと手伝ってほしいんだけど。いいけど，何を手伝うの？",
+  "answers": [
+   "\"I need you to help me.\" \"Sure. Help you with what?\""
+  ],
+  "audio": "audio/C/C-27-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"I need "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " help me.\" \"Sure. Help you with what?\""
+   }
+  ],
+  "solutions": [
+   [
+    "you",
+    "to"
+   ]
+  ],
+  "secTitle": "第５ 文型 ～ 補語にto不定詞をとる動詞"
+ },
+ {
+  "id": "C-28",
+  "unit": "C",
+  "no": "28",
+  "jp": "そのローンで私達は最初のマイホームを買うことができた。",
+  "answers": [
+   "The loan enabled us to buy our first home.",
+   "The loan allowed us to buy our first home."
+  ],
+  "audio": "audio/C/C-28-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The loan "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " us "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " buy our first home."
+   }
+  ],
+  "solutions": [
+   [
+    "enabled",
+    "to"
+   ],
+   [
+    "allowed",
+    "to"
+   ]
+  ],
+  "secTitle": "第５ 文型 ～ 補語にto不定詞をとる動詞"
+ },
+ {
+  "id": "C-29",
+  "unit": "C",
+  "no": "29",
+  "jp": "たぶん，彼女は君のことをただの友達だと見なしているのだろう。",
+  "answers": [
+   "My guess is that she considers you to be just a friend.",
+   "My guess is that she considers you just a friend."
+  ],
+  "audio": "audio/C/C-29-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "My guess is that she considers you "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " just a friend."
+   }
+  ],
+  "solutions": [
+   [
+    "to",
+    "be"
+   ]
+  ],
+  "secTitle": "第５ 文型 ～ 補語にto不定詞をとる動詞"
+ },
+ {
+  "id": "C-30",
+  "unit": "C",
+  "no": "30",
+  "jp": "進んでやらないのなら，無理やりにでもやらせるよ。",
+  "answers": [
+   "If you won't do it willingly, I'll make you do it."
+  ],
+  "audio": "audio/C/C-30-.mp3",
+  "section": {
+   "title": "第５ 文型 ～ 補語に動詞の原形をとる動詞",
+   "body": "make, have, let などの使役動詞（「人に…させる・してもらう」 という意味の動詞）やsee, hear, watch, feel などの知覚動詞（「見る・聞く・感じる」という意味の動詞）は第５文型で用いることができ，補語に（ A ）をとることができる。補語に（ A ）をとれる動詞には他にhelp などがある。"
+  },
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "If you won't do it willingly, I'll "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "make",
+     "have",
+     "let"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " you do it."
+   }
+  ],
+  "solutions": [
+   [
+    "make"
+   ]
+  ],
+  "secTitle": "第５ 文型 ～ 補語に動詞の原形をとる動詞"
+ },
+ {
+  "id": "C-31",
+  "unit": "C",
+  "no": "31",
+  "jp": "親に宿題をやってもらうなんてずるいぞ。",
+  "answers": [
+   "It's not fair to have your parents do your homework."
+  ],
+  "audio": "audio/C/C-31-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It's not fair to "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "make",
+     "have",
+     "let"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " your parents do your homework."
+   }
+  ],
+  "solutions": [
+   [
+    "have"
+   ]
+  ],
+  "secTitle": "第５ 文型 ～ 補語に動詞の原形をとる動詞"
+ },
+ {
+  "id": "C-32",
+  "unit": "C",
+  "no": "32",
+  "jp": "夜更かししていいのは今回だけですからね。",
+  "answers": [
+   "I'm letting you stay up late, just this once."
+  ],
+  "audio": "audio/C/C-32-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'm "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "making",
+     "having",
+     "letting"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " you stay up late, just this once."
+   }
+  ],
+  "solutions": [
+   [
+    "letting"
+   ]
+  ],
+  "secTitle": "第５ 文型 ～ 補語に動詞の原形をとる動詞"
+ },
+ {
+  "id": "C-33",
+  "unit": "C",
+  "no": "33",
+  "jp": "彼にそのことについてしゃべらせようとしたが，彼は話をそらし続けた。",
+  "answers": [
+   "I tried to get him to talk about it, but he kept changing the subject."
+  ],
+  "audio": "audio/C/C-33-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I tried to "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "make",
+     "let",
+     "get"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " him to talk about it, but he kept changing the subject."
+   }
+  ],
+  "solutions": [
+   [
+    "get"
+   ]
+  ],
+  "secTitle": "第５ 文型 ～ 補語に動詞の原形をとる動詞"
+ },
+ {
+  "id": "C-34",
+  "unit": "C",
+  "no": "34",
+  "jp": "彼女が宝石店で万引きするところを見た人がいるんだよ。",
+  "answers": [
+   "Someone saw her steal in a jewelry shop."
+  ],
+  "audio": "audio/C/C-34-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Someone "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " steal in a jewelry shop."
+   }
+  ],
+  "solutions": [
+   [
+    "saw",
+    "her"
+   ]
+  ],
+  "secTitle": "第５ 文型 ～ 補語に動詞の原形をとる動詞"
+ },
+ {
+  "id": "C-35",
+  "unit": "C",
+  "no": "35",
+  "jp": "私は彼が自分の趣味や夢などを話すのを聞くのが好きです。",
+  "answers": [
+   "I like hearing him talk about his hobbies, dreams, and so on."
+  ],
+  "audio": "audio/C/C-35-.mp3",
+  "tags": [
+   "並べ替え"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I like "
+   },
+   {
+    "t": "order",
+    "words": [
+     "talk",
+     "him",
+     "hearing"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " about his hobbies, dreams, and so on."
+   }
+  ],
+  "solutions": [
+   [
+    "hearing him talk"
+   ]
+  ],
+  "secTitle": "第５ 文型 ～ 補語に動詞の原形をとる動詞"
+ },
+ {
+  "id": "C-36",
+  "unit": "C",
+  "no": "36",
+  "jp": "彼はすごくいい声をしているんだ。彼が歌うのを聞いてみるといいよ。",
+  "answers": [
+   "He has a great voice―you should hear him sing."
+  ],
+  "audio": "audio/C/C-36-.mp3",
+  "type": "recall",
+  "secTitle": "第５ 文型 ～ 補語に動詞の原形をとる動詞"
+ },
+ {
+  "id": "C-37",
+  "unit": "C",
+  "no": "37",
+  "jp": "リラックスできるので，私はヨガが大好きです。",
+  "answers": [
+   "I like yoga because it helps me relax."
+  ],
+  "audio": "audio/C/C-37-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I like yoga because it "
+   },
+   {
+    "t": "blank",
+    "hint": "h"
+   },
+   {
+    "t": "text",
+    "v": " me relax."
+   }
+  ],
+  "solutions": [
+   [
+    "helps"
+   ]
+  ],
+  "secTitle": "第５ 文型 ～ 補語に動詞の原形をとる動詞"
+ },
+ {
+  "id": "C-38",
+  "unit": "C",
+  "no": "38",
+  "jp": "久しぶりにピザの宅配を頼んだ。",
+  "answers": [
+   "For the first time in a long while, we had pizza delivered to our house."
+  ],
+  "audio": "audio/C/C-38-.mp3",
+  "section": {
+   "title": "第５文型 ～ 使役動詞と知覚動詞の詳細",
+   "body": "使役動詞のhave とget の補語を「…される」という意味にするには（ A ）を用いる。知覚動詞の補語を 「…する」 という意味にするには（ B ）を用いるが，「…している」なら（ C ）を，「…される」 なら（ A ）を，「…されている」 なら（ D ）を用いる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "For the first time in a long while, we "
+   },
+   {
+    "t": "order",
+    "words": [
+     "had",
+     "delivered",
+     "to",
+     "pizza"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " our house."
+   }
+  ],
+  "solutions": [
+   [
+    "had pizza delivered to"
+   ]
+  ],
+  "secTitle": "第５文型 ～ 使役動詞と知覚動詞の詳細"
+ },
+ {
+  "id": "C-39",
+  "unit": "C",
+  "no": "39",
+  "jp": "昨日私は病院で胃の検査をしました。",
+  "answers": [
+   "I had my stomach examined at the hospital yesterday."
+  ],
+  "audio": "audio/C/C-39-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I examined my stomach at the hospital yesterday.",
+  "secTitle": "第５文型 ～ 使役動詞と知覚動詞の詳細"
+ },
+ {
+  "id": "C-40",
+  "unit": "C",
+  "no": "40",
+  "jp": "松井選手，すみませんが，一緒に写真を撮ってもらっていいですか？",
+  "answers": [
+   "Mr. Matsui, could I please have a picture taken with you?"
+  ],
+  "audio": "audio/C/C-40-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Mr. Matsui, could you please take a picture with me?",
+  "secTitle": "第５文型 ～ 使役動詞と知覚動詞の詳細"
+ },
+ {
+  "id": "C-41",
+  "unit": "C",
+  "no": "41",
+  "jp": "この仕事は火曜日までに仕上げる必要があります。",
+  "answers": [
+   "We need to get this work finished by Tuesday."
+  ],
+  "audio": "audio/C/C-41-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We need to "
+   },
+   {
+    "t": "order",
+    "words": [
+     "get",
+     "finished",
+     "this work"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " by Tuesday."
+   }
+  ],
+  "solutions": [
+   [
+    "get this work finished"
+   ]
+  ],
+  "secTitle": "第５文型 ～ 使役動詞と知覚動詞の詳細"
+ },
+ {
+  "id": "C-42",
+  "unit": "C",
+  "no": "42",
+  "jp": "彼女は決して自分の年齢を明かさないようにしていた。",
+  "answers": [
+   "She would never let her age be known."
+  ],
+  "audio": "audio/C/C-42-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "She would never let her age be known.",
+  "secTitle": "第５文型 ～ 使役動詞と知覚動詞の詳細"
+ },
+ {
+  "id": "C-43",
+  "unit": "C",
+  "no": "43",
+  "jp": "パパ，今から逆立ちするから見て！",
+  "answers": [
+   "Dad, watch me do a handstand."
+  ],
+  "audio": "audio/C/C-43-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Dad, watch me "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "do",
+     "to do",
+     "doing"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " a handstand."
+   }
+  ],
+  "solutions": [
+   [
+    "do"
+   ]
+  ],
+  "secTitle": "第５文型 ～ 使役動詞と知覚動詞の詳細"
+ },
+ {
+  "id": "C-44-a",
+  "unit": "C",
+  "no": "44",
+  "jp": "誰かが私の名前を（１度）呼ぶのが聞こえた。",
+  "answers": [
+   "I heard someone call my name."
+  ],
+  "audio": "audio/C/C-44-a-.mp3",
+  "tags": [
+   "下線部に注意しニュアンスの違いを指摘"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I heard someone call my name.",
+  "secTitle": "第５文型 ～ 使役動詞と知覚動詞の詳細"
+ },
+ {
+  "id": "C-44-b",
+  "unit": "C",
+  "no": "44",
+  "jp": "誰かが私の名前を（繰り返し）呼んでいるのが聞こえた。",
+  "answers": [
+   "I heard someone calling my name."
+  ],
+  "audio": "audio/C/C-44-b-.mp3",
+  "tags": [
+   "下線部に注意しニュアンスの違いを指摘"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I heard someone calling my name.",
+  "secTitle": "第５文型 ～ 使役動詞と知覚動詞の詳細"
+ },
+ {
+  "id": "C-45-a",
+  "unit": "C",
+  "no": "45",
+  "jp": "彼があの犬を（１回）蹴るのを見たんだ。",
+  "answers": [
+   "I saw him kick that dog!"
+  ],
+  "audio": "audio/C/C-45-a-.mp3",
+  "tags": [
+   "下線部に注意しニュアンスの違いを指摘"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I saw him kick that dog!",
+  "secTitle": "第５文型 ～ 使役動詞と知覚動詞の詳細"
+ },
+ {
+  "id": "C-45-b",
+  "unit": "C",
+  "no": "45",
+  "jp": "彼があの犬を（繰り返し）蹴っているところを見たんだ。",
+  "answers": [
+   "I saw him kicking that dog!"
+  ],
+  "audio": "audio/C/C-45-b-.mp3",
+  "tags": [
+   "下線部に注意しニュアンスの違いを指摘"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I saw him kicking that dog!",
+  "secTitle": "第５文型 ～ 使役動詞と知覚動詞の詳細"
+ },
+ {
+  "id": "C-46",
+  "unit": "C",
+  "no": "46",
+  "jp": "（その瞬間）私は自分の体が空中に投げ出されるのを感じた。",
+  "answers": [
+   "I felt myself thrown into the air."
+  ],
+  "audio": "audio/C/C-46-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I felt myself "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "throw",
+     "thrown",
+     "be thrown"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " into the air."
+   }
+  ],
+  "solutions": [
+   [
+    "thrown"
+   ]
+  ],
+  "secTitle": "第５文型 ～ 使役動詞と知覚動詞の詳細"
+ },
+ {
+  "id": "C-47",
+  "unit": "C",
+  "no": "47",
+  "jp": "川沿いに何本かの橋が建設されているのを見た。",
+  "answers": [
+   "I saw some new bridges being built along the river."
+  ],
+  "audio": "audio/C/C-47-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I saw some new bridges built along the river.",
+  "secTitle": "第５文型 ～ 使役動詞と知覚動詞の詳細"
+ },
+ {
+  "id": "C-48",
+  "unit": "C",
+  "no": "48",
+  "jp": "父はよく，私とボーイフレンドとの電話の会話に聞き耳を立てていた。",
+  "answers": [
+   "My father often listened to me talking with my boyfriend on the phone."
+  ],
+  "audio": "audio/C/C-48-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "My father often "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "heard",
+     "listened to"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " me talking with my boyfriend on the phone."
+   }
+  ],
+  "solutions": [
+   [
+    "listened to"
+   ]
+  ],
+  "secTitle": "第５文型 ～ 使役動詞と知覚動詞の詳細"
+ },
+ {
+  "id": "C-49",
+  "unit": "C",
+  "no": "49",
+  "jp": "周囲で不審な動きをしている人がいたら，ATM を使わないようにしてください。",
+  "answers": [
+   "Don't use an ATM if you notice anyone behaving suspiciously around it."
+  ],
+  "audio": "audio/C/C-49-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Don't use an ATM if you "
+   },
+   {
+    "t": "blank",
+    "hint": "n"
+   },
+   {
+    "t": "text",
+    "v": " anyone behaving suspiciously around it."
+   }
+  ],
+  "solutions": [
+   [
+    "notice"
+   ]
+  ],
+  "secTitle": "第５文型 ～ 使役動詞と知覚動詞の詳細"
+ },
+ {
+  "id": "C-50",
+  "unit": "C",
+  "no": "50",
+  "jp": "私は息子が部屋でタバコを吸っているところを見つけた。",
+  "answers": [
+   "I caught my son smoking in his room."
+  ],
+  "audio": "audio/C/C-50-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "blank",
+    "hint": "c"
+   },
+   {
+    "t": "text",
+    "v": " my son smoking in his room."
+   }
+  ],
+  "solutions": [
+   [
+    "caught"
+   ]
+  ],
+  "secTitle": "第５文型 ～ 使役動詞と知覚動詞の詳細"
+ }
+]

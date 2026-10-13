@@ -1,0 +1,4336 @@
+[
+ {
+  "id": "Y-01-a",
+  "unit": "Y",
+  "no": "01",
+  "jp": "現在，物価が下がってきている。",
+  "answers": [
+   "Prices are going down at the moment."
+  ],
+  "audio": "audio/Y/Y-01-a-.mp3",
+  "section": {
+   "title": "句動詞とは",
+   "body": "give やmake のような基本動詞に，in やup のような副詞・前置詞が結びついて１つの動詞として働くものを句動詞と呼ぶ。句動詞にはgo away のように「（ A ）＋副詞」 の形になるものや，bring up のように 「（ B ）＋副詞」 の形になるもの，look at のように 「（ A ）＋前置詞」 の形になるものがある。また，take off のように 「自動詞＋副詞」 と 「他動詞＋副詞」 の両方で用いるものもある。"
+  },
+  "tags": [
+   "下線部は 「自動詞＋副詞」「他動詞＋副詞」「自動詞＋前置詞」 のどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Prices are going down at the moment.",
+  "secTitle": "句動詞とは"
+ },
+ {
+  "id": "Y-01-b",
+  "unit": "Y",
+  "no": "01",
+  "jp": "とにかくドアを開けて私を中に入れなさい！",
+  "answers": [
+   "Just open the door and let me in!"
+  ],
+  "audio": "audio/Y/Y-01-b-.mp3",
+  "tags": [
+   "下線部は 「自動詞＋副詞」「他動詞＋副詞」「自動詞＋前置詞」 のどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Just open the door and let me in!",
+  "secTitle": "句動詞とは"
+ },
+ {
+  "id": "Y-01-c",
+  "unit": "Y",
+  "no": "01",
+  "jp": "彼は転んでケガをした。",
+  "answers": [
+   "He fell down and hurt himself."
+  ],
+  "audio": "audio/Y/Y-01-c-.mp3",
+  "tags": [
+   "下線部は 「自動詞＋副詞」「他動詞＋副詞」「自動詞＋前置詞」 のどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "He fell down and hurt himself.",
+  "secTitle": "句動詞とは"
+ },
+ {
+  "id": "Y-01-d",
+  "unit": "Y",
+  "no": "01",
+  "jp": "どうして彼はいつも私をいじめるんだ？",
+  "answers": [
+   "Why does he always have to pick on me?"
+  ],
+  "audio": "audio/Y/Y-01-d-.mp3",
+  "tags": [
+   "下線部は 「自動詞＋副詞」「他動詞＋副詞」「自動詞＋前置詞」 のどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Why does he always have to pick on me?",
+  "secTitle": "句動詞とは"
+ },
+ {
+  "id": "Y-01-e",
+  "unit": "Y",
+  "no": "01",
+  "jp": "彼は素早くコートを着て，外へ駆けだした。",
+  "answers": [
+   "He threw on his coat and dashed outside."
+  ],
+  "audio": "audio/Y/Y-01-e-.mp3",
+  "tags": [
+   "下線部は 「自動詞＋副詞」「他動詞＋副詞」「自動詞＋前置詞」 のどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "He threw on his coat and dashed outside.",
+  "secTitle": "句動詞とは"
+ },
+ {
+  "id": "Y-01-f",
+  "unit": "Y",
+  "no": "01",
+  "jp": "過去に決別して新しい方法を試しなさい。",
+  "answers": [
+   "Break with the past and try new approaches."
+  ],
+  "audio": "audio/Y/Y-01-f-.mp3",
+  "tags": [
+   "下線部は 「自動詞＋副詞」「他動詞＋副詞」「自動詞＋前置詞」 のどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Break with the past and try new approaches.",
+  "secTitle": "句動詞とは"
+ },
+ {
+  "id": "Y-01-g",
+  "unit": "Y",
+  "no": "01",
+  "jp": "今年はフットボールのチケットが手に入りにくい。",
+  "answers": [
+   "Football tickets are hard to come by this year."
+  ],
+  "audio": "audio/Y/Y-01-g-.mp3",
+  "tags": [
+   "下線部は 「自動詞＋副詞」「他動詞＋副詞」「自動詞＋前置詞」 のどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Football tickets are hard to come by this year.",
+  "secTitle": "句動詞とは"
+ },
+ {
+  "id": "Y-02-a",
+  "unit": "Y",
+  "no": "02",
+  "jp": "難民キャンプでコレラが発生した。",
+  "answers": [
+   "Cholera broke out in the refugee camp."
+  ],
+  "audio": "audio/Y/Y-02-a-.mp3",
+  "section": {
+   "title": "「break ＋ 副詞・前置詞」 の句動詞",
+   "body": "break は 「壊す」「壊れる」「破る」 などの意味で他動詞と自動詞の両方で用いる。句動詞を作る場合はdown, in(to), out, up などの副詞や前置詞と結びつく。"
+  },
+  "tags": [
+   "down, in, out, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Cholera broke "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " in the refugee camp."
+   }
+  ],
+  "solutions": [
+   [
+    "out"
+   ]
+  ],
+  "secTitle": "「break ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-02-b",
+  "unit": "Y",
+  "no": "02",
+  "jp": "彼女は最近恋人と別れた。",
+  "answers": [
+   "She broke up with her boyfriend recently."
+  ],
+  "audio": "audio/Y/Y-02-b-.mp3",
+  "tags": [
+   "down, in, out, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She broke "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " with her boyfriend recently."
+   }
+  ],
+  "solutions": [
+   [
+    "up"
+   ]
+  ],
+  "secTitle": "「break ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-02-c",
+  "unit": "Y",
+  "no": "02",
+  "jp": "泥棒は開いた窓から侵入した。",
+  "answers": [
+   "The thief broke in through an open window."
+  ],
+  "audio": "audio/Y/Y-02-c-.mp3",
+  "tags": [
+   "down, in, out, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The thief broke "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " through an open window."
+   }
+  ],
+  "solutions": [
+   [
+    "in"
+   ]
+  ],
+  "secTitle": "「break ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-02-d",
+  "unit": "Y",
+  "no": "02",
+  "jp": "またコピー機が故障してしまった。",
+  "answers": [
+   "The photocopier has broken down again."
+  ],
+  "audio": "audio/Y/Y-02-d-.mp3",
+  "tags": [
+   "down, in, out, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The photocopier has broken "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " again."
+   }
+  ],
+  "solutions": [
+   [
+    "down"
+   ]
+  ],
+  "secTitle": "「break ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-03-a",
+  "unit": "Y",
+  "no": "03",
+  "jp": "彼女は三人の子供を女手一つで育て上げた。",
+  "answers": [
+   "She brought up three children on her own."
+  ],
+  "audio": "audio/Y/Y-03-a-.mp3",
+  "section": {
+   "title": "「bring ＋ 副詞」 の句動詞",
+   "body": "bring は 「持ってくる」「もたらす」 などの意味で他動詞として用いる。句動詞を作る場合はin, out, up, down, about などの副詞と結びつく。"
+  },
+  "tags": [
+   "about, down, out, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She brought "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " three children on her own."
+   }
+  ],
+  "solutions": [
+   [
+    "up"
+   ]
+  ],
+  "secTitle": "「bring ＋ 副詞」 の句動詞"
+ },
+ {
+  "id": "Y-03-b",
+  "unit": "Y",
+  "no": "03",
+  "jp": "もし本当だとすれば，この話は政府を転覆させる可能性がある。",
+  "answers": [
+   "If correct, this story could bring down the government."
+  ],
+  "audio": "audio/Y/Y-03-b-.mp3",
+  "tags": [
+   "about, down, out, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "If correct, this story could bring "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the government."
+   }
+  ],
+  "solutions": [
+   [
+    "down"
+   ]
+  ],
+  "secTitle": "「bring ＋ 副詞」 の句動詞"
+ },
+ {
+  "id": "Y-03-c",
+  "unit": "Y",
+  "no": "03",
+  "jp": "不況が失業の増加をもたらした。",
+  "answers": [
+   "The recession brought about higher unemployment."
+  ],
+  "audio": "audio/Y/Y-03-c-.mp3",
+  "tags": [
+   "about, down, out, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The recession brought "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " higher unemployment."
+   }
+  ],
+  "solutions": [
+   [
+    "about"
+   ]
+  ],
+  "secTitle": "「bring ＋ 副詞」 の句動詞"
+ },
+ {
+  "id": "Y-03-d",
+  "unit": "Y",
+  "no": "03",
+  "jp": "その自動車メーカーは最近スポーツカーを発売した。",
+  "answers": [
+   "The automaker recently brought out a new sports car."
+  ],
+  "audio": "audio/Y/Y-03-d-.mp3",
+  "tags": [
+   "about, down, out, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The automaker recently brought "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " a new sports car."
+   }
+  ],
+  "solutions": [
+   [
+    "out"
+   ]
+  ],
+  "secTitle": "「bring ＋ 副詞」 の句動詞"
+ },
+ {
+  "id": "Y-04-a",
+  "unit": "Y",
+  "no": "04",
+  "jp": "これは忍耐を求められるポストです。",
+  "answers": [
+   "This is a position that calls for patience."
+  ],
+  "audio": "audio/Y/Y-04-a-.mp3",
+  "section": {
+   "title": "「call ＋ 副詞・前置詞」 の句動詞",
+   "body": "call は 「呼ぶ」「電話する」 などの意味で他動詞と自動詞の両方で用いる。句動詞を作る場合はback, for, off, on, up などの副詞や前置詞と結びつく。"
+  },
+  "tags": [
+   "for, off, on, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "This is a position that calls "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " patience."
+   }
+  ],
+  "solutions": [
+   [
+    "for"
+   ]
+  ],
+  "secTitle": "「call ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-04-b",
+  "unit": "Y",
+  "no": "04",
+  "jp": "彼はゲリラに直ちに戦闘をやめるよう求めた。",
+  "answers": [
+   "He called on the rebels to stop fighting immediately."
+  ],
+  "audio": "audio/Y/Y-04-b-.mp3",
+  "tags": [
+   "for, off, on, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He called "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the rebels to stop fighting immediately."
+   }
+  ],
+  "solutions": [
+   [
+    "on"
+   ]
+  ],
+  "secTitle": "「call ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-04-c",
+  "unit": "Y",
+  "no": "04",
+  "jp": "ドミノに電話してピザを注文しないか？",
+  "answers": [
+   "Why don't we call up Domino's and order a pizza?"
+  ],
+  "audio": "audio/Y/Y-04-c-.mp3",
+  "tags": [
+   "for, off, on, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Why don't we call "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " Domino's and order a pizza?"
+   }
+  ],
+  "solutions": [
+   [
+    "up"
+   ]
+  ],
+  "secTitle": "「call ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-04-d",
+  "unit": "Y",
+  "no": "04",
+  "jp": "悪天候で試合が中止になった。",
+  "answers": [
+   "The game was called off because of bad weather."
+  ],
+  "audio": "audio/Y/Y-04-d-.mp3",
+  "tags": [
+   "for, off, on, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The game was called "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " because of bad weather."
+   }
+  ],
+  "solutions": [
+   [
+    "off"
+   ]
+  ],
+  "secTitle": "「call ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-05-a",
+  "unit": "Y",
+  "no": "05",
+  "jp": "私はただ命令を実行しているだけなのですが。",
+  "answers": [
+   "I'm only carrying out orders."
+  ],
+  "audio": "audio/Y/Y-05-a-.mp3",
+  "section": {
+   "title": "「carry ＋ 副詞」 の句動詞",
+   "body": "carry は 「運ぶ」「持ち運ぶ」 などの意味で他動詞として用いる。句動詞を作る場合はaway, on, out, over などの副詞と結びつく。"
+  },
+  "tags": [
+   "away, on, out, over の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'm only carrying "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " orders."
+   }
+  ],
+  "solutions": [
+   [
+    "out"
+   ]
+  ],
+  "secTitle": "「carry ＋ 副詞」 の句動詞"
+ },
+ {
+  "id": "Y-05-b",
+  "unit": "Y",
+  "no": "05",
+  "jp": "私は出産後も仕事を続けるつもりです。",
+  "answers": [
+   "I intend to carry on working after I've had the baby."
+  ],
+  "audio": "audio/Y/Y-05-b-.mp3",
+  "tags": [
+   "away, on, out, over の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I intend to carry "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " working after I've had the baby."
+   }
+  ],
+  "solutions": [
+   [
+    "on"
+   ]
+  ],
+  "secTitle": "「carry ＋ 副詞」 の句動詞"
+ },
+ {
+  "id": "Y-05-c",
+  "unit": "Y",
+  "no": "05",
+  "jp": "「キスしてもいいなんて言ったかしら？」「ごめん，調子に乗り過ぎた」",
+  "answers": [
+   "\"Did I say you could kiss me?\" \"Sorry. I got carried away.\""
+  ],
+  "audio": "audio/Y/Y-05-c-.mp3",
+  "tags": [
+   "away, on, out, over の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"Did I say you could kiss me?\" \"Sorry. I got carried "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": ".\""
+   }
+  ],
+  "solutions": [
+   [
+    "away"
+   ]
+  ],
+  "secTitle": "「carry ＋ 副詞」 の句動詞"
+ },
+ {
+  "id": "Y-05-d",
+  "unit": "Y",
+  "no": "05",
+  "jp": "その件は来週の会議に持ち越すことにしましょう。",
+  "answers": [
+   "Let's carry that over to our next meeting."
+  ],
+  "audio": "audio/Y/Y-05-d-.mp3",
+  "tags": [
+   "away, on, out, over の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Let's carry that "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to our next meeting."
+   }
+  ],
+  "solutions": [
+   [
+    "over"
+   ]
+  ],
+  "secTitle": "「carry ＋ 副詞」 の句動詞"
+ },
+ {
+  "id": "Y-06-a",
+  "unit": "Y",
+  "no": "06",
+  "jp": "彼らの新しいアルバムはいつ発売予定ですか？",
+  "answers": [
+   "When does their new album come out?"
+  ],
+  "audio": "audio/Y/Y-06-a-.mp3",
+  "section": {
+   "title": "「come ＋ 副詞・前置詞」 の句動詞",
+   "body": "come は 「（話し手・聞き手の所に）到達する」「（ある状態に）なる」 などの意味で自動詞として用いる。句動詞を作る場合はabout, off, out, to, up, down などの副詞や前置詞と結びつく。"
+  },
+  "tags": [
+   "about, across, off, out の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "When does their new album come "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "?"
+   }
+  ],
+  "solutions": [
+   [
+    "out"
+   ]
+  ],
+  "secTitle": "「come ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-06-b",
+  "unit": "Y",
+  "no": "06",
+  "jp": "そもそも，どうしてそんな問題が起こったんだ？",
+  "answers": [
+   "How did the problem come about in the first place?"
+  ],
+  "audio": "audio/Y/Y-06-b-.mp3",
+  "tags": [
+   "about, across, off, out の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "How did the problem come "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " in the first place?"
+   }
+  ],
+  "solutions": [
+   [
+    "about"
+   ]
+  ],
+  "secTitle": "「come ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-06-c",
+  "unit": "Y",
+  "no": "06",
+  "jp": "チェーンが外れてしまったので，付け直してもらえますか？",
+  "answers": [
+   "The chain has come off. Can you put it back on?"
+  ],
+  "audio": "audio/Y/Y-06-c-.mp3",
+  "tags": [
+   "about, across, off, out の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The chain has come "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": ". Can you put it back on?"
+   }
+  ],
+  "solutions": [
+   [
+    "off"
+   ]
+  ],
+  "secTitle": "「come ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-06-d",
+  "unit": "Y",
+  "no": "06",
+  "jp": "こんな写真を見つけたんだけど見てくれる？",
+  "answers": [
+   "Look at these photos that I came across."
+  ],
+  "audio": "audio/Y/Y-06-d-.mp3",
+  "tags": [
+   "about, across, off, out の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Look at these photos that I came "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "across"
+   ]
+  ],
+  "secTitle": "「come ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-07-a",
+  "unit": "Y",
+  "no": "07",
+  "jp": "私達の話に割り込まないでよ。",
+  "answers": [
+   "Don't cut in on our conversation."
+  ],
+  "audio": "audio/Y/Y-07-a-.mp3",
+  "section": {
+   "title": "「cut ＋ 副詞」 の句動詞",
+   "body": "cut は 「切る」 「削除する」 などの意味で他動詞と自動詞の両方で用いる。句動詞を作る場合はback, down, in, off, out などの副詞と結びつく。"
+  },
+  "tags": [
+   "down, in, off, out の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Don't cut "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " on our conversation."
+   }
+  ],
+  "solutions": [
+   [
+    "in"
+   ]
+  ],
+  "secTitle": "「cut ＋ 副詞」 の句動詞"
+ },
+ {
+  "id": "Y-07-b",
+  "unit": "Y",
+  "no": "07",
+  "jp": "彼女はそのシートからハートの形をいくつか切り抜いた。",
+  "answers": [
+   "She cut out heart-shaped pieces from the sheet."
+  ],
+  "audio": "audio/Y/Y-07-b-.mp3",
+  "tags": [
+   "down, in, off, out の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She cut "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " heart-shaped pieces from the sheet."
+   }
+  ],
+  "solutions": [
+   [
+    "out"
+   ]
+  ],
+  "secTitle": "「cut ＋ 副詞」 の句動詞"
+ },
+ {
+  "id": "Y-07-c",
+  "unit": "Y",
+  "no": "07",
+  "jp": "私達はレストランでの外食を減らしました。",
+  "answers": [
+   "We have cut down on eating at restaurants."
+  ],
+  "audio": "audio/Y/Y-07-c-.mp3",
+  "tags": [
+   "down, in, off, out の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We have cut "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " on eating at restaurants."
+   }
+  ],
+  "solutions": [
+   [
+    "down"
+   ]
+  ],
+  "secTitle": "「cut ＋ 副詞」 の句動詞"
+ },
+ {
+  "id": "Y-07-d",
+  "unit": "Y",
+  "no": "07",
+  "jp": "その地域全体が大洪水によって孤立させられた。",
+  "answers": [
+   "The entire region was cut off by massive flooding."
+  ],
+  "audio": "audio/Y/Y-07-d-.mp3",
+  "tags": [
+   "down, in, off, out の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The entire region was cut "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " by massive flooding."
+   }
+  ],
+  "solutions": [
+   [
+    "off"
+   ]
+  ],
+  "secTitle": "「cut ＋ 副詞」 の句動詞"
+ },
+ {
+  "id": "Y-08-a",
+  "unit": "Y",
+  "no": "08",
+  "jp": "先週病気で，学校の勉強が遅れてしまった。",
+  "answers": [
+   "I was ill last week and fell behind with my schoolwork."
+  ],
+  "audio": "audio/Y/Y-08-a-.mp3",
+  "section": {
+   "title": "「fall ＋ 副詞・前置詞」 の句動詞",
+   "body": "fall は 「落ちる」 「倒れる」 「…になる」 などの意味で自動詞として用いる。句動詞を作る場合はapart, behind, down, into, on, over などの副詞や前置詞と結びつく。"
+  },
+  "tags": [
+   "apart, back, behind, on, through の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I was ill last week and fell "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " with my schoolwork."
+   }
+  ],
+  "solutions": [
+   [
+    "behind"
+   ]
+  ],
+  "secTitle": "「fall ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-08-b",
+  "unit": "Y",
+  "no": "08",
+  "jp": "私達には頼れる貯金が全くない。",
+  "answers": [
+   "We have no savings to fall back on."
+  ],
+  "audio": "audio/Y/Y-08-b-.mp3",
+  "tags": [
+   "apart, back, behind, on, through の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We have no savings to fall "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " on."
+   }
+  ],
+  "solutions": [
+   [
+    "back"
+   ]
+  ],
+  "secTitle": "「fall ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-08-c",
+  "unit": "Y",
+  "no": "08",
+  "jp": "この本はとても古く，ばらばらになりかけている。",
+  "answers": [
+   "This book is so old it's starting to fall apart."
+  ],
+  "audio": "audio/Y/Y-08-c-.mp3",
+  "tags": [
+   "apart, back, behind, on, through の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "This book is so old it's starting to fall "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "apart"
+   ]
+  ],
+  "secTitle": "「fall ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-08-d",
+  "unit": "Y",
+  "no": "08",
+  "jp": "計画が失敗続きでいらいらする。",
+  "answers": [
+   "My plans keep falling through and it's irritating."
+  ],
+  "audio": "audio/Y/Y-08-d-.mp3",
+  "tags": [
+   "apart, back, behind, on, through の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "My plans keep falling "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " and it's irritating."
+   }
+  ],
+  "solutions": [
+   [
+    "through"
+   ]
+  ],
+  "secTitle": "「fall ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-08-e",
+  "unit": "Y",
+  "no": "08",
+  "jp": "今年のバレンタインデーは日曜日に当たる。",
+  "answers": [
+   "Valentine's Day falls on a Sunday this year."
+  ],
+  "audio": "audio/Y/Y-08-e-.mp3",
+  "tags": [
+   "apart, back, behind, on, through の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Valentine's Day falls "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " a Sunday this year."
+   }
+  ],
+  "solutions": [
+   [
+    "on"
+   ]
+  ],
+  "secTitle": "「fall ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-09-a",
+  "unit": "Y",
+  "no": "09",
+  "jp": "その駅で降りた乗客は３人しかいなかった。",
+  "answers": [
+   "Only three passengers got off at the station."
+  ],
+  "audio": "audio/Y/Y-09-a-.mp3",
+  "section": {
+   "title": "「get ＋ 副詞・前置詞」 の句動詞",
+   "body": "get は 「手に入れる」 「至る」 「（ある状態に）なる［させる］」 などの意味で他動詞と自動詞の両方で用いるが，句動詞を作る場合は自動詞が多く， away, back, down, in(to), off, on, out, over, to などの副詞や前置詞と結びつく。"
+  },
+  "tags": [
+   "along, away, down, off の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Only three passengers got "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " at the station."
+   }
+  ],
+  "solutions": [
+   [
+    "off"
+   ]
+  ],
+  "secTitle": "「get ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-09-b",
+  "unit": "Y",
+  "no": "09",
+  "jp": "なぜか彼とは馬が合わないんです。",
+  "answers": [
+   "I've just never gotten along with him, for some reason."
+  ],
+  "audio": "audio/Y/Y-09-b-.mp3",
+  "tags": [
+   "along, away, down, off の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I've just never gotten "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " with him, for some reason."
+   }
+  ],
+  "solutions": [
+   [
+    "along"
+   ]
+  ],
+  "secTitle": "「get ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-09-c",
+  "unit": "Y",
+  "no": "09",
+  "jp": "何とか早めに会議を抜けることができた。",
+  "answers": [
+   "I managed to get away from the meeting early."
+  ],
+  "audio": "audio/Y/Y-09-c-.mp3",
+  "tags": [
+   "along, away, down, off の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I managed to get "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " from the meeting early."
+   }
+  ],
+  "solutions": [
+   [
+    "away"
+   ]
+  ],
+  "secTitle": "「get ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-09-d",
+  "unit": "Y",
+  "no": "09",
+  "jp": "さあ，気合いを入れて仕事に取りかかろう。",
+  "answers": [
+   "Let's roll up our sleeves and get down to work."
+  ],
+  "audio": "audio/Y/Y-09-d-.mp3",
+  "tags": [
+   "along, away, down, off の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Let's roll up our sleeves and get "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to work."
+   }
+  ],
+  "solutions": [
+   [
+    "down"
+   ]
+  ],
+  "secTitle": "「get ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-10-a",
+  "unit": "Y",
+  "no": "10",
+  "jp": "この住所への行き方を教えてもらえませんか？",
+  "answers": [
+   "Can you tell me how to get to this address?"
+  ],
+  "audio": "audio/Y/Y-10-a-.mp3",
+  "tags": [
+   "at, into, over, to の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Can you tell me how to get "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " this address?"
+   }
+  ],
+  "solutions": [
+   [
+    "to"
+   ]
+  ],
+  "secTitle": "「get ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-10-b",
+  "unit": "Y",
+  "no": "10",
+  "jp": "絶対にお父さんやお母さんの許可なしに人の車に乗ってはいけませんよ。",
+  "answers": [
+   "Never get into anyone's car without your parents' permission."
+  ],
+  "audio": "audio/Y/Y-10-b-.mp3",
+  "tags": [
+   "at, into, over, to の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Never get "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " anyone's car without your parents' permission."
+   }
+  ],
+  "solutions": [
+   [
+    "into"
+   ]
+  ],
+  "secTitle": "「get ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-10-c",
+  "unit": "Y",
+  "no": "10",
+  "jp": "愛する人の死を乗り越えるには長い時間がかかる。",
+  "answers": [
+   "It takes a long time to get over the death of a loved one."
+  ],
+  "audio": "audio/Y/Y-10-c-.mp3",
+  "tags": [
+   "at, into, over, to の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It takes a long time to get "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the death of a loved one."
+   }
+  ],
+  "solutions": [
+   [
+    "over"
+   ]
+  ],
+  "secTitle": "「get ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-10-d",
+  "unit": "Y",
+  "no": "10",
+  "jp": "薬は子供の手の届かない所に保管してください。",
+  "answers": [
+   "Keep medicines where children can't get at them."
+  ],
+  "audio": "audio/Y/Y-10-d-.mp3",
+  "tags": [
+   "at, into, over, to の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Keep medicines where children can't get "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " them."
+   }
+  ],
+  "solutions": [
+   [
+    "at"
+   ]
+  ],
+  "secTitle": "「get ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-11-a",
+  "unit": "Y",
+  "no": "11",
+  "jp": "医者は私に喫煙をやめるようにと言った。",
+  "answers": [
+   "My doctor has told me to give up smoking."
+  ],
+  "audio": "audio/Y/Y-11-a-.mp3",
+  "section": {
+   "title": "「give ＋ 副詞」 の句動詞",
+   "body": "give は 「与える」 「もたらす」 などの意味で主に他動詞で用いる。句動詞を作る場合はaway, back, in, off, out, up などの副詞と結びつく。"
+  },
+  "tags": [
+   "away, in, off, out, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "My doctor has told me to give "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " smoking."
+   }
+  ],
+  "solutions": [
+   [
+    "up"
+   ]
+  ],
+  "secTitle": "「give ＋ 副詞」 の句動詞"
+ },
+ {
+  "id": "Y-11-b",
+  "unit": "Y",
+  "no": "11",
+  "jp": "我々は今後も闘い続け，決して屈しません。",
+  "answers": [
+   "We will continue to fight and never give in."
+  ],
+  "audio": "audio/Y/Y-11-b-.mp3",
+  "tags": [
+   "away, in, off, out, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We will continue to fight and never give "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "in"
+   ]
+  ],
+  "secTitle": "「give ＋ 副詞」 の句動詞"
+ },
+ {
+  "id": "Y-11-c",
+  "unit": "Y",
+  "no": "11",
+  "jp": "引っ越す時に家具を全部人にあげるか，もしくは売りました。",
+  "answers": [
+   "I gave away or sold all my furniture when I moved."
+  ],
+  "audio": "audio/Y/Y-11-c-.mp3",
+  "tags": [
+   "away, in, off, out, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I gave "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " or sold all my furniture when I moved."
+   }
+  ],
+  "solutions": [
+   [
+    "away"
+   ]
+  ],
+  "secTitle": "「give ＋ 副詞」 の句動詞"
+ },
+ {
+  "id": "Y-11-d",
+  "unit": "Y",
+  "no": "11",
+  "jp": "そのボランティア団体はホームレスの人達に食事を配った。",
+  "answers": [
+   "The volunteer group gave out free food to the homeless."
+  ],
+  "audio": "audio/Y/Y-11-d-.mp3",
+  "tags": [
+   "away, in, off, out, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The volunteer group gave "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " free food to the homeless."
+   }
+  ],
+  "solutions": [
+   [
+    "out"
+   ]
+  ],
+  "secTitle": "「give ＋ 副詞」 の句動詞"
+ },
+ {
+  "id": "Y-11-e",
+  "unit": "Y",
+  "no": "11",
+  "jp": "一部のプラスティックやビニールは燃やすと有毒なガスが出ます。",
+  "answers": [
+   "Some plastics give off toxic fumes when burned."
+  ],
+  "audio": "audio/Y/Y-11-e-.mp3",
+  "tags": [
+   "away, in, off, out, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Some plastics give "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " toxic fumes when burned."
+   }
+  ],
+  "solutions": [
+   [
+    "off"
+   ]
+  ],
+  "secTitle": "「give ＋ 副詞」 の句動詞"
+ },
+ {
+  "id": "Y-12-a",
+  "unit": "Y",
+  "no": "12",
+  "jp": "彼は 「忙しいからあっちに行け！」 と叫んだ。",
+  "answers": [
+   "He shouted, \"Go away, I'm busy!\""
+  ],
+  "audio": "audio/Y/Y-12-a-.mp3",
+  "section": {
+   "title": "「go ＋ 副詞・前置詞」 の句動詞",
+   "body": "go は 「行く」 「進む」 「（ある状態に）なる」 などの意味で自動詞として用いる。句動詞を作る場合はaway, by, down, for, in(to), off, on, out, through, up, withなどの副詞や前置詞と結びつく。"
+  },
+  "tags": [
+   "away, by, off, on の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He shouted, \"Go "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": ", I'm busy!\""
+   }
+  ],
+  "solutions": [
+   [
+    "away"
+   ]
+  ],
+  "secTitle": "「go ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-12-b",
+  "unit": "Y",
+  "no": "12",
+  "jp": "こんな状態はこれ以上続けられない。もうあきらめるしかない。",
+  "answers": [
+   "We can't go on like this any more. We must give it up."
+  ],
+  "audio": "audio/Y/Y-12-b-.mp3",
+  "tags": [
+   "away, by, off, on の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We can't go "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " like this any more. We must give it up."
+   }
+  ],
+  "solutions": [
+   [
+    "on"
+   ]
+  ],
+  "secTitle": "「go ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-12-c",
+  "unit": "Y",
+  "no": "12",
+  "jp": "アラームは何時に鳴るようにしてある？",
+  "answers": [
+   "What time will the alarm go off?"
+  ],
+  "audio": "audio/Y/Y-12-c-.mp3",
+  "tags": [
+   "away, by, off, on の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "What time will the alarm go "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "?"
+   }
+  ],
+  "solutions": [
+   [
+    "off"
+   ]
+  ],
+  "secTitle": "「go ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-12-d",
+  "unit": "Y",
+  "no": "12",
+  "jp": "どうして週末はいつもこんなに速く過ぎ去ってしまうのだろう？",
+  "answers": [
+   "Why do the weekends always go by so fast?"
+  ],
+  "audio": "audio/Y/Y-12-d-.mp3",
+  "tags": [
+   "away, by, off, on の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Why do the weekends always go "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " so fast?"
+   }
+  ],
+  "solutions": [
+   [
+    "by"
+   ]
+  ],
+  "secTitle": "「go ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-13-a",
+  "unit": "Y",
+  "no": "13",
+  "jp": "彼女はオリンピックでの金メダル獲得を目指している。",
+  "answers": [
+   "She is going for the gold medal at the Olympic Games."
+  ],
+  "audio": "audio/Y/Y-13-a-.mp3",
+  "tags": [
+   "for, over, through, with の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She is going "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the gold medal at the Olympic Games."
+   }
+  ],
+  "solutions": [
+   [
+    "for"
+   ]
+  ],
+  "secTitle": "「go ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-13-b",
+  "unit": "Y",
+  "no": "13",
+  "jp": "このリストをチェックして間違いがあれば訂正してもらえますか？",
+  "answers": [
+   "Could you go over this list and correct any errors?"
+  ],
+  "audio": "audio/Y/Y-13-b-.mp3",
+  "tags": [
+   "for, over, through, with の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Could you go "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " this list and correct any errors?"
+   }
+  ],
+  "solutions": [
+   [
+    "over"
+   ]
+  ],
+  "secTitle": "「go ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-13-c",
+  "unit": "Y",
+  "no": "13",
+  "jp": "あんなことをもう一度経験するなんて耐えられません。",
+  "answers": [
+   "I can't bear to go through all that again."
+  ],
+  "audio": "audio/Y/Y-13-c-.mp3",
+  "tags": [
+   "for, over, through, with の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I can't bear to go "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " all that again."
+   }
+  ],
+  "solutions": [
+   [
+    "through"
+   ]
+  ],
+  "secTitle": "「go ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-13-d",
+  "unit": "Y",
+  "no": "13",
+  "jp": "私はこの仕事に付随するチャレンジを楽しんでいます。",
+  "answers": [
+   "I enjoy the challenge that goes with this job."
+  ],
+  "audio": "audio/Y/Y-13-d-.mp3",
+  "tags": [
+   "for, over, through, with の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I enjoy the challenge that goes "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " this job."
+   }
+  ],
+  "solutions": [
+   [
+    "with"
+   ]
+  ],
+  "secTitle": "「go ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-14-a",
+  "unit": "Y",
+  "no": "14",
+  "jp": "そのままでお待ちください。今，彼女を呼んできますから。",
+  "answers": [
+   "Hold on a moment and I'll go and get her for you."
+  ],
+  "audio": "audio/Y/Y-14-a-.mp3",
+  "section": {
+   "title": "「hold ＋ 副詞」 の句動詞",
+   "body": "hold は 「つかまえて放さない」 「保持する」 などの意味で他動詞と自動詞の両方で用いる。句動詞を作る場合はback, on, out, up などの副詞と結びつく。"
+  },
+  "tags": [
+   "back, on, out, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Hold "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " a moment and I'll go and get her for you."
+   }
+  ],
+  "solutions": [
+   [
+    "on"
+   ]
+  ],
+  "secTitle": "「hold ＋ 副詞」 の句動詞"
+ },
+ {
+  "id": "Y-14-b",
+  "unit": "Y",
+  "no": "14",
+  "jp": "彼女は私達の所へやって来て，ワイングラスを２つ差し出した。",
+  "answers": [
+   "She came up to us, holding out two glasses of wine."
+  ],
+  "audio": "audio/Y/Y-14-b-.mp3",
+  "tags": [
+   "back, on, out, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She came up to us, holding "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " two glasses of wine."
+   }
+  ],
+  "solutions": [
+   [
+    "out"
+   ]
+  ],
+  "secTitle": "「hold ＋ 副詞」 の句動詞"
+ },
+ {
+  "id": "Y-14-c",
+  "unit": "Y",
+  "no": "14",
+  "jp": "遅れてごめん。会社で足止めを食らっちゃってさ。",
+  "answers": [
+   "Sorry I'm late. I got held up at the office."
+  ],
+  "audio": "audio/Y/Y-14-c-.mp3",
+  "tags": [
+   "back, on, out, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Sorry I'm late. I got held "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " at the office."
+   }
+  ],
+  "solutions": [
+   [
+    "up"
+   ]
+  ],
+  "secTitle": "「hold ＋ 副詞」 の句動詞"
+ },
+ {
+  "id": "Y-14-d",
+  "unit": "Y",
+  "no": "14",
+  "jp": "彼女は一生懸命に涙をこらえた。",
+  "answers": [
+   "She struggled to hold back her tears."
+  ],
+  "audio": "audio/Y/Y-14-d-.mp3",
+  "tags": [
+   "back, on, out, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She struggled to hold "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " her tears."
+   }
+  ],
+  "solutions": [
+   [
+    "back"
+   ]
+  ],
+  "secTitle": "「hold ＋ 副詞」 の句動詞"
+ },
+ {
+  "id": "Y-15-a",
+  "unit": "Y",
+  "no": "15",
+  "jp": "芝生内立ち入り禁止。",
+  "answers": [
+   "Keep off the grass."
+  ],
+  "audio": "audio/Y/Y-15-a-.mp3",
+  "section": {
+   "title": "「keep ＋ 副詞・前置詞」 の句動詞",
+   "body": "keep は 「もち続ける」 「ある状態を保つ」 などの意味で自動詞と他動詞の両方で用いる。句動詞を作る場合はaway, off, on, up などの副詞や前置詞と結びつく。"
+  },
+  "tags": [
+   "away, off, on, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Keep "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the grass."
+   }
+  ],
+  "solutions": [
+   [
+    "off"
+   ]
+  ],
+  "secTitle": "「keep ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-15-b",
+  "unit": "Y",
+  "no": "15",
+  "jp": "やる気を維持することは難しいことだと思います。",
+  "answers": [
+   "I find it hard to keep up my enthusiasm."
+  ],
+  "audio": "audio/Y/Y-15-b-.mp3",
+  "tags": [
+   "away, off, on, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I find it hard to keep "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " my enthusiasm."
+   }
+  ],
+  "solutions": [
+   [
+    "up"
+   ]
+  ],
+  "secTitle": "「keep ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-15-c",
+  "unit": "Y",
+  "no": "15",
+  "jp": "彼は同じ間違いを何度も繰り返した。",
+  "answers": [
+   "He kept on making the same mistake."
+  ],
+  "audio": "audio/Y/Y-15-c-.mp3",
+  "tags": [
+   "away, off, on, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He kept "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " making the same mistake."
+   }
+  ],
+  "solutions": [
+   [
+    "on"
+   ]
+  ],
+  "secTitle": "「keep ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-15-d",
+  "unit": "Y",
+  "no": "15",
+  "jp": "あの犬には近づかないようにと言っただろう。",
+  "answers": [
+   "I told you to keep away from that dog."
+  ],
+  "audio": "audio/Y/Y-15-d-.mp3",
+  "tags": [
+   "away, off, on, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I told you to keep "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " from that dog."
+   }
+  ],
+  "solutions": [
+   [
+    "away"
+   ]
+  ],
+  "secTitle": "「keep ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-16-a",
+  "unit": "Y",
+  "no": "16",
+  "jp": "なぜ彼の名前がリストから外されたのですか？",
+  "answers": [
+   "Why was his name left off the list?"
+  ],
+  "audio": "audio/Y/Y-16-a-.mp3",
+  "section": {
+   "title": "「leave ＋ 副詞」 の句動詞",
+   "body": "leave は 「立ち去る」 「置き去りにする」 などの意味で自動詞と他動詞の両方で用いる。句動詞を作る場合はbehind, off, out などの副詞と結びつく。"
+  },
+  "tags": [
+   "behind, off, out の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Why was his name left "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the list?"
+   }
+  ],
+  "solutions": [
+   [
+    "off"
+   ]
+  ],
+  "secTitle": "「leave ＋ 副詞」 の句動詞"
+ },
+ {
+  "id": "Y-16-b",
+  "unit": "Y",
+  "no": "16",
+  "jp": "すみません，メールのアドレスに \"e\" の文字が抜けていました。",
+  "answers": [
+   "Sorry, I left out the letter \"e\" in my email address."
+  ],
+  "audio": "audio/Y/Y-16-b-.mp3",
+  "tags": [
+   "behind, off, out の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Sorry, I left "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the letter \"e\" in my email address."
+   }
+  ],
+  "solutions": [
+   [
+    "out"
+   ]
+  ],
+  "secTitle": "「leave ＋ 副詞」 の句動詞"
+ },
+ {
+  "id": "Y-16-c",
+  "unit": "Y",
+  "no": "16",
+  "jp": "持ち物をお忘れなく。",
+  "answers": [
+   "Don't leave your belongings behind."
+  ],
+  "audio": "audio/Y/Y-16-c-.mp3",
+  "tags": [
+   "behind, off, out の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Don't leave your belongings "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "behind"
+   ]
+  ],
+  "secTitle": "「leave ＋ 副詞」 の句動詞"
+ },
+ {
+  "id": "Y-17-a",
+  "unit": "Y",
+  "no": "17",
+  "jp": "犬たちを外に出してやってくれる？",
+  "answers": [
+   "Would you let the dogs out, please?"
+  ],
+  "audio": "audio/Y/Y-17-a-.mp3",
+  "section": {
+   "title": "「let ＋ 副詞」 の句動詞",
+   "body": "let は 「させる」 「許す」 などの意味で主に他動詞として用いる。句動詞を作る場合はdown, in, off, out, up などの副詞と結びつく。"
+  },
+  "tags": [
+   "down, off, out, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Would you let the dogs "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": ", please?"
+   }
+  ],
+  "solutions": [
+   [
+    "out"
+   ]
+  ],
+  "secTitle": "「let ＋ 副詞」 の句動詞"
+ },
+ {
+  "id": "Y-17-b",
+  "unit": "Y",
+  "no": "17",
+  "jp": "彼は誤って銃を発砲させた。",
+  "answers": [
+   "He let the gun off accidentally."
+  ],
+  "audio": "audio/Y/Y-17-b-.mp3",
+  "tags": [
+   "down, off, out, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He let the gun "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " accidentally."
+   }
+  ],
+  "solutions": [
+   [
+    "off"
+   ]
+  ],
+  "secTitle": "「let ＋ 副詞」 の句動詞"
+ },
+ {
+  "id": "Y-17-c",
+  "unit": "Y",
+  "no": "17",
+  "jp": "親をひどくがっかりさせてしまったんじゃないだろうか。",
+  "answers": [
+   "I feel like I've let my parents down a lot."
+  ],
+  "audio": "audio/Y/Y-17-c-.mp3",
+  "tags": [
+   "down, off, out, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I feel like I've let my parents "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " a lot."
+   }
+  ],
+  "solutions": [
+   [
+    "down"
+   ]
+  ],
+  "secTitle": "「let ＋ 副詞」 の句動詞"
+ },
+ {
+  "id": "Y-17-d",
+  "unit": "Y",
+  "no": "17",
+  "jp": "この悪天候が和らぐ気配はない。",
+  "answers": [
+   "There's no sign of the bad weather letting up."
+  ],
+  "audio": "audio/Y/Y-17-d-.mp3",
+  "tags": [
+   "down, off, out, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "There's no sign of the bad weather letting "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "up"
+   ]
+  ],
+  "secTitle": "「let ＋ 副詞」 の句動詞"
+ },
+ {
+  "id": "Y-18-a",
+  "unit": "Y",
+  "no": "18",
+  "jp": "彼女はボーカリストとして才能があるので尊敬しています。",
+  "answers": [
+   "I look up to her for her talent as a vocalist."
+  ],
+  "audio": "audio/Y/Y-18-a-.mp3",
+  "section": {
+   "title": "「look ＋ 副詞・前置詞」 の句動詞",
+   "body": "look は 「見る」 という意味で主に自動詞として用いる。句動詞を作る場合はaround, at, for, into, out, up などの副詞や前置詞と結びついたり，look down onやlook up to のように「副詞＋前置詞」と結びつく。"
+  },
+  "tags": [
+   "back, down, on, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I look "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to her for her talent as a vocalist."
+   }
+  ],
+  "solutions": [
+   [
+    "up"
+   ]
+  ],
+  "secTitle": "「look ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-18-b",
+  "unit": "Y",
+  "no": "18",
+  "jp": "私は人を見下す人間が大嫌いだ。",
+  "answers": [
+   "I hate people who look down on others."
+  ],
+  "audio": "audio/Y/Y-18-b-.mp3",
+  "tags": [
+   "back, down, on, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I hate people who look "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " on others."
+   }
+  ],
+  "solutions": [
+   [
+    "down"
+   ]
+  ],
+  "secTitle": "「look ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-18-c",
+  "unit": "Y",
+  "no": "18",
+  "jp": "振り返って見ると，いかに自分が未熟であったかがわかる。",
+  "answers": [
+   "I look back and realize how immature I was."
+  ],
+  "audio": "audio/Y/Y-18-c-.mp3",
+  "tags": [
+   "back, down, on, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I look "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " and realize how immature I was."
+   }
+  ],
+  "solutions": [
+   [
+    "back"
+   ]
+  ],
+  "secTitle": "「look ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-18-d",
+  "unit": "Y",
+  "no": "18",
+  "jp": "群衆は，怖くて止めに入れず，ただ黙って見ているだけであった。",
+  "answers": [
+   "The crowd looked on in silence, too frightened to intervene."
+  ],
+  "audio": "audio/Y/Y-18-d-.mp3",
+  "tags": [
+   "back, down, on, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The crowd looked "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " in silence, too frightened to intervene."
+   }
+  ],
+  "solutions": [
+   [
+    "on"
+   ]
+  ],
+  "secTitle": "「look ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-19-a",
+  "unit": "Y",
+  "no": "19",
+  "jp": "私のことは心配しないで。自分のことは自分でできるから。",
+  "answers": [
+   "Don't worry about me—I can look after myself."
+  ],
+  "audio": "audio/Y/Y-19-a-.mp3",
+  "tags": [
+   "after, into, through, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Don't worry about me—I can look "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " myself."
+   }
+  ],
+  "solutions": [
+   [
+    "after"
+   ]
+  ],
+  "secTitle": "「look ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-19-b",
+  "unit": "Y",
+  "no": "19",
+  "jp": "警察が現在，事故の（考えられる）原因を調査中です。",
+  "answers": [
+   "Police are looking into possible causes of the accident."
+  ],
+  "audio": "audio/Y/Y-19-b-.mp3",
+  "tags": [
+   "after, into, through, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Police are looking "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " possible causes of the accident."
+   }
+  ],
+  "solutions": [
+   [
+    "into"
+   ]
+  ],
+  "secTitle": "「look ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-19-c",
+  "unit": "Y",
+  "no": "19",
+  "jp": "マニュアルに目を通してみたが，それに関しては何も見つからなかった。",
+  "answers": [
+   "I've looked through the manual, but I can't find anything on it."
+  ],
+  "audio": "audio/Y/Y-19-c-.mp3",
+  "tags": [
+   "after, into, through, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I've looked "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the manual, but I can't find anything on it."
+   }
+  ],
+  "solutions": [
+   [
+    "through"
+   ]
+  ],
+  "secTitle": "「look ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-19-d",
+  "unit": "Y",
+  "no": "19",
+  "jp": "詳しいことをもっと知りたかったら，ネットで調べてみるといいよ。",
+  "answers": [
+   "You can look it up online for more details."
+  ],
+  "audio": "audio/Y/Y-19-d-.mp3",
+  "tags": [
+   "after, into, through, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "You can look it "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " online for more details."
+   }
+  ],
+  "solutions": [
+   [
+    "up"
+   ]
+  ],
+  "secTitle": "「look ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-20-a",
+  "unit": "Y",
+  "no": "20",
+  "jp": "女性は現在，アメリカの労働人口のほぼ半分を占める。",
+  "answers": [
+   "Women currently make up almost half the U.S. workforce."
+  ],
+  "audio": "audio/Y/Y-20-a-.mp3",
+  "section": {
+   "title": "「make ＋ 副詞・前置詞」 の句動詞",
+   "body": "make は 「作り出す」 「（ある状態に）させる」 という意味で主に他動詞で用いる。句動詞を作る場合はfor, off, out, up などの副詞や前置詞と結びつく。"
+  },
+  "tags": [
+   "for, of, off, out, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Women currently make "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " almost half the U.S. workforce."
+   }
+  ],
+  "solutions": [
+   [
+    "up"
+   ]
+  ],
+  "secTitle": "「make ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-20-b",
+  "unit": "Y",
+  "no": "20",
+  "jp": "彼女の声はとても小さく，言っていることがやっと聞き取れるぐらいだった。",
+  "answers": [
+   "Her voice was so low I could barely make out what she was saying."
+  ],
+  "audio": "audio/Y/Y-20-b-.mp3",
+  "tags": [
+   "for, of, off, out, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Her voice was so low I could barely make "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " what she was saying."
+   }
+  ],
+  "solutions": [
+   [
+    "out"
+   ]
+  ],
+  "secTitle": "「make ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-20-c",
+  "unit": "Y",
+  "no": "20",
+  "jp": "この一節をあなたはどう解釈しますか？",
+  "answers": [
+   "What do you make of this passage?"
+  ],
+  "audio": "audio/Y/Y-20-c-.mp3",
+  "tags": [
+   "for, of, off, out, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "What do you make "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " this passage?"
+   }
+  ],
+  "solutions": [
+   [
+    "of"
+   ]
+  ],
+  "secTitle": "「make ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-20-d",
+  "unit": "Y",
+  "no": "20",
+  "jp": "目撃者達によると，事件後，二人の男が車に乗って逃げ去ったということだ。",
+  "answers": [
+   "Eyewitnesses said two men made off in a car after the incident."
+  ],
+  "audio": "audio/Y/Y-20-d-.mp3",
+  "tags": [
+   "for, of, off, out, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Eyewitnesses said two men made "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " in a car after the incident."
+   }
+  ],
+  "solutions": [
+   [
+    "off"
+   ]
+  ],
+  "secTitle": "「make ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-20-e",
+  "unit": "Y",
+  "no": "20",
+  "jp": "彼（に会うの）を避けようと，私は急ぎ足で出口に向かった。",
+  "answers": [
+   "Avoiding him, I quickly made for the exit."
+  ],
+  "audio": "audio/Y/Y-20-e-.mp3",
+  "tags": [
+   "for, of, off, out, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Avoiding him, I quickly made "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the exit."
+   }
+  ],
+  "solutions": [
+   [
+    "for"
+   ]
+  ],
+  "secTitle": "「make ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-21-a",
+  "unit": "Y",
+  "no": "21",
+  "jp": "彼の母は眠っている間に安らかに亡くなった。",
+  "answers": [
+   "His mother passed away peacefully in her sleep."
+  ],
+  "audio": "audio/Y/Y-21-a-.mp3",
+  "section": {
+   "title": "「pass ＋ 副詞・前置詞」 の句動詞",
+   "body": "pass は 「通過する」 「渡る」 「渡す」などの意味で自動詞と他動詞の両方で用いる。句動詞を作る場合はaway, by, out, through などの副詞や前置詞と結びつく。"
+  },
+  "tags": [
+   "away, by, down, out の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "His mother passed "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " peacefully in her sleep."
+   }
+  ],
+  "solutions": [
+   [
+    "away"
+   ]
+  ],
+  "secTitle": "「pass ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-21-b",
+  "unit": "Y",
+  "no": "21",
+  "jp": "私はその痛みに気絶しそうになって嘔吐した。",
+  "answers": [
+   "I nearly passed out with the pain and vomited."
+  ],
+  "audio": "audio/Y/Y-21-b-.mp3",
+  "tags": [
+   "away, by, down, out の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I nearly passed "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " with the pain and vomited."
+   }
+  ],
+  "solutions": [
+   [
+    "out"
+   ]
+  ],
+  "secTitle": "「pass ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-21-c",
+  "unit": "Y",
+  "no": "21",
+  "jp": "近くを通りがかったから，ちょっと挨拶しておこうかと思ってさ。",
+  "answers": [
+   "I was just passing by, so I thought I'd say hello."
+  ],
+  "audio": "audio/Y/Y-21-c-.mp3",
+  "tags": [
+   "away, by, down, out の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I was just passing "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": ", so I thought I'd say hello."
+   }
+  ],
+  "solutions": [
+   [
+    "by"
+   ]
+  ],
+  "secTitle": "「pass ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-21-d",
+  "unit": "Y",
+  "no": "21",
+  "jp": "この伝統は何世代にもわたって受け継がれてきた。",
+  "answers": [
+   "This tradition has been passed down for generations."
+  ],
+  "audio": "audio/Y/Y-21-d-.mp3",
+  "tags": [
+   "away, by, down, out の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "This tradition has been passed "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " for generations."
+   }
+  ],
+  "solutions": [
+   [
+    "down"
+   ]
+  ],
+  "secTitle": "「pass ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-22-a",
+  "unit": "Y",
+  "no": "22",
+  "jp": "結婚してから体重が６ポンド増えました。",
+  "answers": [
+   "I've put on six pounds since I got married."
+  ],
+  "audio": "audio/Y/Y-22-a-.mp3",
+  "section": {
+   "title": "「put ＋ 副詞」 の句動詞",
+   "body": "put は 「置く」 などの意味で主として他動詞で用いる。句動詞を作る場合はaway, down, in, off, on, out, up などの副詞と結びつく。"
+  },
+  "tags": [
+   "away, off, on, out, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I've put "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " six pounds since I got married."
+   }
+  ],
+  "solutions": [
+   [
+    "on"
+   ]
+  ],
+  "secTitle": "「put ＋ 副詞」 の句動詞"
+ },
+ {
+  "id": "Y-22-b",
+  "unit": "Y",
+  "no": "22",
+  "jp": "君が皿を拭いて，僕がそれを片付けることにしよう。",
+  "answers": [
+   "You dry the dishes and I'll put them away."
+  ],
+  "audio": "audio/Y/Y-22-b-.mp3",
+  "tags": [
+   "away, off, on, out, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "You dry the dishes and I'll put them "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "away"
+   ]
+  ],
+  "secTitle": "「put ＋ 副詞」 の句動詞"
+ },
+ {
+  "id": "Y-22-c",
+  "unit": "Y",
+  "no": "22",
+  "jp": "彼らはそれを取り壊して新しいビルを建てた。",
+  "answers": [
+   "They tore it down and put up a new building."
+  ],
+  "audio": "audio/Y/Y-22-c-.mp3",
+  "tags": [
+   "away, off, on, out, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "They tore it down and put "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " a new building."
+   }
+  ],
+  "solutions": [
+   [
+    "up"
+   ]
+  ],
+  "secTitle": "「put ＋ 副詞」 の句動詞"
+ },
+ {
+  "id": "Y-22-d",
+  "unit": "Y",
+  "no": "22",
+  "jp": "試合は来週に延期された。",
+  "answers": [
+   "The match has been put off to next week."
+  ],
+  "audio": "audio/Y/Y-22-d-.mp3",
+  "tags": [
+   "away, off, on, out, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The match has been put "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to next week."
+   }
+  ],
+  "solutions": [
+   [
+    "off"
+   ]
+  ],
+  "secTitle": "「put ＋ 副詞」 の句動詞"
+ },
+ {
+  "id": "Y-22-e",
+  "unit": "Y",
+  "no": "22",
+  "jp": "消防士達は３時間かけてその炎を消し止めた。",
+  "answers": [
+   "Firefighters took three hours to put out the blaze."
+  ],
+  "audio": "audio/Y/Y-22-e-.mp3",
+  "tags": [
+   "away, off, on, out, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Firefighters took three hours to put "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the blaze."
+   }
+  ],
+  "solutions": [
+   [
+    "out"
+   ]
+  ],
+  "secTitle": "「put ＋ 副詞」 の句動詞"
+ },
+ {
+  "id": "Y-23-a",
+  "unit": "Y",
+  "no": "23",
+  "jp": "永遠に現実から逃避することはできない。",
+  "answers": [
+   "You cannot run away from reality indefinitely."
+  ],
+  "audio": "audio/Y/Y-23-a-.mp3",
+  "section": {
+   "title": "「run ＋ 副詞・前置詞」 の句動詞",
+   "body": "run は 「走る」「走らせる」「流れる」 などの意味で自動詞と他動詞の両方で用いる。句動詞を作る場合はaway, into, off, out, over などの副詞や前置詞と結びつく。"
+  },
+  "tags": [
+   "across, away, into, out, over の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "You cannot run "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " from reality indefinitely."
+   }
+  ],
+  "solutions": [
+   [
+    "away"
+   ]
+  ],
+  "secTitle": "「run ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-23-b",
+  "unit": "Y",
+  "no": "23",
+  "jp": "今すぐ行動しなさい。時間がなくなってきているのです。",
+  "answers": [
+   "Act now, because time is running out."
+  ],
+  "audio": "audio/Y/Y-23-b-.mp3",
+  "tags": [
+   "across, away, into, out, over の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Act now, because time is running "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "out"
+   ]
+  ],
+  "secTitle": "「run ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-23-c",
+  "unit": "Y",
+  "no": "23",
+  "jp": "この前，街でブライアンにばったり会ったよ。",
+  "answers": [
+   "I ran across Brian in town the other day."
+  ],
+  "audio": "audio/Y/Y-23-c-.mp3",
+  "tags": [
+   "across, away, into, out, over の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I ran "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " Brian in town the other day."
+   }
+  ],
+  "solutions": [
+   [
+    "across"
+   ]
+  ],
+  "secTitle": "「run ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-23-d",
+  "unit": "Y",
+  "no": "23",
+  "jp": "道を横切った猫をもう少しで轢（ひ）いてしまうところだった。",
+  "answers": [
+   "I almost ran over a cat that ran across the street."
+  ],
+  "audio": "audio/Y/Y-23-d-.mp3",
+  "tags": [
+   "across, away, into, out, over の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I almost ran "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " a cat that ran across the street."
+   }
+  ],
+  "solutions": [
+   [
+    "over"
+   ]
+  ],
+  "secTitle": "「run ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-23-e",
+  "unit": "Y",
+  "no": "23",
+  "jp": "彼は車のコントロールができず，木にぶつかった。",
+  "answers": [
+   "He lost control of his car and ran into a tree."
+  ],
+  "audio": "audio/Y/Y-23-e-.mp3",
+  "tags": [
+   "across, away, into, out, over の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He lost control of his car and ran "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " a tree."
+   }
+  ],
+  "solutions": [
+   [
+    "into"
+   ]
+  ],
+  "secTitle": "「run ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-24-a",
+  "unit": "Y",
+  "no": "24",
+  "jp": "彼は卒業と同時に自分の会社を設立する計画である。",
+  "answers": [
+   "He plans to set up his own business upon graduation."
+  ],
+  "audio": "audio/Y/Y-24-a-.mp3",
+  "section": {
+   "title": "「set ＋ 副詞」 の句動詞",
+   "body": "set は 「設置する」 「設定する」 などの意味で主に他動詞として用いる。句動詞を作る場合はabout, aside, back, in, off, out, up などの副詞と結びつく。"
+  },
+  "tags": [
+   " aside, back, in, off, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He plans to set "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " his own business upon graduation."
+   }
+  ],
+  "solutions": [
+   [
+    "up"
+   ]
+  ],
+  "secTitle": "「set ＋ 副詞」 の句動詞"
+ },
+ {
+  "id": "Y-24-b",
+  "unit": "Y",
+  "no": "24",
+  "jp": "その大惨事によって（スペース）シャトル計画は何年も遅れた。",
+  "answers": [
+   "The disaster set back the shuttle program for years."
+  ],
+  "audio": "audio/Y/Y-24-b-.mp3",
+  "tags": [
+   " aside, back, in, off, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The disaster set "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the shuttle program for years."
+   }
+  ],
+  "solutions": [
+   [
+    "back"
+   ]
+  ],
+  "secTitle": "「set ＋ 副詞」 の句動詞"
+ },
+ {
+  "id": "Y-24-c",
+  "unit": "Y",
+  "no": "24",
+  "jp": "解答を見直す時間を10分取っておくことを忘れないように。",
+  "answers": [
+   "Remember to set aside 10 minutes to read through your answers."
+  ],
+  "audio": "audio/Y/Y-24-c-.mp3",
+  "tags": [
+   " aside, back, in, off, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Remember to set "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " 10 minutes to read through your answers."
+   }
+  ],
+  "solutions": [
+   [
+    "aside"
+   ]
+  ],
+  "secTitle": "「set ＋ 副詞」 の句動詞"
+ },
+ {
+  "id": "Y-24-d",
+  "unit": "Y",
+  "no": "24",
+  "jp": "交通渋滞を避けるため，早めに出発したほうがいいですよ。",
+  "answers": [
+   "You'd better set off early to avoid the traffic."
+  ],
+  "audio": "audio/Y/Y-24-d-.mp3",
+  "tags": [
+   " aside, back, in, off, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "You'd better set "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " early to avoid the traffic."
+   }
+  ],
+  "solutions": [
+   [
+    "off"
+   ]
+  ],
+  "secTitle": "「set ＋ 副詞」 の句動詞"
+ },
+ {
+  "id": "Y-24-e",
+  "unit": "Y",
+  "no": "24",
+  "jp": "梅雨（の季節）が始まったようです。",
+  "answers": [
+   "It seems that the rainy season has set in."
+  ],
+  "audio": "audio/Y/Y-24-e-.mp3",
+  "tags": [
+   " aside, back, in, off, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It seems that the rainy season has set "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "in"
+   ]
+  ],
+  "secTitle": "「set ＋ 副詞」 の句動詞"
+ },
+ {
+  "id": "Y-25-a",
+  "unit": "Y",
+  "no": "25",
+  "jp": "彼は背が高いのでどんな人混みの中にいても目立ちます。",
+  "answers": [
+   "His height makes him stand out in any crowd."
+  ],
+  "audio": "audio/Y/Y-25-a-.mp3",
+  "section": {
+   "title": "「stand ＋ 副詞・前置詞」 の句動詞",
+   "body": "stand は 「立つ」 「我慢する」 などの意味で自動詞と他動詞の両方で用いる。句動詞を作る場合はby, for, out, up などの副詞や前置詞と結びつく。"
+  },
+  "tags": [
+   "by, for, out, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "His height makes him stand "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " in any crowd."
+   }
+  ],
+  "solutions": [
+   [
+    "out"
+   ]
+  ],
+  "secTitle": "「stand ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-25-b",
+  "unit": "Y",
+  "no": "25",
+  "jp": "私の彼は今までにも何回かデートの約束をすっぽかしたことがある。",
+  "answers": [
+   "My boyfriend has stood me up a few times before."
+  ],
+  "audio": "audio/Y/Y-25-b-.mp3",
+  "tags": [
+   "by, for, out, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "My boyfriend has stood me "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " a few times before."
+   }
+  ],
+  "solutions": [
+   [
+    "up"
+   ]
+  ],
+  "secTitle": "「stand ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-25-c",
+  "unit": "Y",
+  "no": "25",
+  "jp": "ATMはAutomated Teller Machine（現金自動支払い機）の略です。",
+  "answers": [
+   "\"ATM\" stands for \"automated teller machine\""
+  ],
+  "audio": "audio/Y/Y-25-c-.mp3",
+  "tags": [
+   "by, for, out, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"ATM\" stands "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " \"automated teller machine\""
+   }
+  ],
+  "solutions": [
+   [
+    "for"
+   ]
+  ],
+  "secTitle": "「stand ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-25-d",
+  "unit": "Y",
+  "no": "25",
+  "jp": "私の家族はその試練の間，私を支えてくれました。",
+  "answers": [
+   "My family stood by me throughout the ordeal."
+  ],
+  "audio": "audio/Y/Y-25-d-.mp3",
+  "tags": [
+   "by, for, out, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "My family stood "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " me throughout the ordeal."
+   }
+  ],
+  "solutions": [
+   [
+    "by"
+   ]
+  ],
+  "secTitle": "「stand ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-26-a",
+  "unit": "Y",
+  "no": "26",
+  "jp": "レッカー車がやって来て，その車を運んで行った。",
+  "answers": [
+   "A tow truck came and took the van away."
+  ],
+  "audio": "audio/Y/Y-26-a-.mp3",
+  "section": {
+   "title": "「take ＋ 副詞・前置詞」 の句動詞",
+   "body": "take は「取る」 「持って［連れて］行く」 などの意味で主に他動詞として用いる。句動詞を作る場合はaway, in, off, on, over, up などの副詞や前置詞と結びつく。"
+  },
+  "tags": [
+   "away, in, up, over の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "A tow truck came and took the van "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "away"
+   ]
+  ],
+  "secTitle": "「take ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-26-b",
+  "unit": "Y",
+  "no": "26",
+  "jp": "ロバートが退職したら，私が彼の仕事を引き継ぐことになっています。",
+  "answers": [
+   "I'll be taking over Robert's duties when he leaves."
+  ],
+  "audio": "audio/Y/Y-26-b-.mp3",
+  "tags": [
+   "away, in, up, over の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'll be taking "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " Robert's duties when he leaves."
+   }
+  ],
+  "solutions": [
+   [
+    "over"
+   ]
+  ],
+  "secTitle": "「take ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-26-c",
+  "unit": "Y",
+  "no": "26",
+  "jp": "私は体を柔らかくするためにヨガを始めました。",
+  "answers": [
+   "I took up yoga to improve my flexibility."
+  ],
+  "audio": "audio/Y/Y-26-c-.mp3",
+  "tags": [
+   "away, in, up, over の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I took "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " yoga to improve my flexibility."
+   }
+  ],
+  "solutions": [
+   [
+    "up"
+   ]
+  ],
+  "secTitle": "「take ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-26-d",
+  "unit": "Y",
+  "no": "26",
+  "jp": "誰もその馬鹿げた口実に騙されることはなかった。",
+  "answers": [
+   "Nobody was taken in by the absurd excuse."
+  ],
+  "audio": "audio/Y/Y-26-d-.mp3",
+  "tags": [
+   "away, in, up, over の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Nobody was taken "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " by the absurd excuse."
+   }
+  ],
+  "solutions": [
+   [
+    "in"
+   ]
+  ],
+  "secTitle": "「take ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-27-a",
+  "unit": "Y",
+  "no": "27",
+  "jp": "当機はまもなく離陸いたします。席を離れないようお願い致します。",
+  "answers": [
+   "We will be taking off shortly. Please remain seated."
+  ],
+  "audio": "audio/Y/Y-27-a-.mp3",
+  "tags": [
+   "after, off, on, to の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We will be taking "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " shortly. Please remain seated."
+   }
+  ],
+  "solutions": [
+   [
+    "off"
+   ]
+  ],
+  "secTitle": "「take ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-27-b",
+  "unit": "Y",
+  "no": "27",
+  "jp": "自転車通勤を少しの間やってみましたが，好きになれませんでした。",
+  "answers": [
+   "I tried cycling to work for a while but I didn't take to it."
+  ],
+  "audio": "audio/Y/Y-27-b-.mp3",
+  "tags": [
+   "after, off, on, to の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I tried cycling to work for a while but I didn't take "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " it."
+   }
+  ],
+  "solutions": [
+   [
+    "to"
+   ]
+  ],
+  "secTitle": "「take ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-27-c",
+  "unit": "Y",
+  "no": "27",
+  "jp": "リサはとても背が高い。父方の家系に似たのですよ。",
+  "answers": [
+   "Lisa is very tall—she takes after her father's side of the family."
+  ],
+  "audio": "audio/Y/Y-27-c-.mp3",
+  "tags": [
+   "after, off, on, to の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Lisa is very tall—she takes "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " her father's side of the family."
+   }
+  ],
+  "solutions": [
+   [
+    "after"
+   ]
+  ],
+  "secTitle": "「take ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-27-d",
+  "unit": "Y",
+  "no": "27",
+  "jp": "一般に，「カルト」 ということばは否定的な意味を帯びている。",
+  "answers": [
+   "Generally, the word “cult” has taken on a negative meaning."
+  ],
+  "audio": "audio/Y/Y-27-d-.mp3",
+  "tags": [
+   "after, off, on, to の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Generally, the word \"cult\" has taken "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " a negative meaning."
+   }
+  ],
+  "solutions": [
+   [
+    "on"
+   ]
+  ],
+  "secTitle": "「take ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-28-a",
+  "unit": "Y",
+  "no": "28",
+  "jp": "これはもはや後戻りができない変化である。",
+  "answers": [
+   "This is a change from which there is no turning back."
+  ],
+  "audio": "audio/Y/Y-28-a-.mp3",
+  "section": {
+   "title": "「turn ＋ 副詞・前置詞」 の句動詞",
+   "body": "turn は 「向きを変える」 「回転させる」 などの意味で自動詞と他動詞の両方で用いる。句動詞を作る場合はaway, down, off, on, out, over, up などの副詞や前置詞と結びつく。"
+  },
+  "tags": [
+   " back, out, to, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "This is a change from which there is no turning "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "back"
+   ]
+  ],
+  "secTitle": "「turn ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-28-b",
+  "unit": "Y",
+  "no": "28",
+  "jp": "それは最終的には良い結果になるだろうと思っています。",
+  "answers": [
+   "I'm sure it will turn out all right in the end."
+  ],
+  "audio": "audio/Y/Y-28-b-.mp3",
+  "tags": [
+   " back, out, to, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'm sure it will turn "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " all right in the end."
+   }
+  ],
+  "solutions": [
+   [
+    "out"
+   ]
+  ],
+  "secTitle": "「turn ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-28-c",
+  "unit": "Y",
+  "no": "28",
+  "jp": "彼女は９時になってやっとパーティーに姿を現した。",
+  "answers": [
+   "She finally turned up at the party at nine o'clock."
+  ],
+  "audio": "audio/Y/Y-28-c-.mp3",
+  "tags": [
+   " back, out, to, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She finally turned "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " at the party at nine o'clock."
+   }
+  ],
+  "solutions": [
+   [
+    "up"
+   ]
+  ],
+  "secTitle": "「turn ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-28-d",
+  "unit": "Y",
+  "no": "28",
+  "jp": "58頁の単語欄を開いてください。",
+  "answers": [
+   "Turn to the vocabulary section on page 58."
+  ],
+  "audio": "audio/Y/Y-28-d-.mp3",
+  "tags": [
+   " back, out, to, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Turn "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the vocabulary section on page 58."
+   }
+  ],
+  "solutions": [
+   [
+    "to"
+   ]
+  ],
+  "secTitle": "「turn ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-29-a",
+  "unit": "Y",
+  "no": "29",
+  "jp": "ここを出る時に電気を消しておいてね。",
+  "answers": [
+   "Turn the light off when you leave, OK?"
+  ],
+  "audio": "audio/Y/Y-29-a-.mp3",
+  "tags": [
+   "away, down, off, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Turn the light "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " when you leave, OK?"
+   }
+  ],
+  "solutions": [
+   [
+    "off"
+   ]
+  ],
+  "secTitle": "「turn ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-29-b",
+  "unit": "Y",
+  "no": "29",
+  "jp": "蓋を取って，オーブンの温度を華氏400度に上げてください。",
+  "answers": [
+   "Remove the lid and turn the oven up to 400°F."
+  ],
+  "audio": "audio/Y/Y-29-b-.mp3",
+  "pronNote": "°F  は degrees Fahrenheit と読みます。",
+  "tags": [
+   "away, down, off, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Remove the lid and turn the oven "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to 400°F."
+   }
+  ],
+  "solutions": [
+   [
+    "up"
+   ]
+  ],
+  "secTitle": "「turn ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-29-c",
+  "unit": "Y",
+  "no": "29",
+  "jp": "私の転勤願いは却下された。",
+  "answers": [
+   "My request for a transfer was turned down."
+  ],
+  "audio": "audio/Y/Y-29-c-.mp3",
+  "tags": [
+   "away, down, off, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "My request for a transfer was turned "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "down"
+   ]
+  ],
+  "secTitle": "「turn ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-29-d",
+  "unit": "Y",
+  "no": "29",
+  "jp": "私はドアの所でガードマンに追い払われた。",
+  "answers": [
+   "I was turned away at the door by the security guard."
+  ],
+  "audio": "audio/Y/Y-29-d-.mp3",
+  "tags": [
+   "away, down, off, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I was turned "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " at the door by the security guard."
+   }
+  ],
+  "solutions": [
+   [
+    "away"
+   ]
+  ],
+  "secTitle": "「turn ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-30-a",
+  "unit": "Y",
+  "no": "30",
+  "jp": "父は香港の商社に勤めています。",
+  "answers": [
+   "My father works for a trading company in Hong Kong."
+  ],
+  "audio": "audio/Y/Y-30-a-.mp3",
+  "section": {
+   "title": "「work ＋ 副詞・前置詞」 の句動詞",
+   "body": "work は 「機能する」 「作業をする」 などの意味で主に自動詞として用いる。句動詞を作る場合はout，on，up, for などの副詞や前置詞と結びつく。"
+  },
+  "tags": [
+   "for, on, out, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "My father works "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " a trading company in Hong Kong."
+   }
+  ],
+  "solutions": [
+   [
+    "for"
+   ]
+  ],
+  "secTitle": "「work ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-30-b",
+  "unit": "Y",
+  "no": "30",
+  "jp": "まだあまりうまくないんですが，うまくなろうと努力しています。",
+  "answers": [
+   "I'm still not very good at it, but I'm working on it."
+  ],
+  "audio": "audio/Y/Y-30-b-.mp3",
+  "tags": [
+   "for, on, out, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'm still not very good at it, but I'm working "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " it."
+   }
+  ],
+  "solutions": [
+   [
+    "on"
+   ]
+  ],
+  "secTitle": "「work ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-30-c",
+  "unit": "Y",
+  "no": "30",
+  "jp": "もう答えは出せたかい？",
+  "answers": [
+   "Have you worked out the answer yet?"
+  ],
+  "audio": "audio/Y/Y-30-c-.mp3",
+  "tags": [
+   "for, on, out, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Have you worked "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the answer yet?"
+   }
+  ],
+  "solutions": [
+   [
+    "out"
+   ]
+  ],
+  "secTitle": "「work ＋ 副詞・前置詞」 の句動詞"
+ },
+ {
+  "id": "Y-30-d",
+  "unit": "Y",
+  "no": "30",
+  "jp": "なんとかエネルギーを振り絞って仕事に出かけた。",
+  "answers": [
+   "I could barely work up the energy to go to the office."
+  ],
+  "audio": "audio/Y/Y-30-d-.mp3",
+  "tags": [
+   "for, on, out, up の中から適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I could barely work "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the energy to go to the office."
+   }
+  ],
+  "solutions": [
+   [
+    "up"
+   ]
+  ],
+  "secTitle": "「work ＋ 副詞・前置詞」 の句動詞"
+ }
+]

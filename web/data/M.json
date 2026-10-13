@@ -1,0 +1,1628 @@
+[
+ {
+  "id": "M-01",
+  "unit": "M",
+  "no": "01",
+  "jp": "黄色と青色を混ぜ合わせると，緑色になります。",
+  "answers": [
+   "If you mix yellow and blue, you get green."
+  ],
+  "audio": "audio/M/M-01-.mp3",
+  "section": {
+   "title": "直説法の条件文",
+   "body": "一般的な事実［真理］や，事実に反しないこと，事実関係が（ A ）ことを 「～ならば（その結果）…である」 と述べたり，現実的［日常的］な未来のことを 「～すれば（その結果）…となる」 と述べる場合は，述べられている通りの時制で表す。これを「直説法」 と呼ぶ。但し，if 節が未来のことを表す場合は（ B ）を用いる。"
+  },
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "If you mix yellow and blue, you get green.",
+  "secTitle": "直説法の条件文"
+ },
+ {
+  "id": "M-02",
+  "unit": "M",
+  "no": "02",
+  "jp": "彼女にとって初めての赤ちゃんなら，不安になるのも無理ないわ。",
+  "answers": [
+   "If it's her first baby, she can't help feeling anxious."
+  ],
+  "audio": "audio/M/M-02-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "If it's her first baby, she can't help feeling anxious.",
+  "secTitle": "直説法の条件文"
+ },
+ {
+  "id": "M-03",
+  "unit": "M",
+  "no": "03",
+  "jp": "もし誰かが私を尋ねてきたら，すぐに戻ると伝えてください。",
+  "answers": [
+   "If anyone asks for me, tell them I'll be back soon.",
+   "If anyone should ask for me, tell them I'll be back soon."
+  ],
+  "audio": "audio/M/M-03-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "If anyone will ask for me, tell them I'll be back soon.",
+  "secTitle": "直説法の条件文"
+ },
+ {
+  "id": "M-04",
+  "unit": "M",
+  "no": "04",
+  "jp": "たとえがっかりしていたとしても，彼女はそれを態度には出さなかった。",
+  "answers": [
+   "If she was disappointed, she didn't show it."
+  ],
+  "audio": "audio/M/M-04-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "If she was disappointed, she didn't show it.",
+  "secTitle": "直説法の条件文"
+ },
+ {
+  "id": "M-05",
+  "unit": "M",
+  "no": "05",
+  "jp": "あの晩彼がそこにいたのなら（いたかどうかは知らないが），きっと全てを目撃していたに違いない。",
+  "answers": [
+   "If he was there that night, he must have seen everything."
+  ],
+  "audio": "audio/M/M-05-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "If he was there that night, he must have seen everything.",
+  "secTitle": "直説法の条件文"
+ },
+ {
+  "id": "M-06",
+  "unit": "M",
+  "no": "06",
+  "jp": "どこに置いたかわかっていれば，今こうして探してなんかいないよ。",
+  "answers": [
+   "If I knew where I left it, I wouldn't be looking for it."
+  ],
+  "audio": "audio/M/M-06-.mp3",
+  "section": {
+   "title": "仮定法過去 ① ～ 現在や未来の仮想",
+   "body": "現実［日常］的なことを述べる直説法に対し，非現実［非日常］的な仮想［空想］の表現を 「仮定法」 と呼ぶ。仮定法は述べられている内容とは異なる時制で表す。例えば，現在の事実に反することや現実に起こりそうにない非日常的なことを指して 「仮に～ならば（その結果）…だろう」 と言う場合は，if 節を（ A ）で表し，主節を 「助動詞の（ B ）＋ 動詞の原形」 で表す。これを 「仮定法過去」 と呼ぶ。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "If I know where I left it, I am not looking for it.",
+  "secTitle": "仮定法過去 ① ～ 現在や未来の仮想"
+ },
+ {
+  "id": "M-07",
+  "unit": "M",
+  "no": "07",
+  "jp": "僕が君（の立場）なら，そのお金はもらっておくけどね。",
+  "answers": [
+   "If I were you, I would take the money."
+  ],
+  "audio": "audio/M/M-07-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "If I am you, I will take the money.",
+  "secTitle": "仮定法過去 ① ～ 現在や未来の仮想"
+ },
+ {
+  "id": "M-08",
+  "unit": "M",
+  "no": "08",
+  "jp": "彼がいなければ，我々は今頃大変なことになっていたかもしれない。",
+  "answers": [
+   "If it weren't for him, we might be in big trouble now.",
+   "If it wasn't for him, we might be in big trouble now."
+  ],
+  "audio": "audio/M/M-08-.mp3",
+  "tags": [
+   "適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "If it "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " him, we "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " be in big trouble now."
+   }
+  ],
+  "solutions": [
+   [
+    "weren't",
+    "for",
+    "might"
+   ],
+   [
+    "wasn't",
+    "for",
+    "might"
+   ]
+  ],
+  "secTitle": "仮定法過去 ① ～ 現在や未来の仮想"
+ },
+ {
+  "id": "M-09",
+  "unit": "M",
+  "no": "09",
+  "jp": "もしも家が火事で何か一つだけ持ち出せるとしたら，それは何ですか？",
+  "answers": [
+   "If your home was on fire and you could save only one thing, what would it be?"
+  ],
+  "audio": "audio/M/M-09-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "If your home was on fire and you can save only one thing, what would it be?",
+  "secTitle": "仮定法過去 ① ～ 現在や未来の仮想"
+ },
+ {
+  "id": "M-10",
+  "unit": "M",
+  "no": "10",
+  "jp": "もし第三次世界大戦が起きたら，人類は滅亡するかもしれない。",
+  "answers": [
+   "If a Third World War broke out, the human race might be exterminated."
+  ],
+  "audio": "audio/M/M-10-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "If a Third World War "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "breaks",
+     "broke",
+     "would break"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " out, the human race "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "may",
+     "might"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " be exterminated."
+   }
+  ],
+  "solutions": [
+   [
+    "broke",
+    "might"
+   ]
+  ],
+  "secTitle": "仮定法過去 ① ～ 現在や未来の仮想"
+ },
+ {
+  "id": "M-11",
+  "unit": "M",
+  "no": "11",
+  "jp": "もし彼が（これを）知ったら，たぶん私と別れるでしょうね。",
+  "answers": [
+   "If my boyfriend were to find out, he would probably leave me."
+  ],
+  "audio": "audio/M/M-11-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "If my boyfriend "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " find out, he would probably leave me."
+   }
+  ],
+  "solutions": [
+   [
+    "were",
+    "to"
+   ]
+  ],
+  "secTitle": "仮定法過去 ① ～ 現在や未来の仮想"
+ },
+ {
+  "id": "M-12",
+  "unit": "M",
+  "no": "12",
+  "jp": "もしも明日職を失ったとしたら，あなたはどうしますか？",
+  "answers": [
+   "Suppose you lost your job tomorrow, what would you do?"
+  ],
+  "audio": "audio/M/M-12-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank",
+    "hint": "S"
+   },
+   {
+    "t": "text",
+    "v": " you "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " your job tomorrow, what "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " you do?"
+   }
+  ],
+  "solutions": [
+   [
+    "Suppose",
+    "lost",
+    "would"
+   ]
+  ],
+  "secTitle": "仮定法過去 ① ～ 現在や未来の仮想"
+ },
+ {
+  "id": "M-13",
+  "unit": "M",
+  "no": "13",
+  "jp": "今日少し早めに退社させていただいてもかまいませんか？",
+  "answers": [
+   "Would it be OK if I left work a bit earlier today?"
+  ],
+  "audio": "audio/M/M-13-.mp3",
+  "section": {
+   "title": "仮定法過去 ② ～ 控え目な言い方",
+   "body": "仮定法過去には，現在や未来の非現実［非日常］的な仮想を表す他に，依頼や提案を（ A ）言い方にするという働きがある。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Will it be OK if I leave work a bit earlier today?",
+  "secTitle": "仮定法過去 ② ～ 控え目な言い方"
+ },
+ {
+  "id": "M-14-b",
+  "unit": "M",
+  "no": "14",
+  "jp": "早急にご回答いただければ幸いです。",
+  "answers": [
+   "I would appreciate it if you could reply promptly."
+  ],
+  "audio": "audio/M/M-14-b-.mp3",
+  "tags": [
+   "どちらがより控え目な言い方か"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I would appreciate it if you could reply promptly.",
+  "secTitle": "仮定法過去 ② ～ 控え目な言い方"
+ },
+ {
+  "id": "M-15",
+  "unit": "M",
+  "no": "15",
+  "jp": "もう少し詰めて座っていただけると，全員が座れるのですが。",
+  "answers": [
+   "If you were to sit a little closer, we could all sit down."
+  ],
+  "audio": "audio/M/M-15-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "If you "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " sit a little closer, we could all sit down."
+   }
+  ],
+  "solutions": [
+   [
+    "were",
+    "to"
+   ]
+  ],
+  "secTitle": "仮定法過去 ② ～ 控え目な言い方"
+ },
+ {
+  "id": "M-16",
+  "unit": "M",
+  "no": "16",
+  "jp": "それは言わないでおいた方がよかったのに。",
+  "answers": [
+   "It would have been better if you had left it unsaid."
+  ],
+  "audio": "audio/M/M-16-.mp3",
+  "section": {
+   "title": "仮定法過去完了 ～ 過去の事実に反する仮想",
+   "body": "「仮に（過去において）～だったなら（その結果，過去において）…だっただろう」 という過去の事実に反する仮想は，if 節を（ A ）で表し，主節を 「助動詞の（ B ）＋（ C ）＋（ D ）」 で表す。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "It would be better if you left it unsaid.",
+  "secTitle": "仮定法過去完了 ～ 過去の事実に反する仮想"
+ },
+ {
+  "id": "M-17",
+  "unit": "M",
+  "no": "17",
+  "jp": "渋滞がなければもっと早く到着していたんですけどね。",
+  "answers": [
+   "We would have arrived much earlier if it hadn't been for the traffic jam."
+  ],
+  "audio": "audio/M/M-17-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "We would have arrived much earlier if it weren't for the traffic jam.",
+  "secTitle": "仮定法過去完了 ～ 過去の事実に反する仮想"
+ },
+ {
+  "id": "M-18",
+  "unit": "M",
+  "no": "18",
+  "jp": "もしシートベルトをしていなかったら，私は死んでいたかもしれません。",
+  "answers": [
+   "If I hadn't been wearing a seatbelt, I might have been killed."
+  ],
+  "audio": "audio/M/M-18-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "If I hadn't been wearing a seatbelt, I may have been killed.",
+  "secTitle": "仮定法過去完了 ～ 過去の事実に反する仮想"
+ },
+ {
+  "id": "M-19",
+  "unit": "M",
+  "no": "19",
+  "jp": "もっと時間があれば，きちんとした仕事ができていたのですが。",
+  "answers": [
+   "If I had had more time, I would have been able to finish the job properly."
+  ],
+  "audio": "audio/M/M-19-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "If I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " more time, I would "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to finish the job properly."
+   }
+  ],
+  "solutions": [
+   [
+    "had",
+    "had",
+    "have",
+    "been",
+    "able"
+   ]
+  ],
+  "secTitle": "仮定法過去完了 ～ 過去の事実に反する仮想"
+ },
+ {
+  "id": "M-20",
+  "unit": "M",
+  "no": "20",
+  "jp": "私の言うことを聞いていれば，こんなことにはならなかったのに。",
+  "answers": [
+   "If you had taken my advice, you wouldn't be in such trouble now."
+  ],
+  "audio": "audio/M/M-20-.mp3",
+  "section": {
+   "title": "仮定法過去完了と仮定法過去の混合",
+   "body": "if 節で 「仮に（過去において）～だったなら」 と過去の事実に反することを述べ，主節で 「（その結果，現在）…であろう」 と現在の事実に反することを述べる場合は， if 節を（ A ）で表し，主節を「助動詞の（ B ）＋（ C ）」 で表す。また，「仮に（現在・習慣的に）～ならば，（その結果，過去に）…だっただろう」 という場合は，if 節を（ D ）で表し，主節を 「助動詞の（ B ）＋have＋過去分詞」 で表す。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "If you "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "took",
+     "had taken"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " my advice, you "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "weren't",
+     "wouldn't be",
+     "wouldn't have been"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " in such trouble now."
+   }
+  ],
+  "solutions": [
+   [
+    "had taken",
+    "wouldn't be"
+   ]
+  ],
+  "secTitle": "仮定法過去完了と仮定法過去の混合"
+ },
+ {
+  "id": "M-21",
+  "unit": "M",
+  "no": "21",
+  "jp": "その薬を服用していなかったら，彼らは今もまだ生きていただろう。",
+  "answers": [
+   "They would still be alive today if they hadn't taken that drug."
+  ],
+  "audio": "audio/M/M-21-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "They "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " still "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " alive today if they "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank",
+    "hint": "t"
+   },
+   {
+    "t": "text",
+    "v": " that drug."
+   }
+  ],
+  "solutions": [
+   [
+    "would",
+    "be",
+    "hadn't",
+    "taken"
+   ]
+  ],
+  "secTitle": "仮定法過去完了と仮定法過去の混合"
+ },
+ {
+  "id": "M-22",
+  "unit": "M",
+  "no": "22",
+  "jp": "私が料理が上手なら，みんなを昼食に招待していたのですけどね。",
+  "answers": [
+   "If I were a good cook, I'd have invited them to lunch."
+  ],
+  "audio": "audio/M/M-22-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "If I were a good cook, I'd have invited them to lunch.",
+  "secTitle": "仮定法過去完了と仮定法過去の混合"
+ },
+ {
+  "id": "M-23",
+  "unit": "M",
+  "no": "23",
+  "jp": "やり方がわかってれば，とっくの昔に直してるよ。",
+  "answers": [
+   "If I knew how, I would have fixed it a long time ago."
+  ],
+  "audio": "audio/M/M-23-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "If I knew how, I would have fixed it a long time ago.",
+  "secTitle": "仮定法過去完了と仮定法過去の混合"
+ },
+ {
+  "id": "M-24-a",
+  "unit": "M",
+  "no": "24",
+  "jp": "もう少し頑張っていれば，試合に勝てたかもしれない。",
+  "answers": [
+   "With a bit more effort, I might have won the game."
+  ],
+  "audio": "audio/M/M-24-a-.mp3",
+  "section": {
+   "title": "if 節の代用をする副詞（句）",
+   "body": "仮定法や直説法のif 節は，（ A ）句やto不定詞，分詞に置き換えられることがある。"
+  },
+  "tags": [
+   "下線部のif 節を他の語句に置き換え，全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "If I had made a bit more effort, I might have won the game.",
+  "secTitle": "if 節の代用をする副詞（句）"
+ },
+ {
+  "id": "M-24-b",
+  "unit": "M",
+  "no": "24",
+  "jp": "彼の指導力がなければ我が社は倒産していただろう。",
+  "answers": [
+   "Our company would have gone bankrupt without his leadership."
+  ],
+  "audio": "audio/M/M-24-b-.mp3",
+  "tags": [
+   "下線部のif 節を他の語句に置き換え，全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Our company would have gone bankrupt if it hadn't been for his leadership.",
+  "secTitle": "if 節の代用をする副詞（句）"
+ },
+ {
+  "id": "M-24-c",
+  "unit": "M",
+  "no": "24",
+  "jp": "電話ぐらいしてくれてもいいのに。何時間も待っていたんだから。",
+  "answers": [
+   "It wouldn't have hurt you to have made a call. I was waiting for hours!",
+   "It wouldn't have hurt you to make a call. I was waiting for hours!"
+  ],
+  "audio": "audio/M/M-24-c-.mp3",
+  "tags": [
+   "下線部のif 節を他の語句に置き換え，全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "It wouldn't have hurt you if you had made a call. I was waiting for hours!",
+  "secTitle": "if 節の代用をする副詞（句）"
+ },
+ {
+  "id": "M-24-d",
+  "unit": "M",
+  "no": "24",
+  "jp": "彼の話を聞けば，かなり信心深い人だと思うことでしょう。",
+  "answers": [
+   "To hear him talk, you'd think he was quite a religious man."
+  ],
+  "audio": "audio/M/M-24-d-.mp3",
+  "tags": [
+   "下線部のif 節を他の語句に置き換え，全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "If you were to hear him talk, you'd think he was quite a religious man.",
+  "secTitle": "if 節の代用をする副詞（句）"
+ },
+ {
+  "id": "M-24-e",
+  "unit": "M",
+  "no": "24",
+  "jp": "彼はかなり頭がいいんだろう。でなければ，あの大学には入れなかっただろう。",
+  "answers": [
+   "He must be fairly intelligent; otherwise, he wouldn't have gotten into that university."
+  ],
+  "audio": "audio/M/M-24-e-.mp3",
+  "tags": [
+   "下線部のif 節を他の語句に置き換え，全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "He must be fairly intelligent; if he weren't, he wouldn't have gotten into that university.",
+  "secTitle": "if 節の代用をする副詞（句）"
+ },
+ {
+  "id": "M-24-f",
+  "unit": "M",
+  "no": "24",
+  "jp": "賢く使えば，インターネットは効果的な販売とマーケティングの道具になります。",
+  "answers": [
+   "Used wisely, the Internet can be an effective sales and marketing tool."
+  ],
+  "audio": "audio/M/M-24-f-.mp3",
+  "tags": [
+   "下線部のif 節を他の語句に置き換え，全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "If it is used wisely, the Internet can be an effective sales and marketing tool.",
+  "secTitle": "if 節の代用をする副詞（句）"
+ },
+ {
+  "id": "M-25-a",
+  "unit": "M",
+  "no": "25",
+  "jp": "何かわからないことがありましたら，遠慮なくお問い合わせください。",
+  "answers": [
+   "Should you have any questions, please feel free to contact us.",
+   "If you should have any questions, please feel free to contact us."
+  ],
+  "audio": "audio/M/M-25-a-.mp3",
+  "section": {
+   "title": "if 節での省略＋倒置",
+   "body": "仮定法や直説法のif 節では（ A ）を省略して（ B ）文の語順にすることがある。これが行われるのは主として，（ C ）が用いられる仮定［直説］法とwere が用いられる仮定法過去のif 節，及び，仮定法過去完了（had ＋過去分詞）のif 節である。"
+  },
+  "tags": [
+   "下線部をif 節に置き換え，全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Should you have any questions, please feel free to contact us.",
+  "secTitle": "if 節での省略＋倒置"
+ },
+ {
+  "id": "M-25-b",
+  "unit": "M",
+  "no": "25",
+  "jp": "あなたの愛する人が私ではないことをもっと早く言ってくれていたら，私はあなたのことを全て忘れていたのに。",
+  "answers": [
+   "Had you told me sooner that I wasn't the one you loved, I would have forgotten all about you.",
+   "If you had told me sooner that I wasn't the one you loved, I would have forgotten all about you."
+  ],
+  "audio": "audio/M/M-25-b-.mp3",
+  "tags": [
+   "下線部をif 節に置き換え，全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Had you told me sooner that I wasn't the one you loved, I would have forgotten all about you.",
+  "secTitle": "if 節での省略＋倒置"
+ },
+ {
+  "id": "M-25-c",
+  "unit": "M",
+  "no": "25",
+  "jp": "彼女を救った二人の男性がいなかったら，彼女は溺れていただろう。",
+  "answers": [
+   "Had it not been for the two men who rescued her, she would have drowned.",
+   "If it hadn't been for the two men who rescued her, she would have drowned."
+  ],
+  "audio": "audio/M/M-25-c-.mp3",
+  "tags": [
+   "下線部をif 節に置き換え，全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Had it not been for the two men who rescued her, she would have drowned.",
+  "secTitle": "if 節での省略＋倒置"
+ },
+ {
+  "id": "M-25-d",
+  "unit": "M",
+  "no": "25",
+  "jp": "遺体がもっと早く見つかっていれば，おそらく警察はもっと多くの手がかりを得ていたであろう。",
+  "answers": [
+   "The police would probably have found more clues had the body been discovered sooner.",
+   "The police would probably have found more clues if the body had been discovered sooner."
+  ],
+  "audio": "audio/M/M-25-d-.mp3",
+  "tags": [
+   "下線部をif 節に置き換え，全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "The police would probably have found more clues had the body been discovered sooner.",
+  "secTitle": "if 節での省略＋倒置"
+ },
+ {
+  "id": "M-25-e",
+  "unit": "M",
+  "no": "25",
+  "jp": "もしアメリカ人でなかったとしたら，私はフランス人になることを選択する。",
+  "answers": [
+   "Were I not American, I would choose to be French.",
+   "If I were not American, I would choose to be French."
+  ],
+  "audio": "audio/M/M-25-e-.mp3",
+  "tags": [
+   "下線部をif 節に置き換え，全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Were I not American, I would choose to be French.",
+  "secTitle": "if 節での省略＋倒置"
+ },
+ {
+  "id": "M-26",
+  "unit": "M",
+  "no": "26",
+  "jp": "彼女の存在がなければこの本は存在しなかったのではないかと思う。",
+  "answers": [
+   "I doubt this book would exist if not for her."
+  ],
+  "audio": "audio/M/M-26-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I doubt this book would exist if "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " for her."
+   }
+  ],
+  "solutions": [
+   [
+    "not"
+   ]
+  ],
+  "secTitle": "if 節での省略＋倒置"
+ },
+ {
+  "id": "M-27",
+  "unit": "M",
+  "no": "27",
+  "jp": "あなたも我々の取り組みに参加してくれることを願っています。",
+  "answers": [
+   "We hope that you will join us in this effort."
+  ],
+  "audio": "audio/M/M-27-.mp3",
+  "section": {
+   "title": "願望を表す直説法と仮定法",
+   "body": "希望や願望を表すhope とwish は目的語にthat 節をとることができる（that は通常省略）。この場合，単なる希望は（ A ）で表し，実現していないことや実現不可能［困難］なことに対する願望は（ B ）で表す。（ A ）はthat 節を直説法で表し，（ B ）はthat 節を仮定法（原則として仮定法のif 節と同じ時制）で表す。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "want",
+     "hope",
+     "wish"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " that you will join us in this effort."
+   }
+  ],
+  "solutions": [
+   [
+    "hope"
+   ]
+  ],
+  "secTitle": "願望を表す直説法と仮定法"
+ },
+ {
+  "id": "M-28",
+  "unit": "M",
+  "no": "28",
+  "jp": "あなたに何か嫌なことを思い出させたのでなければいいのですが。",
+  "answers": [
+   "I hope I didn't remind you of something unpleasant."
+  ],
+  "audio": "audio/M/M-28-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " I didn't remind you of something unpleasant."
+   }
+  ],
+  "solutions": [
+   [
+    "hope"
+   ]
+  ],
+  "secTitle": "願望を表す直説法と仮定法"
+ },
+ {
+  "id": "M-29",
+  "unit": "M",
+  "no": "29",
+  "jp": "一緒に来られる？ できれば来てほしいんだけど。",
+  "answers": [
+   "Can you come with me? I hope you can."
+  ],
+  "audio": "audio/M/M-29-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Can you come with me? I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " you "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "hope",
+    "can"
+   ]
+  ],
+  "secTitle": "願望を表す直説法と仮定法"
+ },
+ {
+  "id": "M-30",
+  "unit": "M",
+  "no": "30",
+  "jp": "鳥になって彼女の所に飛んで行きたい。",
+  "answers": [
+   "I wish I were a bird and could fly to her."
+  ],
+  "audio": "audio/M/M-30-.mp3",
+  "section": {
+   "title": "願望を表す仮定法",
+   "body": "仮定法で用いる 「wish ＋(that) 節」 は 「残念な気持ち」 を表す。that 節の時制は現在の事実や習慣的［一般的］事実に反することなら（ A ）形で，過去の事実に反することなら（ B ）形で表す。また，現状から見て実現不可能［困難］なことを「…して［しないで］くれればいいのに」 と言う場合は助動詞の（ C ）を用いる。I wishと同じ表現としてIf only を用いることもあるが，これはI wish より強い感情を表し，文末を感嘆符（!）にすることが多い。"
+  },
+  "tags": [
+   "間違いがあれば訂正"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I want to be a bird and fly to her.",
+  "secTitle": "願望を表す仮定法"
+ },
+ {
+  "id": "M-31-a",
+  "unit": "M",
+  "no": "31",
+  "jp": "私があと20歳若かったらなぁ。",
+  "answers": [
+   "I wish I were 20 years younger.",
+   "I wish I was 20 years younger."
+  ],
+  "audio": "audio/M/M-31-a-.mp3",
+  "tags": [
+   "適語を記入し２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " 20 years younger."
+   }
+  ],
+  "solutions": [
+   [
+    "wish",
+    "were"
+   ],
+   [
+    "wish",
+    "was"
+   ]
+  ],
+  "secTitle": "願望を表す仮定法"
+ },
+ {
+  "id": "M-31-b",
+  "unit": "M",
+  "no": "31",
+  "jp": "私があと20歳若かったらなぁ。",
+  "answers": [
+   "If only I were 20 years younger!",
+   "If only I was 20 years younger!"
+  ],
+  "audio": "audio/M/M-31-b-.mp3",
+  "tags": [
+   "適語を記入し２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "If "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " 20 years younger!"
+   }
+  ],
+  "solutions": [
+   [
+    "only",
+    "were"
+   ],
+   [
+    "only",
+    "was"
+   ]
+  ],
+  "secTitle": "願望を表す仮定法"
+ },
+ {
+  "id": "M-32-a",
+  "unit": "M",
+  "no": "32",
+  "jp": "ちゃんと話を聞いておけばよかったよ。",
+  "answers": [
+   "I wish I had listened more carefully."
+  ],
+  "audio": "audio/M/M-32-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " more carefully."
+   }
+  ],
+  "solutions": [
+   [
+    "wish",
+    "I",
+    "had",
+    "listened"
+   ]
+  ],
+  "secTitle": "願望を表す仮定法"
+ },
+ {
+  "id": "M-32-b",
+  "unit": "M",
+  "no": "32",
+  "jp": "ちゃんと話を聞いておけばよかったよ。",
+  "answers": [
+   "If only I had listened more carefully!"
+  ],
+  "audio": "audio/M/M-32-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " more carefully!"
+   }
+  ],
+  "solutions": [
+   [
+    "If",
+    "only",
+    "had",
+    "listened"
+   ]
+  ],
+  "secTitle": "願望を表す仮定法"
+ },
+ {
+  "id": "M-33",
+  "unit": "M",
+  "no": "33",
+  "jp": "彼はすごく良いプレーをしたんだろうね。僕も試合を見たかったよ。",
+  "answers": [
+   "He must have played really well. I wish I'd seen the match."
+  ],
+  "audio": "audio/M/M-33-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He must have played really well. I wish "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " seen the match."
+   }
+  ],
+  "solutions": [
+   [
+    "I'd"
+   ]
+  ],
+  "secTitle": "願望を表す仮定法"
+ },
+ {
+  "id": "M-34",
+  "unit": "M",
+  "no": "34",
+  "jp": "「君も来られる？」「できればそうしたいんだけど忙しくてね」",
+  "answers": [
+   "\"Can you go too?\" \"I wish I could, but I'm too busy.\""
+  ],
+  "audio": "audio/M/M-34-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"Can you go too?\" \"I wish I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": ", but I'm too busy.\""
+   }
+  ],
+  "solutions": [
+   [
+    "could"
+   ]
+  ],
+  "secTitle": "願望を表す仮定法"
+ },
+ {
+  "id": "M-35-a",
+  "unit": "M",
+  "no": "35",
+  "jp": "彼女には金持ちで教養のある男性と結婚してもらいたいのですが。",
+  "answers": [
+   "I would like her to marry a rich, well-educated man."
+  ],
+  "audio": "audio/M/M-35-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I would like her to marry a rich, well-educated man.",
+  "secTitle": "願望を表す仮定法"
+ },
+ {
+  "id": "M-35-b",
+  "unit": "M",
+  "no": "35",
+  "jp": "彼女には金持ちで教養のある男性と結婚してもらいたいのですが。",
+  "answers": [
+   "I wish she would marry a rich, well-educated man."
+  ],
+  "audio": "audio/M/M-35-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I wish she would marry a rich, well-educated man.",
+  "secTitle": "願望を表す仮定法"
+ },
+ {
+  "id": "M-36",
+  "unit": "M",
+  "no": "36",
+  "jp": "先生がたくさん宿題を出さないでくれればなぁ。",
+  "answers": [
+   "I wish my teacher didn't give me extra work.",
+   "I wish my teacher wouldn't give me extra work."
+  ],
+  "audio": "audio/M/M-36-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I wish my teacher "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " give me extra work."
+   }
+  ],
+  "solutions": [
+   [
+    "didn't"
+   ],
+   [
+    "wouldn't"
+   ]
+  ],
+  "secTitle": "願望を表す仮定法"
+ },
+ {
+  "id": "M-37",
+  "unit": "M",
+  "no": "37",
+  "jp": "もう少し小遣いを増やしてもらえるとありがたいんだけど。",
+  "answers": [
+   "I wish you would give me more pocket money.",
+   "I wish you could give me more pocket money."
+  ],
+  "audio": "audio/M/M-37-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I wish you "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " give me more pocket money."
+   }
+  ],
+  "solutions": [
+   [
+    "would"
+   ],
+   [
+    "could"
+   ]
+  ],
+  "secTitle": "願望を表す仮定法"
+ },
+ {
+  "id": "M-38",
+  "unit": "M",
+  "no": "38",
+  "jp": "彼はまるでジャガイモを口の中に入れているかのような話し方をする。",
+  "answers": [
+   "He talks as if he had a potato in his mouth.",
+   "He talks as though he had a potato in his mouth."
+  ],
+  "audio": "audio/M/M-38-.mp3",
+  "section": {
+   "title": "as if / as though の使い方",
+   "body": "「まるで～かのように」 と言う場合はas if かas though を用い，その内容が事実に反する場合や話し手がそれを疑わしいと感じている場合は（ A ）で表す。また， as if [as though] は 「～のようだ」 という意味で印象を述べる文でも用いるが，その場合は（ B ）で表す。これは 「It looks [seems, sounds] as if [as though] ～」などの表現で，（（米））ではas if [as though] の代わりに（ C ）を用いることもある。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He talks "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " he "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " a potato in his mouth."
+   }
+  ],
+  "solutions": [
+   [
+    "as",
+    "if",
+    "had"
+   ],
+   [
+    "as",
+    "though",
+    "had"
+   ]
+  ],
+  "secTitle": "as if / as though の使い方"
+ },
+ {
+  "id": "M-39",
+  "unit": "M",
+  "no": "39",
+  "jp": "彼はまるで自分が宇宙の中心であるかのような気分になっていた。",
+  "answers": [
+   "He felt as if he were the center of the universe."
+  ],
+  "audio": "audio/M/M-39-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He felt as if he "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "were",
+     "had been"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " the center of the universe."
+   }
+  ],
+  "solutions": [
+   [
+    "were"
+   ]
+  ],
+  "secTitle": "as if / as though の使い方"
+ },
+ {
+  "id": "M-40",
+  "unit": "M",
+  "no": "40",
+  "jp": "彼女はまるで幽霊でも見たかのような顔をしていた。",
+  "answers": [
+   "She looked as if she had seen a ghost."
+  ],
+  "audio": "audio/M/M-40-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She looked as if she "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "saw",
+     "had seen"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " a ghost."
+   }
+  ],
+  "solutions": [
+   [
+    "had seen"
+   ]
+  ],
+  "secTitle": "as if / as though の使い方"
+ },
+ {
+  "id": "M-41-a",
+  "unit": "M",
+  "no": "41",
+  "jp": "どうやら君はよい選択をしたようだね。",
+  "answers": [
+   "It looks as if you made the right choice.",
+   "It looks as though you made the right choice."
+  ],
+  "audio": "audio/M/M-41-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It looks "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " you made the right choice."
+   }
+  ],
+  "solutions": [
+   [
+    "as",
+    "if"
+   ],
+   [
+    "as",
+    "though"
+   ]
+  ],
+  "secTitle": "as if / as though の使い方"
+ },
+ {
+  "id": "M-41-b",
+  "unit": "M",
+  "no": "41",
+  "jp": "どうやら君はよい選択をしたようだね。",
+  "answers": [
+   "It looks like you made the right choice."
+  ],
+  "audio": "audio/M/M-41-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It looks "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " you made the right choice."
+   }
+  ],
+  "solutions": [
+   [
+    "like"
+   ]
+  ],
+  "secTitle": "as if / as though の使い方"
+ },
+ {
+  "id": "M-42",
+  "unit": "M",
+  "no": "42",
+  "jp": "彼は，私を落ち着かせようとするかのように，私の肩に手を置いた。",
+  "answers": [
+   "He put his hand on my shoulder, as if to calm me."
+  ],
+  "audio": "audio/M/M-42-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He put his hand on my shoulder, as if "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " calm me."
+   }
+  ],
+  "solutions": [
+   [
+    "to"
+   ]
+  ],
+  "secTitle": "as if / as though の使い方"
+ }
+]

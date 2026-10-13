@@ -1,0 +1,1906 @@
+[
+ {
+  "id": "O-01",
+  "unit": "O",
+  "no": "01",
+  "jp": "そんなかたくならずに，気楽にしてよ。",
+  "answers": [
+   "Don't be so nervous. Just relax."
+  ],
+  "audio": "audio/O/O-01-.mp3",
+  "section": {
+   "title": "not の使い方",
+   "body": "「do [does, did] ＋not ＋動詞」や 「be ＋not ...」 のようなnot を用いた否定表現は（ A ）形で表すことが多い。また，命令文は常に 「Don't ＋動詞の原形」 を用いる。「～で（は）ないのですか？」 という否定疑問は文頭で助動詞の（ A ）形を用いるが，堅い言い方では 「助動詞＋主語＋（ B ）」 の形にすることがある。"
+  },
+  "tags": [
+   "適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " so nervous. Just relax."
+   }
+  ],
+  "solutions": [
+   [
+    "Don't",
+    "be"
+   ]
+  ],
+  "secTitle": "not の使い方"
+ },
+ {
+  "id": "O-02",
+  "unit": "O",
+  "no": "02",
+  "jp": "「スプーンは一つもないの？」「いいえ，２つあります」",
+  "answers": [
+   "\"Don't you have any spoons?\" \"Yes, I have two spoons.\""
+  ],
+  "audio": "audio/O/O-02-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\""
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " have any spoons?\" \""
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": ", I have two spoons.\""
+   }
+  ],
+  "solutions": [
+   [
+    "Don't",
+    "you",
+    "Yes"
+   ]
+  ],
+  "secTitle": "not の使い方"
+ },
+ {
+  "id": "O-03",
+  "unit": "O",
+  "no": "03",
+  "jp": "どうして彼らは私達の言っていることがわからないのでしょう。",
+  "answers": [
+   "Why do they not understand what we are saying?"
+  ],
+  "audio": "audio/O/O-03-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Why "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " they "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " understand what we are saying?"
+   }
+  ],
+  "solutions": [
+   [
+    "do",
+    "not"
+   ]
+  ],
+  "secTitle": "not の使い方"
+ },
+ {
+  "id": "O-04",
+  "unit": "O",
+  "no": "04",
+  "jp": "毎日運動をしているのに，どうして体重が減らないのかしら？",
+  "answers": [
+   "I work out every day. Why am I not losing weight?"
+  ],
+  "audio": "audio/O/O-04-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I work out every day. Why "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " losing weight?"
+   }
+  ],
+  "solutions": [
+   [
+    "am",
+    "I",
+    "not"
+   ]
+  ],
+  "secTitle": "not の使い方"
+ },
+ {
+  "id": "O-05",
+  "unit": "O",
+  "no": "05",
+  "jp": "どんな時もあきらめない。それが我々のモットーです。",
+  "answers": [
+   "Never give up, that's our motto."
+  ],
+  "audio": "audio/O/O-05-.mp3",
+  "section": {
+   "title": "never の使い方",
+   "body": "「常に～ない」 という否定は（ A ）で表す。（ A ）は 「not ＋（ B ）」 に置き換えることができる。（ A ）は一般動詞の場合は 「前」 に置き，be 動詞・助動詞の場合は 「後」に置くが，動詞を省略する場合や助動詞を強調する場合は（ C ）に置く。"
+  },
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "choice",
+    "options": [
+     "Never",
+     "Don't"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " give up, that's our motto."
+   }
+  ],
+  "solutions": [
+   [
+    "Never"
+   ]
+  ],
+  "secTitle": "never の使い方"
+ },
+ {
+  "id": "O-06",
+  "unit": "O",
+  "no": "06",
+  "jp": "挑戦するまでは自分の能力は決してわからない。",
+  "answers": [
+   "You never can tell what you can do till you try."
+  ],
+  "audio": "audio/O/O-06-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "You never can tell what you can do till you try.",
+  "secTitle": "never の使い方"
+ },
+ {
+  "id": "O-07",
+  "unit": "O",
+  "no": "07",
+  "jp": "「飛行機に乗ったことは一度もないの？」「ええ，一度も」",
+  "answers": [
+   "\"Haven't you ever flown before?\" \"No, I never have.\""
+  ],
+  "audio": "audio/O/O-07-.mp3",
+  "tags": [
+   "間違いがあれば訂正"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "\"Have you never flown before?\" \"Yes, I have never.\"",
+  "secTitle": "never の使い方"
+ },
+ {
+  "id": "O-08",
+  "unit": "O",
+  "no": "08",
+  "jp": "それは私が一番好きなテレビドラマで，見逃すことは絶対にありません。",
+  "answers": [
+   "It's my favorite drama on TV and I never ever miss it."
+  ],
+  "audio": "audio/O/O-08-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It's my favorite drama on TV and I never "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " miss it."
+   }
+  ],
+  "solutions": [
+   [
+    "ever"
+   ]
+  ],
+  "secTitle": "never の使い方"
+ },
+ {
+  "id": "O-09-a",
+  "unit": "O",
+  "no": "09",
+  "jp": "私はホラー映画はあまり好きではない。",
+  "answers": [
+   "I don't really like horror movies."
+  ],
+  "audio": "audio/O/O-09-a-.mp3",
+  "section": {
+   "title": "否定語の位置 ①",
+   "body": "否定の意味が及ぶ範囲は通常，否定語の（ A ）に置かれた語句である。否定語をreally やclearly などと共に用いる場合，否定語の位置によって意味が変わるので注意が必要である。"
+  },
+  "tags": [
+   "下線部（否定語）の意味が及ぶ範囲に注意し，各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "I don't really like horror movies.",
+  "secTitle": "否定語の位置 ①"
+ },
+ {
+  "id": "O-09-b",
+  "unit": "O",
+  "no": "09",
+  "jp": "私はホラー映画が全く好きではない。",
+  "answers": [
+   "I really don't like horror movies."
+  ],
+  "audio": "audio/O/O-09-b-.mp3",
+  "tags": [
+   "下線部（否定語）の意味が及ぶ範囲に注意し，各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "I really don't like horror movies.",
+  "secTitle": "否定語の位置 ①"
+ },
+ {
+  "id": "O-09-c",
+  "unit": "O",
+  "no": "09",
+  "jp": "彼はそのことについて何もはっきりとは言わなかった。",
+  "answers": [
+   "He didn't clearly say anything about it."
+  ],
+  "audio": "audio/O/O-09-c-.mp3",
+  "tags": [
+   "下線部（否定語）の意味が及ぶ範囲に注意し，各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "He didn't clearly say anything about it.",
+  "secTitle": "否定語の位置 ①"
+ },
+ {
+  "id": "O-09-d",
+  "unit": "O",
+  "no": "09",
+  "jp": "彼は明らかにそのことについては何も言わなかった。",
+  "answers": [
+   "He clearly didn't say anything about it."
+  ],
+  "audio": "audio/O/O-09-d-.mp3",
+  "tags": [
+   "下線部（否定語）の意味が及ぶ範囲に注意し，各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "He clearly didn't say anything about it.",
+  "secTitle": "否定語の位置 ①"
+ },
+ {
+  "id": "O-09-e",
+  "unit": "O",
+  "no": "09",
+  "jp": "成功はかならずしも手に入れるのが簡単ではない。",
+  "answers": [
+   "Success is not always easy to grasp."
+  ],
+  "audio": "audio/O/O-09-e-.mp3",
+  "tags": [
+   "下線部（否定語）の意味が及ぶ範囲に注意し，各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Success is not always easy to grasp.",
+  "secTitle": "否定語の位置 ①"
+ },
+ {
+  "id": "O-09-f",
+  "unit": "O",
+  "no": "09",
+  "jp": "成功はいつでも手に入れるのが簡単ではない。",
+  "answers": [
+   "Success is always not easy to grasp.",
+   "Success is never easy to grasp."
+  ],
+  "audio": "audio/O/O-09-f-.mp3",
+  "tags": [
+   "下線部（否定語）の意味が及ぶ範囲に注意し，各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Success is always not easy to grasp.",
+  "secTitle": "否定語の位置 ①"
+ },
+ {
+  "id": "O-10-a",
+  "unit": "O",
+  "no": "10",
+  "jp": "私は彼に電話をしなかった。なぜなら私は忙しかったからだ。",
+  "answers": [
+   "I didn't call him because I was busy.",
+   "Because I was busy, I didn't call him."
+  ],
+  "audio": "audio/O/O-10-a-.mp3",
+  "tags": [
+   "次の英文は２通りの解釈ができる。それぞれの解釈をa) とb) で表す"
+  ],
+  "sheetJp": false,
+  "type": "compose",
+  "stem": "Because ...",
+  "secTitle": "否定語の位置 ①"
+ },
+ {
+  "id": "O-10-b",
+  "unit": "O",
+  "no": "10",
+  "jp": "私は忙しかったから彼に電話をしたのではない（別の理由で電話をしたのだ）。",
+  "answers": [
+   "I didn't call him because I was busy.",
+   "It was not because I was busy that I called him."
+  ],
+  "audio": "audio/O/O-10-b-.mp3",
+  "tags": [
+   "次の英文は２通りの解釈ができる。それぞれの解釈をa) とb) で表す"
+  ],
+  "sheetJp": false,
+  "type": "compose",
+  "stem": "It was ...",
+  "secTitle": "否定語の位置 ①"
+ },
+ {
+  "id": "O-11",
+  "unit": "O",
+  "no": "11",
+  "jp": "リーはいい奴だよ。でも，優れたヘッドコーチではないと思う。",
+  "answers": [
+   "Lee is a good guy, but I don't think he is a good head coach."
+  ],
+  "audio": "audio/O/O-11-.mp3",
+  "section": {
+   "title": "否定語の位置 ②",
+   "body": "「～ではないと思う」 や 「～ではないようだ」 は英語では 「I don't think ＋肯定文」「... doesn't seem ＋肯定形」 のように述語動詞を否定形にするのが一般的である。「I think ＋否定文」「... seem ＋ 否定形」 のように内容を否定形にする言い方は，強い主張や断定的な言い方になり，あまり一般的ではない。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Lee is a good guy, but I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " a good head coach."
+   }
+  ],
+  "solutions": [
+   [
+    "don't",
+    "think",
+    "he",
+    "is"
+   ]
+  ],
+  "secTitle": "否定語の位置 ②"
+ },
+ {
+  "id": "O-12",
+  "unit": "O",
+  "no": "12",
+  "jp": "この噂が本当でないことを願っています。",
+  "answers": [
+   "I hope this rumor is not true."
+  ],
+  "audio": "audio/O/O-12-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I hope this rumor is not true.",
+  "secTitle": "否定語の位置 ②"
+ },
+ {
+  "id": "O-13",
+  "unit": "O",
+  "no": "13",
+  "jp": "この前もらったメールが見つからないみたいなんだ。もう一度送ってもらえる？",
+  "answers": [
+   "I can't seem to find your last e-mail. Could you resend it to me?"
+  ],
+  "audio": "audio/O/O-13-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I can't "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " find your last e-mail. Could you resend it to me?"
+   }
+  ],
+  "solutions": [
+   [
+    "seem",
+    "to"
+   ]
+  ],
+  "secTitle": "否定語の位置 ②"
+ },
+ {
+  "id": "O-14-a",
+  "unit": "O",
+  "no": "14",
+  "jp": "彼は（彼の住む）近所に友達がいない。",
+  "answers": [
+   "He has no friends in his neighborhood."
+  ],
+  "audio": "audio/O/O-14-a-.mp3",
+  "section": {
+   "title": "no とnone, neither の使い方",
+   "body": "no は可算名詞と不可算名詞の両方を修飾するが，可算名詞の場合，１つ［１人］だけ存在するのが一般的である名詞は（ A ）形で表し，２つ［２人］以上存在するのが一般的であるものは（ B ）形で表す。「no ＋名詞」 の 「名詞」 が繰り返しになっている場合は（ C ）で置き換えることができる。（ C ）はまた「（ C ） of＋名詞」 の形で 「…のどれもない」 という使い方をする。この 「名詞」 が２つ［２人］で 「…のどちらもない」 という場合は（ C ）ではなく（ D ）を用いる。"
+  },
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "He has no friend in his neighborhood.",
+  "secTitle": "no とnone, neither の使い方"
+ },
+ {
+  "id": "O-14-b",
+  "unit": "O",
+  "no": "14",
+  "jp": "あの日，空には雲ひとつなかった。",
+  "answers": [
+   "There were no clouds at all in the sky that day."
+  ],
+  "audio": "audio/O/O-14-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "There were not clouds at all in the sky that day.",
+  "secTitle": "no とnone, neither の使い方"
+ },
+ {
+  "id": "O-14-c",
+  "unit": "O",
+  "no": "14",
+  "jp": "彼は作曲においては決して初心者ではない。",
+  "answers": [
+   "He is no beginner at composing music."
+  ],
+  "audio": "audio/O/O-14-c-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "He is no beginner at composing music.",
+  "secTitle": "no とnone, neither の使い方"
+ },
+ {
+  "id": "O-15-a",
+  "unit": "O",
+  "no": "15",
+  "jp": "どんなことばも今の私の気持ちを言い表すことはできない。",
+  "answers": [
+   "No words can express my feelings right now."
+  ],
+  "audio": "audio/O/O-15-a-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Any words can't express my feelings right now.",
+  "secTitle": "no とnone, neither の使い方"
+ },
+ {
+  "id": "O-15-b",
+  "unit": "O",
+  "no": "15",
+  "jp": "どうしたらいいのか誰もわからない様子だった。",
+  "answers": [
+   "Nobody seemed to know what to do."
+  ],
+  "audio": "audio/O/O-15-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Not anybody seemed to know what to do.",
+  "secTitle": "no とnone, neither の使い方"
+ },
+ {
+  "id": "O-16",
+  "unit": "O",
+  "no": "16",
+  "jp": "「お金はあるの？」「いいや，全然ない」",
+  "answers": [
+   "\"Do you have any money?\" \"No, none at all.\""
+  ],
+  "audio": "audio/O/O-16-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "\"Do you have any money?\" \"No, nothing at all.\"",
+  "secTitle": "no とnone, neither の使い方"
+ },
+ {
+  "id": "O-17",
+  "unit": "O",
+  "no": "17",
+  "jp": "我々の誰も，彼の言わんとしていることがわからなかった。",
+  "answers": [
+   "None of us understood what he meant."
+  ],
+  "audio": "audio/O/O-17-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Not any of us understood what he meant.",
+  "secTitle": "no とnone, neither の使い方"
+ },
+ {
+  "id": "O-18",
+  "unit": "O",
+  "no": "18",
+  "jp": "私には２人姉妹がいますが，どちらも結婚はしていません。",
+  "answers": [
+   "I have two sisters but neither of them is married."
+  ],
+  "audio": "audio/O/O-18-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I have two sisters but none of them is married.",
+  "secTitle": "no とnone, neither の使い方"
+ },
+ {
+  "id": "O-19",
+  "unit": "O",
+  "no": "19",
+  "jp": "全然気にしていませんよ。本当に気にしてないんです。",
+  "answers": [
+   "I don't mind in the least. I really don't."
+  ],
+  "audio": "audio/O/O-19-.mp3",
+  "section": {
+   "title": "否定を強調する語句",
+   "body": "「全く～ない」「決して～ない」 のように否定を強調する副詞（句）には，「まったく」という意味のat all や，「少しも」 という意味のin the （ A ），「どう見ても」 という意味のin any （ B ）及び 同じ意味でフォーマルな by any （ C ），「何ら」 という意味のwhatsoever などがある。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I don't mind in the "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": ". I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " don't."
+   }
+  ],
+  "solutions": [
+   [
+    "least",
+    "really"
+   ]
+  ],
+  "secTitle": "否定を強調する語句"
+ },
+ {
+  "id": "O-20",
+  "unit": "O",
+  "no": "20",
+  "jp": "それはどう考えてもフェアーではないと思う。",
+  "answers": [
+   "I don't think it's fair by any means."
+  ],
+  "audio": "audio/O/O-20-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " think it's fair by any "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "don't",
+    "means"
+   ]
+  ],
+  "secTitle": "否定を強調する語句"
+ },
+ {
+  "id": "O-21",
+  "unit": "O",
+  "no": "21",
+  "jp": "この子供達は年長者に対する尊敬の念が全くない。",
+  "answers": [
+   "These kids have no respect for their elders whatsoever."
+  ],
+  "audio": "audio/O/O-21-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "These kids have "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " respect for their elders "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "no",
+    "whatsoever"
+   ]
+  ],
+  "secTitle": "否定を強調する語句"
+ },
+ {
+  "id": "O-22-a",
+  "unit": "O",
+  "no": "22",
+  "jp": "悲しいことに，私には余暇に費やせるお金がほとんどない。",
+  "answers": [
+   "Sadly, I have little money to spend on leisure."
+  ],
+  "audio": "audio/O/O-22-a-.mp3",
+  "section": {
+   "title": "「ほとんど…ない」の否定語",
+   "body": "「ほとんどない」 と言う場合，「数」 のことを言う場合は（ A ）を，「量」 「金額」 のことを言う場合は（ B ）を用い，共に形容詞と代名詞で用いる。また，「程度」 のことを言う場合はhardly やscarcely を用い，「回数」 のことを言う場合はseldomやrarely を用いる。（ A ）と（ B ）は 「hardly [scarcely] （ C ）」 に置き換えが可能で，seldom とrarely は 「hardly [scarcely] （ D ）」 に置き換えが可能である。"
+  },
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Sadly, I have "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "few",
+     "a few",
+     "little",
+     "a little"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " money to spend on leisure."
+   }
+  ],
+  "solutions": [
+   [
+    "little"
+   ]
+  ],
+  "secTitle": "「ほとんど…ない」の否定語"
+ },
+ {
+  "id": "O-22-b",
+  "unit": "O",
+  "no": "22",
+  "jp": "私は街に出かけます。少し買い物をしなければならないので。",
+  "answers": [
+   "I'm going to town―I've got to get a few things."
+  ],
+  "audio": "audio/O/O-22-b-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'm going to town―I've got to get "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "few",
+     "a few",
+     "little",
+     "a little"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " things."
+   }
+  ],
+  "solutions": [
+   [
+    "a few"
+   ]
+  ],
+  "secTitle": "「ほとんど…ない」の否定語"
+ },
+ {
+  "id": "O-23",
+  "unit": "O",
+  "no": "23",
+  "jp": "彼の経歴に関してはほとんど知られていません。",
+  "answers": [
+   "Little is known about his background."
+  ],
+  "audio": "audio/O/O-23-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "choice",
+    "options": [
+     "Little",
+     "Hardly",
+     "Seldom"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " is known about his background."
+   }
+  ],
+  "solutions": [
+   [
+    "Little"
+   ]
+  ],
+  "secTitle": "「ほとんど…ない」の否定語"
+ },
+ {
+  "id": "O-24",
+  "unit": "O",
+  "no": "24",
+  "jp": "ことばのなまりが強くて，彼の言っていることがほとんど理解できない。",
+  "answers": [
+   "I can hardly understand him because of his heavy accent.",
+   "I can scarcely understand him because of his heavy accent."
+  ],
+  "audio": "audio/O/O-24-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I can "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " understand him because of his heavy accent."
+   }
+  ],
+  "solutions": [
+   [
+    "hardly"
+   ],
+   [
+    "scarcely"
+   ]
+  ],
+  "secTitle": "「ほとんど…ない」の否定語"
+ },
+ {
+  "id": "O-25",
+  "unit": "O",
+  "no": "25",
+  "jp": "彼の話が終わったとたんに彼女が泣き出した。",
+  "answers": [
+   "He had hardly finished speaking when she burst into tears.",
+   "He had hardly finished speaking before she burst into tears."
+  ],
+  "audio": "audio/O/O-25-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He had "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " finished speaking "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " she burst into tears."
+   }
+  ],
+  "solutions": [
+   [
+    "hardly",
+    "when"
+   ],
+   [
+    "hardly",
+    "before"
+   ]
+  ],
+  "secTitle": "「ほとんど…ない」の否定語"
+ },
+ {
+  "id": "O-26-a",
+  "unit": "O",
+  "no": "26",
+  "jp": "夜の今頃は車の往来はほとんどありません。",
+  "answers": [
+   "There is very little traffic at this time of night."
+  ],
+  "audio": "audio/O/O-26-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "There is very "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " traffic at this time of night."
+   }
+  ],
+  "solutions": [
+   [
+    "little"
+   ]
+  ],
+  "secTitle": "「ほとんど…ない」の否定語"
+ },
+ {
+  "id": "O-26-b",
+  "unit": "O",
+  "no": "26",
+  "jp": "夜の今頃は車の往来はほとんどありません。",
+  "answers": [
+   "There is hardly any traffic at this time of night.",
+   "There is scarcely any traffic at this time of night."
+  ],
+  "audio": "audio/O/O-26-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "There is "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " any traffic at this time of night."
+   }
+  ],
+  "solutions": [
+   [
+    "hardly"
+   ],
+   [
+    "scarcely"
+   ]
+  ],
+  "secTitle": "「ほとんど…ない」の否定語"
+ },
+ {
+  "id": "O-26-c",
+  "unit": "O",
+  "no": "26",
+  "jp": "夜の今頃は車の往来はほとんどありません。",
+  "answers": [
+   "There is almost no traffic at this time of night."
+  ],
+  "audio": "audio/O/O-26-c-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "There is "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " no traffic at this time of night."
+   }
+  ],
+  "solutions": [
+   [
+    "almost"
+   ]
+  ],
+  "secTitle": "「ほとんど…ない」の否定語"
+ },
+ {
+  "id": "O-27",
+  "unit": "O",
+  "no": "27",
+  "jp": "今日はとても忙しくて，一日ほとんど何も食べていません。",
+  "answers": [
+   "I've been so busy that I've hardly eaten anything all day.",
+   "I've been so busy that I've scarcely eaten anything all day."
+  ],
+  "audio": "audio/O/O-27-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I've been so busy that I've "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " eaten "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " all day."
+   }
+  ],
+  "solutions": [
+   [
+    "hardly",
+    "anything"
+   ],
+   [
+    "scarcely",
+    "anything"
+   ]
+  ],
+  "secTitle": "「ほとんど…ない」の否定語"
+ },
+ {
+  "id": "O-28-a",
+  "unit": "O",
+  "no": "28",
+  "jp": "ここでは，夏はめったに雨が降りません。",
+  "answers": [
+   "It seldom rains here in summer.",
+   "It rarely rains here in summer."
+  ],
+  "audio": "audio/O/O-28-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " rains here in summer."
+   }
+  ],
+  "solutions": [
+   [
+    "seldom"
+   ],
+   [
+    "rarely"
+   ]
+  ],
+  "secTitle": "「ほとんど…ない」の否定語"
+ },
+ {
+  "id": "O-28-b",
+  "unit": "O",
+  "no": "28",
+  "jp": "ここでは，夏はめったに雨が降りません。",
+  "answers": [
+   "It hardly ever rains here in summer."
+  ],
+  "audio": "audio/O/O-28-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It hardly "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " rains here in summer."
+   }
+  ],
+  "solutions": [
+   [
+    "ever"
+   ]
+  ],
+  "secTitle": "「ほとんど…ない」の否定語"
+ },
+ {
+  "id": "O-28-c",
+  "unit": "O",
+  "no": "28",
+  "jp": "ここでは，夏はめったに雨が降りません。",
+  "answers": [
+   "It almost never rains here in summer."
+  ],
+  "audio": "audio/O/O-28-c-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It almost "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " rains here in summer."
+   }
+  ],
+  "solutions": [
+   [
+    "never"
+   ]
+  ],
+  "secTitle": "「ほとんど…ない」の否定語"
+ },
+ {
+  "id": "O-29-a",
+  "unit": "O",
+  "no": "29",
+  "jp": "私は帰りの最終便にぎりぎりで間に合った。",
+  "answers": [
+   "I barely caught the last plane home."
+  ],
+  "audio": "audio/O/O-29-a-.mp3",
+  "section": {
+   "title": "barely の使い方",
+   "body": "（ A ）は通常 「かろうじて～」 という肯定的な意味に解釈されるが，前後関係によっては 「ほとんど～ない」 という否定的な意味に解釈することがあり，その場合は（ B ）やscarcely に置き換えることができる。"
+  },
+  "tags": [
+   "下線部の意味に注意して各文を和訳する"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "I barely caught the last plane home.",
+  "secTitle": "barely の使い方"
+ },
+ {
+  "id": "O-29-b",
+  "unit": "O",
+  "no": "29",
+  "jp": "ホワイト・ソックスは６対５の僅差で勝利した。",
+  "answers": [
+   "The White Sox barely won the game 6-5."
+  ],
+  "audio": "audio/O/O-29-b-.mp3",
+  "tags": [
+   "下線部の意味に注意して各文を和訳する"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "The White Sox barely won the game 6-5.",
+  "secTitle": "barely の使い方"
+ },
+ {
+  "id": "O-29-c",
+  "unit": "O",
+  "no": "29",
+  "jp": "彼はほとんど立っていられないくらい酔っぱらっていた。",
+  "answers": [
+   "He was so drunk that he could barely stand."
+  ],
+  "audio": "audio/O/O-29-c-.mp3",
+  "tags": [
+   "下線部の意味に注意して各文を和訳する"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "He was so drunk that he could barely stand.",
+  "secTitle": "barely の使い方"
+ },
+ {
+  "id": "O-29-d",
+  "unit": "O",
+  "no": "29",
+  "jp": "ことばがなまっていて，彼の言っていることはほとんどわからない。",
+  "answers": [
+   "I can barely understand him because of his accent."
+  ],
+  "audio": "audio/O/O-29-d-.mp3",
+  "tags": [
+   "下線部の意味に注意して各文を和訳する"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "I can barely understand him because of his accent.",
+  "secTitle": "barely の使い方"
+ },
+ {
+  "id": "O-30",
+  "unit": "O",
+  "no": "30",
+  "jp": "ここにある名前は全て見覚えないけど，だれ？",
+  "answers": [
+   "I don't recognize any of the names here. Who are they?"
+  ],
+  "audio": "audio/O/O-30-.mp3",
+  "section": {
+   "title": "全体否定と部分否定",
+   "body": "通常，否定文は 「100％～ない」 という 「全体否定」 を表すが，all やevery のような「100%を表す語」 を否定文で用いると 「100％～というわけではない」 という「部分否定」 になる。部分否定は通常 「（ A ）＋（ B ）」 の語順で表す。逆の語順にすると全体否定と部分否定の両方の解釈が可能になり混乱が生じる可能性がある。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I don't recognize all of the names here. Who are they?",
+  "secTitle": "全体否定と部分否定"
+ },
+ {
+  "id": "O-31",
+  "unit": "O",
+  "no": "31",
+  "jp": "ここにある名前のいくつかは見覚えがないんだけど。",
+  "answers": [
+   "I don't recognize some of the names here."
+  ],
+  "audio": "audio/O/O-31-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I don't recognize some of the names here.",
+  "secTitle": "全体否定と部分否定"
+ },
+ {
+  "id": "O-32-a",
+  "unit": "O",
+  "no": "32",
+  "jp": "全てのアジア人が箸を使うわけではない。",
+  "answers": [
+   "Not all Asians use chopsticks."
+  ],
+  "audio": "audio/O/O-32-a-.mp3",
+  "tags": [
+   "適切な英訳はどちらか"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Not all Asians use chopsticks.",
+  "secTitle": "全体否定と部分否定"
+ },
+ {
+  "id": "O-33",
+  "unit": "O",
+  "no": "33",
+  "jp": "どちらか一つ選んでください。両方はだめです。",
+  "answers": [
+   "Pick either one. You can't have both."
+  ],
+  "audio": "audio/O/O-33-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Pick either one. You can't have either.",
+  "secTitle": "全体否定と部分否定"
+ },
+ {
+  "id": "O-34",
+  "unit": "O",
+  "no": "34",
+  "jp": "私と妻はいつでも意見が合うわけではありません。",
+  "answers": [
+   "My wife and I don't always agree."
+  ],
+  "audio": "audio/O/O-34-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "My wife and I always don't agree.",
+  "secTitle": "全体否定と部分否定"
+ },
+ {
+  "id": "O-35",
+  "unit": "O",
+  "no": "35",
+  "jp": "「光るもの全てが金ではない」 とは，きらびやかな物が必ず価値があるとは限らない，という意味です。",
+  "answers": [
+   "\"All is not gold that glitters\" means that a showy article may not necessarily be valuable."
+  ],
+  "audio": "audio/O/O-35-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\""
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " is "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " gold that glitters\" means that a showy article may "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " be valuable."
+   }
+  ],
+  "solutions": [
+   [
+    "All",
+    "not",
+    "not",
+    "necessarily"
+   ]
+  ],
+  "secTitle": "全体否定と部分否定"
+ },
+ {
+  "id": "O-36",
+  "unit": "O",
+  "no": "36",
+  "jp": "その文は全く不可能というわけではないが，完全に適切という感じでもない。",
+  "answers": [
+   "The sentence is not altogether impossible but does not sound completely OK, either."
+  ],
+  "audio": "audio/O/O-36-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The sentence is not "
+   },
+   {
+    "t": "blank",
+    "hint": "a"
+   },
+   {
+    "t": "text",
+    "v": " impossible but does not sound "
+   },
+   {
+    "t": "blank",
+    "hint": "c"
+   },
+   {
+    "t": "text",
+    "v": " OK, either."
+   }
+  ],
+  "solutions": [
+   [
+    "altogether",
+    "completely"
+   ]
+  ],
+  "secTitle": "全体否定と部分否定"
+ },
+ {
+  "id": "O-37",
+  "unit": "O",
+  "no": "37",
+  "jp": "食事は最高とは言えないかもしれないが，ここが有名なのにはわけがあります。",
+  "answers": [
+   "The food may not be the best, but this place is not famous for nothing."
+  ],
+  "audio": "audio/O/O-37-.mp3",
+  "section": {
+   "title": "二重否定",
+   "body": "「～しない…はない」 のような否定の否定を 「二重否定」 と呼び，全体としては肯定の意味になる。二重否定は 「否定内容」 の想定や常識を否定する目的で用いるが，頻繁に用いられる表現方法ではない。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The food may not be the best, but this place is "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " famous for "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "not",
+    "nothing"
+   ]
+  ],
+  "secTitle": "二重否定"
+ },
+ {
+  "id": "O-38",
+  "unit": "O",
+  "no": "38",
+  "jp": "社会に貢献できるものを何ら持たないという人はいないのです。",
+  "answers": [
+   "Nobody has nothing to offer to society."
+  ],
+  "audio": "audio/O/O-38-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " has "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to offer to society."
+   }
+  ],
+  "solutions": [
+   [
+    "Nobody",
+    "nothing"
+   ]
+  ],
+  "secTitle": "二重否定"
+ },
+ {
+  "id": "O-39",
+  "unit": "O",
+  "no": "39",
+  "jp": "猫が好きでないということではなくて，ただ相性が良くないだけです。",
+  "answers": [
+   "It's not that I don't like cats. It's just that we don't get along."
+  ],
+  "audio": "audio/O/O-39-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It's "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " that I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " like cats. It's just that we don't get along."
+   }
+  ],
+  "solutions": [
+   [
+    "not",
+    "don't"
+   ]
+  ],
+  "secTitle": "二重否定"
+ },
+ {
+  "id": "O-40",
+  "unit": "O",
+  "no": "40",
+  "jp": "子供の幸せを願わない親はいない。",
+  "answers": [
+   "There is no parent who doesn't wish for his or her child's happiness."
+  ],
+  "audio": "audio/O/O-40-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "There is "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " parent who "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " wish for his or her child's happiness."
+   }
+  ],
+  "solutions": [
+   [
+    "no",
+    "doesn't"
+   ]
+  ],
+  "secTitle": "二重否定"
+ },
+ {
+  "id": "O-41",
+  "unit": "O",
+  "no": "41",
+  "jp": "彼女とスーザンが会うといつも映画の話になる。",
+  "answers": [
+   "She never meets Susan without talking about movies."
+  ],
+  "audio": "audio/O/O-41-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " meets Susan "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " talking about movies."
+   }
+  ],
+  "solutions": [
+   [
+    "never",
+    "without"
+   ]
+  ],
+  "secTitle": "二重否定"
+ },
+ {
+  "id": "O-42",
+  "unit": "O",
+  "no": "42",
+  "jp": "彼が間違っていることを彼にわからせることはできなかった。",
+  "answers": [
+   "I failed to convince him that he was wrong."
+  ],
+  "audio": "audio/O/O-42-.mp3",
+  "section": {
+   "title": "否定語を用いない否定的表現",
+   "body": "「fail to 不定詞」 や「anything but ...」 のように，否定語は用いていないが意味的には否定になる表現がある。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to convince him that he was wrong."
+   }
+  ],
+  "solutions": [
+   [
+    "failed"
+   ]
+  ],
+  "secTitle": "否定語を用いない否定的表現"
+ },
+ {
+  "id": "O-43",
+  "unit": "O",
+  "no": "43",
+  "jp": "君の助けなんて全く必要としていないよ。",
+  "answers": [
+   "The last thing I need is your help."
+  ],
+  "audio": "audio/O/O-43-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " thing I need is your help."
+   }
+  ],
+  "solutions": [
+   [
+    "last"
+   ]
+  ],
+  "secTitle": "否定語を用いない否定的表現"
+ },
+ {
+  "id": "O-44",
+  "unit": "O",
+  "no": "44",
+  "jp": "メアリーはそんなことを言う人では決してない。",
+  "answers": [
+   "Mary would be the last person to say that."
+  ],
+  "audio": "audio/O/O-44-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Mary would be the "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " person "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " say that."
+   }
+  ],
+  "solutions": [
+   [
+    "last",
+    "to"
+   ]
+  ],
+  "secTitle": "否定語を用いない否定的表現"
+ },
+ {
+  "id": "O-45",
+  "unit": "O",
+  "no": "45",
+  "jp": "「彼らは成功するのかな」「知るもんか。どうだっていいことだよ」",
+  "answers": [
+   "\"Are they going to be successful?\" \"Who knows? Who cares?\""
+  ],
+  "audio": "audio/O/O-45-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"Are they going to be successful?\" \""
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " knows? "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " cares?\""
+   }
+  ],
+  "solutions": [
+   [
+    "Who",
+    "Who"
+   ]
+  ],
+  "secTitle": "否定語を用いない否定的表現"
+ },
+ {
+  "id": "O-46",
+  "unit": "O",
+  "no": "46",
+  "jp": "彼らは生まれてからずっと近所同士だが，関係は決して友好的ではない。",
+  "answers": [
+   "They have been neighbors all their lives, but their relationship is anything but friendly."
+  ],
+  "audio": "audio/O/O-46-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "They have been neighbors all their lives, but their relationship is "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " but friendly."
+   }
+  ],
+  "solutions": [
+   [
+    "anything"
+   ]
+  ],
+  "secTitle": "否定語を用いない否定的表現"
+ },
+ {
+  "id": "O-47",
+  "unit": "O",
+  "no": "47",
+  "jp": "やむをえない事情で，配送の遅れが生じる場合があります。",
+  "answers": [
+   "Shipping delays may occur due to circumstances beyond our control."
+  ],
+  "audio": "audio/O/O-47-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Shipping delays may occur due to circumstances "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " our control."
+   }
+  ],
+  "solutions": [
+   [
+    "beyond"
+   ]
+  ],
+  "secTitle": "否定語を用いない否定的表現"
+ }
+]

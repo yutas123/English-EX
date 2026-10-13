@@ -1,0 +1,1939 @@
+[
+ {
+  "id": "A-01",
+  "unit": "A",
+  "no": "01",
+  "jp": "「ご職業は何ですか？」「学生です」",
+  "answers": [
+   "\"What do you do?\" \"I'm a student.\""
+  ],
+  "audio": "audio/A/A-01-.mp3",
+  "section": {
+   "title": "現在［過去］形，現在［過去］進行形の区別",
+   "body": "現在の固定的な状況（習慣や普遍的事実）は（ A ）形で表し， 現在の一時的・流動的状況は（ B ）形で表す。過去のある時点で起こった出来事や過去の固定的な状況（習慣）は（ C ）形で表し，過去のある時点での進行中の出来事は（ D ）形で表す。"
+  },
+  "tags": [
+   "適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"What "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " you "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "?\" \"I'm a student.\""
+   }
+  ],
+  "solutions": [
+   [
+    "do",
+    "do"
+   ]
+  ],
+  "secTitle": "現在［過去］形，現在［過去］進行形の区別"
+ },
+ {
+  "id": "A-02",
+  "unit": "A",
+  "no": "02",
+  "jp": "彼は言われたことしかやりません。",
+  "answers": [
+   "He only does what he is told to do."
+  ],
+  "audio": "audio/A/A-02-.mp3",
+  "tags": [
+   "間違いがあれば訂正"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "He only does what he was told to do.",
+  "secTitle": "現在［過去］形，現在［過去］進行形の区別"
+ },
+ {
+  "id": "A-03",
+  "unit": "A",
+  "no": "03",
+  "jp": "今，雨です。 こちらでは４月によく雨が降ります。",
+  "answers": [
+   "It is raining. It rains a lot here in April."
+  ],
+  "audio": "audio/A/A-03-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "rains",
+     "is raining"
+    ]
+   },
+   {
+    "t": "text",
+    "v": ". It "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "rains",
+     "is raining"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " a lot here in April."
+   }
+  ],
+  "solutions": [
+   [
+    "is raining",
+    "rains"
+   ]
+  ],
+  "secTitle": "現在［過去］形，現在［過去］進行形の区別"
+ },
+ {
+  "id": "A-04",
+  "unit": "A",
+  "no": "04",
+  "jp": "地球は太陽の周りを回っています。",
+  "answers": [
+   "The earth goes around the sun."
+  ],
+  "audio": "audio/A/A-04-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "The earth is going around the sun.",
+  "secTitle": "現在［過去］形，現在［過去］進行形の区別"
+ },
+ {
+  "id": "A-05",
+  "unit": "A",
+  "no": "05",
+  "jp": "彼女はいつも私の安月給に不満を言っています。",
+  "answers": [
+   "She is always complaining about my small salary."
+  ],
+  "audio": "audio/A/A-05-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "She is always complaining about my small salary.",
+  "secTitle": "現在［過去］形，現在［過去］進行形の区別"
+ },
+ {
+  "id": "A-06",
+  "unit": "A",
+  "no": "06",
+  "jp": "私が到着した時， 彼女は夕食を作っていた。",
+  "answers": [
+   "She was cooking dinner when I arrived."
+  ],
+  "audio": "audio/A/A-06-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "She cooked dinner when I arrived.",
+  "secTitle": "現在［過去］形，現在［過去］進行形の区別"
+ },
+ {
+  "id": "A-07",
+  "unit": "A",
+  "no": "07",
+  "jp": "それは５年前の今日のことです。",
+  "answers": [
+   "It was five years ago today."
+  ],
+  "audio": "audio/A/A-07-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "It's five years ago today.",
+  "secTitle": "現在［過去］形，現在［過去］進行形の区別"
+ },
+ {
+  "id": "A-08",
+  "unit": "A",
+  "no": "08",
+  "jp": "明らかにこの法律は時代遅れになっています。",
+  "answers": [
+   "Clearly, this law is outdated."
+  ],
+  "audio": "audio/A/A-08-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Clearly, this law becomes outdated.",
+  "secTitle": "現在［過去］形，現在［過去］進行形の区別"
+ },
+ {
+  "id": "A-09-a",
+  "unit": "A",
+  "no": "09",
+  "jp": "何か温かい飲み物が欲しい。",
+  "answers": [
+   "I want something hot to drink."
+  ],
+  "audio": "audio/A/A-09-a-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I'm wanting something hot to drink.",
+  "secTitle": "現在［過去］形，現在［過去］進行形の区別"
+ },
+ {
+  "id": "A-09-b",
+  "unit": "A",
+  "no": "09",
+  "jp": "聞こえているの？ あなたに話しているのよ。",
+  "answers": [
+   "Do you hear me? I'm talking to you."
+  ],
+  "audio": "audio/A/A-09-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Are you hearing me? I'm talking to you.",
+  "secTitle": "現在［過去］形，現在［過去］進行形の区別"
+ },
+ {
+  "id": "A-10-a",
+  "unit": "A",
+  "no": "10",
+  "jp": "それはいい考えだと思う。",
+  "answers": [
+   "I think that's a good idea."
+  ],
+  "audio": "audio/A/A-10-a-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I'm thinking that's a good idea.",
+  "secTitle": "現在［過去］形，現在［過去］進行形の区別"
+ },
+ {
+  "id": "A-10-b",
+  "unit": "A",
+  "no": "10",
+  "jp": "静かにして。今考えている最中だから。",
+  "answers": [
+   "Be quiet. I'm thinking."
+  ],
+  "audio": "audio/A/A-10-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Be quiet. I'm thinking.",
+  "secTitle": "現在［過去］形，現在［過去］進行形の区別"
+ },
+ {
+  "id": "A-11-a",
+  "unit": "A",
+  "no": "11",
+  "jp": "今私の財布には五百円しかありません。",
+  "answers": [
+   "I have only five hundred yen in my wallet."
+  ],
+  "audio": "audio/A/A-11-a-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I'm having only five hundred yen in my wallet.",
+  "secTitle": "現在［過去］形，現在［過去］進行形の区別"
+ },
+ {
+  "id": "A-11-b",
+  "unit": "A",
+  "no": "11",
+  "jp": "今パリでとても楽しい休暇を過ごしているところです。",
+  "answers": [
+   "I'm having a wonderful holiday in Paris."
+  ],
+  "audio": "audio/A/A-11-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I'm having a wonderful holiday in Paris.",
+  "secTitle": "現在［過去］形，現在［過去］進行形の区別"
+ },
+ {
+  "id": "A-12",
+  "unit": "A",
+  "no": "12",
+  "jp": "私は今両親と一緒に暮らしています。",
+  "answers": [
+   "I'm living with my parents."
+  ],
+  "audio": "audio/A/A-12-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I'm living with my parents.",
+  "secTitle": "現在［過去］形，現在［過去］進行形の区別"
+ },
+ {
+  "id": "A-13",
+  "unit": "A",
+  "no": "13",
+  "jp": "「それをしてもらえますか？」「ええ，お約束します」",
+  "answers": [
+   "\"Will you do that for me?\" \"Yes, I promise.\""
+  ],
+  "audio": "audio/A/A-13-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "\"Will you do that for me?\" \"Yes, I promise.\"",
+  "secTitle": "現在［過去］形，現在［過去］進行形の区別"
+ },
+ {
+  "id": "A-14-a",
+  "unit": "A",
+  "no": "14",
+  "jp": "彼はばかだ。",
+  "answers": [
+   "He's silly."
+  ],
+  "audio": "audio/A/A-14-a-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "He's silly.",
+  "secTitle": "現在［過去］形，現在［過去］進行形の区別"
+ },
+ {
+  "id": "A-14-b",
+  "unit": "A",
+  "no": "14",
+  "jp": "彼は（今）ばかなことをしている。",
+  "answers": [
+   "He's being silly."
+  ],
+  "audio": "audio/A/A-14-b-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "He's being silly.",
+  "secTitle": "現在［過去］形，現在［過去］進行形の区別"
+ },
+ {
+  "id": "A-15-a",
+  "unit": "A",
+  "no": "15",
+  "jp": "彼は面白い人だと思った。",
+  "answers": [
+   "I thought he was funny."
+  ],
+  "audio": "audio/A/A-15-a-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "I thought he was funny.",
+  "secTitle": "現在［過去］形，現在［過去］進行形の区別"
+ },
+ {
+  "id": "A-15-b",
+  "unit": "A",
+  "no": "15",
+  "jp": "彼はふざけているのだと思った。",
+  "answers": [
+   "I thought he was being funny."
+  ],
+  "audio": "audio/A/A-15-b-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "I thought he was being funny.",
+  "secTitle": "現在［過去］形，現在［過去］進行形の区別"
+ },
+ {
+  "id": "A-16",
+  "unit": "A",
+  "no": "16",
+  "jp": "君の準備ができたら出かけるよ。",
+  "answers": [
+   "We'll go when you are ready."
+  ],
+  "audio": "audio/A/A-16-.mp3",
+  "section": {
+   "title": "「未来」 を表す現在形と過去形",
+   "body": "「when ～」 や 「if ～」 のような 「時」 や 「条件」 の（ A ）で 「未来」 のことを表す場合，現在から見た未来のことは（ B ）形で表し，過去の時点から見た未来のことは（ C ）形で表す。現在形はまた，現時点で確定していて変更の余地がないと考えられる未来のこと，すなわち，確定的な（ D ）を表す。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We'll go when you "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "are",
+     "will be",
+     "were"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " ready."
+   }
+  ],
+  "solutions": [
+   [
+    "are"
+   ]
+  ],
+  "secTitle": "「未来」 を表す現在形と過去形"
+ },
+ {
+  "id": "A-17",
+  "unit": "A",
+  "no": "17",
+  "jp": "もし誰かから電話があったら， 5 時に戻ると伝えてください。",
+  "answers": [
+   "If anyone calls, tell them I'll be back at five o'clock."
+  ],
+  "audio": "audio/A/A-17-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "If anyone "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "calls",
+     "will call"
+    ]
+   },
+   {
+    "t": "text",
+    "v": ", tell them "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "I'm",
+     "I'll be"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " back at five o'clock."
+   }
+  ],
+  "solutions": [
+   [
+    "calls",
+    "I'll be"
+   ]
+  ],
+  "secTitle": "「未来」 を表す現在形と過去形"
+ },
+ {
+  "id": "A-18",
+  "unit": "A",
+  "no": "18",
+  "jp": "彼は私に，戻るまで待っているようにと言った。",
+  "answers": [
+   "He told me to wait until he got back."
+  ],
+  "audio": "audio/A/A-18-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He told me to wait until he "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "gets",
+     "got",
+     "would get"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " back."
+   }
+  ],
+  "solutions": [
+   [
+    "got"
+   ]
+  ],
+  "secTitle": "「未来」 を表す現在形と過去形"
+ },
+ {
+  "id": "A-19",
+  "unit": "A",
+  "no": "19",
+  "jp": "（それが）うまくいくといいですね。",
+  "answers": [
+   "I hope it goes well for you."
+  ],
+  "audio": "audio/A/A-19-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I hope it goes well for you.",
+  "secTitle": "「未来」 を表す現在形と過去形"
+ },
+ {
+  "id": "A-20",
+  "unit": "A",
+  "no": "20",
+  "jp": "今年のバレンタインデーは日曜日に当たります。",
+  "answers": [
+   "Valentine's Day falls on Sunday this year."
+  ],
+  "audio": "audio/A/A-20-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Valentine's Day falls on Sunday this year.",
+  "secTitle": "「未来」 を表す現在形と過去形"
+ },
+ {
+  "id": "A-21",
+  "unit": "A",
+  "no": "21",
+  "jp": "次の電車は9 時に到着し，9 時45 分に東京に着きます。",
+  "answers": [
+   "The next train arrives at 9:00 and gets to Tokyo at 9:45."
+  ],
+  "audio": "audio/A/A-21-.mp3",
+  "pronNote": "9:00 は nine o'clock と発音します。 o'clock は 「... 時ちょうど」 という意味です。",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "The next train arrives at 9:00 and gets to Tokyo at 9:45.",
+  "secTitle": "「未来」 を表す現在形と過去形"
+ },
+ {
+  "id": "A-22",
+  "unit": "A",
+  "no": "22",
+  "jp": "日本の財務大臣が辞任 （（新聞の見出し））",
+  "answers": [
+   "Japan's Finance Minister Steps Down"
+  ],
+  "audio": "audio/A/A-22-.mp3",
+  "tags": [
+   "新聞の見出し"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Japan's Finance Minister Stepped Down",
+  "secTitle": "「未来」 を表す現在形と過去形"
+ },
+ {
+  "id": "A-23",
+  "unit": "A",
+  "no": "23",
+  "jp": "「早くしなよ」「今行きまーす」",
+  "answers": [
+   "\"Hurry up.\" \"I'm coming.\""
+  ],
+  "audio": "audio/A/A-23-.mp3",
+  "section": {
+   "title": "現在［過去］進行形の使い方",
+   "body": "現在［過去］進行形は進行中の行為や出来事を表すと同時にそれが一時的な状況であることを示唆する。stop, finish, arrive, leave, become, die のような瞬間的に完了して継続しない動詞の進行形は  「（ A ）」  という寸前の状況を表す。また，未来を表す文脈で用いる進行形は  「（ B ）」  という近い未来の予定を表す。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"Hurry up.\" \""
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": ".\""
+   }
+  ],
+  "solutions": [
+   [
+    "I'm",
+    "coming"
+   ]
+  ],
+  "secTitle": "現在［過去］進行形の使い方"
+ },
+ {
+  "id": "A-24",
+  "unit": "A",
+  "no": "24",
+  "jp": "今，風邪気味です。毎年冬になると風邪を引くんです。",
+  "answers": [
+   "I'm catching a cold. I catch a cold every winter."
+  ],
+  "audio": "audio/A/A-24-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank",
+    "hint": "c"
+   },
+   {
+    "t": "text",
+    "v": " a cold. I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " a cold every winter."
+   }
+  ],
+  "solutions": [
+   [
+    "I'm",
+    "catching",
+    "catch"
+   ]
+  ],
+  "secTitle": "現在［過去］進行形の使い方"
+ },
+ {
+  "id": "A-25",
+  "unit": "A",
+  "no": "25",
+  "jp": "講義が終わろうとしている頃に目が覚めた。",
+  "answers": [
+   "I woke up as the lecture was ending."
+  ],
+  "audio": "audio/A/A-25-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I woke up as the lecture "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank",
+    "hint": "e"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "was",
+    "ending"
+   ]
+  ],
+  "secTitle": "現在［過去］進行形の使い方"
+ },
+ {
+  "id": "A-26-a",
+  "unit": "A",
+  "no": "26",
+  "jp": "「明日は何するの？」「マイクとデートよ」",
+  "answers": [
+   "\"What are you doing tomorrow?\" \"I'm going out with Mike.\""
+  ],
+  "audio": "audio/A/A-26-a-.mp3",
+  "tags": [
+   "適語を記入し２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"What "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " tomorrow?\" \"I'm going out with Mike.\""
+   }
+  ],
+  "solutions": [
+   [
+    "are",
+    "you",
+    "doing"
+   ]
+  ],
+  "secTitle": "現在［過去］進行形の使い方"
+ },
+ {
+  "id": "A-26-b",
+  "unit": "A",
+  "no": "26",
+  "jp": "「明日は何するの？」「マイクとデートよ」",
+  "answers": [
+   "\"What are you going to do tomorrow?\" \"I'm going out with Mike.\""
+  ],
+  "audio": "audio/A/A-26-b-.mp3",
+  "tags": [
+   "適語を記入し２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"What "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " tomorrow?\" \"I'm going out with Mike.\""
+   }
+  ],
+  "solutions": [
+   [
+    "are",
+    "you",
+    "going",
+    "to",
+    "do"
+   ]
+  ],
+  "secTitle": "現在［過去］進行形の使い方"
+ },
+ {
+  "id": "A-27",
+  "unit": "A",
+  "no": "27",
+  "jp": "「金曜日は買い物に出かけるの」「土曜日に行くんじゃなかったっけ？」",
+  "answers": [
+   "\"I'm going shopping on Friday.\" \"Oh, I thought you were going on Saturday.\""
+  ],
+  "audio": "audio/A/A-27-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"I'm "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " on Friday.\" \"Oh, I thought you "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " on Saturday.\""
+   }
+  ],
+  "solutions": [
+   [
+    "going",
+    "shopping",
+    "were",
+    "going"
+   ]
+  ],
+  "secTitle": "現在［過去］進行形の使い方"
+ },
+ {
+  "id": "A-28",
+  "unit": "A",
+  "no": "28",
+  "jp": "来年の今頃は，私たち何をしてるのかなぁ。",
+  "answers": [
+   "I wonder what we will be doing this time next year."
+  ],
+  "audio": "audio/A/A-28-.mp3",
+  "section": {
+   "title": "未来進行形の使い方",
+   "body": "「( A ) ( B ) ( C ) 」 という形を 「未来進行形」 と呼ぶ。これは未来のある一時点において 「…している最中だろう」 という進行中の行為［出来事］を表したり， will の持つ意志［意図］の意味を排除して 「…することになる」 と未来の予定や予想を表したり，will のもつ直接的な語気を和らげて控え目な表現にするのに用いられる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I wonder what we are doing this time next year.",
+  "secTitle": "未来進行形の使い方"
+ },
+ {
+  "id": "A-29-a",
+  "unit": "A",
+  "no": "29",
+  "jp": "金曜の我々のパーティーに来るつもりですか［来てくれますか］？",
+  "answers": [
+   "Will you come to our party on Friday?"
+  ],
+  "audio": "audio/A/A-29-a-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Will you come to our party on Friday?",
+  "secTitle": "未来進行形の使い方"
+ },
+ {
+  "id": "A-29-b",
+  "unit": "A",
+  "no": "29",
+  "jp": "金曜の我々のパーティーにはお越しになりますか？",
+  "answers": [
+   "Will you be coming to our party on Friday?"
+  ],
+  "audio": "audio/A/A-29-b-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Will you be coming to our party on Friday?",
+  "secTitle": "未来進行形の使い方"
+ },
+ {
+  "id": "A-30",
+  "unit": "A",
+  "no": "30",
+  "jp": "みなさま，まもなく終点，東京です。",
+  "answers": [
+   "Ladies and gentlemen, we will soon be arriving at the Tokyo terminal."
+  ],
+  "audio": "audio/A/A-30-.mp3",
+  "tags": [
+   "車内アナウンス"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Ladies and gentlemen, we will soon "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank",
+    "hint": "a"
+   },
+   {
+    "t": "text",
+    "v": " at the Tokyo terminal."
+   }
+  ],
+  "solutions": [
+   [
+    "be",
+    "arriving"
+   ]
+  ],
+  "secTitle": "未来進行形の使い方"
+ },
+ {
+  "id": "A-31",
+  "unit": "A",
+  "no": "31",
+  "jp": "しばらく会えなくなりますね。",
+  "answers": [
+   "We won't be seeing each other for a while."
+  ],
+  "audio": "audio/A/A-31-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank",
+    "hint": "s"
+   },
+   {
+    "t": "text",
+    "v": " each other for a while."
+   }
+  ],
+  "solutions": [
+   [
+    "won't",
+    "be",
+    "seeing"
+   ]
+  ],
+  "secTitle": "未来進行形の使い方"
+ },
+ {
+  "id": "A-32",
+  "unit": "A",
+  "no": "32",
+  "jp": "ポール，宿題は終わったの？",
+  "answers": [
+   "Paul, have you done your homework?",
+   "Paul, have you finished your homework?"
+  ],
+  "audio": "audio/A/A-32-.mp3",
+  "section": {
+   "title": "現在完了形の使い方",
+   "body": "（ A ）との繋がりを意識しながら（ B ）のことを述べる場合は現在完了形を用いる。現在完了形は「過去に始めたことが現時点で終わっている」（完了用法），「過去にそれをして今そうなっている［その影響が見て取れる］」（結果用法），「 過去から現在までに～したことがある」（経験用法），「過去から現在までずっと～である」（継続用法）などの意味を表す。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Paul, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " your homework?"
+   }
+  ],
+  "solutions": [
+   [
+    "have",
+    "you",
+    "done"
+   ],
+   [
+    "have",
+    "you",
+    "finished"
+   ]
+  ],
+  "secTitle": "現在完了形の使い方"
+ },
+ {
+  "id": "A-33",
+  "unit": "A",
+  "no": "33",
+  "jp": "会員カードの有効期限が切れています。",
+  "answers": [
+   "Your membership card has expired."
+  ],
+  "audio": "audio/A/A-33-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Your membership card "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "expires",
+     "is expiring",
+     "has expired"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "has expired"
+   ]
+  ],
+  "secTitle": "現在完了形の使い方"
+ },
+ {
+  "id": "A-34",
+  "unit": "A",
+  "no": "34",
+  "jp": "「いつ 引っ越しするの？」「まだ決めていません」",
+  "answers": [
+   "\"When are you moving?\" \"I haven't decided yet.\""
+  ],
+  "audio": "audio/A/A-34-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "\"When are you moving?\" \"I don't decide yet.\"",
+  "secTitle": "現在完了形の使い方"
+ },
+ {
+  "id": "A-35",
+  "unit": "A",
+  "no": "35",
+  "jp": "高校時代にディベートをしたことはありますか？",
+  "answers": [
+   "Did you ever debate while you were in high school?"
+  ],
+  "audio": "audio/A/A-35-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Have you ever debated while you were in high school?",
+  "secTitle": "現在完了形の使い方"
+ },
+ {
+  "id": "A-36",
+  "unit": "A",
+  "no": "36",
+  "jp": "今，仕事から帰宅したところなんだけど，もうくたくただよ。",
+  "answers": [
+   "I just got home from work, and I'm really tired."
+  ],
+  "audio": "audio/A/A-36-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I just got home from work, and I'm really tired.",
+  "secTitle": "現在完了形の使い方"
+ },
+ {
+  "id": "A-37",
+  "unit": "A",
+  "no": "37",
+  "jp": "生まれた時からずっと京都に住んでいるが，祇園祭には一度も行ったことがない。",
+  "answers": [
+   "I have lived in Kyoto all my life, but I have never been to the Gion Festival.",
+   "I have lived in Kyoto all my life, but I have never gone to the Gion Festival."
+  ],
+  "audio": "audio/A/A-37-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "live",
+     "have lived"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " in Kyoto all my life, but I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the Gion Festival."
+   }
+  ],
+  "solutions": [
+   [
+    "have lived",
+    "have",
+    "never",
+    "been",
+    "to"
+   ],
+   [
+    "have lived",
+    "have",
+    "never",
+    "gone",
+    "to"
+   ]
+  ],
+  "secTitle": "現在完了形の使い方"
+ },
+ {
+  "id": "A-38",
+  "unit": "A",
+  "no": "38",
+  "jp": "教師になってどのくらい経ちますか？",
+  "answers": [
+   "How long have you been a teacher?"
+  ],
+  "audio": "audio/A/A-38-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "How long "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " a teacher?"
+   }
+  ],
+  "solutions": [
+   [
+    "have",
+    "you",
+    "been"
+   ]
+  ],
+  "secTitle": "現在完了形の使い方"
+ },
+ {
+  "id": "A-39-a",
+  "unit": "A",
+  "no": "39",
+  "jp": "私は1997 年からずっとここで働いています。",
+  "answers": [
+   "I have worked here since 1997."
+  ],
+  "audio": "audio/A/A-39-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " here since 1997."
+   }
+  ],
+  "solutions": [
+   [
+    "have",
+    "worked"
+   ]
+  ],
+  "secTitle": "現在完了形の使い方"
+ },
+ {
+  "id": "A-39-b",
+  "unit": "A",
+  "no": "39",
+  "jp": "私は1997 年からずっとここで働いています。",
+  "answers": [
+   "I have been working here since 1997."
+  ],
+  "audio": "audio/A/A-39-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " here since 1997."
+   }
+  ],
+  "solutions": [
+   [
+    "have",
+    "been",
+    "working"
+   ]
+  ],
+  "secTitle": "現在完了形の使い方"
+ },
+ {
+  "id": "A-40",
+  "unit": "A",
+  "no": "40",
+  "jp": "最近君は全然英語の勉強をしていないじゃないか。",
+  "answers": [
+   "Lately, you haven't been studying English at all."
+  ],
+  "audio": "audio/A/A-40-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Lately, you "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " English at all."
+   }
+  ],
+  "solutions": [
+   [
+    "haven't",
+    "been",
+    "studying"
+   ]
+  ],
+  "secTitle": "現在完了形の使い方"
+ },
+ {
+  "id": "A-41",
+  "unit": "A",
+  "no": "41",
+  "jp": "みんな１，２週間もすればそんなことすっかり忘れてしまっているさ。",
+  "answers": [
+   "People will have forgotten all about it in a week or two."
+  ],
+  "audio": "audio/A/A-41-.mp3",
+  "section": {
+   "title": "未来完了形の使い方",
+   "body": "「( A ) ( B ) ( C )」 という形を 「未来完了形」 と呼ぶ。これは 「未来の一時点」 までの完了・結果・経験・継続を表す。「継続」 の意味では 「( D ) ( E ) ( F ) ( G )」 という未来完了進行形を用いることもある。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "People "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "will forget",
+     "will be forgetting",
+     "will have forgotten"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " all about it in a week or two."
+   }
+  ],
+  "solutions": [
+   [
+    "will have forgotten"
+   ]
+  ],
+  "secTitle": "未来完了形の使い方"
+ },
+ {
+  "id": "A-42",
+  "unit": "A",
+  "no": "42",
+  "jp": "もう一度バンコクに行けば，５回行ったことになります。",
+  "answers": [
+   "If I visit Bangkok again, I'll have been there five times.",
+   "If I visit Bangkok again, I'll have gone there five times."
+  ],
+  "audio": "audio/A/A-42-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "If I visit Bangkok again, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " there five times."
+   }
+  ],
+  "solutions": [
+   [
+    "I'll",
+    "have",
+    "been"
+   ],
+   [
+    "I'll",
+    "have",
+    "gone"
+   ]
+  ],
+  "secTitle": "未来完了形の使い方"
+ },
+ {
+  "id": "A-43",
+  "unit": "A",
+  "no": "43",
+  "jp": "４月が来ると，この仕事は３年になります。",
+  "answers": [
+   "Come April, I'll have been doing this job for three years."
+  ],
+  "audio": "audio/A/A-43-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Come April, I'll "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " this job for three years."
+   }
+  ],
+  "solutions": [
+   [
+    "have",
+    "been",
+    "doing"
+   ]
+  ],
+  "secTitle": "未来完了形の使い方"
+ },
+ {
+  "id": "A-44",
+  "unit": "A",
+  "no": "44",
+  "jp": "それを読んだら私に貸してください。",
+  "answers": [
+   "When you have read it, lend it to me."
+  ],
+  "audio": "audio/A/A-44-.mp3",
+  "tags": [
+   "間違いがあれば訂正"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "When you will read it, lend it to me.",
+  "secTitle": "未来完了形の使い方"
+ },
+ {
+  "id": "A-45-a",
+  "unit": "A",
+  "no": "45",
+  "jp": "私がそこへ着いた時，リチャードが立ち去った。",
+  "answers": [
+   "When I got there, Richard left."
+  ],
+  "audio": "audio/A/A-45-a-.mp3",
+  "section": {
+   "title": "過去完了形の使い方",
+   "body": "「過去の一時点」 までの完了・結果・経験・継続は 「( A ) ( B )」 という過去完了形で表す。「継続」 には 「( C ) ( D ) ( E )」 という過去完了進行形も用いる。 過去完了形はまた，過去の一時点からさらに過去にさかのぼった時点（＝大過去）での行為［出来事］を表す。但し，２つの過去の前後関係が文脈から明らかな場合は，大過去を表す過去完了形を（ F ）で代用することが多い。"
+  },
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "When I got there, Richard left.",
+  "secTitle": "過去完了形の使い方"
+ },
+ {
+  "id": "A-45-b",
+  "unit": "A",
+  "no": "45",
+  "jp": "私がそこへ着いた時，リチャードは（既に）去っていた。",
+  "answers": [
+   "When I got there, Richard had left."
+  ],
+  "audio": "audio/A/A-45-b-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "When I got there, Richard had left.",
+  "secTitle": "過去完了形の使い方"
+ },
+ {
+  "id": "A-46",
+  "unit": "A",
+  "no": "46",
+  "jp": "両親が結婚して10 年目に私が生まれた。",
+  "answers": [
+   "My parents had been married for 10 years when I was born."
+  ],
+  "audio": "audio/A/A-46-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "My parents "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " married for 10 years when I was born."
+   }
+  ],
+  "solutions": [
+   [
+    "had",
+    "been"
+   ]
+  ],
+  "secTitle": "過去完了形の使い方"
+ },
+ {
+  "id": "A-47",
+  "unit": "A",
+  "no": "47",
+  "jp": "歩き始めて５分もしないうちに脚に鋭い痛みを感じた。",
+  "answers": [
+   "I hadn't been walking for five minutes when I felt a sharp pain in my leg."
+  ],
+  "audio": "audio/A/A-47-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " for five minutes when I felt a sharp pain in my leg."
+   }
+  ],
+  "solutions": [
+   [
+    "hadn't",
+    "been",
+    "walking"
+   ]
+  ],
+  "secTitle": "過去完了形の使い方"
+ },
+ {
+  "id": "A-48-a",
+  "unit": "A",
+  "no": "48",
+  "jp": "私は昔５年間デザイナーをしていた。",
+  "answers": [
+   "I was a designer for five years."
+  ],
+  "audio": "audio/A/A-48-a-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "I was a designer for five years.",
+  "secTitle": "過去完了形の使い方"
+ },
+ {
+  "id": "A-48-b",
+  "unit": "A",
+  "no": "48",
+  "jp": "私はその時まで５年間デザイナーをしていた。",
+  "answers": [
+   "I had been a designer for five years."
+  ],
+  "audio": "audio/A/A-48-b-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "I had been a designer for five years.",
+  "secTitle": "過去完了形の使い方"
+ },
+ {
+  "id": "A-49",
+  "unit": "A",
+  "no": "49",
+  "jp": "空になったグラスを見て，留守中に来客があったのだとわかった。",
+  "answers": [
+   "I saw empty glasses and knew that there had been visitors while I was out."
+  ],
+  "audio": "audio/A/A-49-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I saw empty glasses and knew that there "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "were",
+     "had been"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " visitors while I was out."
+   }
+  ],
+  "solutions": [
+   [
+    "had been"
+   ]
+  ],
+  "secTitle": "過去完了形の使い方"
+ },
+ {
+  "id": "A-50",
+  "unit": "A",
+  "no": "50",
+  "jp": "私がそこで出会った子供達の多くはひどい暴力を受けて家出をしてきていた。",
+  "answers": [
+   "Many of the children I met there had left home after savage beatings."
+  ],
+  "audio": "audio/A/A-50-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Many of the children I met there "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "left",
+     "had left"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " home after savage beatings."
+   }
+  ],
+  "solutions": [
+   [
+    "had left"
+   ]
+  ],
+  "secTitle": "過去完了形の使い方"
+ },
+ {
+  "id": "A-51-a",
+  "unit": "A",
+  "no": "51",
+  "jp": "私は自分の言ったことを後悔した。",
+  "answers": [
+   "I regretted what I had said."
+  ],
+  "audio": "audio/A/A-51-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I regretted what I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "had",
+    "said"
+   ]
+  ],
+  "secTitle": "過去完了形の使い方"
+ },
+ {
+  "id": "A-51-b",
+  "unit": "A",
+  "no": "51",
+  "jp": "私は自分の言ったことを後悔した。",
+  "answers": [
+   "I regretted what I said."
+  ],
+  "audio": "audio/A/A-51-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I regretted what I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "said"
+   ]
+  ],
+  "secTitle": "過去完了形の使い方"
+ },
+ {
+  "id": "A-52",
+  "unit": "A",
+  "no": "52",
+  "jp": "彼は立ち上がり，母親の元へと駆けていった。",
+  "answers": [
+   "He stood up and ran to his mother."
+  ],
+  "audio": "audio/A/A-52-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "He had stood up and ran to his mother.",
+  "secTitle": "過去完了形の使い方"
+ },
+ {
+  "id": "A-53",
+  "unit": "A",
+  "no": "53",
+  "jp": "その外野手は練習でケガをしてしまい，プレーができない状態だった。",
+  "answers": [
+   "The outfielder had been injured in practice and couldn't play."
+  ],
+  "audio": "audio/A/A-53-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "The outfielder had been injured in practice and couldn't play.",
+  "secTitle": "過去完了形の使い方"
+ },
+ {
+  "id": "A-54",
+  "unit": "A",
+  "no": "54",
+  "jp": "彼女は秘書の仕事を失い，その当時はウェイトレスとして働いていた。",
+  "answers": [
+   "She had lost her job as a secretary and was working as a waitress."
+  ],
+  "audio": "audio/A/A-54-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "She had lost her job as a secretary and was working as a waitress.",
+  "secTitle": "過去完了形の使い方"
+ }
+]

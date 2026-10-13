@@ -1,0 +1,2037 @@
+[
+ {
+  "id": "R-01-a",
+  "unit": "R",
+  "no": "01",
+  "jp": "その土地は全て現在農業に使われている。",
+  "answers": [
+   "All of the land is currently used for agriculture."
+  ],
+  "audio": "audio/R/R-01-a-.mp3",
+  "section": {
+   "title": "主語と動詞の一致 ① ～ 「部分詞＋of ...」 の場合",
+   "body": "文の主語が 「X of Y」 である場合，X とY に置くことばの種類によって受ける動詞が単数動詞になるか複数動詞になるかが決まる。主語が 「all ［most, some, 分数］of Y」 の場合，「Y」 が単数か不可算名詞なら単数動詞で受け，「Y」が複数なら複数動詞で受ける。また，「many of ...」「several of ...」 「both of ...」 は常に（ A ）動詞で受け，「one of ...」「each of ...」 は常に（ B ）動詞で受ける。"
+  },
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "All of the land "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "is",
+     "are"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " currently used for agriculture."
+   }
+  ],
+  "solutions": [
+   [
+    "is"
+   ]
+  ],
+  "secTitle": "主語と動詞の一致 ① ～ 「部分詞＋of ...」 の場合"
+ },
+ {
+  "id": "R-01-b",
+  "unit": "R",
+  "no": "01",
+  "jp": "私の友達のほとんど全員が既に結婚しています。",
+  "answers": [
+   "Almost all of my friends are married now."
+  ],
+  "audio": "audio/R/R-01-b-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Almost all of my friends "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "is",
+     "are"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " married now."
+   }
+  ],
+  "solutions": [
+   [
+    "are"
+   ]
+  ],
+  "secTitle": "主語と動詞の一致 ① ～ 「部分詞＋of ...」 の場合"
+ },
+ {
+  "id": "R-01-c",
+  "unit": "R",
+  "no": "01",
+  "jp": "我々の大半は外見に（心を）惹かれる。",
+  "answers": [
+   "Most of us are attracted by appearances."
+  ],
+  "audio": "audio/R/R-01-c-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Most of us "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "is",
+     "are"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " attracted by appearances."
+   }
+  ],
+  "solutions": [
+   [
+    "are"
+   ]
+  ],
+  "secTitle": "主語と動詞の一致 ① ～ 「部分詞＋of ...」 の場合"
+ },
+ {
+  "id": "R-01-d",
+  "unit": "R",
+  "no": "01",
+  "jp": "私達の食べ物の一部は庭で有機栽培されたものです。",
+  "answers": [
+   "Some of our food is organically grown in our garden."
+  ],
+  "audio": "audio/R/R-01-d-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Some of our food "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "is",
+     "are"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " organically grown in our garden."
+   }
+  ],
+  "solutions": [
+   [
+    "is"
+   ]
+  ],
+  "secTitle": "主語と動詞の一致 ① ～ 「部分詞＋of ...」 の場合"
+ },
+ {
+  "id": "R-01-e",
+  "unit": "R",
+  "no": "01",
+  "jp": "その建物のほぼ３分の２が破壊された。",
+  "answers": [
+   "Nearly two-thirds of the building was destroyed."
+  ],
+  "audio": "audio/R/R-01-e-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Nearly two-thirds of the building "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "was",
+     "were"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " destroyed."
+   }
+  ],
+  "solutions": [
+   [
+    "was"
+   ]
+  ],
+  "secTitle": "主語と動詞の一致 ① ～ 「部分詞＋of ...」 の場合"
+ },
+ {
+  "id": "R-02",
+  "unit": "R",
+  "no": "02",
+  "jp": "私の友人はまだ誰も結婚していません。",
+  "answers": [
+   "None of my friends are married yet.",
+   "None of my friends is married yet."
+  ],
+  "audio": "audio/R/R-02-.mp3",
+  "tags": [
+   "適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "None of my friends "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " married yet."
+   }
+  ],
+  "solutions": [
+   [
+    "are"
+   ],
+   [
+    "is"
+   ]
+  ],
+  "secTitle": "主語と動詞の一致 ① ～ 「部分詞＋of ...」 の場合"
+ },
+ {
+  "id": "R-03-a",
+  "unit": "R",
+  "no": "03",
+  "jp": "私達両方が招待されたの？それともあなただけ？",
+  "answers": [
+   "Are both of us invited, or just you?"
+  ],
+  "audio": "audio/R/R-03-a-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "choice",
+    "options": [
+     "Is",
+     "Are"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " both of us invited, or just you?"
+   }
+  ],
+  "solutions": [
+   [
+    "Are"
+   ]
+  ],
+  "secTitle": "主語と動詞の一致 ① ～ 「部分詞＋of ...」 の場合"
+ },
+ {
+  "id": "R-03-b",
+  "unit": "R",
+  "no": "03",
+  "jp": "私のスタッフの多くはパート・タイムで働いています。",
+  "answers": [
+   "Many of my staff work part-time."
+  ],
+  "audio": "audio/R/R-03-b-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Many of my staff "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "work",
+     "works"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " part-time."
+   }
+  ],
+  "solutions": [
+   [
+    "work"
+   ]
+  ],
+  "secTitle": "主語と動詞の一致 ① ～ 「部分詞＋of ...」 の場合"
+ },
+ {
+  "id": "R-03-c",
+  "unit": "R",
+  "no": "03",
+  "jp": "彼女の小説のいくつかは映画化された。",
+  "answers": [
+   "Several of her novels were made into movies."
+  ],
+  "audio": "audio/R/R-03-c-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Several of her novels "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "was",
+     "were"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " made into movies."
+   }
+  ],
+  "solutions": [
+   [
+    "were"
+   ]
+  ],
+  "secTitle": "主語と動詞の一致 ① ～ 「部分詞＋of ...」 の場合"
+ },
+ {
+  "id": "R-04-a",
+  "unit": "R",
+  "no": "04",
+  "jp": "私の同僚の一人はベトナム出身です。",
+  "answers": [
+   "One of my colleagues is from Vietnam."
+  ],
+  "audio": "audio/R/R-04-a-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "One of my colleagues "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "is",
+     "are"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " from Vietnam."
+   }
+  ],
+  "solutions": [
+   [
+    "is"
+   ]
+  ],
+  "secTitle": "主語と動詞の一致 ① ～ 「部分詞＋of ...」 の場合"
+ },
+ {
+  "id": "R-04-b",
+  "unit": "R",
+  "no": "04",
+  "jp": "私達にはそれぞれこの世でなすべき仕事があるのだと私は信じています。",
+  "answers": [
+   "I believe each of us has a job to do in this world."
+  ],
+  "audio": "audio/R/R-04-b-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I believe each of us "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "has",
+     "have"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " a job to do in this world."
+   }
+  ],
+  "solutions": [
+   [
+    "has"
+   ]
+  ],
+  "secTitle": "主語と動詞の一致 ① ～ 「部分詞＋of ...」 の場合"
+ },
+ {
+  "id": "R-04-c",
+  "unit": "R",
+  "no": "04",
+  "jp": "私は２台プリンターを持っていますが，どちらも壊れています。",
+  "answers": [
+   "I have two printers, neither of which is working."
+  ],
+  "audio": "audio/R/R-04-c-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I have two printers, neither of which "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "is",
+     "are"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " working."
+   }
+  ],
+  "solutions": [
+   [
+    "is"
+   ]
+  ],
+  "secTitle": "主語と動詞の一致 ① ～ 「部分詞＋of ...」 の場合"
+ },
+ {
+  "id": "R-05-a",
+  "unit": "R",
+  "no": "05",
+  "jp": "まだ改善の余地はたくさんある。",
+  "answers": [
+   "There is still lots of room for improvement."
+  ],
+  "audio": "audio/R/R-05-a-.mp3",
+  "section": {
+   "title": "主語と動詞の一致 ② ～ 「(a) ... of ...」 の場合",
+   "body": "「たくさんの」 を表すa lot of, lots of, plenty of が主語に置かれる場合，of の後ろに置かれる（代）名詞が単数か不可算名詞なら（ A ）動詞で受け，複数なら（ B ）動詞で受けるが，「いくらかの」 を表す  「a （ C ） of」  は常に複数動詞で受ける。"
+  },
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "There "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "is",
+     "are"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " still lots of room for improvement."
+   }
+  ],
+  "solutions": [
+   [
+    "is"
+   ]
+  ],
+  "secTitle": "主語と動詞の一致 ② ～ 「(a) ... of ...」 の場合"
+ },
+ {
+  "id": "R-05-b",
+  "unit": "R",
+  "no": "05",
+  "jp": "最近私の生活にはたくさんの変化があった。",
+  "answers": [
+   "There have been a lot of changes in my life recently."
+  ],
+  "audio": "audio/R/R-05-b-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "There "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "has",
+     "have"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " been a lot of changes in my life recently."
+   }
+  ],
+  "solutions": [
+   [
+    "have"
+   ]
+  ],
+  "secTitle": "主語と動詞の一致 ② ～ 「(a) ... of ...」 の場合"
+ },
+ {
+  "id": "R-05-c",
+  "unit": "R",
+  "no": "05",
+  "jp": "スポーツ界ではたくさんのお金が飛び交っている。",
+  "answers": [
+   "Plenty of money is being thrown around in the sports world."
+  ],
+  "audio": "audio/R/R-05-c-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Plenty of money "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "is",
+     "are"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " being thrown around in the sports world."
+   }
+  ],
+  "solutions": [
+   [
+    "is"
+   ]
+  ],
+  "secTitle": "主語と動詞の一致 ② ～ 「(a) ... of ...」 の場合"
+ },
+ {
+  "id": "R-06-a",
+  "unit": "R",
+  "no": "06",
+  "jp": "いくつかの国は待ったなしのゴミ問題を抱えている。",
+  "answers": [
+   "A number of countries have trash problems that will not wait."
+  ],
+  "audio": "audio/R/R-06-a-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "A number of countries "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "has",
+     "have"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " trash problems that will not wait."
+   }
+  ],
+  "solutions": [
+   [
+    "have"
+   ]
+  ],
+  "secTitle": "主語と動詞の一致 ② ～ 「(a) ... of ...」 の場合"
+ },
+ {
+  "id": "R-06-b",
+  "unit": "R",
+  "no": "06",
+  "jp": "肥満の子供の数は1980年以降２倍に増えた。",
+  "answers": [
+   "The number of obese children has doubled since 1980."
+  ],
+  "audio": "audio/R/R-06-b-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The number of obese children "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "has",
+     "have"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " doubled since 1980."
+   }
+  ],
+  "solutions": [
+   [
+    "has"
+   ]
+  ],
+  "secTitle": "主語と動詞の一致 ② ～ 「(a) ... of ...」 の場合"
+ },
+ {
+  "id": "R-07-a",
+  "unit": "R",
+  "no": "07",
+  "jp": "お金と名声は成功の副産物だ。",
+  "answers": [
+   "Money and fame are by-products of success."
+  ],
+  "audio": "audio/R/R-07-a-.mp3",
+  "section": {
+   "title": "主語と動詞の一致 ③ ～ 主語が２つある場合",
+   "body": "主語が 「X and Y」 や 「both X and Y」 の場合は（ A ）動詞で受ける。「X or Y」 「either X or Y」「neither X nor Y」 は（ B ）に近い方の主語に合わせて動詞の単複を決める。"
+  },
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Money and fame are by-products of success.",
+  "secTitle": "主語と動詞の一致 ③ ～ 主語が２つある場合"
+ },
+ {
+  "id": "R-07-b",
+  "unit": "R",
+  "no": "07",
+  "jp": "夫も私もどちらも仕事が忙しい。",
+  "answers": [
+   "Both my husband and I are busy at work."
+  ],
+  "audio": "audio/R/R-07-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Both my husband and I am busy at work.",
+  "secTitle": "主語と動詞の一致 ③ ～ 主語が２つある場合"
+ },
+ {
+  "id": "R-07-c",
+  "unit": "R",
+  "no": "07",
+  "jp": "チキンとエビの（入った）料理はおいしかった。",
+  "answers": [
+   "The chicken and shrimp was delicious."
+  ],
+  "audio": "audio/R/R-07-c-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "The chicken and shrimp was delicious.",
+  "secTitle": "主語と動詞の一致 ③ ～ 主語が２つある場合"
+ },
+ {
+  "id": "R-07-d",
+  "unit": "R",
+  "no": "07",
+  "jp": "２足す３は５。 ２掛ける３は６。",
+  "answers": [
+   "Two and three is five. Two times three is six."
+  ],
+  "audio": "audio/R/R-07-d-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Two and three is five. Two times three is six.",
+  "secTitle": "主語と動詞の一致 ③ ～ 主語が２つある場合"
+ },
+ {
+  "id": "R-08-a",
+  "unit": "R",
+  "no": "08",
+  "jp": "ジャックか私のどちらかが彼を駅まで車で迎えに行きます。",
+  "answers": [
+   "Either Jack or I am going to pick him up at the station."
+  ],
+  "audio": "audio/R/R-08-a-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Either Jack or I "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "is",
+     "am",
+     "are"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " going to pick him up at the station."
+   }
+  ],
+  "solutions": [
+   [
+    "am"
+   ]
+  ],
+  "secTitle": "主語と動詞の一致 ③ ～ 主語が２つある場合"
+ },
+ {
+  "id": "R-08-b",
+  "unit": "R",
+  "no": "08",
+  "jp": "ジャックか私のどちらかがそちらへ行くのですか？",
+  "answers": [
+   "Is either Jack or I going to be there?"
+  ],
+  "audio": "audio/R/R-08-b-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "choice",
+    "options": [
+     "Is",
+     "Am",
+     "Are"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " either Jack or I going to be there?"
+   }
+  ],
+  "solutions": [
+   [
+    "Is"
+   ]
+  ],
+  "secTitle": "主語と動詞の一致 ③ ～ 主語が２つある場合"
+ },
+ {
+  "id": "R-08-c",
+  "unit": "R",
+  "no": "08",
+  "jp": "ジャックも私もその男が好きではありません。",
+  "answers": [
+   "Neither Jack nor I like this guy."
+  ],
+  "audio": "audio/R/R-08-c-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Neither Jack nor I "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "like",
+     "likes"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " this guy."
+   }
+  ],
+  "solutions": [
+   [
+    "like"
+   ]
+  ],
+  "secTitle": "主語と動詞の一致 ③ ～ 主語が２つある場合"
+ },
+ {
+  "id": "R-09-a",
+  "unit": "R",
+  "no": "09",
+  "jp": "お金だけでなく武器もまた国境を越えている。",
+  "answers": [
+   "It's not only money but also weapons that are crossing the border."
+  ],
+  "audio": "audio/R/R-09-a-.mp3",
+  "section": {
+   "title": "主語と動詞の一致 ④ ～ 主語が相関語句の場合",
+   "body": "「not only X but (also) Y」 を主語に置く場合は（ A ）に合わせて動詞の単複を決める。一方，「X as well as Y」 「X together with Y」 「X rather than Y」 は全て（ B ）に合わせて動詞の単複を決める。"
+  },
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "It's not only money but also weapons that is crossing the border.",
+  "secTitle": "主語と動詞の一致 ④ ～ 主語が相関語句の場合"
+ },
+ {
+  "id": "R-09-b",
+  "unit": "R",
+  "no": "09",
+  "jp": "姉は，両親と同じく，教師をしています。",
+  "answers": [
+   "My sister, as well as my parents, is a teacher."
+  ],
+  "audio": "audio/R/R-09-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "My sister, as well as my parents, is a teacher.",
+  "secTitle": "主語と動詞の一致 ④ ～ 主語が相関語句の場合"
+ },
+ {
+  "id": "R-09-c",
+  "unit": "R",
+  "no": "09",
+  "jp": "これらのゲームは，チェスと共に，大流行していた。",
+  "answers": [
+   "These games, together with chess, were very much in vogue."
+  ],
+  "audio": "audio/R/R-09-c-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "These games, together with chess, was very much in vogue.",
+  "secTitle": "主語と動詞の一致 ④ ～ 主語が相関語句の場合"
+ },
+ {
+  "id": "R-10-a",
+  "unit": "R",
+  "no": "10",
+  "jp": "行動を伴わないアイデアに価値はない。",
+  "answers": [
+   "Ideas without action are worthless."
+  ],
+  "audio": "audio/R/R-10-a-.mp3",
+  "section": {
+   "title": "主語と動詞の一致 ⑤ ～ 句や節が挿入された場合",
+   "body": "主語の後ろに（ A ）句［節］や名詞句［節］，副詞句［節］が置かれる場合，主語と述語動詞が離れるので，主語を見失わないように注意する必要がある。"
+  },
+  "tags": [
+   "各文の適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Ideas without action "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "is",
+     "are"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " worthless."
+   }
+  ],
+  "solutions": [
+   [
+    "are"
+   ]
+  ],
+  "secTitle": "主語と動詞の一致 ⑤ ～ 句や節が挿入された場合"
+ },
+ {
+  "id": "R-10-b",
+  "unit": "R",
+  "no": "10",
+  "jp": "10人中１人の生徒が学校でいじめにあっている。",
+  "answers": [
+   "One in every ten students is bullied at school."
+  ],
+  "audio": "audio/R/R-10-b-.mp3",
+  "tags": [
+   "各文の適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "One in every ten students "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "is",
+     "are"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " bullied at school."
+   }
+  ],
+  "solutions": [
+   [
+    "is"
+   ]
+  ],
+  "secTitle": "主語と動詞の一致 ⑤ ～ 句や節が挿入された場合"
+ },
+ {
+  "id": "R-10-c",
+  "unit": "R",
+  "no": "10",
+  "jp": "一度も失敗しない人達はみな一度も挑戦しない人達である。",
+  "answers": [
+   "The only people who never fail are those who never try."
+  ],
+  "audio": "audio/R/R-10-c-.mp3",
+  "tags": [
+   "各文の適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The only people who never fail "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "is",
+     "are"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " those who never try."
+   }
+  ],
+  "solutions": [
+   [
+    "are"
+   ]
+  ],
+  "secTitle": "主語と動詞の一致 ⑤ ～ 句や節が挿入された場合"
+ },
+ {
+  "id": "R-10-d",
+  "unit": "R",
+  "no": "10",
+  "jp": "美しい島々からなるハワイは約三千万年前に形成された。",
+  "answers": [
+   "Hawaii, a beautiful large group of islands, was formed some thirty million years ago."
+  ],
+  "audio": "audio/R/R-10-d-.mp3",
+  "tags": [
+   "各文の適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Hawaii, a beautiful large group of islands, "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "was",
+     "were"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " formed some thirty million years ago."
+   }
+  ],
+  "solutions": [
+   [
+    "was"
+   ]
+  ],
+  "secTitle": "主語と動詞の一致 ⑤ ～ 句や節が挿入された場合"
+ },
+ {
+  "id": "R-10-e",
+  "unit": "R",
+  "no": "10",
+  "jp": "参加に興味がある方はオンライン登録をお願いします。",
+  "answers": [
+   "Those interested in participating are invited to register online."
+  ],
+  "audio": "audio/R/R-10-e-.mp3",
+  "tags": [
+   "各文の適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Those interested in participating "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "is",
+     "are"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " invited to register online."
+   }
+  ],
+  "solutions": [
+   [
+    "are"
+   ]
+  ],
+  "secTitle": "主語と動詞の一致 ⑤ ～ 句や節が挿入された場合"
+ },
+ {
+  "id": "R-10-f",
+  "unit": "R",
+  "no": "10",
+  "jp": "暴力が絡んでいたという証拠は，決定的なものではないにせよ，有力だと思われる。",
+  "answers": [
+   "The evidence that violence was involved seems strong if not conclusive."
+  ],
+  "audio": "audio/R/R-10-f-.mp3",
+  "tags": [
+   "各文の適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The evidence that violence was involved "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "seem",
+     "seems"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " strong if not conclusive."
+   }
+  ],
+  "solutions": [
+   [
+    "seems"
+   ]
+  ],
+  "secTitle": "主語と動詞の一致 ⑤ ～ 句や節が挿入された場合"
+ },
+ {
+  "id": "R-10-g",
+  "unit": "R",
+  "no": "10",
+  "jp": "これらの問題は，私の知る限り，まだ一度も真剣に取り組まれたことがない。",
+  "answers": [
+   "These questions, as far as I know, have not yet been seriously addressed."
+  ],
+  "audio": "audio/R/R-10-g-.mp3",
+  "tags": [
+   "各文の適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "These questions, as far as I know, "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "have",
+     "has"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " not yet been seriously addressed."
+   }
+  ],
+  "solutions": [
+   [
+    "have"
+   ]
+  ],
+  "secTitle": "主語と動詞の一致 ⑤ ～ 句や節が挿入された場合"
+ },
+ {
+  "id": "R-11-a",
+  "unit": "R",
+  "no": "11",
+  "jp": "小さな子供がいると自分の自由が制限されます。",
+  "answers": [
+   "Having small children restricts one's freedom."
+  ],
+  "audio": "audio/R/R-11-a-.mp3",
+  "section": {
+   "title": "主語と動詞の一致 ⑥ ～ 名詞句や名詞節の場合",
+   "body": "「to 不定詞句」「疑問詞＋to 不定詞」「動名詞句」 などの名詞句や，「間接疑問文」などの名詞節が主語になる場合は（ A ）動詞で受ける。"
+  },
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Having small children restricts one's freedom.",
+  "secTitle": "主語と動詞の一致 ⑥ ～ 名詞句や名詞節の場合"
+ },
+ {
+  "id": "R-11-b",
+  "unit": "R",
+  "no": "11",
+  "jp": "研究に時間を費やし過ぎるのは怠惰である。",
+  "answers": [
+   "To spend too much time in studies is sloth."
+  ],
+  "audio": "audio/R/R-11-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "To spend too much time in studies are sloth.",
+  "secTitle": "主語と動詞の一致 ⑥ ～ 名詞句や名詞節の場合"
+ },
+ {
+  "id": "R-11-c",
+  "unit": "R",
+  "no": "11",
+  "jp": "リサイクル費用をどう負担し合うかは論争を招く問題だ。",
+  "answers": [
+   "How to share recycling costs is a contentious issue."
+  ],
+  "audio": "audio/R/R-11-c-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "How to share recycling costs is a contentious issue.",
+  "secTitle": "主語と動詞の一致 ⑥ ～ 名詞句や名詞節の場合"
+ },
+ {
+  "id": "R-11-d",
+  "unit": "R",
+  "no": "11",
+  "jp": "人の性別を決定しているのは染色体である。",
+  "answers": [
+   "Whether you are male or female is determined by chromosomes."
+  ],
+  "audio": "audio/R/R-11-d-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Whether you are male or female is determined by chromosomes.",
+  "secTitle": "主語と動詞の一致 ⑥ ～ 名詞句や名詞節の場合"
+ },
+ {
+  "id": "R-11-e",
+  "unit": "R",
+  "no": "11",
+  "jp": "個人のパフォーマンスがチームのパフォーマンスを決定する。",
+  "answers": [
+   "How we perform as individuals determines how we perform as a team."
+  ],
+  "audio": "audio/R/R-11-e-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "How we perform as individuals determine how we perform as a team.",
+  "secTitle": "主語と動詞の一致 ⑥ ～ 名詞句や名詞節の場合"
+ },
+ {
+  "id": "R-12-a",
+  "unit": "R",
+  "no": "12",
+  "jp": "私にとって千ドルは大金です。",
+  "answers": [
+   "For me, a thousand dollars is a lot of money."
+  ],
+  "audio": "audio/R/R-12-a-.mp3",
+  "section": {
+   "title": "主語と動詞の一致 ⑦ ～ 金額・時間・距離の複数名詞の場合",
+   "body": "主語に置かれる金額・時間・距離などの複数名詞が 「ひとまとまり」 「１つのまとまった単位」 という意識で用いられる場合は（ A ）として扱い（ A ）動詞で受ける。"
+  },
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "For me, a thousand dollars is a lot of money.",
+  "secTitle": "主語と動詞の一致 ⑦ ～ 金額・時間・距離の複数名詞の場合"
+ },
+ {
+  "id": "R-12-b",
+  "unit": "R",
+  "no": "12",
+  "jp": "僕が君に貸したあの５ドルはどこへいった？",
+  "answers": [
+   "Where is that five dollars I lent you?"
+  ],
+  "audio": "audio/R/R-12-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Where is that five dollars I lent you?",
+  "secTitle": "主語と動詞の一致 ⑦ ～ 金額・時間・距離の複数名詞の場合"
+ },
+ {
+  "id": "R-12-c",
+  "unit": "R",
+  "no": "12",
+  "jp": "かなりの英語を身につけるのに６ヶ月は短すぎる。",
+  "answers": [
+   "Six months is too short a time to learn much English."
+  ],
+  "audio": "audio/R/R-12-c-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Six months are too short a time to learn much English.",
+  "secTitle": "主語と動詞の一致 ⑦ ～ 金額・時間・距離の複数名詞の場合"
+ },
+ {
+  "id": "R-12-d",
+  "unit": "R",
+  "no": "12",
+  "jp": "冷戦の終結後20年以上が経過している。",
+  "answers": [
+   "More than 20 years have passed since the end of the Cold War."
+  ],
+  "audio": "audio/R/R-12-d-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "More than 20 years has passed since the end of the Cold War.",
+  "secTitle": "主語と動詞の一致 ⑦ ～ 金額・時間・距離の複数名詞の場合"
+ },
+ {
+  "id": "R-12-e",
+  "unit": "R",
+  "no": "12",
+  "jp": "40マイルは一日で歩くには長い距離だ。",
+  "answers": [
+   "Forty miles is a long way to walk in a day."
+  ],
+  "audio": "audio/R/R-12-e-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Forty miles is a long way to walk in a day.",
+  "secTitle": "主語と動詞の一致 ⑦ ～ 金額・時間・距離の複数名詞の場合"
+ },
+ {
+  "id": "R-13",
+  "unit": "R",
+  "no": "13",
+  "jp": "「ご家族のみなさんはお元気ですか？」「ええ，みんな元気です」",
+  "answers": [
+   "\"How is your family?\" \"Everybody is fine, thank you.\""
+  ],
+  "audio": "audio/R/R-13-.mp3",
+  "section": {
+   "title": "主語と動詞の一致 ⑧ ～ 集合名詞の場合",
+   "body": "family，class，staff のような集合名詞は一般に（（米））では（ A ）扱いし，（（英））では単数と複数の両方で扱う。（（英））で単数扱いするのは，全体を「１つの集合体」という意識で用いる場合で，「個々の構成員達」 を意識する場合は複数扱いする。但し，people やpolice のように常に（ B ）扱いする集合名詞もある。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"How "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " your family?\" \"Everybody is fine, thank you.\""
+   }
+  ],
+  "solutions": [
+   [
+    "is"
+   ]
+  ],
+  "secTitle": "主語と動詞の一致 ⑧ ～ 集合名詞の場合"
+ },
+ {
+  "id": "R-15-a",
+  "unit": "R",
+  "no": "15",
+  "jp": "クラスは少人数で生徒は遠慮なく質問ができます。",
+  "answers": [
+   "The class is small and students are encouraged to ask questions."
+  ],
+  "audio": "audio/R/R-15-a-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "The class are small and students are encouraged to ask questions.",
+  "secTitle": "主語と動詞の一致 ⑧ ～ 集合名詞の場合"
+ },
+ {
+  "id": "R-15-b",
+  "unit": "R",
+  "no": "15",
+  "jp": "そのスタッフ達はいつも何かでもめていました。",
+  "answers": [
+   "The staff were always in disagreement about something."
+  ],
+  "audio": "audio/R/R-15-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "The staff were always in disagreement about something.",
+  "secTitle": "主語と動詞の一致 ⑧ ～ 集合名詞の場合"
+ },
+ {
+  "id": "R-15-c",
+  "unit": "R",
+  "no": "15",
+  "jp": "聴衆はそのショーを隅々まで堪能した。",
+  "answers": [
+   "The audience was delighted with each and every part of the show."
+  ],
+  "audio": "audio/R/R-15-c-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "The audience was delighted with each and every part of the show.",
+  "secTitle": "主語と動詞の一致 ⑧ ～ 集合名詞の場合"
+ },
+ {
+  "id": "R-15-d",
+  "unit": "R",
+  "no": "15",
+  "jp": "警察はその火事の原因を調査している。",
+  "answers": [
+   "The police are investigating the cause of the fire."
+  ],
+  "audio": "audio/R/R-15-d-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "The police is investigating the cause of the fire.",
+  "secTitle": "主語と動詞の一致 ⑧ ～ 集合名詞の場合"
+ },
+ {
+  "id": "R-16-a",
+  "unit": "R",
+  "no": "16",
+  "jp": "フィリピンの出生率はアジアの中で最も高い。",
+  "answers": [
+   "The Philippines has the highest birth rate in Asia."
+  ],
+  "audio": "audio/R/R-16-a-.mp3",
+  "section": {
+   "title": "主語と動詞の一致 ⑨ ～ 国名・集団・学問の複数名詞の場合",
+   "body": "国や地域の名前，新聞・雑誌の名前，学問・学科の名前は複数形であっても（ A ）動詞で受ける。"
+  },
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "The Philippines has the highest birth rate in Asia.",
+  "secTitle": "主語と動詞の一致 ⑨ ～ 国名・集団・学問の複数名詞の場合"
+ },
+ {
+  "id": "R-16-b",
+  "unit": "R",
+  "no": "16",
+  "jp": "国連は人権を保護するために何をしていますか？",
+  "answers": [
+   "What does the United Nations do in protecting human rights?"
+  ],
+  "audio": "audio/R/R-16-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "What do the United Nations do in protecting human rights?",
+  "secTitle": "主語と動詞の一致 ⑨ ～ 国名・集団・学問の複数名詞の場合"
+ },
+ {
+  "id": "R-16-c",
+  "unit": "R",
+  "no": "16",
+  "jp": "ニューヨーク・タイムズは1995年からインターネットに記事を掲載している。",
+  "answers": [
+   "The New York Times has been on the web since 1995."
+  ],
+  "audio": "audio/R/R-16-c-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "The New York Times has been on the web since 1995.",
+  "secTitle": "主語と動詞の一致 ⑨ ～ 国名・集団・学問の複数名詞の場合"
+ },
+ {
+  "id": "R-16-d",
+  "unit": "R",
+  "no": "16",
+  "jp": "ニューヨーク・ヤンキースが６連勝しました。",
+  "answers": [
+   "The New York Yankees have won six straight games."
+  ],
+  "audio": "audio/R/R-16-d-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "The New York Yankees has won six straight games.",
+  "secTitle": "主語と動詞の一致 ⑨ ～ 国名・集団・学問の複数名詞の場合"
+ },
+ {
+  "id": "R-16-e",
+  "unit": "R",
+  "no": "16",
+  "jp": "Mathematicsは一般に米国ではmath，英国ではmathsと呼ばれます。",
+  "answers": [
+   "Mathematics is commonly called math in the US and maths in the UK."
+  ],
+  "audio": "audio/R/R-16-e-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Mathematics is commonly called math in the US and maths in the UK.",
+  "secTitle": "主語と動詞の一致 ⑨ ～ 国名・集団・学問の複数名詞の場合"
+ },
+ {
+  "id": "R-16-f",
+  "unit": "R",
+  "no": "16",
+  "jp": "統計によれば，新規の事業所の35％は設立初年度に廃業になるそうだ。",
+  "answers": [
+   "Statistics show that 35% of new businesses fail in their first year."
+  ],
+  "audio": "audio/R/R-16-f-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Statistics shows that 35% of new businesses fail in their first year.",
+  "secTitle": "主語と動詞の一致 ⑨ ～ 国名・集団・学問の複数名詞の場合"
+ },
+ {
+  "id": "R-17-a",
+  "unit": "R",
+  "no": "17",
+  "jp": "全ての人は教育の権利を有する。",
+  "answers": [
+   "Everyone has the right to education."
+  ],
+  "audio": "audio/R/R-17-a-.mp3",
+  "section": {
+   "title": "代名詞と代名詞の一致 ～ 人の不定代名詞の場合",
+   "body": "everyone, someone, anyone, no one などの語は（ A ）形の代名詞なので 「動詞」 は（ A ）形で受ける。これらの語を指す 「代名詞」 は，男性か女性かがわからないため，he or she［ his or her， him or her ］とするのが正式な言い方だが，やや煩わしいため，口語では（ B ） [（ C ）, （ D ）] という複数形で受けることが多い。"
+  },
+  "tags": [
+   "適語を記入し２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Everyone "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "has",
+     "have"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " the right to education."
+   }
+  ],
+  "solutions": [
+   [
+    "has"
+   ]
+  ],
+  "secTitle": "代名詞と代名詞の一致 ～ 人の不定代名詞の場合"
+ },
+ {
+  "id": "R-17-b",
+  "unit": "R",
+  "no": "17",
+  "jp": "全ての人は教育の権利を有する。",
+  "answers": [
+   "All people have the right to education."
+  ],
+  "audio": "audio/R/R-17-b-.mp3",
+  "tags": [
+   "適語を記入し２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "All people "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "has",
+     "have"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " the right to education."
+   }
+  ],
+  "solutions": [
+   [
+    "have"
+   ]
+  ],
+  "secTitle": "代名詞と代名詞の一致 ～ 人の不定代名詞の場合"
+ },
+ {
+  "id": "R-18-a",
+  "unit": "R",
+  "no": "18",
+  "jp": "その状況の元で全員がベストを尽くした。",
+  "answers": [
+   "Everyone did his or her best under the circumstances."
+  ],
+  "audio": "audio/R/R-18-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Everyone did "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " or "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " best under the circumstances."
+   }
+  ],
+  "solutions": [
+   [
+    "his",
+    "her"
+   ]
+  ],
+  "secTitle": "代名詞と代名詞の一致 ～ 人の不定代名詞の場合"
+ },
+ {
+  "id": "R-18-b",
+  "unit": "R",
+  "no": "18",
+  "jp": "その状況の元で全員がベストを尽くした。",
+  "answers": [
+   "Everyone did their best under the circumstances."
+  ],
+  "audio": "audio/R/R-18-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Everyone did "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " best under the circumstances."
+   }
+  ],
+  "solutions": [
+   [
+    "their"
+   ]
+  ],
+  "secTitle": "代名詞と代名詞の一致 ～ 人の不定代名詞の場合"
+ },
+ {
+  "id": "R-19",
+  "unit": "R",
+  "no": "19",
+  "jp": "誰だって負けを認めるのは嫌だよね？",
+  "answers": [
+   "No one likes to admit defeat, do they?"
+  ],
+  "audio": "audio/R/R-19-.mp3",
+  "tags": [
+   "付加疑問にする"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "No one likes to admit defeat, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "?"
+   }
+  ],
+  "solutions": [
+   [
+    "do",
+    "they"
+   ]
+  ],
+  "secTitle": "代名詞と代名詞の一致 ～ 人の不定代名詞の場合"
+ },
+ {
+  "id": "R-20",
+  "unit": "R",
+  "no": "20",
+  "jp": "リンダは自分の新しい恋人のことをどう思うかと私に尋ねた。",
+  "answers": [
+   "Linda asked me what I thought of her new boyfriend."
+  ],
+  "audio": "audio/R/R-20-.mp3",
+  "section": {
+   "title": "時制の一致",
+   "body": "主節の動詞が 「過去形」 の場合に従属節（＝名詞節，形容詞節，副詞節）の動詞や助動詞もそれに合わせて（ A ）形にすることを 「時制の一致」 と呼ぶ。但し，英語の動詞［助動詞］の過去形や過去完了形が表す時制を（日本語訳で考えず）正しく理解していれば，時制の一致という考え方を特に意識する必要はない。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Linda asked me what I think of her new boyfriend.",
+  "secTitle": "時制の一致"
+ },
+ {
+  "id": "R-21",
+  "unit": "R",
+  "no": "21",
+  "jp": "ほらね，彼は遅刻するって言っただろ。彼はいつもそうなんだから。",
+  "answers": [
+   "See, I told you he'd be late. He is always late."
+  ],
+  "audio": "audio/R/R-21-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "See, I told you he'll be late. He is always late.",
+  "secTitle": "時制の一致"
+ },
+ {
+  "id": "R-22",
+  "unit": "R",
+  "no": "22",
+  "jp": "彼女は常々，大きくなったら作家になるんだと言っていました。",
+  "answers": [
+   "She always said that she would be a writer when she grew up."
+  ],
+  "audio": "audio/R/R-22-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "She always said that she would be a writer when she grew up.",
+  "secTitle": "時制の一致"
+ },
+ {
+  "id": "R-23",
+  "unit": "R",
+  "no": "23",
+  "jp": "彼らは私に聞こえないように，話し声を小さくした。",
+  "answers": [
+   "They lowered their voices so that I couldn't hear."
+  ],
+  "audio": "audio/R/R-23-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "They lowered their voices so that I can't hear.",
+  "secTitle": "時制の一致"
+ },
+ {
+  "id": "R-24",
+  "unit": "R",
+  "no": "24",
+  "jp": "あなたの書き込みを読んで，私が何か助けになれるのではと思いました。",
+  "answers": [
+   "I read your post and thought I might be able to help a bit."
+  ],
+  "audio": "audio/R/R-24-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I read your post and thought I may be able to help a bit.",
+  "secTitle": "時制の一致"
+ },
+ {
+  "id": "R-25",
+  "unit": "R",
+  "no": "25",
+  "jp": "それはきっと詐欺なのだろうと真っ先に思った。",
+  "answers": [
+   "My first instinct told me that it must be a scam."
+  ],
+  "audio": "audio/R/R-25-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "My first instinct told me that it must be a scam.",
+  "secTitle": "時制の一致"
+ },
+ {
+  "id": "R-26",
+  "unit": "R",
+  "no": "26",
+  "jp": "そのサービスは私が今までに経験した中で最もひどいものでした。",
+  "answers": [
+   "The service was the worst I have ever experienced."
+  ],
+  "audio": "audio/R/R-26-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "The service was the worst I have ever experienced.",
+  "secTitle": "時制の一致"
+ },
+ {
+  "id": "R-27",
+  "unit": "R",
+  "no": "27",
+  "jp": "彼女が僕のことをどう思っているのかがわかればなあ。",
+  "answers": [
+   "I really wish I knew what she thinks of me."
+  ],
+  "audio": "audio/R/R-27-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I really wish I knew what she thinks of me.",
+  "secTitle": "時制の一致"
+ },
+ {
+  "id": "R-28",
+  "unit": "R",
+  "no": "28",
+  "jp": "ジェーンが（近々）結婚するって聞いたんだけど。",
+  "answers": [
+   "I heard Jane is getting married."
+  ],
+  "audio": "audio/R/R-28-.mp3",
+  "section": {
+   "title": "時制の一致と例外",
+   "body": "主節が 「過去形」 である場合の従属節で，その内容が 「現在」 にも当てはまる場合，通常は時制の一致で（ A ）形にするが，話し手がその事実を現在に当てはまると（強く）意識していたり，不変の真理だと確信している場合には（ B ）形にする。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I heard Jane is getting married.",
+  "secTitle": "時制の一致と例外"
+ },
+ {
+  "id": "R-29",
+  "unit": "R",
+  "no": "29",
+  "jp": "すみません，お名前は何とおっしゃいましたっけ。",
+  "answers": [
+   "Sorry, what did you say your name was again?"
+  ],
+  "audio": "audio/R/R-29-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Sorry, what did you say your name was again?",
+  "secTitle": "時制の一致と例外"
+ },
+ {
+  "id": "R-30",
+  "unit": "R",
+  "no": "30",
+  "jp": "今，金は１オンス1,000ドルになっているの知ってた？",
+  "answers": [
+   "Did you know that gold is $1,000 an ounce right now?"
+  ],
+  "audio": "audio/R/R-30-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Did you know that gold was $1,000 an ounce right now?",
+  "secTitle": "時制の一致と例外"
+ },
+ {
+  "id": "R-31",
+  "unit": "R",
+  "no": "31",
+  "jp": "中国はガソリンの値段を20％近く引き上げると発表しました。（（ニュース報道））",
+  "answers": [
+   "China announced it will raise gasoline prices by nearly 20%."
+  ],
+  "audio": "audio/R/R-31-.mp3",
+  "tags": [
+   "ニュース報道"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "China announced it will raise gasoline prices by nearly 20%.",
+  "secTitle": "時制の一致と例外"
+ },
+ {
+  "id": "R-32",
+  "unit": "R",
+  "no": "32",
+  "jp": "アリストテレスの時代は地球が平らだと信じている人が大半だった。",
+  "answers": [
+   "Most people in Aristotle's time believed the earth was flat."
+  ],
+  "audio": "audio/R/R-32-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Most people in Aristotle's time believed the earth "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "is",
+     "was"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " flat."
+   }
+  ],
+  "solutions": [
+   [
+    "was"
+   ]
+  ],
+  "secTitle": "時制の一致と例外"
+ },
+ {
+  "id": "R-33-a",
+  "unit": "R",
+  "no": "33",
+  "jp": "彼は，地球が太陽の周りを回っていることを証明した。",
+  "answers": [
+   "He proved that the earth revolved around the sun."
+  ],
+  "audio": "audio/R/R-33-a-.mp3",
+  "tags": [
+   "ニュアンスの違いを指摘"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "He proved that the earth revolved around the sun.",
+  "secTitle": "時制の一致と例外"
+ },
+ {
+  "id": "R-33-b",
+  "unit": "R",
+  "no": "33",
+  "jp": "彼は，地球が太陽の周りを回っていることを証明した。",
+  "answers": [
+   "He proved that the earth revolves around the sun."
+  ],
+  "audio": "audio/R/R-33-b-.mp3",
+  "tags": [
+   "ニュアンスの違いを指摘"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "He proved that the earth revolves around the sun.",
+  "secTitle": "時制の一致と例外"
+ },
+ {
+  "id": "R-34-a",
+  "unit": "R",
+  "no": "34",
+  "jp": "ベンジャミン・フランクリンは，時は金なりと言った。",
+  "answers": [
+   "Benjamin Franklin said that time was money."
+  ],
+  "audio": "audio/R/R-34-a-.mp3",
+  "tags": [
+   "ニュアンスの違いを指摘"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Benjamin Franklin said that time was money.",
+  "secTitle": "時制の一致と例外"
+ },
+ {
+  "id": "R-34-b",
+  "unit": "R",
+  "no": "34",
+  "jp": "ベンジャミン・フランクリンは，時は金なりと言った。",
+  "answers": [
+   "Benjamin Franklin said that time is money."
+  ],
+  "audio": "audio/R/R-34-b-.mp3",
+  "tags": [
+   "ニュアンスの違いを指摘"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Benjamin Franklin said that time is money.",
+  "secTitle": "時制の一致と例外"
+ }
+]

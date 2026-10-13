@@ -1,0 +1,2546 @@
+[
+ {
+  "id": "T-01-a",
+  "unit": "T",
+  "no": "01",
+  "jp": "ロンドンへは飛行機で１時間，鉄道で５時間です。",
+  "answers": [
+   "London is an hour away by air, and five hours by rail."
+  ],
+  "audio": "audio/T/T-01-a-.mp3",
+  "section": {
+   "title": "名詞の発音と冠詞（a, an, the）の使い分け",
+   "body": "名詞に不定冠詞（a, an）を付ける場合，名詞の発音が子音で始まる場合はa を付け，母音で始まる場合はan を付ける。名詞に定冠詞（the）を付ける場合は，名詞が子音で始まる場合は【9'】と発音し，名詞が母音で始まる場合は【9i】と発音する。"
+  },
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "London is "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "a",
+     "an"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " hour away by air, and five hours by rail."
+   }
+  ],
+  "solutions": [
+   [
+    "an"
+   ]
+  ],
+  "secTitle": "名詞の発音と冠詞（a, an, the）の使い分け"
+ },
+ {
+  "id": "T-01-b",
+  "unit": "T",
+  "no": "01",
+  "jp": "ロシアはふつうヨーロッパの国と見なされている。",
+  "answers": [
+   "Russia is usually considered a European country."
+  ],
+  "audio": "audio/T/T-01-b-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Russia is usually considered "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "a",
+     "an"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " European country."
+   }
+  ],
+  "solutions": [
+   [
+    "a"
+   ]
+  ],
+  "secTitle": "名詞の発音と冠詞（a, an, the）の使い分け"
+ },
+ {
+  "id": "T-01-c",
+  "unit": "T",
+  "no": "01",
+  "jp": "SOSが発信され，多くの船がその船の救助に来た。",
+  "answers": [
+   "An SOS was sent and many ships came to her rescue."
+  ],
+  "audio": "audio/T/T-01-c-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "choice",
+    "options": [
+     "A",
+     "An"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " SOS was sent and many ships came to her rescue."
+   }
+  ],
+  "solutions": [
+   [
+    "An"
+   ]
+  ],
+  "secTitle": "名詞の発音と冠詞（a, an, the）の使い分け"
+ },
+ {
+  "id": "T-01-d",
+  "unit": "T",
+  "no": "01",
+  "jp": "私は地理でF（不可）を取り，数学でC（可）を取った。",
+  "answers": [
+   "I got an F in geography and a C in math."
+  ],
+  "audio": "audio/T/T-01-d-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I got "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "a",
+     "an"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " F in geography and a C in math."
+   }
+  ],
+  "solutions": [
+   [
+    "an"
+   ]
+  ],
+  "secTitle": "名詞の発音と冠詞（a, an, the）の使い分け"
+ },
+ {
+  "id": "T-01-e",
+  "unit": "T",
+  "no": "01",
+  "jp": "メジャーリーグの選手の平均年俸はいくらですか？",
+  "answers": [
+   "What is the average salary of an MLB player?"
+  ],
+  "audio": "audio/T/T-01-e-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "What is the average salary of "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "a",
+     "an"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " MLB player?"
+   }
+  ],
+  "solutions": [
+   [
+    "an"
+   ]
+  ],
+  "secTitle": "名詞の発音と冠詞（a, an, the）の使い分け"
+ },
+ {
+  "id": "T-02-a",
+  "unit": "T",
+  "no": "02",
+  "jp": "我々の世界は宇宙のほんの一部にすぎない。",
+  "answers": [
+   "Our world is but a small part of the universe."
+  ],
+  "audio": "audio/T/T-02-a-.mp3",
+  "tags": [
+   "下線部の発音は【9'】【9i】【9i\\】のどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Our world is but a small part of the universe.",
+  "secTitle": "名詞の発音と冠詞（a, an, the）の使い分け"
+ },
+ {
+  "id": "T-02-b",
+  "unit": "T",
+  "no": "02",
+  "jp": "彼らはカリフォルニア代表という名誉を得るために競い合った。",
+  "answers": [
+   "They competed for the honor of representing California."
+  ],
+  "audio": "audio/T/T-02-b-.mp3",
+  "tags": [
+   "下線部の発音は【9'】【9i】【9i\\】のどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "They competed for the honor of representing California.",
+  "secTitle": "名詞の発音と冠詞（a, an, the）の使い分け"
+ },
+ {
+  "id": "T-02-c",
+  "unit": "T",
+  "no": "02",
+  "jp": "これはどんな普通のハンバーガーとも違う。これぞ（本物の）ハンバーガーだ",
+  "answers": [
+   "This isn't any ordinary hamburger. This is THE hamburger!"
+  ],
+  "audio": "audio/T/T-02-c-.mp3",
+  "tags": [
+   "下線部の発音は【9'】【9i】【9i\\】のどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "This isn't any ordinary hamburger. This is THE hamburger!",
+  "secTitle": "名詞の発音と冠詞（a, an, the）の使い分け"
+ },
+ {
+  "id": "T-03",
+  "unit": "T",
+  "no": "03",
+  "jp": "15分後にまた別の電車が来ます。",
+  "answers": [
+   "There's another train due in 15 minutes."
+  ],
+  "audio": "audio/T/T-03-.mp3",
+  "section": {
+   "title": "冠詞と共に用いない語",
+   "body": "「不定代名詞」（some, any, every など ）， 「指示形容詞」（this, that など）， 「所有格」（my, Tom's, whose など）は（ A ）の代わりをすることばなので（ A ）と共には用いない。但し，「（ A ）＋ 名詞」 全体を（ B ）にする場合はこの限りではない。"
+  },
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "There's an another train due in 15 minutes.",
+  "secTitle": "冠詞と共に用いない語"
+ },
+ {
+  "id": "T-04",
+  "unit": "T",
+  "no": "04",
+  "jp": "「フレッドって誰？」「僕の大学時代からの友人（の一人）だよ」",
+  "answers": [
+   "\"Who's Fred?\" \"He's a friend of mine from college.\""
+  ],
+  "audio": "audio/T/T-04-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "\"Who's Fred?\" \"He's a my friend from college.\"",
+  "secTitle": "冠詞と共に用いない語"
+ },
+ {
+  "id": "T-05-a",
+  "unit": "T",
+  "no": "05",
+  "jp": "彼はマジソン高校のジャックの先生です。",
+  "answers": [
+   "He is Jack's teacher at Madison High School."
+  ],
+  "audio": "audio/T/T-05-a-.mp3",
+  "tags": [
+   "下線部に間違いがあるのはどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "He is a Jack's teacher at Madison High School.",
+  "secTitle": "冠詞と共に用いない語"
+ },
+ {
+  "id": "T-05-b",
+  "unit": "T",
+  "no": "05",
+  "jp": "誕生日は子供の生活において大切なイベントです。",
+  "answers": [
+   "A birthday is an important occasion in a child's life."
+  ],
+  "audio": "audio/T/T-05-b-.mp3",
+  "tags": [
+   "下線部に間違いがあるのはどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "A birthday is an important occasion in a child's life.",
+  "secTitle": "冠詞と共に用いない語"
+ },
+ {
+  "id": "T-05-c",
+  "unit": "T",
+  "no": "05",
+  "jp": "彼女は英国で最も成功している女性ボーカリストだ。",
+  "answers": [
+   "She is Britain's most successful female vocalist."
+  ],
+  "audio": "audio/T/T-05-c-.mp3",
+  "tags": [
+   "下線部に間違いがあるのはどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "She is the Britain's most successful female vocalist.",
+  "secTitle": "冠詞と共に用いない語"
+ },
+ {
+  "id": "T-05-d",
+  "unit": "T",
+  "no": "05",
+  "jp": "その少年の名前は未成年だという理由から公表されなかった。",
+  "answers": [
+   "The boy's name was not released because he was a minor."
+  ],
+  "audio": "audio/T/T-05-d-.mp3",
+  "tags": [
+   "下線部に間違いがあるのはどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "The boy's name was not released because he was a minor.",
+  "secTitle": "冠詞と共に用いない語"
+ },
+ {
+  "id": "T-05-e",
+  "unit": "T",
+  "no": "05",
+  "jp": "彼女はソウルの（ある）男子校で英語を教えています。",
+  "answers": [
+   "She teaches English at a boys' high school in Seoul."
+  ],
+  "audio": "audio/T/T-05-e-.mp3",
+  "tags": [
+   "下線部に間違いがあるのはどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "She teaches English at a boys' high school in Seoul.",
+  "secTitle": "冠詞と共に用いない語"
+ },
+ {
+  "id": "T-06",
+  "unit": "T",
+  "no": "06",
+  "jp": "終わったらテーブルの上を片付けてくださいね。",
+  "answers": [
+   "Please clear the table when you are done."
+  ],
+  "audio": "audio/T/T-06-.mp3",
+  "section": {
+   "title": "可算名詞と冠詞（a, an, the）の使い分け",
+   "body": "book やhouse のような 「可算名詞」 はそれだけでは意味をなさず，冠詞や冠詞の代わりをする語を付けたり，複数形にして用いる。「（ A ）＋可算名詞」 は 「（複数存在する中の）ある一つ」を表し，「（ B ）＋可算名詞」 は 「一つに絞られたもの」「（複数存在しない）唯一のもの」  を表す。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Please clear "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "a",
+     "the"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " table when you are done."
+   }
+  ],
+  "solutions": [
+   [
+    "the"
+   ]
+  ],
+  "secTitle": "可算名詞と冠詞（a, an, the）の使い分け"
+ },
+ {
+  "id": "T-07",
+  "unit": "T",
+  "no": "07",
+  "jp": "「友達を連れてきてもいいですか？」「ええ，もちろん」",
+  "answers": [
+   "\"Can I bring a friend?\" \"Yes, of course.\""
+  ],
+  "audio": "audio/T/T-07-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"Can I bring "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "a",
+     "the"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " friend?\" \"Yes, of course.\""
+   }
+  ],
+  "solutions": [
+   [
+    "a"
+   ]
+  ],
+  "secTitle": "可算名詞と冠詞（a, an, the）の使い分け"
+ },
+ {
+  "id": "T-08",
+  "unit": "T",
+  "no": "08",
+  "jp": "６時半に駅で会いましょう。では，また。",
+  "answers": [
+   "I'll meet you at the station at 6:30. See you later."
+  ],
+  "audio": "audio/T/T-08-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'll meet you at "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "a",
+     "the"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " station at 6:30. See you later."
+   }
+  ],
+  "solutions": [
+   [
+    "the"
+   ]
+  ],
+  "secTitle": "可算名詞と冠詞（a, an, the）の使い分け"
+ },
+ {
+  "id": "T-09",
+  "unit": "T",
+  "no": "09",
+  "jp": "「責任者と話がしたいのですが」「私が責任者ですが」",
+  "answers": [
+   "\"I'd like to speak to the manager.\" \"This is the manager speaking.\""
+  ],
+  "audio": "audio/T/T-09-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"I'd like to speak to "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "a",
+     "the"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " manager.\" \"This is the manager speaking.\""
+   }
+  ],
+  "solutions": [
+   [
+    "the"
+   ]
+  ],
+  "secTitle": "可算名詞と冠詞（a, an, the）の使い分け"
+ },
+ {
+  "id": "T-10",
+  "unit": "T",
+  "no": "10",
+  "jp": "昔々，あるところに美しい王妃がいました。",
+  "answers": [
+   "Once upon a time there was a beautiful princess."
+  ],
+  "audio": "audio/T/T-10-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Once upon a time there was "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "a",
+     "the"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " beautiful princess."
+   }
+  ],
+  "solutions": [
+   [
+    "a"
+   ]
+  ],
+  "secTitle": "可算名詞と冠詞（a, an, the）の使い分け"
+ },
+ {
+  "id": "T-11",
+  "unit": "T",
+  "no": "11",
+  "jp": "私は犬と猫を１匹ずつ飼っています。犬はシベリアンハスキーです。",
+  "answers": [
+   "I have a dog and a cat. The dog is a Siberian husky."
+  ],
+  "audio": "audio/T/T-11-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I have a dog and a cat. "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "A",
+     "The"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " dog is a Siberian husky."
+   }
+  ],
+  "solutions": [
+   [
+    "The"
+   ]
+  ],
+  "secTitle": "可算名詞と冠詞（a, an, the）の使い分け"
+ },
+ {
+  "id": "T-12-a",
+  "unit": "T",
+  "no": "12",
+  "jp": "問５の答は何ですか？",
+  "answers": [
+   "What's the answer to question No.5?"
+  ],
+  "audio": "audio/T/T-12-a-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "What's "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "an",
+     "the"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " answer to question No.5?"
+   }
+  ],
+  "solutions": [
+   [
+    "the"
+   ]
+  ],
+  "secTitle": "可算名詞と冠詞（a, an, the）の使い分け"
+ },
+ {
+  "id": "T-12-b",
+  "unit": "T",
+  "no": "12",
+  "jp": "私はメールへの回答を待っているところです。",
+  "answers": [
+   "I'm waiting for an answer to my email."
+  ],
+  "audio": "audio/T/T-12-b-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'm waiting for "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "an",
+     "the"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " answer to my email."
+   }
+  ],
+  "solutions": [
+   [
+    "an"
+   ]
+  ],
+  "secTitle": "可算名詞と冠詞（a, an, the）の使い分け"
+ },
+ {
+  "id": "T-13-a",
+  "unit": "T",
+  "no": "13",
+  "jp": "金がその殺人の動機の一つだった。",
+  "answers": [
+   "Money was a motive for the murder."
+  ],
+  "audio": "audio/T/T-13-a-.mp3",
+  "tags": [
+   "下線部に注意し意味の違いがわかるように和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Money was a motive for the murder.",
+  "secTitle": "可算名詞と冠詞（a, an, the）の使い分け"
+ },
+ {
+  "id": "T-13-b",
+  "unit": "T",
+  "no": "13",
+  "jp": "金がその殺人の動機だった。",
+  "answers": [
+   "Money was the motive for the murder."
+  ],
+  "audio": "audio/T/T-13-b-.mp3",
+  "tags": [
+   "下線部に注意し意味の違いがわかるように和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Money was the motive for the murder.",
+  "secTitle": "可算名詞と冠詞（a, an, the）の使い分け"
+ },
+ {
+  "id": "T-14",
+  "unit": "T",
+  "no": "14",
+  "jp": "私達は詩と曲の両方が書けるシンガーを探しています。",
+  "answers": [
+   "We're looking for a singer who can write lyrics and melodies."
+  ],
+  "audio": "audio/T/T-14-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We're looking for "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "a",
+     "the"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " singer who can write lyrics and melodies."
+   }
+  ],
+  "solutions": [
+   [
+    "a"
+   ]
+  ],
+  "secTitle": "可算名詞と冠詞（a, an, the）の使い分け"
+ },
+ {
+  "id": "T-15-a",
+  "unit": "T",
+  "no": "15",
+  "jp": "私が描いた祖父の人物画は複数あり，これはその中の１枚です。",
+  "answers": [
+   "This is a portrait that I painted of my grandfather."
+  ],
+  "audio": "audio/T/T-15-a-.mp3",
+  "tags": [
+   "下線部に注意し意味の違いがわかるように和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "This is a portrait that I painted of my grandfather.",
+  "secTitle": "可算名詞と冠詞（a, an, the）の使い分け"
+ },
+ {
+  "id": "T-15-b",
+  "unit": "T",
+  "no": "15",
+  "jp": "私が描いた祖父の人物画は１枚だけで，これがその人物画です。",
+  "answers": [
+   "This is the portrait I painted of my grandfather."
+  ],
+  "audio": "audio/T/T-15-b-.mp3",
+  "tags": [
+   "下線部に注意し意味の違いがわかるように和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "This is the portrait I painted of my grandfather.",
+  "secTitle": "可算名詞と冠詞（a, an, the）の使い分け"
+ },
+ {
+  "id": "T-16",
+  "unit": "T",
+  "no": "16",
+  "jp": "パキスタンはインドの北西にあります。",
+  "answers": [
+   "Pakistan is located to the northwest of India."
+  ],
+  "audio": "audio/T/T-16-.mp3",
+  "section": {
+   "title": "the の用法 ① ～ 必然的に唯一と決まる場合",
+   "body": "「方角」や「太陽」 のように一つしかないものには（ A ）が付く。また，最上級や序数，next, only などに修飾される名詞も（通常）一つしかないので（ A ）が付く。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Pakistan is located to "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "a",
+     "the"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " northwest of India."
+   }
+  ],
+  "solutions": [
+   [
+    "the"
+   ]
+  ],
+  "secTitle": "the の用法 ① ～ 必然的に唯一と決まる場合"
+ },
+ {
+  "id": "T-17",
+  "unit": "T",
+  "no": "17",
+  "jp": "地球が太陽の周囲を回るように，月は地球の周囲を回っている。",
+  "answers": [
+   "As the earth orbits the sun, the moon orbits the earth."
+  ],
+  "audio": "audio/T/T-17-.mp3",
+  "tags": [
+   "適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "As "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " earth orbits "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " sun, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " moon orbits "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " earth."
+   }
+  ],
+  "solutions": [
+   [
+    "the",
+    "the",
+    "the",
+    "the"
+   ]
+  ],
+  "secTitle": "the の用法 ① ～ 必然的に唯一と決まる場合"
+ },
+ {
+  "id": "T-18",
+  "unit": "T",
+  "no": "18",
+  "jp": "最初の第一歩を踏み出すのが最も難しいことなのです。",
+  "answers": [
+   "Taking the first step is the hardest part of all."
+  ],
+  "audio": "audio/T/T-18-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Taking "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " first step is "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " hardest part of all."
+   }
+  ],
+  "solutions": [
+   [
+    "the",
+    "the"
+   ]
+  ],
+  "secTitle": "the の用法 ① ～ 必然的に唯一と決まる場合"
+ },
+ {
+  "id": "T-19",
+  "unit": "T",
+  "no": "19",
+  "jp": "現在私達は２台目の車を買うことを検討しています。",
+  "answers": [
+   "We're considering buying a second car."
+  ],
+  "audio": "audio/T/T-19-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We're considering buying "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " second car."
+   }
+  ],
+  "solutions": [
+   [
+    "a"
+   ]
+  ],
+  "secTitle": "the の用法 ① ～ 必然的に唯一と決まる場合"
+ },
+ {
+  "id": "T-20",
+  "unit": "T",
+  "no": "20",
+  "jp": "同じことが，その翌日も，また翌々日にも起こった。",
+  "answers": [
+   "The same thing happened the next day and the day after that."
+  ],
+  "audio": "audio/T/T-20-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " same thing happened "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " next day and "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " day after that."
+   }
+  ],
+  "solutions": [
+   [
+    "The",
+    "the",
+    "the"
+   ]
+  ],
+  "secTitle": "the の用法 ① ～ 必然的に唯一と決まる場合"
+ },
+ {
+  "id": "T-21",
+  "unit": "T",
+  "no": "21",
+  "jp": "オーストラリアの首都はキャンベラです。",
+  "answers": [
+   "The capital of Australia is Canberra."
+  ],
+  "audio": "audio/T/T-21-.mp3",
+  "section": {
+   "title": "the の用法 ② ～「可算名詞＋of ...」 の場合",
+   "body": "「単数形の可算名詞＋of＋名詞」  の 「可算名詞」 は一つしか存在しないことが多いため，たいてい（ A ）が付く。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "choice",
+    "options": [
+     "A",
+     "The"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " capital of Australia is Canberra."
+   }
+  ],
+  "solutions": [
+   [
+    "The"
+   ]
+  ],
+  "secTitle": "the の用法 ② ～「可算名詞＋of ...」 の場合"
+ },
+ {
+  "id": "T-22",
+  "unit": "T",
+  "no": "22",
+  "jp": "彼はかっとなって立ち上がり，テーブルの脚を蹴った。",
+  "answers": [
+   "In quick anger he arose and kicked a leg of the table."
+  ],
+  "audio": "audio/T/T-22-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "In quick anger he arose and kicked "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "a",
+     "the"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " leg of the table."
+   }
+  ],
+  "solutions": [
+   [
+    "a"
+   ]
+  ],
+  "secTitle": "the の用法 ② ～「可算名詞＋of ...」 の場合"
+ },
+ {
+  "id": "T-23",
+  "unit": "T",
+  "no": "23",
+  "jp": "ニューヨーク州にはいくつもの有名な都市があります。",
+  "answers": [
+   "The state of New York is home to a number of prominent cities."
+  ],
+  "audio": "audio/T/T-23-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "choice",
+    "options": [
+     "A",
+     "The"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " state of New York is home to a number of prominent cities."
+   }
+  ],
+  "solutions": [
+   [
+    "The"
+   ]
+  ],
+  "secTitle": "the の用法 ② ～「可算名詞＋of ...」 の場合"
+ },
+ {
+  "id": "T-24",
+  "unit": "T",
+  "no": "24",
+  "jp": "彼らはたいてい一年の一部を海外で過ごします。",
+  "answers": [
+   "They usually spend part of the year abroad."
+  ],
+  "audio": "audio/T/T-24-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "They usually spend part of the year abroad.",
+  "secTitle": "the の用法 ② ～「可算名詞＋of ...」 の場合"
+ },
+ {
+  "id": "T-25",
+  "unit": "T",
+  "no": "25",
+  "jp": "今，私は古代ローマの歴史を学んでいます。",
+  "answers": [
+   "I'm currently studying the history of ancient Rome."
+  ],
+  "audio": "audio/T/T-25-.mp3",
+  "section": {
+   "title": "the の用法 ③ ～「不可算名詞＋of ...」 の場合",
+   "body": "「不可算名詞＋of＋名詞」 の 「不可算名詞」 には（ A ）を付けるが，「不可算名詞」 が動作や行為を表しof の後ろの 「名詞」 がその動作［行為］の対象（＝目的語）を表す場合は（ A ）を付けなくてもよい。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I'm currently studying history of ancient Rome.",
+  "secTitle": "the の用法 ③ ～「不可算名詞＋of ...」 の場合"
+ },
+ {
+  "id": "T-26",
+  "unit": "T",
+  "no": "26",
+  "jp": "水不足は穀物と家畜に影響を与えます。",
+  "answers": [
+   "Lack of rain affects crops and livestock."
+  ],
+  "audio": "audio/T/T-26-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Lack of rain affects crops and livestock.",
+  "secTitle": "the の用法 ③ ～「不可算名詞＋of ...」 の場合"
+ },
+ {
+  "id": "T-27",
+  "unit": "T",
+  "no": "27",
+  "jp": "私は孫達の成長に驚いています。",
+  "answers": [
+   "I marvel at the growth of my grandchildren."
+  ],
+  "audio": "audio/T/T-27-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I marvel at growth of my grandchildren.",
+  "secTitle": "the の用法 ③ ～「不可算名詞＋of ...」 の場合"
+ },
+ {
+  "id": "T-28",
+  "unit": "T",
+  "no": "28",
+  "jp": "工場の閉鎖は関係者全員に苦難をもたらす。",
+  "answers": [
+   "Closure of a factory causes hardship for everyone involved."
+  ],
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Closure of a factory causes hardship for everyone involved.",
+  "secTitle": "the の用法 ③ ～「不可算名詞＋of ...」 の場合"
+ },
+ {
+  "id": "T-29-a",
+  "unit": "T",
+  "no": "29",
+  "jp": "黒海は陸に囲まれた海です。",
+  "answers": [
+   "The Black Sea is a sea surrounded by land."
+  ],
+  "audio": "audio/T/T-29-a-.mp3",
+  "section": {
+   "title": "the の用法 ④ ～ 固有名詞の場合",
+   "body": "一般に地名や人名のような 「固有名詞」 にはthe を付けないが，Pacific Ocean のように（ A ）で終わる固有名詞には原則としてthe を付ける。但し，人々にとって身近でなじみ深い施設や建物はthe を（ B ）することが多い。"
+  },
+  "tags": [
+   "空所に冠詞が必要な場合はその冠詞を，不要な場合は×を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " Black Sea is a sea surrounded by land."
+   }
+  ],
+  "solutions": [
+   [
+    "The"
+   ]
+  ],
+  "secTitle": "the の用法 ④ ～ 固有名詞の場合"
+ },
+ {
+  "id": "T-29-b",
+  "unit": "T",
+  "no": "29",
+  "jp": "ロンドンでの滞在最終日に私達は大英博物館に行きました。",
+  "answers": [
+   "On our last day in London, we went to the British Museum."
+  ],
+  "audio": "audio/T/T-29-b-.mp3",
+  "tags": [
+   "空所に冠詞が必要な場合はその冠詞を，不要な場合は×を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "On our last day in London, we went to "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " British Museum."
+   }
+  ],
+  "solutions": [
+   [
+    "the"
+   ]
+  ],
+  "secTitle": "the の用法 ④ ～ 固有名詞の場合"
+ },
+ {
+  "id": "T-29-c",
+  "unit": "T",
+  "no": "29",
+  "jp": "財務省は非常に大きな権力を持つ官庁です。",
+  "answers": [
+   "The Finance Ministry is a very powerful government authority."
+  ],
+  "audio": "audio/T/T-29-c-.mp3",
+  "tags": [
+   "空所に冠詞が必要な場合はその冠詞を，不要な場合は×を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " Finance Ministry is a very powerful government authority."
+   }
+  ],
+  "solutions": [
+   [
+    "The"
+   ]
+  ],
+  "secTitle": "the の用法 ④ ～ 固有名詞の場合"
+ },
+ {
+  "id": "T-29-d",
+  "unit": "T",
+  "no": "29",
+  "jp": "ミシシッピ川を横断する最初の鉄道橋は1856年に建設された。",
+  "answers": [
+   "The first railroad bridge across the Mississippi was built in 1856."
+  ],
+  "audio": "audio/T/T-29-d-.mp3",
+  "tags": [
+   "空所に冠詞が必要な場合はその冠詞を，不要な場合は×を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The first railroad bridge across "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " Mississippi was built in 1856."
+   }
+  ],
+  "solutions": [
+   [
+    "the"
+   ]
+  ],
+  "secTitle": "the の用法 ④ ～ 固有名詞の場合"
+ },
+ {
+  "id": "T-29-e",
+  "unit": "T",
+  "no": "29",
+  "jp": "ビクトリア湖はアフリカで一番大きな湖です。",
+  "answers": [
+   "Lake Victoria is the biggest lake in Africa."
+  ],
+  "audio": "audio/T/T-29-e-.mp3",
+  "tags": [
+   "空所に冠詞が必要な場合はその冠詞を，不要な場合は×を記入"
+  ],
+  "sheetJp": false,
+  "type": "recall",
+  "secTitle": "the の用法 ④ ～ 固有名詞の場合"
+ },
+ {
+  "id": "T-29-f",
+  "unit": "T",
+  "no": "29",
+  "jp": "すみません，この通りはビクトリア通りでしょうか？",
+  "answers": [
+   "Excuse me. Is this Victoria Street?"
+  ],
+  "audio": "audio/T/T-29-f-.mp3",
+  "tags": [
+   "空所に冠詞が必要な場合はその冠詞を，不要な場合は×を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Excuse me. Is this "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " Victoria Street?"
+   }
+  ],
+  "solutions": [
+   [
+    " "
+   ]
+  ],
+  "secTitle": "the の用法 ④ ～ 固有名詞の場合"
+ },
+ {
+  "id": "T-29-g",
+  "unit": "T",
+  "no": "29",
+  "jp": "この電車は東京駅に停まりますか？",
+  "answers": [
+   "Does this train stop at Tokyo Station?"
+  ],
+  "audio": "audio/T/T-29-g-.mp3",
+  "tags": [
+   "空所に冠詞が必要な場合はその冠詞を，不要な場合は×を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Does this train stop at "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " Tokyo Station?"
+   }
+  ],
+  "solutions": [
+   [
+    " "
+   ]
+  ],
+  "secTitle": "the の用法 ④ ～ 固有名詞の場合"
+ },
+ {
+  "id": "T-30-a",
+  "unit": "T",
+  "no": "30",
+  "jp": "私は文学の学位を取って東京大学を卒業した。",
+  "answers": [
+   "I graduated from Tokyo University with a literature degree."
+  ],
+  "audio": "audio/T/T-30-a-.mp3",
+  "tags": [
+   "下線部を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "I graduated from Tokyo University with a literature degree.",
+  "secTitle": "the の用法 ④ ～ 固有名詞の場合"
+ },
+ {
+  "id": "T-30-b",
+  "unit": "T",
+  "no": "30",
+  "jp": "私は文学の学位を取って東京の大学を卒業した。",
+  "answers": [
+   "I graduated from a Tokyo university with a literature degree."
+  ],
+  "audio": "audio/T/T-30-b-.mp3",
+  "tags": [
+   "下線部を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "I graduated from a Tokyo university with a literature degree.",
+  "secTitle": "the の用法 ④ ～ 固有名詞の場合"
+ },
+ {
+  "id": "T-31",
+  "unit": "T",
+  "no": "31",
+  "jp": "文は武より強し。",
+  "answers": [
+   "The pen is mightier than the sword."
+  ],
+  "audio": "audio/T/T-31-.mp3",
+  "section": {
+   "title": "the の用法 ⑤ ～ 慣用表現",
+   "body": "単数形の可算名詞に（ A ）を付けてその種類全体の性質や概念を表すことがある。また，catch him by （ A ） arm のような慣用表現で（ A ）を（ B ）の代わりに用いたり，by （ A ） pound のように単位を表す慣用表現でも用いられる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "choice",
+    "options": [
+     "A pen",
+     "The pen"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " is mightier than "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "a sword",
+     "the sword"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "The pen",
+    "the sword"
+   ]
+  ],
+  "secTitle": "the の用法 ⑤ ～ 慣用表現"
+ },
+ {
+  "id": "T-32-a",
+  "unit": "T",
+  "no": "32",
+  "jp": "足の具合はどう？",
+  "answers": [
+   "How's the leg?"
+  ],
+  "audio": "audio/T/T-32-a-.mp3",
+  "tags": [
+   "同じ適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "How's "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " leg?"
+   }
+  ],
+  "solutions": [
+   [
+    "the"
+   ]
+  ],
+  "secTitle": "the の用法 ⑤ ～ 慣用表現"
+ },
+ {
+  "id": "T-32-b",
+  "unit": "T",
+  "no": "32",
+  "jp": "誰かが私の肩をポンと叩いた。",
+  "answers": [
+   "Someone tapped me on the shoulder."
+  ],
+  "audio": "audio/T/T-32-b-.mp3",
+  "tags": [
+   "同じ適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Someone tapped me on "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " shoulder."
+   }
+  ],
+  "solutions": [
+   [
+    "the"
+   ]
+  ],
+  "secTitle": "the の用法 ⑤ ～ 慣用表現"
+ },
+ {
+  "id": "T-33-a",
+  "unit": "T",
+  "no": "33",
+  "jp": "私は月極で駐車場を借りている。",
+  "answers": [
+   "I rent a parking space by the month."
+  ],
+  "audio": "audio/T/T-33-a-.mp3",
+  "tags": [
+   "冠詞の適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I rent a parking space by "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " month."
+   }
+  ],
+  "solutions": [
+   [
+    "the"
+   ]
+  ],
+  "secTitle": "the の用法 ⑤ ～ 慣用表現"
+ },
+ {
+  "id": "T-33-b",
+  "unit": "T",
+  "no": "33",
+  "jp": "あなたは１時間当たり10ドルを支払われます。",
+  "answers": [
+   "You will be paid 10 dollars an hour."
+  ],
+  "audio": "audio/T/T-33-b-.mp3",
+  "tags": [
+   "冠詞の適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "You will be paid 10 dollars "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " hour."
+   }
+  ],
+  "solutions": [
+   [
+    "an"
+   ]
+  ],
+  "secTitle": "the の用法 ⑤ ～ 慣用表現"
+ },
+ {
+  "id": "T-34",
+  "unit": "T",
+  "no": "34",
+  "jp": "ニック・モーガンという方からお電話です。",
+  "answers": [
+   "You have a call from a Nick Morgan."
+  ],
+  "audio": "audio/T/T-34-.mp3",
+  "section": {
+   "title": "a [an]＋ 固有名詞・不可算名詞",
+   "body": "一般に，「固有名詞」 やsun のような 「唯一無二の名詞」には（ A ）が付かないが，具体化した個別の事例を表す場合は（ B ）として扱われ（ A ）を付けることがある。"
+  },
+  "tags": [
+   "冠詞の適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "recall",
+  "secTitle": "a [an]＋ 固有名詞・不可算名詞"
+ },
+ {
+  "id": "T-35",
+  "unit": "T",
+  "no": "35",
+  "jp": "我々のほとんどはガンジーやマザーテレサのような人間にはなれない。",
+  "answers": [
+   "Few of us can become a Gandhi or Mother Teresa."
+  ],
+  "audio": "audio/T/T-35-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Few of us can become "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " Gandhi or Mother Teresa."
+   }
+  ],
+  "solutions": [
+   [
+    "a"
+   ]
+  ],
+  "secTitle": "a [an]＋ 固有名詞・不可算名詞"
+ },
+ {
+  "id": "T-36",
+  "unit": "T",
+  "no": "36",
+  "jp": "私はホンダの車に乗っています。私はホンダの大ファンなんです。",
+  "answers": [
+   "I drive a Honda. I'm a big fan of the brand."
+  ],
+  "audio": "audio/T/T-36-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I drive "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " Honda. I'm "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " big fan of "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " brand."
+   }
+  ],
+  "solutions": [
+   [
+    "a",
+    "a",
+    "the"
+   ]
+  ],
+  "secTitle": "a [an]＋ 固有名詞・不可算名詞"
+ },
+ {
+  "id": "T-37",
+  "unit": "T",
+  "no": "37",
+  "jp": "満月から半月になるまでどのくらい時間がかかりますか？",
+  "answers": [
+   "How long does it take to go from a full moon to a half moon?"
+  ],
+  "audio": "audio/T/T-37-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "How long does it take to go from "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " full moon to "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " half moon?"
+   }
+  ],
+  "solutions": [
+   [
+    "a",
+    "a"
+   ]
+  ],
+  "secTitle": "a [an]＋ 固有名詞・不可算名詞"
+ },
+ {
+  "id": "T-38-a",
+  "unit": "T",
+  "no": "38",
+  "jp": "私達はみなさんに新しい中国を発見する機会を提供しています。",
+  "answers": [
+   "We offer you the chance to discover a new China!"
+  ],
+  "audio": "audio/T/T-38-a-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "We offer you the chance to discover a new China!",
+  "secTitle": "a [an]＋ 固有名詞・不可算名詞"
+ },
+ {
+  "id": "T-38-b",
+  "unit": "T",
+  "no": "38",
+  "jp": "これは私の知っているニューヨークではない。こんなニューヨークは嫌いだ。",
+  "answers": [
+   "This is not the New York I know and I don't like it."
+  ],
+  "audio": "audio/T/T-38-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "This is not the New York I know and I don't like it.",
+  "secTitle": "a [an]＋ 固有名詞・不可算名詞"
+ },
+ {
+  "id": "T-39",
+  "unit": "T",
+  "no": "39",
+  "jp": "国際連合は1945年に設立されました。",
+  "answers": [
+   "The United Nations was established in 1945."
+  ],
+  "audio": "audio/T/T-39-.mp3",
+  "section": {
+   "title": "the＋複数名詞",
+   "body": "集団や組織の構成員［構成要素］を表す名詞を 「複数形」 にして（ A ）を付けると，それらを１つの集団［組織］としてまとめることができる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "choice",
+    "options": [
+     "United Nations",
+     "The United Nations"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " was established in 1945."
+   }
+  ],
+  "solutions": [
+   [
+    "The United Nations"
+   ]
+  ],
+  "secTitle": "the＋複数名詞"
+ },
+ {
+  "id": "T-40",
+  "unit": "T",
+  "no": "40",
+  "jp": "その年，ジャイアンツはナショナル・リーグで優勝した。",
+  "answers": [
+   "The Giants won the National League pennant that year."
+  ],
+  "audio": "audio/T/T-40-.mp3",
+  "tags": [
+   "間違いがあれば訂正"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Giants won the National League pennant that year.",
+  "secTitle": "the＋複数名詞"
+ },
+ {
+  "id": "T-41",
+  "unit": "T",
+  "no": "41",
+  "jp": "日本人はしばしば90年代を「失われた10年」と呼ぶ。",
+  "answers": [
+   "Japanese people often call the 1990s their \"lost decade.\""
+  ],
+  "audio": "audio/T/T-41-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Japanese people often call 1990s their \"lost decade.\"",
+  "secTitle": "the＋複数名詞"
+ },
+ {
+  "id": "T-42-a",
+  "unit": "T",
+  "no": "42",
+  "jp": "FBIは今回の汚職事件に関して，（下院）議員達に尋問を行っていると発表した。",
+  "answers": [
+   "The FBI announced that members of Congress were being questioned in regard to the corruption scandal."
+  ],
+  "audio": "audio/T/T-42-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "The FBI announced that members of Congress were being questioned in regard to the corruption scandal.",
+  "secTitle": "the＋複数名詞"
+ },
+ {
+  "id": "T-42-b",
+  "unit": "T",
+  "no": "42",
+  "jp": "FBIは今回の汚職事件に関して，（下院）議員達に尋問を行っていると発表した。",
+  "answers": [
+   "The FBI announced that the members of Congress were being questioned in regard to the corruption scandal."
+  ],
+  "audio": "audio/T/T-42-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "The FBI announced that the members of Congress were being questioned in regard to the corruption scandal.",
+  "secTitle": "the＋複数名詞"
+ },
+ {
+  "id": "T-43",
+  "unit": "T",
+  "no": "43",
+  "jp": "電話がかかってくるまでの10分間は長かった。",
+  "answers": [
+   "It was a long ten minutes before the phone rang."
+  ],
+  "audio": "audio/T/T-43-.mp3",
+  "section": {
+   "title": "a [an]＋修飾語＋複数名詞",
+   "body": "「長い３年」 のように 「形容詞＋数詞＋名詞の複数形」 を１つのまとまりと見なす場合は（ A ）を付ける。これは主に時間や金額・距離・数量などを表す表現で用い，be動詞の補語や動詞の目的語に置かれる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "It was long ten minutes before the phone rang.",
+  "secTitle": "a [an]＋修飾語＋複数名詞"
+ },
+ {
+  "id": "T-44",
+  "unit": "T",
+  "no": "44",
+  "jp": "その新事業は実現すればさらに200人分の雇用を生む。",
+  "answers": [
+   "The new project would create an additional 200 jobs."
+  ],
+  "audio": "audio/T/T-44-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "The new project would create an additional 200 jobs.",
+  "secTitle": "a [an]＋修飾語＋複数名詞"
+ },
+ {
+  "id": "T-45",
+  "unit": "T",
+  "no": "45",
+  "jp": "お金持ちは以前より速いペースでより裕福になっている。",
+  "answers": [
+   "The rich are getting richer at a faster pace."
+  ],
+  "audio": "audio/T/T-45-.mp3",
+  "section": {
+   "title": "the＋形容詞",
+   "body": "一部の（ A ）や過去分詞にthe を付けると 「…な人々」 「…な人」 という意味になる。これは通常（ B ）形として扱われる。また，「…なもの［こと］」 という意味で用いられることもある。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " rich "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " getting richer at a faster pace."
+   }
+  ],
+  "solutions": [
+   [
+    "The",
+    "are"
+   ]
+  ],
+  "secTitle": "the＋形容詞"
+ },
+ {
+  "id": "T-46",
+  "unit": "T",
+  "no": "46",
+  "jp": "病人とけが人の治療をするために医師が派遣された。",
+  "answers": [
+   "Doctors were assigned to treat the sick and the injured."
+  ],
+  "audio": "audio/T/T-46-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Doctors were assigned to treat the "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " and the "
+   },
+   {
+    "t": "blank",
+    "hint": "i"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "sick",
+    "injured"
+   ]
+  ],
+  "secTitle": "the＋形容詞"
+ },
+ {
+  "id": "T-47",
+  "unit": "T",
+  "no": "47",
+  "jp": "証人か被告人か，どちらかが嘘をついていた。",
+  "answers": [
+   "Either the witness or the accused was lying."
+  ],
+  "audio": "audio/T/T-47-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Either the witness or the "
+   },
+   {
+    "t": "blank",
+    "hint": "a"
+   },
+   {
+    "t": "text",
+    "v": " was lying."
+   }
+  ],
+  "solutions": [
+   [
+    "accused"
+   ]
+  ],
+  "secTitle": "the＋形容詞"
+ },
+ {
+  "id": "T-48",
+  "unit": "T",
+  "no": "48",
+  "jp": "英国民はフランス国民にもドイツ国民にも似ていない。",
+  "answers": [
+   "The British are not like the French or the Germans."
+  ],
+  "audio": "audio/T/T-48-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The "
+   },
+   {
+    "t": "blank",
+    "hint": "B"
+   },
+   {
+    "t": "text",
+    "v": " are not like the "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " or the "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "British",
+    "French",
+    "Germans"
+   ]
+  ],
+  "secTitle": "the＋形容詞"
+ },
+ {
+  "id": "T-49",
+  "unit": "T",
+  "no": "49",
+  "jp": "日本人が集団での行動を好むというのは本当ですか？",
+  "answers": [
+   "Is it true that Japanese people prefer to act as a group?",
+   "Is it true that the Japanese prefer to act as a group?"
+  ],
+  "audio": "audio/T/T-49-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Is it true that Japanese prefer to act as a group?",
+  "secTitle": "the＋形容詞"
+ },
+ {
+  "id": "T-50-a",
+  "unit": "T",
+  "no": "50",
+  "jp": "申し訳ないが，君が要求しているのは不可能なことだ。",
+  "answers": [
+   "Sorry, but you're asking the impossible."
+  ],
+  "audio": "audio/T/T-50-a-.mp3",
+  "tags": [
+   "下線部を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Sorry, but you're asking the impossible.",
+  "secTitle": "the＋形容詞"
+ },
+ {
+  "id": "T-50-b",
+  "unit": "T",
+  "no": "50",
+  "jp": "彼には自然や芸術に対する審美眼があった。",
+  "answers": [
+   "He had an eye for the beautiful in nature and art."
+  ],
+  "audio": "audio/T/T-50-b-.mp3",
+  "tags": [
+   "下線部を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "He had an eye for the beautiful in nature and art.",
+  "secTitle": "the＋形容詞"
+ },
+ {
+  "id": "T-50-c",
+  "unit": "T",
+  "no": "50",
+  "jp": "予想される事に対しては計画を立て，予想できないことには準備をしなさい。",
+  "answers": [
+   "Plan for the expected and prepare for the unexpected."
+  ],
+  "audio": "audio/T/T-50-c-.mp3",
+  "tags": [
+   "下線部を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Plan for the expected and prepare for the unexpected.",
+  "secTitle": "the＋形容詞"
+ },
+ {
+  "id": "T-51-a",
+  "unit": "T",
+  "no": "51",
+  "jp": "エール大学の学長がゲスト講演者だった。",
+  "answers": [
+   "The president of Yale University was the guest speaker."
+  ],
+  "audio": "audio/T/T-51-a-.mp3",
+  "section": {
+   "title": "冠詞の省略 ① ～ 役職や身分を表す名詞の場合",
+   "body": "「役職」 や 「身分」 などを表す名詞を第２文型や第５文型の（ A ）で用いたり，「…として」 という意味の前置詞である（ B ）の目的語で用いたり，人名の後で同格の語として用いる場合，本来は冠詞が必要な名詞であっても無冠詞にすることが多い。"
+  },
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "President of Yale University was the guest speaker.",
+  "secTitle": "冠詞の省略 ① ～ 役職や身分を表す名詞の場合"
+ },
+ {
+  "id": "T-51-b",
+  "unit": "T",
+  "no": "51",
+  "jp": "エール大学の学長であるリチャード・レビンがゲスト講演者だった。",
+  "answers": [
+   "Richard Levin, president of Yale University, was the guest speaker."
+  ],
+  "audio": "audio/T/T-51-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Richard Levin, president of Yale University, was the guest speaker.",
+  "secTitle": "冠詞の省略 ① ～ 役職や身分を表す名詞の場合"
+ },
+ {
+  "id": "T-51-c",
+  "unit": "T",
+  "no": "51",
+  "jp": "彼は1993年にエール大学の学長になった。",
+  "answers": [
+   "He became president of Yale University in 1993."
+  ],
+  "audio": "audio/T/T-51-c-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "He became president of Yale University in 1993.",
+  "secTitle": "冠詞の省略 ① ～ 役職や身分を表す名詞の場合"
+ },
+ {
+  "id": "T-51-d",
+  "unit": "T",
+  "no": "51",
+  "jp": "彼は８年間エール大学の学長を務めた。",
+  "answers": [
+   "He served as president of Yale University for eight years."
+  ],
+  "audio": "audio/T/T-51-d-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "He served as president of Yale University for eight years.",
+  "secTitle": "冠詞の省略 ① ～ 役職や身分を表す名詞の場合"
+ },
+ {
+  "id": "T-51-e",
+  "unit": "T",
+  "no": "51",
+  "jp": "レビン教授はエール大学の学長に選ばれた。",
+  "answers": [
+   "Professor Levin was elected president of Yale University."
+  ],
+  "audio": "audio/T/T-51-e-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Professor Levin was elected president of Yale University.",
+  "secTitle": "冠詞の省略 ① ～ 役職や身分を表す名詞の場合"
+ },
+ {
+  "id": "T-52-a",
+  "unit": "T",
+  "no": "52",
+  "jp": "白い蝶が花から花へと飛び回っていた。",
+  "answers": [
+   "A white butterfly was flitting from flower to flower."
+  ],
+  "audio": "audio/T/T-52-a-.mp3",
+  "section": {
+   "title": "冠詞の省略 ② ～ 慣用表現",
+   "body": "side by side のように同じ名詞が繰り返されたり，from hand to mouth のように２つの名詞が（ A ）を成す慣用句では本来名詞に付けるべき（ B ）が省略される。また，Coward as he was のような倒置構文でも補語の名詞に付けるべき（ B ）が省略される。"
+  },
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "A white butterfly was flitting from a flower to a flower.",
+  "secTitle": "冠詞の省略 ② ～ 慣用表現"
+ },
+ {
+  "id": "T-52-b",
+  "unit": "T",
+  "no": "52",
+  "jp": "とてもおかしくて，最初から最後まで笑いっぱなしでした。",
+  "answers": [
+   "It was so funny I was laughing from beginning to end."
+  ],
+  "audio": "audio/T/T-52-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "It was so funny I was laughing from beginning to end.",
+  "secTitle": "冠詞の省略 ② ～ 慣用表現"
+ },
+ {
+  "id": "T-52-c",
+  "unit": "T",
+  "no": "52",
+  "jp": "我々は丸一週間朝から晩までリハーサルをしました。",
+  "answers": [
+   "We rehearsed from morning till night for an entire week."
+  ],
+  "audio": "audio/T/T-52-c-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "We rehearsed from morning till night for an entire week.",
+  "secTitle": "冠詞の省略 ② ～ 慣用表現"
+ },
+ {
+  "id": "T-53-a",
+  "unit": "T",
+  "no": "53",
+  "jp": "彼はガールフレンドと並んで歩いていた。",
+  "answers": [
+   "He was walking side by side with his girlfriend."
+  ],
+  "audio": "audio/T/T-53-a-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "He was walking side by side with his girlfriend.",
+  "secTitle": "冠詞の省略 ② ～ 慣用表現"
+ },
+ {
+  "id": "T-53-b",
+  "unit": "T",
+  "no": "53",
+  "jp": "2人が夫婦になったことをここに宣言します。",
+  "answers": [
+   "I now pronounce you husband and wife."
+  ],
+  "audio": "audio/T/T-53-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I now pronounce you a husband and wife.",
+  "secTitle": "冠詞の省略 ② ～ 慣用表現"
+ },
+ {
+  "id": "T-54-b",
+  "unit": "T",
+  "no": "54",
+  "jp": "子供であるにもかかわらず，彼女は家族を養う手助けをしなければならなかった。",
+  "answers": [
+   "Child though she was, she had to help support her family."
+  ],
+  "audio": "audio/T/T-54-b-.mp3",
+  "tags": [
+   " a) とほぼ同じ意味になるようにb) に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " though she was, she had to help support her family."
+   }
+  ],
+  "solutions": [
+   [
+    "Child"
+   ]
+  ],
+  "secTitle": "冠詞の省略 ② ～ 慣用表現"
+ },
+ {
+  "id": "T-55-a",
+  "unit": "T",
+  "no": "55",
+  "jp": "最近私はあまり教会（での礼拝）に行っていない。",
+  "answers": [
+   "I don't go to church very often these days."
+  ],
+  "audio": "audio/T/T-55-a-.mp3",
+  "section": {
+   "title": "無冠詞の用法 ～ 機能・目的などを表す",
+   "body": "go to school という表現のschool は 「学校教育」 というschool の持つ機能や目的を表すが，このように名詞が（ A ）の目的語で用いられて機能や目的を表す場合は（ B ）にする。また，town を話し手が住んでいる［働いている］町，最寄りの繁華街の意味で用いる場合は（ B ）にすることが多く，自分の家や故郷を指す場合の（ C ）も（ B ）にすることが多い。"
+  },
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I don't go to church very often these days.",
+  "secTitle": "無冠詞の用法 ～ 機能・目的などを表す"
+ },
+ {
+  "id": "T-55-b",
+  "unit": "T",
+  "no": "55",
+  "jp": "大学（での勉強）にあまり興味がなくても大学には行った方がいいですか？",
+  "answers": [
+   "Should I go to college if I'm not very interested in it?"
+  ],
+  "audio": "audio/T/T-55-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Should I go to college if I'm not very interested in it?",
+  "secTitle": "無冠詞の用法 ～ 機能・目的などを表す"
+ },
+ {
+  "id": "T-55-c",
+  "unit": "T",
+  "no": "55",
+  "jp": "彼は毎日図書館に通って新聞を読んでいる。",
+  "answers": [
+   "He goes to the library every day and reads the newspapers."
+  ],
+  "audio": "audio/T/T-55-c-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "He goes to library every day and reads the newspapers.",
+  "secTitle": "無冠詞の用法 ～ 機能・目的などを表す"
+ },
+ {
+  "id": "T-56-a",
+  "unit": "T",
+  "no": "56",
+  "jp": "早寝早起きをしなさい.。",
+  "answers": [
+   "Go to bed early and get up early."
+  ],
+  "audio": "audio/T/T-56-a-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Go to bed early and get up early.",
+  "secTitle": "無冠詞の用法 ～ 機能・目的などを表す"
+ },
+ {
+  "id": "T-56-b",
+  "unit": "T",
+  "no": "56",
+  "jp": "ベッドに行って布団の中を確認してごらん。",
+  "answers": [
+   "Go to the bed and look under the covers."
+  ],
+  "audio": "audio/T/T-56-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Go to bed and look under the covers.",
+  "secTitle": "無冠詞の用法 ～ 機能・目的などを表す"
+ },
+ {
+  "id": "T-57-a",
+  "unit": "T",
+  "no": "57",
+  "jp": "学校へは自転車で通っているのですか？",
+  "answers": [
+   "Do you ride your bike to school?"
+  ],
+  "audio": "audio/T/T-57-a-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Do you ride your bike to school?",
+  "secTitle": "無冠詞の用法 ～ 機能・目的などを表す"
+ },
+ {
+  "id": "T-57-b",
+  "unit": "T",
+  "no": "57",
+  "jp": "私の親は校長と話をするために学校に行った。",
+  "answers": [
+   "My parents went to the school to talk to the principal."
+  ],
+  "audio": "audio/T/T-57-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "My parents went to school to talk to the principal.",
+  "secTitle": "無冠詞の用法 ～ 機能・目的などを表す"
+ },
+ {
+  "id": "T-57-c",
+  "unit": "T",
+  "no": "57",
+  "jp": "私達は今台湾に住んでいて，息子は地元の学校に通っています。",
+  "answers": [
+   "We currently live in Taiwan and our son goes to a local school."
+  ],
+  "audio": "audio/T/T-57-c-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "We currently live in Taiwan and our son goes to local school.",
+  "secTitle": "無冠詞の用法 ～ 機能・目的などを表す"
+ },
+ {
+  "id": "T-58-a",
+  "unit": "T",
+  "no": "58",
+  "jp": "授業中しゃべっていて（先生に）叱られた。",
+  "answers": [
+   "I was told off for talking in class."
+  ],
+  "audio": "audio/T/T-58-a-.mp3",
+  "tags": [
+   "下線部を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "I was told off for talking in class.",
+  "secTitle": "無冠詞の用法 ～ 機能・目的などを表す"
+ },
+ {
+  "id": "T-58-b",
+  "unit": "T",
+  "no": "58",
+  "jp": "彼女の息子は麻薬取引をしたことで現在服役中です。",
+  "answers": [
+   "Her son is in prison for drug trafficking."
+  ],
+  "audio": "audio/T/T-58-b-.mp3",
+  "tags": [
+   "下線部を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Her son is in prison for drug trafficking.",
+  "secTitle": "無冠詞の用法 ～ 機能・目的などを表す"
+ },
+ {
+  "id": "T-59-a",
+  "unit": "T",
+  "no": "59",
+  "jp": "ここは町で一番高いレストランの一つです。",
+  "answers": [
+   "This is one of the most expensive restaurants in town."
+  ],
+  "audio": "audio/T/T-59-a-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "This is one of the most expensive restaurants in town.",
+  "secTitle": "無冠詞の用法 ～ 機能・目的などを表す"
+ },
+ {
+  "id": "T-59-b",
+  "unit": "T",
+  "no": "59",
+  "jp": "彼女は16歳の時に虐待から逃れるために家出をした。",
+  "answers": [
+   "She left home when she was 16 to escape the abuse."
+  ],
+  "audio": "audio/T/T-59-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "She left her home when she was 16 to escape the abuse.",
+  "secTitle": "無冠詞の用法 ～ 機能・目的などを表す"
+ }
+]

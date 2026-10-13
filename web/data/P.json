@@ -1,0 +1,3486 @@
+[
+ {
+  "id": "P-01",
+  "unit": "P",
+  "no": "01",
+  "jp": "大学はどちらですか？  何を専攻しましたか？",
+  "answers": [
+   "Where did you go to college and what was your major?"
+  ],
+  "audio": "audio/P/P-01-.mp3",
+  "section": {
+   "title": "倒置 ① ～ 疑問文",
+   "body": "５文型の基本的な語順が何らかの理由で変化したものを 「倒置」 と呼ぶ。倒置は（ A ）と（ B ）の順序が逆になる形がほとんどで，最も一般的な例は疑問文である。疑問文では，be 動詞，助動詞，do [does, did] を文頭に置くが，who，what（＋名詞），which（＋名詞）などの疑問詞（句）が（ C ）になる場合は倒置が起きない。"
+  },
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Where did you go to college and what your major was?",
+  "secTitle": "倒置 ① ～ 疑問文"
+ },
+ {
+  "id": "P-02",
+  "unit": "P",
+  "no": "02",
+  "jp": "子供服（売り場）は何階ですか？",
+  "answers": [
+   "What floor are children's clothes on?"
+  ],
+  "audio": "audio/P/P-02-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "What floor is children's clothes on?",
+  "secTitle": "倒置 ① ～ 疑問文"
+ },
+ {
+  "id": "P-03",
+  "unit": "P",
+  "no": "03",
+  "jp": "最もたくさんの国があるのはどの大陸ですか？",
+  "answers": [
+   "Which continent has the most countries?"
+  ],
+  "audio": "audio/P/P-03-.mp3",
+  "tags": [
+   "間違いがあれば訂正"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Which continent does have the most countries?",
+  "secTitle": "倒置 ① ～ 疑問文"
+ },
+ {
+  "id": "P-04",
+  "unit": "P",
+  "no": "04",
+  "jp": "「飛行機（での移動）は好きではないのですか？」「ええ，あまり」",
+  "answers": [
+   "\"You don't like flying?\" \"Not really.\""
+  ],
+  "audio": "audio/P/P-04-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "\"You don't like flying?\" \"Not really.\"",
+  "secTitle": "倒置 ① ～ 疑問文"
+ },
+ {
+  "id": "P-05",
+  "unit": "P",
+  "no": "05",
+  "jp": "「今日，コストコへ行ったんだ」「えっ，どこへ行ったって？」",
+  "answers": [
+   "\"I went to Costco today.\" \"You went where?\""
+  ],
+  "audio": "audio/P/P-05-.mp3",
+  "tags": [
+   "適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"I went to Costco today.\" \"You "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "?\""
+   }
+  ],
+  "solutions": [
+   [
+    "went",
+    "where"
+   ]
+  ],
+  "secTitle": "倒置 ① ～ 疑問文"
+ },
+ {
+  "id": "P-06-a",
+  "unit": "P",
+  "no": "06",
+  "jp": "あなたは私の電話番号を知ってますよね？",
+  "answers": [
+   "You have my number, don't you?"
+  ],
+  "audio": "audio/P/P-06-a-.mp3",
+  "tags": [
+   "適語を記入し 「～ですよね」「～でしょ？」という意味の付加疑問にする"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "You have my number, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "?"
+   }
+  ],
+  "solutions": [
+   [
+    "don't",
+    "you"
+   ]
+  ],
+  "secTitle": "倒置 ① ～ 疑問文"
+ },
+ {
+  "id": "P-06-b",
+  "unit": "P",
+  "no": "06",
+  "jp": "私って頭いいでしょ？",
+  "answers": [
+   "I am smart, aren't I?"
+  ],
+  "audio": "audio/P/P-06-b-.mp3",
+  "tags": [
+   "適語を記入し 「～ですよね」「～でしょ？」という意味の付加疑問にする"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I am smart, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "?"
+   }
+  ],
+  "solutions": [
+   [
+    "aren't",
+    "I"
+   ]
+  ],
+  "secTitle": "倒置 ① ～ 疑問文"
+ },
+ {
+  "id": "P-06-c",
+  "unit": "P",
+  "no": "06",
+  "jp": "あなたはそこへ行ったことが一度もないのですよね？",
+  "answers": [
+   "You've never been there, have you?"
+  ],
+  "audio": "audio/P/P-06-c-.mp3",
+  "tags": [
+   "適語を記入し 「～ですよね」「～でしょ？」という意味の付加疑問にする"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "You've never been there, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "?"
+   }
+  ],
+  "solutions": [
+   [
+    "have",
+    "you"
+   ]
+  ],
+  "secTitle": "倒置 ① ～ 疑問文"
+ },
+ {
+  "id": "P-06-d",
+  "unit": "P",
+  "no": "06",
+  "jp": "何事も（常に）計画通りには進みませんよね？",
+  "answers": [
+   "Nothing ever goes as planned, does it?"
+  ],
+  "audio": "audio/P/P-06-d-.mp3",
+  "tags": [
+   "適語を記入し 「～ですよね」「～でしょ？」という意味の付加疑問にする"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Nothing ever goes as planned, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "?"
+   }
+  ],
+  "solutions": [
+   [
+    "does",
+    "it"
+   ]
+  ],
+  "secTitle": "倒置 ① ～ 疑問文"
+ },
+ {
+  "id": "P-07",
+  "unit": "P",
+  "no": "07",
+  "jp": "まあ，おかけになりませんか？",
+  "answers": [
+   "Do sit down, won't you?"
+  ],
+  "audio": "audio/P/P-07-.mp3",
+  "tags": [
+   "勧誘のことば"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Do sit down, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "?"
+   }
+  ],
+  "solutions": [
+   [
+    "won't",
+    "you"
+   ]
+  ],
+  "secTitle": "倒置 ① ～ 疑問文"
+ },
+ {
+  "id": "P-08",
+  "unit": "P",
+  "no": "08",
+  "jp": "物音を立てないでもらえますか？",
+  "answers": [
+   "Don't make any noise, will you?"
+  ],
+  "audio": "audio/P/P-08-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Don't make any noise, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "?"
+   }
+  ],
+  "solutions": [
+   [
+    "will",
+    "you"
+   ]
+  ],
+  "secTitle": "倒置 ① ～ 疑問文"
+ },
+ {
+  "id": "P-09",
+  "unit": "P",
+  "no": "09",
+  "jp": "君，バスケをしているんだよね？  僕もそうなんだ。",
+  "answers": [
+   "You play basketball?  So do I.",
+   "You play basketball?  I do too."
+  ],
+  "audio": "audio/P/P-09-.mp3",
+  "section": {
+   "title": "倒置 ② ～ so, neither, nor で始まる文",
+   "body": "前文を受けて 「…もまたそうだ」 という場合，... too や... either などで表すことができるが，文頭をso やneither, nor で始め，後ろを 「（ A ）＋（ B ）」 という（ C ）の語順の倒置で表すこともできる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "You play basketball? "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "So",
+    "do",
+    "I"
+   ],
+   [
+    "I",
+    "do",
+    "too"
+   ]
+  ],
+  "secTitle": "倒置 ② ～ so, neither, nor で始まる文"
+ },
+ {
+  "id": "P-10",
+  "unit": "P",
+  "no": "10",
+  "jp": "「私は楽器が何もできません」「私もそうです」",
+  "answers": [
+   "\"I can't play any musical instruments.\" \"Neither can I.\"",
+   "\"I can't play any musical instruments.\" \"Nor can I.\"",
+   "\"I can't play any musical instruments.\" \"I can't either.\""
+  ],
+  "audio": "audio/P/P-10-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"I can't play any musical instruments.\" \""
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": ".\""
+   }
+  ],
+  "solutions": [
+   [
+    "Neither",
+    "can",
+    "I"
+   ],
+   [
+    "Nor",
+    "can",
+    "I"
+   ],
+   [
+    "I",
+    "can't",
+    "either"
+   ]
+  ],
+  "secTitle": "倒置 ② ～ so, neither, nor で始まる文"
+ },
+ {
+  "id": "P-11",
+  "unit": "P",
+  "no": "11",
+  "jp": "私は全ての人を満足させることはできないし，そうしたいとも思わない。",
+  "answers": [
+   "I can't please everyone, nor do I wish to."
+  ],
+  "audio": "audio/P/P-11-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I can't please everyone, nor "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " wish to."
+   }
+  ],
+  "solutions": [
+   [
+    "do",
+    "I"
+   ]
+  ],
+  "secTitle": "倒置 ② ～ so, neither, nor で始まる文"
+ },
+ {
+  "id": "P-12",
+  "unit": "P",
+  "no": "12",
+  "jp": "今まで小説でこんなに感動したことはほとんどない。",
+  "answers": [
+   "Seldom have I been so deeply touched by a novel like this.",
+   "Rarely have I been so deeply touched by a novel like this."
+  ],
+  "audio": "audio/P/P-12-.mp3",
+  "section": {
+   "title": "倒置 ③ ～否定語句で始まる文",
+   "body": "（ A ）以外の否定語句が強調のために文頭に置かれると，否定語句の後では（ B ）の語順の倒置が起こる。またonly を含む副詞句が文頭に置かれる場合も同様の倒置が起こる。この倒置形は文語的である。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " I been so deeply touched by a novel like this."
+   }
+  ],
+  "solutions": [
+   [
+    "Seldom",
+    "have"
+   ],
+   [
+    "Rarely",
+    "have"
+   ]
+  ],
+  "secTitle": "倒置 ③ ～否定語句で始まる文"
+ },
+ {
+  "id": "P-13",
+  "unit": "P",
+  "no": "13",
+  "jp": "生まれてこの方，彼ほどの酒豪を見たことがない。",
+  "answers": [
+   "Never in my life have I seen anyone drink as much as he does."
+  ],
+  "audio": "audio/P/P-13-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Never in my life I have seen anyone drink as much as he does.",
+  "secTitle": "倒置 ③ ～否定語句で始まる文"
+ },
+ {
+  "id": "P-14",
+  "unit": "P",
+  "no": "14",
+  "jp": "いかなる状況でも，宗教に関する冗談を言ってはいけません。",
+  "answers": [
+   "Under no circumstances must you make jokes about religion."
+  ],
+  "audio": "audio/P/P-14-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Under no circumstances you must make jokes about religion.",
+  "secTitle": "倒置 ③ ～否定語句で始まる文"
+ },
+ {
+  "id": "P-15-a",
+  "unit": "P",
+  "no": "15",
+  "jp": "最初の揺れが収まったと思いきや，次の揺れが起こった。",
+  "answers": [
+   "The first tremor had hardly ended when another began."
+  ],
+  "audio": "audio/P/P-15-a-.mp3",
+  "tags": [
+   "適語を記入し３通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The first tremor "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " ended when another began."
+   }
+  ],
+  "solutions": [
+   [
+    "had",
+    "hardly"
+   ]
+  ],
+  "secTitle": "倒置 ③ ～否定語句で始まる文"
+ },
+ {
+  "id": "P-15-b",
+  "unit": "P",
+  "no": "15",
+  "jp": "最初の揺れが収まったと思いきや，次の揺れが起こった。",
+  "answers": [
+   "Hardly had the first tremor ended when another began."
+  ],
+  "audio": "audio/P/P-15-b-.mp3",
+  "tags": [
+   "適語を記入し３通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Hardly "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " when another began."
+   }
+  ],
+  "solutions": [
+   [
+    "had",
+    "the",
+    "first",
+    "tremor",
+    "ended"
+   ]
+  ],
+  "secTitle": "倒置 ③ ～否定語句で始まる文"
+ },
+ {
+  "id": "P-15-c",
+  "unit": "P",
+  "no": "15",
+  "jp": "最初の揺れが収まったと思いきや，次の揺れが起こった。",
+  "answers": [
+   "No sooner had the first tremor ended than another began."
+  ],
+  "audio": "audio/P/P-15-c-.mp3",
+  "tags": [
+   "適語を記入し３通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "No "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " than another began."
+   }
+  ],
+  "solutions": [
+   [
+    "sooner",
+    "had",
+    "the",
+    "first",
+    "tremor",
+    "ended"
+   ]
+  ],
+  "secTitle": "倒置 ③ ～否定語句で始まる文"
+ },
+ {
+  "id": "P-16",
+  "unit": "P",
+  "no": "16",
+  "jp": "彼女は頭が良いだけでなく，とても責任感が強い人だ。",
+  "answers": [
+   "Not only is she intelligent, but she is also a very responsible person."
+  ],
+  "audio": "audio/P/P-16-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Not "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " intelligent, but she is also a very responsible person."
+   }
+  ],
+  "solutions": [
+   [
+    "only",
+    "is",
+    "she"
+   ]
+  ],
+  "secTitle": "倒置 ③ ～否定語句で始まる文"
+ },
+ {
+  "id": "P-17",
+  "unit": "P",
+  "no": "17",
+  "jp": "売却によってしか，彼は自分の会社を救う道はないであろう。",
+  "answers": [
+   "Only by selling his company could he save it."
+  ],
+  "audio": "audio/P/P-17-.mp3",
+  "tags": [
+   "並べ替え"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Only by selling his company "
+   },
+   {
+    "t": "order",
+    "words": [
+     "he",
+     "it",
+     "could",
+     "save"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "could he save it"
+   ]
+  ],
+  "secTitle": "倒置 ③ ～否定語句で始まる文"
+ },
+ {
+  "id": "P-18-a",
+  "unit": "P",
+  "no": "18",
+  "jp": "しなければならない仕事がたくさんある。",
+  "answers": [
+   "There is a lot of work to be done."
+  ],
+  "audio": "audio/P/P-18-a-.mp3",
+  "section": {
+   "title": "倒置 ④ ～there とhere で始まる文",
+   "body": "主語の存在を表すThere is [are] ... とHere is [are] ... の構文はbe 動詞の後ろに（ A ）が置かれる倒置文である。There やHere で始まる文が出現・存在・状態などの（ B ）を伴う場合も 「There [Here] ＋（ B ）＋主語」 という倒置文になる。"
+  },
+  "tags": [
+   "各文の下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "There are a lot of work to be done.",
+  "secTitle": "倒置 ④ ～there とhere で始まる文"
+ },
+ {
+  "id": "P-18-b",
+  "unit": "P",
+  "no": "18",
+  "jp": "配送に遅れが生じてしまっている。",
+  "answers": [
+   "There has been a delay in the delivery."
+  ],
+  "audio": "audio/P/P-18-b-.mp3",
+  "tags": [
+   "各文の下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "There have been a delay in the delivery.",
+  "secTitle": "倒置 ④ ～there とhere で始まる文"
+ },
+ {
+  "id": "P-18-c",
+  "unit": "P",
+  "no": "18",
+  "jp": "ここに問題があるようです。",
+  "answers": [
+   "There seems to be a problem here."
+  ],
+  "audio": "audio/P/P-18-c-.mp3",
+  "tags": [
+   "各文の下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "There seem to be a problem here.",
+  "secTitle": "倒置 ④ ～there とhere で始まる文"
+ },
+ {
+  "id": "P-19-a",
+  "unit": "P",
+  "no": "19",
+  "jp": "すみません，スープの中に髪の毛が入っているのですが。",
+  "answers": [
+   "Excuse me, there's a hair in my soup."
+  ],
+  "audio": "audio/P/P-19-a-.mp3",
+  "tags": [
+   "自然な英訳を選択"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Excuse me, there's a hair in my soup.",
+  "secTitle": "倒置 ④ ～there とhere で始まる文"
+ },
+ {
+  "id": "P-20-b",
+  "unit": "P",
+  "no": "20",
+  "jp": "そのビルはその通りの反対側にあります。",
+  "answers": [
+   "The building is on the opposite side of the street."
+  ],
+  "audio": "audio/P/P-20-b-.mp3",
+  "tags": [
+   "自然な英訳を選択"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "The building is on the opposite side of the street.",
+  "secTitle": "倒置 ④ ～there とhere で始まる文"
+ },
+ {
+  "id": "P-21-a",
+  "unit": "P",
+  "no": "21",
+  "jp": "しかし，まだいくつか克服すべき課題が残されています。",
+  "answers": [
+   "Yet there remain several challenges to be overcome."
+  ],
+  "audio": "audio/P/P-21-a-.mp3",
+  "tags": [
+   "並べ替え"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Yet "
+   },
+   {
+    "t": "order",
+    "words": [
+     "several challenges",
+     "remain",
+     "there"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " to be overcome."
+   }
+  ],
+  "solutions": [
+   [
+    "there remain several challenges"
+   ]
+  ],
+  "secTitle": "倒置 ④ ～there とhere で始まる文"
+ },
+ {
+  "id": "P-21-b",
+  "unit": "P",
+  "no": "21",
+  "jp": "昔々，白雪姫という少女が暮らしていました。",
+  "answers": [
+   "Once upon a time, there lived a little girl named Snow White."
+  ],
+  "audio": "audio/P/P-21-b-.mp3",
+  "tags": [
+   "並べ替え"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Once upon a time, "
+   },
+   {
+    "t": "order",
+    "words": [
+     "a little girl",
+     "there",
+     "lived",
+     "named"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Snow White."
+   }
+  ],
+  "solutions": [
+   [
+    "there lived a little girl named"
+   ]
+  ],
+  "secTitle": "倒置 ④ ～there とhere で始まる文"
+ },
+ {
+  "id": "P-22",
+  "unit": "P",
+  "no": "22",
+  "jp": "はい，これ，君から借りたお金。返すのが遅くなってごめん。",
+  "answers": [
+   "Here's the money you lent me. Sorry to give it back so late."
+  ],
+  "audio": "audio/P/P-22-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the money you lent me. Sorry to give it back so late."
+   }
+  ],
+  "solutions": [
+   [
+    "Here's"
+   ]
+  ],
+  "secTitle": "倒置 ④ ～there とhere で始まる文"
+ },
+ {
+  "id": "P-23",
+  "unit": "P",
+  "no": "23",
+  "jp": "ええっと，携帯はどこに置いたっけ。ああ，ここにあった。",
+  "answers": [
+   "Now, where did I put my cellphone? Ah, here it is."
+  ],
+  "audio": "audio/P/P-23-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Now, where did I put my cellphone? Ah, here "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "it",
+    "is"
+   ]
+  ],
+  "secTitle": "倒置 ④ ～there とhere で始まる文"
+ },
+ {
+  "id": "P-24",
+  "unit": "P",
+  "no": "24",
+  "jp": "チャーリーが来た。気をつけろ，チャーリーが来たぞ。",
+  "answers": [
+   "Here comes Charlie. Watch out, here he comes."
+  ],
+  "audio": "audio/P/P-24-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Here "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "Charlie comes",
+     "comes Charlie"
+    ]
+   },
+   {
+    "t": "text",
+    "v": ". Watch out, here "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "he comes",
+     "comes he"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "comes Charlie",
+    "he comes"
+   ]
+  ],
+  "secTitle": "倒置 ④ ～there とhere で始まる文"
+ },
+ {
+  "id": "P-25",
+  "unit": "P",
+  "no": "25",
+  "jp": "太陽が顔を出して全ての雪を溶かした。",
+  "answers": [
+   "Out came the sun and melted all the snow."
+  ],
+  "audio": "audio/P/P-25-.mp3",
+  "section": {
+   "title": "倒置 ⑤ ～「副詞＋自動詞＋主語」 の文",
+   "body": "「主語＋自動詞＋副詞（句）」 の文で， 「副詞（句）」 を文頭に出すと 「副詞（句）＋（ A ）＋（ B ）」 という倒置が起こる。  この倒置形は文語的である。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Out the sun came and melted all the snow.",
+  "secTitle": "倒置 ⑤ ～「副詞＋自動詞＋主語」 の文"
+ },
+ {
+  "id": "P-26",
+  "unit": "P",
+  "no": "26",
+  "jp": "悲しみの後に訪れるのは喜びである。",
+  "answers": [
+   "After sorrow comes joy."
+  ],
+  "audio": "audio/P/P-26-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "After "
+   },
+   {
+    "t": "order",
+    "words": [
+     "comes",
+     "sorrow",
+     "joy"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "sorrow comes joy"
+   ]
+  ],
+  "secTitle": "倒置 ⑤ ～「副詞＋自動詞＋主語」 の文"
+ },
+ {
+  "id": "P-27",
+  "unit": "P",
+  "no": "27",
+  "jp": "成功の中に潜んでいるのは失敗の種である。",
+  "answers": [
+   "Within success lie hidden the seeds of failure."
+  ],
+  "audio": "audio/P/P-27-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Within success lies hidden the seeds of failure.",
+  "secTitle": "倒置 ⑤ ～「副詞＋自動詞＋主語」 の文"
+ },
+ {
+  "id": "P-28",
+  "unit": "P",
+  "no": "28",
+  "jp": "「あぁ，それは簡単です」 とジョージは答えた。",
+  "answers": [
+   "\"Oh, it's easy,\" replied George."
+  ],
+  "audio": "audio/P/P-28-.mp3",
+  "section": {
+   "title": "倒置 ⑥ ～ 直接話法の被伝達部分を先にした文",
+   "body": "「主語＋伝達動詞，\" 被伝達部分\"」 という直接話法では，「主語＋伝達動詞」が 「被伝達部分」 の後ろに置かれることがある。この場合，主語が（ A ）なら「主語＋伝達動詞」 の語順にするが，主語が（ B ）の場合は 「主語＋伝達動詞」 と「伝達動詞＋主語」 という両方の語順が可能である。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "\"Oh, it's easy,\" replied George.",
+  "secTitle": "倒置 ⑥ ～ 直接話法の被伝達部分を先にした文"
+ },
+ {
+  "id": "P-29",
+  "unit": "P",
+  "no": "29",
+  "jp": "「それはナンセンスだと思う」 と彼女は言った。",
+  "answers": [
+   "\"I think it's nonsense,\" she said."
+  ],
+  "audio": "audio/P/P-29-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "\"I think it's nonsense,\" said she.",
+  "secTitle": "倒置 ⑥ ～ 直接話法の被伝達部分を先にした文"
+ },
+ {
+  "id": "P-30",
+  "unit": "P",
+  "no": "30",
+  "jp": "「ではなぜあなたはその子を連れ去ったのですか？」 と判事は尋ねた。",
+  "answers": [
+   "\"Then why,\" asked the judge, \"did you take the child away?\""
+  ],
+  "audio": "audio/P/P-30-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "\"Then why,\" asked the judge, \"did you take the child away?\"",
+  "secTitle": "倒置 ⑥ ～ 直接話法の被伝達部分を先にした文"
+ },
+ {
+  "id": "P-31",
+  "unit": "P",
+  "no": "31",
+  "jp": "たぶん，年齢よりも重要なのは経験でしょう。",
+  "answers": [
+   "Perhaps more important than age is experience."
+  ],
+  "audio": "audio/P/P-31-.mp3",
+  "section": {
+   "title": "倒置 ⑦ ～ 補語で始まる文 （１）",
+   "body": "be 動詞の 「補語」 を文頭に置く場合，主語が 「名詞」 なら 「補語＋（ A ）＋（ B ）」 の語順にし，主語が 「代名詞」 なら 「補語＋（ C ）＋（ D ）」 の語順にする。これは現在［過去］進行形の現在分詞や受動態の過去分詞を文頭に置く場合にも当てはまる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Perhaps more "
+   },
+   {
+    "t": "order",
+    "words": [
+     "age",
+     "important",
+     "than",
+     "is",
+     "experience"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "important than age is experience"
+   ]
+  ],
+  "secTitle": "倒置 ⑦ ～ 補語で始まる文 （１）"
+ },
+ {
+  "id": "P-32",
+  "unit": "P",
+  "no": "32",
+  "jp": "彼の説明が非常にもっともらしかったので，全員が彼の話を信じてしまった。",
+  "answers": [
+   "So plausible was his explanation that we all believed him."
+  ],
+  "audio": "audio/P/P-32-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " plausible "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " his explanation that we all believed him."
+   }
+  ],
+  "solutions": [
+   [
+    "So",
+    "was"
+   ]
+  ],
+  "secTitle": "倒置 ⑦ ～ 補語で始まる文 （１）"
+ },
+ {
+  "id": "P-33-b",
+  "unit": "P",
+  "no": "33",
+  "jp": "ここで，タイムズの記者であるティム・ゴールデンさんに加わっていただきます。",
+  "answers": [
+   "Joining me now is Tim Golden, a reporter for The Times."
+  ],
+  "audio": "audio/P/P-33-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " Tim Golden, a reporter for The Times."
+   }
+  ],
+  "solutions": [
+   [
+    "Joining",
+    "me",
+    "now",
+    "is"
+   ]
+  ],
+  "secTitle": "倒置 ⑦ ～ 補語で始まる文 （１）"
+ },
+ {
+  "id": "P-34",
+  "unit": "P",
+  "no": "34",
+  "jp": "サンフランシスコとマリン郡の間には金門橋があります。",
+  "answers": [
+   "Located between San Francisco and Marin County is the Golden Gate Bridge."
+  ],
+  "audio": "audio/P/P-34-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Located "
+   },
+   {
+    "t": "order",
+    "words": [
+     "is",
+     "between",
+     "and",
+     "San Francisco",
+     "Marin County",
+     "the Golden Gate Bridge"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "between San Francisco and Marin County is the Golden Gate Bridge"
+   ]
+  ],
+  "secTitle": "倒置 ⑦ ～ 補語で始まる文 （１）"
+ },
+ {
+  "id": "P-35-a",
+  "unit": "P",
+  "no": "35",
+  "jp": "変に聞こえるかもしれませんが，これは本当の話です。",
+  "answers": [
+   "Strange though it may sound, this is true.",
+   "Strange as it may sound, this is true."
+  ],
+  "audio": "audio/P/P-35-a-.mp3",
+  "section": {
+   "title": "倒置 ⑧ ～ 補語で始まる文 （２）",
+   "body": "「though＋主語＋動詞＋補語」 の 「補語」を強調する場合， 「補語＋（ A ）＋主語＋動詞」 とすることがある。「（ B ）＋補語＋（ B ）＋主語＋動詞」 も同様の意味を表し，最初の（ B ）は省略が可能である。この表現は文語で古風な言い方である。"
+  },
+  "tags": [
+   "適語を記入し２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Strange "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " it may sound, this is true."
+   }
+  ],
+  "solutions": [
+   [
+    "though"
+   ],
+   [
+    "as"
+   ]
+  ],
+  "secTitle": "倒置 ⑧ ～ 補語で始まる文 （２）"
+ },
+ {
+  "id": "P-35-b",
+  "unit": "P",
+  "no": "35",
+  "jp": "変に聞こえるかもしれませんが，これは本当の話です。",
+  "answers": [
+   "As strange as it may sound, this is true."
+  ],
+  "audio": "audio/P/P-35-b-.mp3",
+  "tags": [
+   "適語を記入し２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " strange "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " it may sound, this is true."
+   }
+  ],
+  "solutions": [
+   [
+    "As",
+    "as"
+   ]
+  ],
+  "secTitle": "倒置 ⑧ ～ 補語で始まる文 （２）"
+ },
+ {
+  "id": "P-36-a",
+  "unit": "P",
+  "no": "36",
+  "jp": "彼は若いのに，ずいぶん家庭的な男だ。",
+  "answers": [
+   "Young as he is, he is such a family man."
+  ],
+  "audio": "audio/P/P-36-a-.mp3",
+  "tags": [
+   "下線部を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Young as he is, he is such a family man.",
+  "secTitle": "倒置 ⑧ ～ 補語で始まる文 （２）"
+ },
+ {
+  "id": "P-36-b",
+  "unit": "P",
+  "no": "36",
+  "jp": "彼は若いので，これから先に楽しい事がたくさんある。",
+  "answers": [
+   "Young as he is, he has a lot to look forward to."
+  ],
+  "audio": "audio/P/P-36-b-.mp3",
+  "tags": [
+   "下線部を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Young as he is, he has a lot to look forward to.",
+  "secTitle": "倒置 ⑧ ～ 補語で始まる文 （２）"
+ },
+ {
+  "id": "P-37",
+  "unit": "P",
+  "no": "37",
+  "jp": "それ以上のことはお話しできません，残念ですが。",
+  "answers": [
+   "More than that I can't say, I'm afraid."
+  ],
+  "audio": "audio/P/P-37-.mp3",
+  "section": {
+   "title": "倒置 ⑨ ～ 目的語で始まる文",
+   "body": "「目的語」 を強調するために文頭に出す場合は 「目的語＋（ A ）＋（ B ）」 の語順にする。但し，（ C ）を含む目的語を文頭に出す場合は，目的語の後ろを 「疑問文」 の語順にする。この倒置は口語でもよく用いられる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "More than that can't I say, I'm afraid.",
+  "secTitle": "倒置 ⑨ ～ 目的語で始まる文"
+ },
+ {
+  "id": "P-38",
+  "unit": "P",
+  "no": "38",
+  "jp": "それらのどれ一つとして，彼女は役に立ち興味深いとは思わなかった。",
+  "answers": [
+   "None of them did she find useful and interesting."
+  ],
+  "audio": "audio/P/P-38-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "None of them did she find useful and interesting.",
+  "secTitle": "倒置 ⑨ ～ 目的語で始まる文"
+ },
+ {
+  "id": "P-39",
+  "unit": "P",
+  "no": "39",
+  "jp": "私が今あるのは全て，母のおかげです。",
+  "answers": [
+   "All I am, I owe to my mother."
+  ],
+  "audio": "audio/P/P-39-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "All I am, "
+   },
+   {
+    "t": "order",
+    "words": [
+     "my mother",
+     "I",
+     "owe",
+     "to"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "I owe to my mother"
+   ]
+  ],
+  "secTitle": "倒置 ⑨ ～ 目的語で始まる文"
+ },
+ {
+  "id": "P-40",
+  "unit": "P",
+  "no": "40",
+  "jp": "彼は経験面での不足を，熱意で補っている。",
+  "answers": [
+   "What he lacks in experience he makes up for in enthusiasm."
+  ],
+  "audio": "audio/P/P-40-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "What "
+   },
+   {
+    "t": "order",
+    "words": [
+     "he",
+     "he",
+     "experience",
+     "lacks",
+     "in"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " makes up for in enthusiasm."
+   }
+  ],
+  "solutions": [
+   [
+    "he lacks in experience he"
+   ]
+  ],
+  "secTitle": "倒置 ⑨ ～ 目的語で始まる文"
+ },
+ {
+  "id": "P-41-a",
+  "unit": "P",
+  "no": "41",
+  "jp": "まず始めに，皆さんに素晴らしいニュースをお知らせしたいと思います。",
+  "answers": [
+   "First, I'd like to share with you some wonderful news!"
+  ],
+  "audio": "audio/P/P-41-a-.mp3",
+  "section": {
+   "title": "倒置 ⑩ ～ 目的語と補語の移動",
+   "body": "「主語＋動詞＋目的語＋（ A ）」 や 「主語＋動詞＋補語＋（ A ）」 の文では， 「目的語」もしくは 「補語」 を 「（ A ）」 の後ろに移動させることがある。"
+  },
+  "tags": [
+   "並べ替えて全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "First, I'd like to share ( some / you / with ) wonderful news!",
+  "secTitle": "倒置 ⑩ ～ 目的語と補語の移動"
+ },
+ {
+  "id": "P-41-b",
+  "unit": "P",
+  "no": "41",
+  "jp": "校長先生は誇らしげにかつての教え子達を見つめた。",
+  "answers": [
+   "The school principal looked with pride at his former pupils."
+  ],
+  "audio": "audio/P/P-41-b-.mp3",
+  "tags": [
+   "並べ替えて全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "The school principal looked ( at / with / pride ) his former pupils.",
+  "secTitle": "倒置 ⑩ ～ 目的語と補語の移動"
+ },
+ {
+  "id": "P-41-c",
+  "unit": "P",
+  "no": "41",
+  "jp": "彼女は私にとって本当に強い女性の象徴なのです。",
+  "answers": [
+   "She is to me a symbol of a truly strong woman."
+  ],
+  "audio": "audio/P/P-41-c-.mp3",
+  "tags": [
+   "並べ替えて全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "She is ( a symbol / me / to ) of a truly strong woman.",
+  "secTitle": "倒置 ⑩ ～ 目的語と補語の移動"
+ },
+ {
+  "id": "P-41-d",
+  "unit": "P",
+  "no": "41",
+  "jp": "彼にはどことなくいたずらっぽい雰囲気があった。",
+  "answers": [
+   "There was about him an air of mischief."
+  ],
+  "audio": "audio/P/P-41-d-.mp3",
+  "tags": [
+   "並べ替えて全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "There ( was / him / about ) an air of mischief.",
+  "secTitle": "倒置 ⑩ ～ 目的語と補語の移動"
+ },
+ {
+  "id": "P-42",
+  "unit": "P",
+  "no": "42",
+  "jp": "親切によって，腕力ではできないことが成し遂げられる。",
+  "answers": [
+   "You can accomplish by kindness what you cannot by force."
+  ],
+  "audio": "audio/P/P-42-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "You can accomplish "
+   },
+   {
+    "t": "order",
+    "words": [
+     "what",
+     "you",
+     "by",
+     "kindness"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " cannot by force."
+   }
+  ],
+  "solutions": [
+   [
+    "by kindness what you"
+   ]
+  ],
+  "secTitle": "倒置 ⑩ ～ 目的語と補語の移動"
+ },
+ {
+  "id": "P-43",
+  "unit": "P",
+  "no": "43",
+  "jp": "ドイツ人にとってのビールは，日本人にとってのお茶のようなものだ。",
+  "answers": [
+   "Beer is to the Germans what tea is to the Japanese."
+  ],
+  "audio": "audio/P/P-43-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Beer is "
+   },
+   {
+    "t": "order",
+    "words": [
+     "what",
+     "the Germans",
+     "tea",
+     "to"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " is to the Japanese."
+   }
+  ],
+  "solutions": [
+   [
+    "to the Germans what tea"
+   ]
+  ],
+  "secTitle": "倒置 ⑩ ～ 目的語と補語の移動"
+ },
+ {
+  "id": "P-44",
+  "unit": "P",
+  "no": "44",
+  "jp": "とうとう出発しなければならない日が来た。",
+  "answers": [
+   "Finally the day came when we had to leave."
+  ],
+  "audio": "audio/P/P-44-.mp3",
+  "section": {
+   "title": "倒置 ⑪ ～ 関係詞節と同格のthat 節の移動",
+   "body": "「主語＋関係詞節＋述語動詞」 や 「主語＋同格のthat 節＋述語動詞」 の文において（ A ）が短い場合は，（ A ）を（ B ）の直後に置くことが多い。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Finally the day "
+   },
+   {
+    "t": "order",
+    "words": [
+     "when",
+     "we",
+     "came",
+     "had to"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " leave."
+   }
+  ],
+  "solutions": [
+   [
+    "came when we had to"
+   ]
+  ],
+  "secTitle": "倒置 ⑪ ～ 関係詞節と同格のthat 節の移動"
+ },
+ {
+  "id": "P-45",
+  "unit": "P",
+  "no": "45",
+  "jp": "被告に対する検察側の主張を大きく揺るがす新たな証拠が明らかになった。",
+  "answers": [
+   "New evidence came to light that seriously undermined the prosecution case against the defendant."
+  ],
+  "audio": "audio/P/P-45-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "New evidence "
+   },
+   {
+    "t": "order",
+    "words": [
+     "undermined",
+     "that seriously",
+     "came to light"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " the prosecution case against the defendant."
+   }
+  ],
+  "solutions": [
+   [
+    "came to light that seriously undermined"
+   ]
+  ],
+  "secTitle": "倒置 ⑪ ～ 関係詞節と同格のthat 節の移動"
+ },
+ {
+  "id": "P-46",
+  "unit": "P",
+  "no": "46",
+  "jp": "君が僕の話を信じていないのはわかっている。しかし，僕が間違っているとも言えないだろ？",
+  "answers": [
+   "I know you don't believe me, but the fact remains that you cannot prove me wrong."
+  ],
+  "audio": "audio/P/P-46-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I know you don't believe me, but "
+   },
+   {
+    "t": "order",
+    "words": [
+     "you",
+     "that",
+     "remains",
+     "the fact"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " cannot prove me wrong."
+   }
+  ],
+  "solutions": [
+   [
+    "the fact remains that you"
+   ]
+  ],
+  "secTitle": "倒置 ⑪ ～ 関係詞節と同格のthat 節の移動"
+ },
+ {
+  "id": "P-47",
+  "unit": "P",
+  "no": "47",
+  "jp": "安い労働力が物価を低く抑えるのに貢献していた。",
+  "answers": [
+   "Cheap labor helped keep prices down."
+  ],
+  "audio": "audio/P/P-47-.mp3",
+  "section": {
+   "title": "省略 ① ～ to とand の省略",
+   "body": "「to＋動詞の原形」 の（ A ）は省略されることがある。また，「go [come] and 動詞の原形」（…しに行く［来る］） の（ B ）はくだけた会話ではよく省略される。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Cheap labor "
+   },
+   {
+    "t": "order",
+    "words": [
+     "keep",
+     "helped",
+     "prices"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " down."
+   }
+  ],
+  "solutions": [
+   [
+    "helped keep prices"
+   ]
+  ],
+  "secTitle": "省略 ① ～ to とand の省略"
+ },
+ {
+  "id": "P-48",
+  "unit": "P",
+  "no": "48",
+  "jp": "このテーブルを動かすのを手伝ってもらえますか？",
+  "answers": [
+   "Could you help me move this table?"
+  ],
+  "audio": "audio/P/P-48-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Could you "
+   },
+   {
+    "t": "order",
+    "words": [
+     "this table",
+     "me",
+     "move",
+     "help"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "?"
+   }
+  ],
+  "solutions": [
+   [
+    "help me move this table"
+   ]
+  ],
+  "secTitle": "省略 ① ～ to とand の省略"
+ },
+ {
+  "id": "P-49",
+  "unit": "P",
+  "no": "49",
+  "jp": "全てそのままにしておくのが一番いいと思うけど。",
+  "answers": [
+   "I think the best thing to do is leave everything as it is."
+  ],
+  "audio": "audio/P/P-49-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I think the best "
+   },
+   {
+    "t": "order",
+    "words": [
+     "is",
+     "do",
+     "to",
+     "thing"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " leave everything as it is."
+   }
+  ],
+  "solutions": [
+   [
+    "thing to do is"
+   ]
+  ],
+  "secTitle": "省略 ① ～ to とand の省略"
+ },
+ {
+  "id": "P-50",
+  "unit": "P",
+  "no": "50",
+  "jp": "週末に映画を見に行きませんか？",
+  "answers": [
+   "Would you like to go see a movie this weekend?"
+  ],
+  "audio": "audio/P/P-50-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Would you like to "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " see a movie this weekend?"
+   }
+  ],
+  "solutions": [
+   [
+    "go"
+   ]
+  ],
+  "secTitle": "省略 ① ～ to とand の省略"
+ },
+ {
+  "id": "P-51",
+  "unit": "P",
+  "no": "51",
+  "jp": "我々の活動に参加してください。我々が一緒になれば状況を変えられます。",
+  "answers": [
+   "Come join us—together we can make a difference."
+  ],
+  "audio": "audio/P/P-51-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "order",
+    "words": [
+     "join",
+     "come",
+     "us"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "—together we can make a difference."
+   }
+  ],
+  "solutions": [
+   [
+    "Come join us"
+   ]
+  ],
+  "secTitle": "省略 ① ～ to とand の省略"
+ },
+ {
+  "id": "P-52",
+  "unit": "P",
+  "no": "52",
+  "jp": "ご依頼に添えるよう，できる限りのことをさせていただきます。",
+  "answers": [
+   "We will do the best we can to accommodate your request."
+  ],
+  "audio": "audio/P/P-52-.mp3",
+  "section": {
+   "title": "省略 ② ～ 重複する動詞の省略",
+   "body": "「助動詞＋動詞の原形」 と 「to＋動詞の原形」 において 「動詞」 が（既に前に出ていて）繰り返しになる場合は，助動詞や（ A ）だけを残して 「動詞の原形」 を省略する。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We will do the best we "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to accommodate your request."
+   }
+  ],
+  "solutions": [
+   [
+    "can"
+   ]
+  ],
+  "secTitle": "省略 ② ～ 重複する動詞の省略"
+ },
+ {
+  "id": "P-53",
+  "unit": "P",
+  "no": "53",
+  "jp": "「あの２人，デートをしたんだよ」「そうなんですか？」",
+  "answers": [
+   "\"They went out on a date.\" \"Did they?\""
+  ],
+  "audio": "audio/P/P-53-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"They went out on a date.\" \""
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "?\""
+   }
+  ],
+  "solutions": [
+   [
+    "Did",
+    "they"
+   ]
+  ],
+  "secTitle": "省略 ② ～ 重複する動詞の省略"
+ },
+ {
+  "id": "P-54",
+  "unit": "P",
+  "no": "54",
+  "jp": "「今日はジョンの姿を見てないんだけど。君はどう？」「見てないけど，どうして？」",
+  "answers": [
+   "\"I haven't seen John today. Have you?\"  \"No. Why?\""
+  ],
+  "audio": "audio/P/P-54-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"I haven't seen John today. "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "?\" \"No. Why?\""
+   }
+  ],
+  "solutions": [
+   [
+    "Have",
+    "you"
+   ]
+  ],
+  "secTitle": "省略 ② ～ 重複する動詞の省略"
+ },
+ {
+  "id": "P-55",
+  "unit": "P",
+  "no": "55",
+  "jp": "「なぜ結婚しないの？」「したくないから」",
+  "answers": [
+   "\"Why don't you get married?\" \"Because I don't want to.\""
+  ],
+  "audio": "audio/P/P-55-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "\"Why don't you get married?\" \"Because I don't want it.\"",
+  "secTitle": "省略 ② ～ 重複する動詞の省略"
+ },
+ {
+  "id": "P-56",
+  "unit": "P",
+  "no": "56",
+  "jp": "「ドライブに行きますか？」「ええ，喜んで」",
+  "answers": [
+   "\"Would you like to drive?\" \"Yes, I'd love to.\"",
+   "\"Would you like to drive?\" \"Yes, I'd like to.\""
+  ],
+  "audio": "audio/P/P-56-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "recall",
+  "secTitle": "省略 ② ～ 重複する動詞の省略"
+ },
+ {
+  "id": "P-57",
+  "unit": "P",
+  "no": "57",
+  "jp": "そのことにはお答えできません。弁護士に口止めされていますので。",
+  "answers": [
+   "I can't answer that because my lawyer told me not to."
+  ],
+  "audio": "audio/P/P-57-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I can't answer that because my lawyer told "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " not "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "me",
+    "to"
+   ]
+  ],
+  "secTitle": "省略 ② ～ 重複する動詞の省略"
+ },
+ {
+  "id": "P-58",
+  "unit": "P",
+  "no": "58",
+  "jp": "アダムとイブは物事の善悪を知るようになった。",
+  "answers": [
+   "Adam and Eve came to understand that some things are right and others wrong."
+  ],
+  "audio": "audio/P/P-58-.mp3",
+  "section": {
+   "title": "省略 ③ ～ 共通要素の省略",
+   "body": "「A B C and  X Y Z」  及び  「A B C but X Y Z」  という文において，「B」 と「Y」 が同じ場合は（ A ）を省略することができる。"
+  },
+  "tags": [
+   "省略されている語を指摘"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Adam and Eve came to understand that some things are right and others wrong.",
+  "secTitle": "省略 ③ ～ 共通要素の省略"
+ },
+ {
+  "id": "P-59",
+  "unit": "P",
+  "no": "59",
+  "jp": "１人の兵士が死亡し，別の兵士が負傷しました。",
+  "answers": [
+   "One soldier was killed and another wounded."
+  ],
+  "audio": "audio/P/P-59-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "One soldier "
+   },
+   {
+    "t": "order",
+    "words": [
+     "was",
+     "another",
+     "killed",
+     "wounded",
+     "and"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "was killed and another wounded"
+   ]
+  ],
+  "secTitle": "省略 ③ ～ 共通要素の省略"
+ },
+ {
+  "id": "P-60",
+  "unit": "P",
+  "no": "60",
+  "jp": "娘はオーストラリアで，孫達はカナダで，それぞれ暮らしています。",
+  "answers": [
+   "My daughter lives in Australia and my grandchildren in Canada."
+  ],
+  "audio": "audio/P/P-60-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "My daughter lives in Australia and my grandchildren "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " Canada."
+   }
+  ],
+  "solutions": [
+   [
+    "in"
+   ]
+  ],
+  "secTitle": "省略 ③ ～ 共通要素の省略"
+ },
+ {
+  "id": "P-61",
+  "unit": "P",
+  "no": "61",
+  "jp": "「以前どこかでお会いしましたっけ？」「そういうことはないと思いますが」",
+  "answers": [
+   "\"Have we met before?\" \"I don't think so.\""
+  ],
+  "audio": "audio/P/P-61-.mp3",
+  "section": {
+   "title": "省略 ④ ～ that 節が否定文になる場合の省略",
+   "body": "「動詞＋that 節」 のthat 節が既に述べられたことの繰り返しになる場合は，that節を（ A ）で置き換えることができる。また，that 節が否定文の場合には，（ B ）だけを残して残りの部分を省略することができる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"Have we met before?\" \"I don't think "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": ".\""
+   }
+  ],
+  "solutions": [
+   [
+    "so"
+   ]
+  ],
+  "secTitle": "省略 ④ ～ that 節が否定文になる場合の省略"
+ },
+ {
+  "id": "P-62",
+  "unit": "P",
+  "no": "62",
+  "jp": "後悔することになるかもしれないけど，そうならないことを願っています。",
+  "answers": [
+   "Maybe I'll regret it, but I hope not."
+  ],
+  "audio": "audio/P/P-62-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Maybe I'll regret it, but I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "hope",
+    "not"
+   ]
+  ],
+  "secTitle": "省略 ④ ～ that 節が否定文になる場合の省略"
+ },
+ {
+  "id": "P-63",
+  "unit": "P",
+  "no": "63",
+  "jp": "「ホテルからは海が見えるのですか？」「残念ながら見えません」",
+  "answers": [
+   "\"Does the hotel have an ocean view?\" \"I'm afraid not.\""
+  ],
+  "audio": "audio/P/P-63-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"Does the hotel have an ocean view?\" \"I'm "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": ".\""
+   }
+  ],
+  "solutions": [
+   [
+    "afraid",
+    "not"
+   ]
+  ],
+  "secTitle": "省略 ④ ～ that 節が否定文になる場合の省略"
+ },
+ {
+  "id": "P-64",
+  "unit": "P",
+  "no": "64",
+  "jp": "アルコールは大量に消費すると健康を害する可能性がある。",
+  "answers": [
+   "Alcohol can be bad for you if consumed in large quantities."
+  ],
+  "audio": "audio/P/P-64-.mp3",
+  "section": {
+   "title": "省略 ⑤ ～ 副詞節中での「主語＋be 動詞」の省略",
+   "body": "when やif などの接続詞が導く副詞節が 「接続詞＋主語＋（ A ）＋過去分詞［形容詞，前置詞句］」 の形で，主語が主節の主語と同じ場合は，副詞節の 「主語と（ A ）」 をまとめて省略することができる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Alcohol can be bad for you "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " consumed in large quantities."
+   }
+  ],
+  "solutions": [
+   [
+    "if"
+   ]
+  ],
+  "secTitle": "省略 ⑤ ～ 副詞節中での「主語＋be 動詞」の省略"
+ },
+ {
+  "id": "P-65",
+  "unit": "P",
+  "no": "65",
+  "jp": "話しかけられないと，私の夫は一言もしゃべりません。",
+  "answers": [
+   "Unless spoken to, my husband doesn't say a word."
+  ],
+  "audio": "audio/P/P-65-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank",
+    "hint": "s"
+   },
+   {
+    "t": "text",
+    "v": " to, my husband doesn't say a word."
+   }
+  ],
+  "solutions": [
+   [
+    "Unless",
+    "spoken"
+   ]
+  ],
+  "secTitle": "省略 ⑤ ～ 副詞節中での「主語＋be 動詞」の省略"
+ },
+ {
+  "id": "P-66",
+  "unit": "P",
+  "no": "66",
+  "jp": "彼は頼まれると嫌とは言えないタイプです。",
+  "answers": [
+   "He is the type who can't refuse when asked to do a favor."
+  ],
+  "audio": "audio/P/P-66-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He is the type who can't refuse when "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to do a favor."
+   }
+  ],
+  "solutions": [
+   [
+    "asked"
+   ]
+  ],
+  "secTitle": "省略 ⑤ ～ 副詞節中での「主語＋be 動詞」の省略"
+ },
+ {
+  "id": "P-67",
+  "unit": "P",
+  "no": "67",
+  "jp": "物事は必ずしも，計画通り，期待通りにはいかない。",
+  "answers": [
+   "Things do not always go as planned or expected."
+  ],
+  "audio": "audio/P/P-67-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Things do not always go "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank",
+    "hint": "p"
+   },
+   {
+    "t": "text",
+    "v": " or expected."
+   }
+  ],
+  "solutions": [
+   [
+    "as",
+    "planned"
+   ]
+  ],
+  "secTitle": "省略 ⑤ ～ 副詞節中での「主語＋be 動詞」の省略"
+ },
+ {
+  "id": "P-68-a",
+  "unit": "P",
+  "no": "68",
+  "jp": "その国にやって来た時，彼らは無一文だった。",
+  "answers": [
+   "When they arrived in the country, they were penniless."
+  ],
+  "audio": "audio/P/P-68-a-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "When arrived in the country, they were penniless.",
+  "secTitle": "省略 ⑤ ～ 副詞節中での「主語＋be 動詞」の省略"
+ },
+ {
+  "id": "P-68-b",
+  "unit": "P",
+  "no": "68",
+  "jp": "子供の頃，私はいつも宇宙飛行士になりたいと思っていた。",
+  "answers": [
+   "When I was a child, I always wanted to be an astronaut.",
+   "As a child, I always wanted to be an astronaut."
+  ],
+  "audio": "audio/P/P-68-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "When a child, I always wanted to be an astronaut.",
+  "secTitle": "省略 ⑤ ～ 副詞節中での「主語＋be 動詞」の省略"
+ },
+ {
+  "id": "P-68-c",
+  "unit": "P",
+  "no": "68",
+  "jp": "彼女は疲れていたので眠ってしまった。",
+  "answers": [
+   "She fell asleep because she was tired."
+  ],
+  "audio": "audio/P/P-68-c-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "She fell asleep because tired.",
+  "secTitle": "省略 ⑤ ～ 副詞節中での「主語＋be 動詞」の省略"
+ },
+ {
+  "id": "P-69",
+  "unit": "P",
+  "no": "69",
+  "jp": "大学在学中，彼はジャズバンドで演奏をしていた。",
+  "answers": [
+   "While in college, he played in a jazz band."
+  ],
+  "audio": "audio/P/P-69-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "While "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " college, he played in a jazz band."
+   }
+  ],
+  "solutions": [
+   [
+    "in"
+   ]
+  ],
+  "secTitle": "省略 ⑤ ～ 副詞節中での「主語＋be 動詞」の省略"
+ },
+ {
+  "id": "P-70",
+  "unit": "P",
+  "no": "70",
+  "jp": "夫とは，私が保険会社で働いている時に出会いました。",
+  "answers": [
+   "I met my husband while working at an insurance company."
+  ],
+  "audio": "audio/P/P-70-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I met my husband while "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " at an insurance company."
+   }
+  ],
+  "solutions": [
+   [
+    "working"
+   ]
+  ],
+  "secTitle": "省略 ⑤ ～ 副詞節中での「主語＋be 動詞」の省略"
+ },
+ {
+  "id": "P-71",
+  "unit": "P",
+  "no": "71",
+  "jp": "彼女は，美しいが冷たい目をしていた。",
+  "answers": [
+   "Though beautiful, her eyes were cold."
+  ],
+  "audio": "audio/P/P-71-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "choice",
+    "options": [
+     "Despite",
+     "Though"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " beautiful, her eyes were cold."
+   }
+  ],
+  "solutions": [
+   [
+    "Though"
+   ]
+  ],
+  "secTitle": "省略 ⑤ ～ 副詞節中での「主語＋be 動詞」の省略"
+ },
+ {
+  "id": "P-72-a",
+  "unit": "P",
+  "no": "72",
+  "jp": "金曜日までには仕上げておきます。それより早くできるかもしれませんが。",
+  "answers": [
+   "I'll have it ready by Friday, if not sooner."
+  ],
+  "audio": "audio/P/P-72-a-.mp3",
+  "tags": [
+   " 同じ語句を用い適切な形に"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'll have it ready by Friday, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " sooner."
+   }
+  ],
+  "solutions": [
+   [
+    "if",
+    "not"
+   ]
+  ],
+  "secTitle": "省略 ⑤ ～ 副詞節中での「主語＋be 動詞」の省略"
+ },
+ {
+  "id": "P-72-b",
+  "unit": "P",
+  "no": "72",
+  "jp": "明日そちらに届くはずです。もし届かなかったらお電話ください。",
+  "answers": [
+   "It should arrive tomorrow. If not, please give me a call."
+  ],
+  "audio": "audio/P/P-72-b-.mp3",
+  "tags": [
+   " 同じ語句を用い適切な形に"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It should arrive tomorrow. "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": ", please give me a call."
+   }
+  ],
+  "solutions": [
+   [
+    "If",
+    "not"
+   ]
+  ],
+  "secTitle": "省略 ⑤ ～ 副詞節中での「主語＋be 動詞」の省略"
+ },
+ {
+  "id": "P-73",
+  "unit": "P",
+  "no": "73",
+  "jp": "電話には即座に，できればベルが鳴って３回以内に出てください。",
+  "answers": [
+   "Answer the telephone promptly―within three rings if possible."
+  ],
+  "audio": "audio/P/P-73-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Answer the telephone promptly ― within three rings "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "if",
+    "possible"
+   ]
+  ],
+  "secTitle": "省略 ⑤ ～ 副詞節中での「主語＋be 動詞」の省略"
+ },
+ {
+  "id": "P-74",
+  "unit": "P",
+  "no": "74",
+  "jp": "参考資料が必要に応じて授業で配布されます。",
+  "answers": [
+   "Reference materials will be given when necessary in class."
+  ],
+  "audio": "audio/P/P-74-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Reference materials will be given when "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " in class."
+   }
+  ],
+  "solutions": [
+   [
+    "necessary"
+   ]
+  ],
+  "secTitle": "省略 ⑤ ～ 副詞節中での「主語＋be 動詞」の省略"
+ },
+ {
+  "id": "P-75",
+  "unit": "P",
+  "no": "75",
+  "jp": "「お会いできて嬉しいです」「私もです」",
+  "answers": [
+   "\"I'm glad to meet you.\" \"Glad to meet you, too.\""
+  ],
+  "audio": "audio/P/P-75-.mp3",
+  "section": {
+   "title": "省略 ⑥ ～ 会話文での 「主語＋be 動詞」 の省略",
+   "body": "くだけた会話では（ A ）が明白な場合に（ A ）を省略したり，「It is... to 不定詞」「It is ... 動名詞」「It is ... that 節」 の 「It とbe 動詞」 を省略することがある。また，疑問文では（ B ）と（ A ）の両方を省略することがある。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"I'm glad to meet you.\" \""
+   },
+   {
+    "t": "order",
+    "words": [
+     "you",
+     "meet",
+     "to",
+     "glad"
+    ]
+   },
+   {
+    "t": "text",
+    "v": ", too.\""
+   }
+  ],
+  "solutions": [
+   [
+    "Glad to meet you"
+   ]
+  ],
+  "secTitle": "省略 ⑥ ～ 会話文での 「主語＋be 動詞」 の省略"
+ },
+ {
+  "id": "P-76",
+  "unit": "P",
+  "no": "76",
+  "jp": "「キャロルさん，お会いできてよかったです」「こちらこそ」",
+  "answers": [
+   "\"Nice meeting you, Carol.\" \"Same here.\""
+  ],
+  "audio": "audio/P/P-76-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\""
+   },
+   {
+    "t": "order",
+    "words": [
+     "you",
+     "meeting",
+     "nice"
+    ]
+   },
+   {
+    "t": "text",
+    "v": ", Carol.\" \"Same here.\""
+   }
+  ],
+  "solutions": [
+   [
+    "Nice meeting you"
+   ]
+  ],
+  "secTitle": "省略 ⑥ ～ 会話文での 「主語＋be 動詞」 の省略"
+ },
+ {
+  "id": "P-77",
+  "unit": "P",
+  "no": "77",
+  "jp": "「彼はリンゴ・スターの息子なのよ」「道理でドラムが上手いはずだ」",
+  "answers": [
+   "\"He's Ringo Starr's son.\" \"No wonder he's so good at drums!\""
+  ],
+  "audio": "audio/P/P-77-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"He's Ringo Starr's son.\" \""
+   },
+   {
+    "t": "order",
+    "words": [
+     "he's",
+     "wonder",
+     "no"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " so good at drums!\""
+   }
+  ],
+  "solutions": [
+   [
+    "No wonder he's"
+   ]
+  ],
+  "secTitle": "省略 ⑥ ～ 会話文での 「主語＋be 動詞」 の省略"
+ },
+ {
+  "id": "P-78",
+  "unit": "P",
+  "no": "78",
+  "jp": "面白そうだね。早く見てみたいよ。",
+  "answers": [
+   "Sounds interesting! Can't wait to see it!"
+  ],
+  "audio": "audio/P/P-78-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank",
+    "hint": "S"
+   },
+   {
+    "t": "text",
+    "v": " interesting! "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " wait to see it!"
+   }
+  ],
+  "solutions": [
+   [
+    "Sounds",
+    "Can't"
+   ]
+  ],
+  "secTitle": "省略 ⑥ ～ 会話文での 「主語＋be 動詞」 の省略"
+ },
+ {
+  "id": "P-79",
+  "unit": "P",
+  "no": "79",
+  "jp": "すごく素敵なところですね。かなり高かったんでしょう。",
+  "answers": [
+   "Nice place you've got here. Must have cost you a fortune."
+  ],
+  "audio": "audio/P/P-79-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Nice place you've got here. "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " have cost you a fortune."
+   }
+  ],
+  "solutions": [
+   [
+    "Must"
+   ]
+  ],
+  "secTitle": "省略 ⑥ ～ 会話文での 「主語＋be 動詞」 の省略"
+ },
+ {
+  "id": "P-80",
+  "unit": "P",
+  "no": "80",
+  "jp": "「一杯飲む？」「いや結構。もう酒は飲まないことにしてるんだ」",
+  "answers": [
+   "\"Want a drink?\" \"No, thanks. I'm not drinking any more.\""
+  ],
+  "audio": "audio/P/P-80-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\""
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " a drink?\" \"No, thanks. I'm not drinking any more.\""
+   }
+  ],
+  "solutions": [
+   [
+    "Want"
+   ]
+  ],
+  "secTitle": "省略 ⑥ ～ 会話文での 「主語＋be 動詞」 の省略"
+ },
+ {
+  "id": "P-81",
+  "unit": "P",
+  "no": "81",
+  "jp": "「君のノート，ちょっと借りていいかな？」「いいよ」",
+  "answers": [
+   "\"Mind if I borrow your notes for a while?\" \"Not at all.\""
+  ],
+  "audio": "audio/P/P-81-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\""
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " if I borrow your notes for a while?\" \"Not at all.\""
+   }
+  ],
+  "solutions": [
+   [
+    "Mind"
+   ]
+  ],
+  "secTitle": "省略 ⑥ ～ 会話文での 「主語＋be 動詞」 の省略"
+ },
+ {
+  "id": "P-82-a",
+  "unit": "P",
+  "no": "82",
+  "jp": "もう行かなくちゃ。じゃぁまたね。",
+  "answers": [
+   "I gotta go now. Hope to see you again soon."
+  ],
+  "audio": "audio/P/P-82-a-.mp3",
+  "section": {
+   "title": "省略 ⑦ ～ 会話文での助動詞の省略",
+   "body": "くだけた会話ではよく 「have [has] got」 と 「have [has] got to不定詞」 の（ A ），並びに「had better」 の（ B ）が省略される。"
+  },
+  "tags": [
+   " a) のくだけた表現をb) の普通の表現にする"
+  ],
+  "sheetJp": false,
+  "type": "compose",
+  "stem": "I gotta go now. Hope to see you again soon.",
+  "secTitle": "省略 ⑦ ～ 会話文での助動詞の省略"
+ },
+ {
+  "id": "P-82-b",
+  "unit": "P",
+  "no": "82",
+  "jp": "もう行かなくちゃ。じゃぁまたね。",
+  "answers": [
+   "I've got to go now. I hope to see you again soon."
+  ],
+  "audio": "audio/P/P-82-b-.mp3",
+  "tags": [
+   " a) のくだけた表現をb) の普通の表現にする"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I've "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " go now. I hope to see you again soon."
+   }
+  ],
+  "solutions": [
+   [
+    "got",
+    "to"
+   ]
+  ],
+  "secTitle": "省略 ⑦ ～ 会話文での助動詞の省略"
+ },
+ {
+  "id": "P-83-a",
+  "unit": "P",
+  "no": "83",
+  "jp": "傘を持っていった方がいいよ。雨が降るから。",
+  "answers": [
+   "You better take an umbrella—it's gonna rain."
+  ],
+  "audio": "audio/P/P-83-a-.mp3",
+  "tags": [
+   "  a) のくだけた表現をb) の普通の表現にする"
+  ],
+  "sheetJp": false,
+  "type": "compose",
+  "stem": "You better take an umbrella ― it's gonna rain.",
+  "secTitle": "省略 ⑦ ～ 会話文での助動詞の省略"
+ },
+ {
+  "id": "P-83-b",
+  "unit": "P",
+  "no": "83",
+  "jp": "傘を持っていった方がいいよ。雨が降るから。",
+  "answers": [
+   "You had better take an umbrella—it's going to rain."
+  ],
+  "audio": "audio/P/P-83-b-.mp3",
+  "tags": [
+   "  a) のくだけた表現をb) の普通の表現にする"
+  ],
+  "sheetJp": false,
+  "type": "recall",
+  "secTitle": "省略 ⑦ ～ 会話文での助動詞の省略"
+ },
+ {
+  "id": "P-84",
+  "unit": "P",
+  "no": "84",
+  "jp": "アマゾンで森林減少が進む，専門家指摘  （（新聞の見出し））",
+  "answers": [
+   "Amazon Getting Less Green, Says Expert"
+  ],
+  "audio": "audio/P/P-84-.mp3",
+  "section": {
+   "title": "省略 ⑧ ～ 新聞の見出し・広告・掲示での省略",
+   "body": "英字新聞の見出しは限られたスペースに読者の注意を引く表題を付ける必要があるので特別な書式が用いられる。見出しが完全な文になることは少なく，（ A ）や所有格，（ B ）が省略された 「名詞句」 になることが多い。広告・掲示・あいさつ・呼びかけなど，簡潔さが求められる表現でも（ A ）が省略されることがある。"
+  },
+  "tags": [
+   "新聞の見出し",
+   "省略を行い簡潔に"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "The Amazon is Getting Less Green, Says an Expert",
+  "secTitle": "省略 ⑧ ～ 新聞の見出し・広告・掲示での省略"
+ },
+ {
+  "id": "P-85",
+  "unit": "P",
+  "no": "85",
+  "jp": "恋人殺害で男性逮捕  （（新聞の見出し））",
+  "answers": [
+   "Man Arrested for Killing Girlfriend"
+  ],
+  "audio": "audio/P/P-85-.mp3",
+  "tags": [
+   "新聞の見出し",
+   "man とarrest を用い適切な形に"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " for Killing Girlfriend"
+   }
+  ],
+  "solutions": [
+   [
+    "Man",
+    "Arrested"
+   ]
+  ],
+  "secTitle": "省略 ⑧ ～ 新聞の見出し・広告・掲示での省略"
+ },
+ {
+  "id": "P-86",
+  "unit": "P",
+  "no": "86",
+  "jp": "仏大統領10月にインド訪問   （（「予定」を表す新聞の見出し））",
+  "answers": [
+   "French President to Visit India in October"
+  ],
+  "audio": "audio/P/P-86-.mp3",
+  "tags": [
+   "「予定」を表す新聞の見出し"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "French President "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " Visit India in October"
+   }
+  ],
+  "solutions": [
+   [
+    "to"
+   ]
+  ],
+  "secTitle": "省略 ⑧ ～ 新聞の見出し・広告・掲示での省略"
+ },
+ {
+  "id": "P-87",
+  "unit": "P",
+  "no": "87",
+  "jp": "運送会社ドライバー（１名）募集  （（求人広告））",
+  "answers": [
+   "Driver Wanted for Transport Company"
+  ],
+  "audio": "audio/P/P-87-.mp3",
+  "tags": [
+   "求人広告",
+   "want を用い適切な形に"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " for Transport Company"
+   }
+  ],
+  "solutions": [
+   [
+    "Driver",
+    "Wanted"
+   ]
+  ],
+  "secTitle": "省略 ⑧ ～ 新聞の見出し・広告・掲示での省略"
+ },
+ {
+  "id": "P-88",
+  "unit": "P",
+  "no": "88",
+  "jp": "新年おめでとう！",
+  "answers": [
+   "Happy New Year!"
+  ],
+  "audio": "audio/P/P-88-.mp3",
+  "tags": [
+   "間違いがあれば訂正"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "A Happy New Year!",
+  "secTitle": "省略 ⑧ ～ 新聞の見出し・広告・掲示での省略"
+ },
+ {
+  "id": "P-89",
+  "unit": "P",
+  "no": "89",
+  "jp": "すみません，お巡りさん。ミッチェル通りへの行き方を教えてもらえますか？",
+  "answers": [
+   "Excuse me, officer, could you tell me how to get to Mitchell Street?"
+  ],
+  "audio": "audio/P/P-89-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Excuse me, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": ", could you tell me how to get to Mitchell Street?"
+   }
+  ],
+  "solutions": [
+   [
+    "officer"
+   ]
+  ],
+  "secTitle": "省略 ⑧ ～ 新聞の見出し・広告・掲示での省略"
+ }
+]

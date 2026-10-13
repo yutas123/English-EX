@@ -1,0 +1,4772 @@
+[
+ {
+  "id": "X-01-a",
+  "unit": "X",
+  "no": "01",
+  "jp": "行動の伴わないアイデアは無価値だ。",
+  "answers": [
+   "Ideas without action are worthless."
+  ],
+  "audio": "audio/X/X-01-a-.mp3",
+  "section": {
+   "title": "前置詞の種類と使い方",
+   "body": "前置詞は名詞［代名詞，名詞句，名詞節］と結びついて形容詞句や副詞句を作ったり，動詞句や形容詞句の一部になったりする。前置詞は通常１語で用いるが，from behind のように２つの前置詞を組み合わせて用いることもある。また，out of やin spite of のように２語以上の語が集まって１つの前置詞として働くものや，regarding やincluding のような現在分詞の形をしたものもある。"
+  },
+  "tags": [
+   "下線部の前置詞句は形容詞句かそれとも副詞句か"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Ideas without action are worthless.",
+  "secTitle": "前置詞の種類と使い方"
+ },
+ {
+  "id": "X-01-b",
+  "unit": "X",
+  "no": "01",
+  "jp": "これ，試してみたのですが，役に立たないとわかりました。",
+  "answers": [
+   "This we tried, but found it of no use."
+  ],
+  "audio": "audio/X/X-01-b-.mp3",
+  "tags": [
+   "下線部の前置詞句は形容詞句かそれとも副詞句か"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "This we tried, but found it of no use.",
+  "secTitle": "前置詞の種類と使い方"
+ },
+ {
+  "id": "X-01-c",
+  "unit": "X",
+  "no": "01",
+  "jp": "彼らが驚いたことに，そのアルバムは100万枚以上売れた。",
+  "answers": [
+   "To their surprise, the album sold over a million copies."
+  ],
+  "audio": "audio/X/X-01-c-.mp3",
+  "tags": [
+   "下線部の前置詞句は形容詞句かそれとも副詞句か"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "To their surprise, the album sold over a million copies.",
+  "secTitle": "前置詞の種類と使い方"
+ },
+ {
+  "id": "X-01-d",
+  "unit": "X",
+  "no": "01",
+  "jp": "ママがメモを台所のテーブルの上に置いて行ったよ。",
+  "answers": [
+   "Mom left a note for you on the kitchen table."
+  ],
+  "audio": "audio/X/X-01-d-.mp3",
+  "tags": [
+   "下線部の前置詞句は形容詞句かそれとも副詞句か"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Mom left a note for you on the kitchen table.",
+  "secTitle": "前置詞の種類と使い方"
+ },
+ {
+  "id": "X-01-e",
+  "unit": "X",
+  "no": "01",
+  "jp": "父は物を修理するのが得意です。",
+  "answers": [
+   "My father is good at fixing things."
+  ],
+  "audio": "audio/X/X-01-e-.mp3",
+  "tags": [
+   "下線部の前置詞句は形容詞句かそれとも副詞句か"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "My father is good at fixing things.",
+  "secTitle": "前置詞の種類と使い方"
+ },
+ {
+  "id": "X-02-a",
+  "unit": "X",
+  "no": "02",
+  "jp": "我々が家に着いた時はもう午前零時近くだった。",
+  "answers": [
+   "It was almost midnight by the time we got home."
+  ],
+  "audio": "audio/X/X-02-a-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "It was almost midnight by the time we got to home.",
+  "secTitle": "前置詞の種類と使い方"
+ },
+ {
+  "id": "X-02-b",
+  "unit": "X",
+  "no": "02",
+  "jp": "そこからは全ての観光スポットへ歩いて行けます。",
+  "answers": [
+   "You can walk from there to all places of interest."
+  ],
+  "audio": "audio/X/X-02-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "You can walk from there to all places of interest.",
+  "secTitle": "前置詞の種類と使い方"
+ },
+ {
+  "id": "X-02-c",
+  "unit": "X",
+  "no": "02",
+  "jp": "この中は暑い。クーラーをつけてください。",
+  "answers": [
+   "It's hot in here. Turn on the air conditioner."
+  ],
+  "audio": "audio/X/X-02-c-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "It's hot in here. Turn on the air conditioner.",
+  "secTitle": "前置詞の種類と使い方"
+ },
+ {
+  "id": "X-02-d",
+  "unit": "X",
+  "no": "02",
+  "jp": "最近まで私は自分の将来についてあまり考えたことがなかった。",
+  "answers": [
+   "Until recently, I didn't think much about my future."
+  ],
+  "audio": "audio/X/X-02-d-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Until recently, I didn't think much about my future.",
+  "secTitle": "前置詞の種類と使い方"
+ },
+ {
+  "id": "X-02-e",
+  "unit": "X",
+  "no": "02",
+  "jp": "当初，彼の病気は深刻だとは思われていなかった。",
+  "answers": [
+   "At first his illness was not regarded as serious."
+  ],
+  "audio": "audio/X/X-02-e-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "At first his illness was not regarded as serious.",
+  "secTitle": "前置詞の種類と使い方"
+ },
+ {
+  "id": "X-03",
+  "unit": "X",
+  "no": "03",
+  "jp": "太陽が徐々に雲の陰から姿を現した。",
+  "answers": [
+   "The sun gradually emerged from behind the clouds."
+  ],
+  "audio": "audio/X/X-03-.mp3",
+  "tags": [
+   "適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The sun gradually emerged "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the clouds."
+   }
+  ],
+  "solutions": [
+   [
+    "from",
+    "behind"
+   ]
+  ],
+  "secTitle": "前置詞の種類と使い方"
+ },
+ {
+  "id": "X-04",
+  "unit": "X",
+  "no": "04",
+  "jp": "彼女は３千人の少女の中からそのドラマのヒロイン役に選ばれた。",
+  "answers": [
+   "She was chosen from among 3,000 girls to be the heroine of the drama."
+  ],
+  "audio": "audio/X/X-04-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She was chosen "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " 3,000 girls to be the heroine of the drama."
+   }
+  ],
+  "solutions": [
+   [
+    "from",
+    "among"
+   ]
+  ],
+  "secTitle": "前置詞の種類と使い方"
+ },
+ {
+  "id": "X-05",
+  "unit": "X",
+  "no": "05",
+  "jp": "さらなる議論は昼食の休憩後まで延期された。",
+  "answers": [
+   "Further discussion was postponed until after the lunch break.",
+   "Further discussion was postponed till after the lunch break."
+  ],
+  "audio": "audio/X/X-05-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Further discussion was postponed "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the lunch break."
+   }
+  ],
+  "solutions": [
+   [
+    "until",
+    "after"
+   ],
+   [
+    "till",
+    "after"
+   ]
+  ],
+  "secTitle": "前置詞の種類と使い方"
+ },
+ {
+  "id": "X-06",
+  "unit": "X",
+  "no": "06",
+  "jp": "有史以前から花は人を魅了してきました。",
+  "answers": [
+   "Flowers have been fascinating people since before written history."
+  ],
+  "audio": "audio/X/X-06-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Flowers have been fascinating people "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " written history."
+   }
+  ],
+  "solutions": [
+   [
+    "since",
+    "before"
+   ]
+  ],
+  "secTitle": "前置詞の種類と使い方"
+ },
+ {
+  "id": "X-07-a",
+  "unit": "X",
+  "no": "07",
+  "jp": "政治家というのは曖昧な約束をすることで知られる。",
+  "answers": [
+   "Politicians are known for making vague promises."
+  ],
+  "audio": "audio/X/X-07-a-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Politicians are known for make vague promises.",
+  "secTitle": "前置詞の種類と使い方"
+ },
+ {
+  "id": "X-07-b",
+  "unit": "X",
+  "no": "07",
+  "jp": "車がないのだから，徒歩で行く以外に選択肢はない。",
+  "answers": [
+   "Since I don't have a car, I have no alternative but to go on foot."
+  ],
+  "audio": "audio/X/X-07-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Since I don't have a car, I have no alternative but to go on foot.",
+  "secTitle": "前置詞の種類と使い方"
+ },
+ {
+  "id": "X-07-c",
+  "unit": "X",
+  "no": "07",
+  "jp": "私はこの件についての君の意見に興味がある。",
+  "answers": [
+   "I'm interested in what you have to say about this."
+  ],
+  "audio": "audio/X/X-07-c-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I'm interested in what you have to say about this.",
+  "secTitle": "前置詞の種類と使い方"
+ },
+ {
+  "id": "X-07-d",
+  "unit": "X",
+  "no": "07",
+  "jp": "これが完璧な解決策ではないことを私は重々承知している。",
+  "answers": [
+   "I'm well aware that this is not the perfect solution."
+  ],
+  "audio": "audio/X/X-07-d-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I'm well aware of that this is not the perfect solution.",
+  "secTitle": "前置詞の種類と使い方"
+ },
+ {
+  "id": "X-07-e",
+  "unit": "X",
+  "no": "07",
+  "jp": "彼らは髪の毛の色が違うことを除けば瓜二つだ。",
+  "answers": [
+   "They look the same except that they have different hair colors."
+  ],
+  "audio": "audio/X/X-07-e-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "They look the same except that they have different hair colors.",
+  "secTitle": "前置詞の種類と使い方"
+ },
+ {
+  "id": "X-08-a",
+  "unit": "X",
+  "no": "08",
+  "jp": "明日の午後，スペインに出発します。",
+  "answers": [
+   "I’ll be leaving tomorrow afternoon for Spain."
+  ],
+  "audio": "audio/X/X-08-a-.mp3",
+  "section": {
+   "title": "前置詞の省略 ① ～ 時を表す場合",
+   "body": "「時」 を表す名詞の多くは（ A ）としても用いられるため，前置詞を付ける必要がない。特に，this, that, every, some, next, last, one，the other などの修飾語が付く名詞や，「X before Y」（Y の前のX に）， 「X after Y」（Y の後のX に），「... from now」（今から…後）などの語句は前置詞を付けずに（ A ）として用いる。"
+  },
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I'll be leaving on tomorrow afternoon for Spain.",
+  "secTitle": "前置詞の省略 ① ～ 時を表す場合"
+ },
+ {
+  "id": "X-08-b",
+  "unit": "X",
+  "no": "08",
+  "jp": "翌日，私達はグランドキャニオンのツアーに出かけた。",
+  "answers": [
+   "The next day we went on a tour of the Grand Canyon."
+  ],
+  "audio": "audio/X/X-08-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "The next day we went on a tour of the Grand Canyon.",
+  "secTitle": "前置詞の省略 ① ～ 時を表す場合"
+ },
+ {
+  "id": "X-08-c",
+  "unit": "X",
+  "no": "08",
+  "jp": "私達はたいていクリスマスの前の夜に教会に行きます。",
+  "answers": [
+   "We usually go to church the night before Christmas."
+  ],
+  "audio": "audio/X/X-08-c-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "We usually go to church the night before Christmas.",
+  "secTitle": "前置詞の省略 ① ～ 時を表す場合"
+ },
+ {
+  "id": "X-08-d",
+  "unit": "X",
+  "no": "08",
+  "jp": "カブスは金曜，そのベテラン右腕を放出することに決めた。",
+  "answers": [
+   "The Cubs decided Friday to release the veteran right-hander."
+  ],
+  "audio": "audio/X/X-08-d-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "The Cubs decided Friday to release the veteran right-hander.",
+  "secTitle": "前置詞の省略 ① ～ 時を表す場合"
+ },
+ {
+  "id": "X-09",
+  "unit": "X",
+  "no": "09",
+  "jp": "各レッスンは１時間半の長さです。",
+  "answers": [
+   "Each lesson lasts an hour and a half."
+  ],
+  "audio": "audio/X/X-09-.mp3",
+  "section": {
+   "title": "前置詞の省略 ② ～ 期間・距離・差分を表す場合",
+   "body": "「…の間」 という 「継続期間」 や 「移動距離」 を表す前置詞の（ A ）と 「…分だけ」 という 「差分」 を表す（ B ）は，（ C ）の直後に置かれる場合に省略されることが多い。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Each lesson lasts "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " hour and a half."
+   }
+  ],
+  "solutions": [
+   [
+    "an"
+   ]
+  ],
+  "secTitle": "前置詞の省略 ② ～ 期間・距離・差分を表す場合"
+ },
+ {
+  "id": "X-10",
+  "unit": "X",
+  "no": "10",
+  "jp": "10フィートも歩かないうちに激しい雨が降り始めた。",
+  "answers": [
+   "We hadn't walked ten feet before it started to pour."
+  ],
+  "audio": "audio/X/X-10-.mp3",
+  "tags": [
+   "並べ替え"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We hadn't "
+   },
+   {
+    "t": "order",
+    "words": [
+     "ten feet",
+     "before",
+     "walked"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " it started to pour."
+   }
+  ],
+  "solutions": [
+   [
+    "walked ten feet before"
+   ]
+  ],
+  "secTitle": "前置詞の省略 ② ～ 期間・距離・差分を表す場合"
+ },
+ {
+  "id": "X-11",
+  "unit": "X",
+  "no": "11",
+  "jp": "ダウは4.2％下落し，1997年10月以来最も低い終値となった。",
+  "answers": [
+   "The Dow fell 4.2% to its lowest close since October 1997."
+  ],
+  "audio": "audio/X/X-11-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The Dow "
+   },
+   {
+    "t": "order",
+    "words": [
+     "4.2%",
+     "fell",
+     "to"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " its lowest close since October 1997."
+   }
+  ],
+  "solutions": [
+   [
+    "fell 4.2% to"
+   ]
+  ],
+  "secTitle": "前置詞の省略 ② ～ 期間・距離・差分を表す場合"
+ },
+ {
+  "id": "X-12-a",
+  "unit": "X",
+  "no": "12",
+  "jp": "ブルーレイ・ディスクはDVDと同じサイズです。",
+  "answers": [
+   "The Blu-ray Disc is of the same size as the DVD."
+  ],
+  "audio": "audio/X/X-12-a-.mp3",
+  "section": {
+   "title": "前置詞の省略 ③ ～ 年齢・大きさ・色を表す場合",
+   "body": "形容詞句の働きをする 「of＋年齢［大きさ，色，重量，etc.］の名詞」 はたいていofが省略される。この形容詞句は（ A ）の補語か名詞の（ B ）で用いる。"
+  },
+  "tags": [
+   "適語を記入し２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The Blu-ray Disc is "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " size as the DVD."
+   }
+  ],
+  "solutions": [
+   [
+    "of",
+    "the",
+    "same"
+   ]
+  ],
+  "secTitle": "前置詞の省略 ③ ～ 年齢・大きさ・色を表す場合"
+ },
+ {
+  "id": "X-12-b",
+  "unit": "X",
+  "no": "12",
+  "jp": "ブルーレイ・ディスクはDVDと同じサイズです。",
+  "answers": [
+   "The Blu-ray Disc is the same size as the DVD."
+  ],
+  "audio": "audio/X/X-12-b-.mp3",
+  "tags": [
+   "適語を記入し２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The Blu-ray Disc is "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " as the DVD."
+   }
+  ],
+  "solutions": [
+   [
+    "the",
+    "same",
+    "size"
+   ]
+  ],
+  "secTitle": "前置詞の省略 ③ ～ 年齢・大きさ・色を表す場合"
+ },
+ {
+  "id": "X-13",
+  "unit": "X",
+  "no": "13",
+  "jp": "「彼女の目は何色ですか？」「青です」",
+  "answers": [
+   "\"What color are her eyes?\" \"Blue.\""
+  ],
+  "audio": "audio/X/X-13-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\""
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " her eyes?\" \"Blue.\""
+   }
+  ],
+  "solutions": [
+   [
+    "What",
+    "color",
+    "are"
+   ]
+  ],
+  "secTitle": "前置詞の省略 ③ ～ 年齢・大きさ・色を表す場合"
+ },
+ {
+  "id": "X-14",
+  "unit": "X",
+  "no": "14",
+  "jp": "私にはあなたの年齢の娘と，その上に２人の息子がいます。",
+  "answers": [
+   "I have a daughter your age and two older sons."
+  ],
+  "audio": "audio/X/X-14-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I have a daughter "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " and two older sons."
+   }
+  ],
+  "solutions": [
+   [
+    "your",
+    "age"
+   ]
+  ],
+  "secTitle": "前置詞の省略 ③ ～ 年齢・大きさ・色を表す場合"
+ },
+ {
+  "id": "X-15-a",
+  "unit": "X",
+  "no": "15",
+  "jp": "ぜんそくを患っている人の多くは呼吸するのに困難を伴う。",
+  "answers": [
+   "Many people with asthma have difficulty in breathing."
+  ],
+  "audio": "audio/X/X-15-a-.mp3",
+  "section": {
+   "title": "前置詞の省略 ④ ～ ing 形を含む慣用表現の場合",
+   "body": "「be busy （ A ） ...ing」 や 「spend＋名詞＋（ A ） ...ing」 などの慣用表現における（ A ）はたいてい省略される。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Many people with asthma "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank",
+    "hint": "d"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " breathing."
+   }
+  ],
+  "solutions": [
+   [
+    "have",
+    "difficulty",
+    "in"
+   ]
+  ],
+  "secTitle": "前置詞の省略 ④ ～ ing 形を含む慣用表現の場合"
+ },
+ {
+  "id": "X-15-b",
+  "unit": "X",
+  "no": "15",
+  "jp": "ぜんそくを患っている人の多くは呼吸するのに困難を伴う。",
+  "answers": [
+   "Many people with asthma have difficulty breathing."
+  ],
+  "audio": "audio/X/X-15-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Many people with asthma "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank",
+    "hint": "d"
+   },
+   {
+    "t": "text",
+    "v": " breathing."
+   }
+  ],
+  "solutions": [
+   [
+    "have",
+    "difficulty"
+   ]
+  ],
+  "secTitle": "前置詞の省略 ④ ～ ing 形を含む慣用表現の場合"
+ },
+ {
+  "id": "X-16",
+  "unit": "X",
+  "no": "16",
+  "jp": "私達は土曜の夜に到着し，日曜日は丸一日費やしてアパートを探しました。",
+  "answers": [
+   "We arrived Saturday evening and spent all day Sunday looking for an apartment."
+  ],
+  "audio": "audio/X/X-16-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We arrived Saturday evening and "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " all day Sunday "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " for an apartment."
+   }
+  ],
+  "solutions": [
+   [
+    "spent",
+    "looking"
+   ]
+  ],
+  "secTitle": "前置詞の省略 ④ ～ ing 形を含む慣用表現の場合"
+ },
+ {
+  "id": "X-17",
+  "unit": "X",
+  "no": "17",
+  "jp": "順番に１文ずつ読んでいってください。",
+  "answers": [
+   "Take turns reading one sentence out loud."
+  ],
+  "audio": "audio/X/X-17-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Take "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " one sentence out loud."
+   }
+  ],
+  "solutions": [
+   [
+    "turns",
+    "reading"
+   ]
+  ],
+  "secTitle": "前置詞の省略 ④ ～ ing 形を含む慣用表現の場合"
+ },
+ {
+  "id": "X-18",
+  "unit": "X",
+  "no": "18",
+  "jp": "何のことをおっしゃってるのか私にはさっぱりわかりませんが。",
+  "answers": [
+   "I have no idea what you're talking about."
+  ],
+  "audio": "audio/X/X-18-.mp3",
+  "section": {
+   "title": "前置詞の省略 ⑤ ～ 疑問詞節［句］の前に置かれる場合",
+   "body": "have no idea of やbe sure of など， 「…がわからない［わかっている］」 という意味の動詞句の目的語に （ A ）節や（ A ）句を置く場合は，通常（ B ）を省略する。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I have "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " you're talking about."
+   }
+  ],
+  "solutions": [
+   [
+    "no",
+    "idea",
+    "what"
+   ]
+  ],
+  "secTitle": "前置詞の省略 ⑤ ～ 疑問詞節［句］の前に置かれる場合"
+ },
+ {
+  "id": "X-19",
+  "unit": "X",
+  "no": "19",
+  "jp": "それをどう解釈すべきかよくわかりませんが，お褒めの言葉と受け取らせて頂きます。",
+  "answers": [
+   "I'm not sure how to interpret that, but I'll take it as a compliment.",
+   "I'm not certain how to interpret that, but I'll take it as a compliment."
+  ],
+  "audio": "audio/X/X-19-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'm not "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " interpret that, but I'll take it as a compliment."
+   }
+  ],
+  "solutions": [
+   [
+    "sure",
+    "how",
+    "to"
+   ],
+   [
+    "certain",
+    "how",
+    "to"
+   ]
+  ],
+  "secTitle": "前置詞の省略 ⑤ ～ 疑問詞節［句］の前に置かれる場合"
+ },
+ {
+  "id": "X-20",
+  "unit": "X",
+  "no": "20",
+  "jp": "どんな結果になるのか，我々には十分わかっていました。",
+  "answers": [
+   "We were fully aware what the outcome would be."
+  ],
+  "audio": "audio/X/X-20-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We were fully "
+   },
+   {
+    "t": "blank",
+    "hint": "a"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the outcome would be."
+   }
+  ],
+  "solutions": [
+   [
+    "aware",
+    "what"
+   ]
+  ],
+  "secTitle": "前置詞の省略 ⑤ ～ 疑問詞節［句］の前に置かれる場合"
+ },
+ {
+  "id": "X-21-a",
+  "unit": "X",
+  "no": "21",
+  "jp": "私達が現在知っているネジというのは紀元前５世紀に発明された。",
+  "answers": [
+   "The screw as we know it was invented in the 5th century BC."
+  ],
+  "audio": "audio/X/X-21-a-.mp3",
+  "section": {
+   "title": "「時」 の前置詞 ① ～ at, in, on の使い分け",
+   "body": "時を表すat, in, on のうち，月，季節，年（代），世紀のような時間的な広がりが感じられるものは（ A ）を用い，時刻のように時点と見なされるものは（ B ）を用いる。また，曜日や日付，特定の日の朝［午後，晩］は（ C ）を用いる。"
+  },
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "The screw as we know it was invented on the 5th century BC.",
+  "secTitle": "「時」 の前置詞 ① ～ at, in, on の使い分け"
+ },
+ {
+  "id": "X-21-b",
+  "unit": "X",
+  "no": "21",
+  "jp": "アメリカ人は７月４日に自国の独立を祝う。",
+  "answers": [
+   "Americans celebrate their independence on July 4th."
+  ],
+  "audio": "audio/X/X-21-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Americans celebrate their independence in July 4th.",
+  "secTitle": "「時」 の前置詞 ① ～ at, in, on の使い分け"
+ },
+ {
+  "id": "X-21-c",
+  "unit": "X",
+  "no": "21",
+  "jp": "私は30歳でゴルフを始め，すぐに虜になった。",
+  "answers": [
+   "I started playing golf at age 30 and I loved it right away."
+  ],
+  "audio": "audio/X/X-21-c-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I started playing golf at age 30 and I loved it right away.",
+  "secTitle": "「時」 の前置詞 ① ～ at, in, on の使い分け"
+ },
+ {
+  "id": "X-21-d",
+  "unit": "X",
+  "no": "21",
+  "jp": "私達は週末によく映画を見に行きます。",
+  "answers": [
+   "We often go to the movies on the weekend."
+  ],
+  "audio": "audio/X/X-21-d-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "We often go to the movies on the weekend.",
+  "secTitle": "「時」 の前置詞 ① ～ at, in, on の使い分け"
+ },
+ {
+  "id": "X-22-a",
+  "unit": "X",
+  "no": "22",
+  "jp": "うちの犬は朝と夜によく吠える。",
+  "answers": [
+   "My dog barks a lot in the morning and at night."
+  ],
+  "audio": "audio/X/X-22-a-.mp3",
+  "tags": [
+   "空所にat, in, on の中から適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "My dog barks a lot "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the morning and "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " night."
+   }
+  ],
+  "solutions": [
+   [
+    "in",
+    "at"
+   ]
+  ],
+  "secTitle": "「時」 の前置詞 ① ～ at, in, on の使い分け"
+ },
+ {
+  "id": "X-22-b",
+  "unit": "X",
+  "no": "22",
+  "jp": "彼はたいてい夜中に起きてトイレに行きます。",
+  "answers": [
+   "He usually gets up in the night to go to the bathroom."
+  ],
+  "audio": "audio/X/X-22-b-.mp3",
+  "tags": [
+   "空所にat, in, on の中から適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He usually gets up "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the night to go to the bathroom."
+   }
+  ],
+  "solutions": [
+   [
+    "in"
+   ]
+  ],
+  "secTitle": "「時」 の前置詞 ① ～ at, in, on の使い分け"
+ },
+ {
+  "id": "X-22-c",
+  "unit": "X",
+  "no": "22",
+  "jp": "2001年９月11日の午前，私はマンハッタンにいた。",
+  "answers": [
+   "I was in Manhattan on the morning of September 11, 2001."
+  ],
+  "audio": "audio/X/X-22-c-.mp3",
+  "tags": [
+   "空所にat, in, on の中から適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I was in Manhattan "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the morning of September 11, 2001."
+   }
+  ],
+  "solutions": [
+   [
+    "on"
+   ]
+  ],
+  "secTitle": "「時」 の前置詞 ① ～ at, in, on の使い分け"
+ },
+ {
+  "id": "X-22-d",
+  "unit": "X",
+  "no": "22",
+  "jp": "今まで平日の晩にここへ来たことはなかった。",
+  "answers": [
+   "I've never been here on a weekday evening."
+  ],
+  "audio": "audio/X/X-22-d-.mp3",
+  "tags": [
+   "空所にat, in, on の中から適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I've never been here "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " a weekday evening."
+   }
+  ],
+  "solutions": [
+   [
+    "on"
+   ]
+  ],
+  "secTitle": "「時」 の前置詞 ① ～ at, in, on の使い分け"
+ },
+ {
+  "id": "X-22-e",
+  "unit": "X",
+  "no": "22",
+  "jp": "暑い夏の夜はよく開けっ放しにした窓の近くで寝ていたものです。",
+  "answers": [
+   "I would often sleep beside open windows on hot summer nights."
+  ],
+  "audio": "audio/X/X-22-e-.mp3",
+  "tags": [
+   "空所にat, in, on の中から適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I would often sleep beside open windows "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " hot summer nights."
+   }
+  ],
+  "solutions": [
+   [
+    "on"
+   ]
+  ],
+  "secTitle": "「時」 の前置詞 ① ～ at, in, on の使い分け"
+ },
+ {
+  "id": "X-22-f",
+  "unit": "X",
+  "no": "22",
+  "jp": "彼らは午後遅くに到着する見込みです。",
+  "answers": [
+   "They should arrive sometime in the late afternoon."
+  ],
+  "audio": "audio/X/X-22-f-.mp3",
+  "tags": [
+   "空所にat, in, on の中から適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "They should arrive sometime "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the late afternoon."
+   }
+  ],
+  "solutions": [
+   [
+    "in"
+   ]
+  ],
+  "secTitle": "「時」 の前置詞 ① ～ at, in, on の使い分け"
+ },
+ {
+  "id": "X-23-a",
+  "unit": "X",
+  "no": "23",
+  "jp": "現在の契約は今晩午前零時に切れることになっている。",
+  "answers": [
+   "The current contract is due to expire at midnight tonight."
+  ],
+  "audio": "audio/X/X-23-a-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "The current contract is due to expire at midnight tonight.",
+  "secTitle": "「時」 の前置詞 ① ～ at, in, on の使い分け"
+ },
+ {
+  "id": "X-23-b",
+  "unit": "X",
+  "no": "23",
+  "jp": "真夜中に電話がかかってくるのは怖い。",
+  "answers": [
+   "It's frightening to receive a call in the middle of the night."
+  ],
+  "audio": "audio/X/X-23-b-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "It's frightening to receive a call in the middle of the night.",
+  "secTitle": "「時」 の前置詞 ① ～ at, in, on の使い分け"
+ },
+ {
+  "id": "X-24",
+  "unit": "X",
+  "no": "24",
+  "jp": "お祭りは７月の第２土曜日から始まります。",
+  "answers": [
+   "The festival starts on the second Saturday of July."
+  ],
+  "audio": "audio/X/X-24-.mp3",
+  "section": {
+   "title": "「時」 の前置詞 ② ～「…から」 「…まで」 の表し方",
+   "body": "「…から」 という時の 「起点」 は通常（ A ）以外の前置詞で表す。「…からずっと」 という現在［過去の一時点］までの継続は（ B ）で表す。一方，「…までずっと」 という時の 「終点」 はuntil かtill で表す。起点と終点を含む 「A からB まで」 は 「from A to B」  「from A until [till] B」  「from A through B」 で表すが（ A ）を省略することもある。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "The festival starts from the second Saturday of July.",
+  "secTitle": "「時」 の前置詞 ② ～「…から」 「…まで」 の表し方"
+ },
+ {
+  "id": "X-25",
+  "unit": "X",
+  "no": "25",
+  "jp": "１月から雨が降っておらず，井戸が涸れてきている。",
+  "answers": [
+   "It hasn't rained since January and wells are running dry."
+  ],
+  "audio": "audio/X/X-25-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "It hasn't rained from January and wells are running dry.",
+  "secTitle": "「時」 の前置詞 ② ～「…から」 「…まで」 の表し方"
+ },
+ {
+  "id": "X-26",
+  "unit": "X",
+  "no": "26",
+  "jp": "月曜日から土曜日まで，午前10時から午後８時まで営業しております。",
+  "answers": [
+   "We are open from 10 am to 8 pm, Monday through Saturday.",
+   "We are open from 10 am to 8 pm, Monday to Saturday."
+  ],
+  "audio": "audio/X/X-26-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We are open "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " 10 am to 8 pm, Monday "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " Saturday."
+   }
+  ],
+  "solutions": [
+   [
+    "from",
+    "through"
+   ],
+   [
+    "from",
+    "to"
+   ]
+  ],
+  "secTitle": "「時」 の前置詞 ② ～「…から」 「…まで」 の表し方"
+ },
+ {
+  "id": "X-27",
+  "unit": "X",
+  "no": "27",
+  "jp": "金曜の午後３時から５時までの間に来てください。",
+  "answers": [
+   "Please come between three and five o'clock on Friday afternoon."
+  ],
+  "audio": "audio/X/X-27-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Please come "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " three "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " five o'clock on Friday afternoon."
+   }
+  ],
+  "solutions": [
+   [
+    "between",
+    "and"
+   ]
+  ],
+  "secTitle": "「時」 の前置詞 ② ～「…から」 「…まで」 の表し方"
+ },
+ {
+  "id": "X-28-a",
+  "unit": "X",
+  "no": "28",
+  "jp": "赤ん坊は27日になってやっと生まれた。",
+  "answers": [
+   "The baby didn't come until the 27th."
+  ],
+  "audio": "audio/X/X-28-a-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "The baby didn't come until the 27th.",
+  "secTitle": "「時」 の前置詞 ② ～「…から」 「…まで」 の表し方"
+ },
+ {
+  "id": "X-28-b",
+  "unit": "X",
+  "no": "28",
+  "jp": "赤ん坊は27日以前には生まれなかった。",
+  "answers": [
+   "The baby didn't come before the 27th."
+  ],
+  "audio": "audio/X/X-28-b-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "The baby didn't come before the 27th.",
+  "secTitle": "「時」 の前置詞 ② ～「…から」 「…まで」 の表し方"
+ },
+ {
+  "id": "X-29-a",
+  "unit": "X",
+  "no": "29",
+  "jp": "２時まで（ずっと）家にいます。",
+  "answers": [
+   "I'll be home until two o'clock."
+  ],
+  "audio": "audio/X/X-29-a-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "I'll be home until two o'clock.",
+  "secTitle": "「時」 の前置詞 ② ～「…から」 「…まで」 の表し方"
+ },
+ {
+  "id": "X-29-b",
+  "unit": "X",
+  "no": "29",
+  "jp": "２時までに家に戻ります。",
+  "answers": [
+   "I'll be home by two o'clock."
+  ],
+  "audio": "audio/X/X-29-b-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "I'll be home by two o'clock.",
+  "secTitle": "「時」 の前置詞 ② ～「…から」 「…まで」 の表し方"
+ },
+ {
+  "id": "X-30",
+  "unit": "X",
+  "no": "30",
+  "jp": "平日の午後６時以降にお電話をください。",
+  "answers": [
+   "Please call after 6:00 p.m. on weekdays."
+  ],
+  "audio": "audio/X/X-30-.mp3",
+  "section": {
+   "title": "「時」 の前置詞 ③ ～「…後に」 の表し方",
+   "body": "「…後に」 という意味を表す前置詞には（ A ）と（ B ）がある。（ A ）は行為・行事・出来事や時刻・日時などを目的語にして 「昼食後に」 「５時以降に」 などのように用い，（ B ）は 「数詞＋時間の単位」 を目的語にして 「2 時間後に」 のように用いる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Please call "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " 6:00 p.m. on weekdays."
+   }
+  ],
+  "solutions": [
+   [
+    "after"
+   ]
+  ],
+  "secTitle": "「時」 の前置詞 ③ ～「…後に」 の表し方"
+ },
+ {
+  "id": "X-31-a",
+  "unit": "X",
+  "no": "31",
+  "jp": "10分後に折り返しお電話します。",
+  "answers": [
+   "I'll call you back in ten minutes."
+  ],
+  "audio": "audio/X/X-31-a-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "I'll call you back in ten minutes.",
+  "secTitle": "「時」 の前置詞 ③ ～「…後に」 の表し方"
+ },
+ {
+  "id": "X-31-b",
+  "unit": "X",
+  "no": "31",
+  "jp": "10分以内に折り返しお電話します。",
+  "answers": [
+   "I'll call you back within ten minutes."
+  ],
+  "audio": "audio/X/X-31-b-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "I'll call you back within ten minutes.",
+  "secTitle": "「時」 の前置詞 ③ ～「…後に」 の表し方"
+ },
+ {
+  "id": "X-32",
+  "unit": "X",
+  "no": "32",
+  "jp": "10年後自分が何をしているのか見当もつかない。",
+  "answers": [
+   "I have no idea what I'll be doing ten years from now."
+  ],
+  "audio": "audio/X/X-32-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I have no idea what I'll be doing ten years "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "from",
+    "now"
+   ]
+  ],
+  "secTitle": "「時」 の前置詞 ③ ～「…後に」 の表し方"
+ },
+ {
+  "id": "X-33",
+  "unit": "X",
+  "no": "33",
+  "jp": "６年間の法廷闘争の末，訴訟は示談で和解した。",
+  "answers": [
+   "After six years of legal battles, the case was settled out of court."
+  ],
+  "audio": "audio/X/X-33-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "In six years of legal battles, the case was settled out of court.",
+  "secTitle": "「時」 の前置詞 ③ ～「…後に」 の表し方"
+ },
+ {
+  "id": "X-34",
+  "unit": "X",
+  "no": "34",
+  "jp": "その数分後，彼女は高級ギフトショップの前で立ち止まった。",
+  "answers": [
+   "After a few minutes, she stopped at an expensive gift shop."
+  ],
+  "audio": "audio/X/X-34-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "After a few minutes, she stopped at an expensive gift shop.",
+  "secTitle": "「時」 の前置詞 ③ ～「…後に」 の表し方"
+ },
+ {
+  "id": "X-35",
+  "unit": "X",
+  "no": "35",
+  "jp": "私はほぼ24時間何も食べていません。",
+  "answers": [
+   "I haven't eaten anything for almost 24 hours.",
+   "I haven't eaten anything in almost 24 hours."
+  ],
+  "audio": "audio/X/X-35-.mp3",
+  "section": {
+   "title": "「時」 の前置詞 ④ ～ 「…の間・期間中」 の表し方",
+   "body": "「…の間」 と言う場合， five days やa long time のような 「どのくらいの間か」 を表すことばが目的語の場合はfor を用い，the week やmy absence のような 「いつか」を表すことばが目的語の場合は（ A ）を用いる。また，最上級，first，only などを伴い 「特定の期間内で最も［最初の，唯一の］…」 と言う場合は（ B ）を用いる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I haven't eaten anything "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " almost 24 hours."
+   }
+  ],
+  "solutions": [
+   [
+    "for"
+   ],
+   [
+    "in"
+   ]
+  ],
+  "secTitle": "「時」 の前置詞 ④ ～ 「…の間・期間中」 の表し方"
+ },
+ {
+  "id": "X-36",
+  "unit": "X",
+  "no": "36",
+  "jp": "それは東京で８年ぶりの大雪でした。",
+  "answers": [
+   "It was the heaviest snowfall in eight years in Tokyo."
+  ],
+  "audio": "audio/X/X-36-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It was the heaviest snowfall "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " eight years in Tokyo."
+   }
+  ],
+  "solutions": [
+   [
+    "in"
+   ]
+  ],
+  "secTitle": "「時」 の前置詞 ④ ～ 「…の間・期間中」 の表し方"
+ },
+ {
+  "id": "X-37",
+  "unit": "X",
+  "no": "37",
+  "jp": "ロンドン滞在中に大英博物館に行きました。",
+  "answers": [
+   "I went to the British Museum during my stay in London."
+  ],
+  "audio": "audio/X/X-37-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I went to the British Museum "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " my stay in London."
+   }
+  ],
+  "solutions": [
+   [
+    "during"
+   ]
+  ],
+  "secTitle": "「時」 の前置詞 ④ ～ 「…の間・期間中」 の表し方"
+ },
+ {
+  "id": "X-38",
+  "unit": "X",
+  "no": "38",
+  "jp": "交差点で右に曲がって50メートルほど歩いてください。",
+  "answers": [
+   "Turn right at the intersection and walk about 50 meters."
+  ],
+  "audio": "audio/X/X-38-.mp3",
+  "section": {
+   "title": "「場所・位置」 の前置詞 ① ～ at, in, on の使い分け",
+   "body": "場所を表す一般的な前置詞にはat, in, on がある。at は（ A ）が無く地点と感じられる場合に用い，in は（ A ）を感じる対象の中という場合に用い，on は対象を（ B ）の感覚でとらえる場合に用いる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Turn right "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the intersection and walk about 50 meters."
+   }
+  ],
+  "solutions": [
+   [
+    "at"
+   ]
+  ],
+  "secTitle": "「場所・位置」 の前置詞 ① ～ at, in, on の使い分け"
+ },
+ {
+  "id": "X-39",
+  "unit": "X",
+  "no": "39",
+  "jp": "ドアの所に誰かいます。出てもらえますか？",
+  "answers": [
+   "There's someone at the door. Would you answer it?"
+  ],
+  "audio": "audio/X/X-39-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "There's someone "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the door. Would you answer it?"
+   }
+  ],
+  "solutions": [
+   [
+    "at"
+   ]
+  ],
+  "secTitle": "「場所・位置」 の前置詞 ① ～ at, in, on の使い分け"
+ },
+ {
+  "id": "X-40",
+  "unit": "X",
+  "no": "40",
+  "jp": "みなさま，まもなく京都です。（（新幹線の車内アナウンス））",
+  "answers": [
+   "Ladies and gentlemen, we will soon make a brief stop at Kyoto."
+  ],
+  "audio": "audio/X/X-40-.mp3",
+  "tags": [
+   "新幹線の車内アナウンス"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Ladies and gentlemen, we will soon make a brief stop "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " Kyoto."
+   }
+  ],
+  "solutions": [
+   [
+    "at"
+   ]
+  ],
+  "secTitle": "「場所・位置」 の前置詞 ① ～ at, in, on の使い分け"
+ },
+ {
+  "id": "X-41",
+  "unit": "X",
+  "no": "41",
+  "jp": "太陽は東から昇り，西に沈みます。",
+  "answers": [
+   "The sun rises in the east and sets in the west."
+  ],
+  "audio": "audio/X/X-41-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The sun rises "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the east and sets "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the west."
+   }
+  ],
+  "solutions": [
+   [
+    "in",
+    "in"
+   ]
+  ],
+  "secTitle": "「場所・位置」 の前置詞 ① ～ at, in, on の使い分け"
+ },
+ {
+  "id": "X-42",
+  "unit": "X",
+  "no": "42",
+  "jp": "彼女は背中を太陽に向けて，芝生で日光浴をしていた。",
+  "answers": [
+   "She was sunbathing on the lawn, her back to the sun."
+  ],
+  "audio": "audio/X/X-42-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She was sunbathing "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the lawn, her back to the sun."
+   }
+  ],
+  "solutions": [
+   [
+    "on"
+   ]
+  ],
+  "secTitle": "「場所・位置」 の前置詞 ① ～ at, in, on の使い分け"
+ },
+ {
+  "id": "X-43",
+  "unit": "X",
+  "no": "43",
+  "jp": "私のオフィスはこのビルの23階にあります。",
+  "answers": [
+   "My office is on the 23rd floor of this building."
+  ],
+  "audio": "audio/X/X-43-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "My office is "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the 23rd floor of this building."
+   }
+  ],
+  "solutions": [
+   [
+    "on"
+   ]
+  ],
+  "secTitle": "「場所・位置」 の前置詞 ① ～ at, in, on の使い分け"
+ },
+ {
+  "id": "X-44-a",
+  "unit": "X",
+  "no": "44",
+  "jp": "隅のテーブルに男性の集団が座っていた。",
+  "answers": [
+   "A group of men were sitting at the table in the corner."
+  ],
+  "audio": "audio/X/X-44-a-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "A group of men were sitting at the table "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "at",
+     "in",
+     "on"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " the corner."
+   }
+  ],
+  "solutions": [
+   [
+    "in"
+   ]
+  ],
+  "secTitle": "「場所・位置」 の前置詞 ① ～ at, in, on の使い分け"
+ },
+ {
+  "id": "X-44-b",
+  "unit": "X",
+  "no": "44",
+  "jp": "49番通りと９番通りの角に良いコーヒーショップがあります。",
+  "answers": [
+   "There is a good coffee shop on the corner of 49th Street and 9th Avenue."
+  ],
+  "audio": "audio/X/X-44-b-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "There is a good coffee shop "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "at",
+     "in",
+     "on"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " the corner of 49th Street and 9th Avenue."
+   }
+  ],
+  "solutions": [
+   [
+    "on"
+   ]
+  ],
+  "secTitle": "「場所・位置」 の前置詞 ① ～ at, in, on の使い分け"
+ },
+ {
+  "id": "X-45",
+  "unit": "X",
+  "no": "45",
+  "jp": "天井に何かが這ってるよ。",
+  "answers": [
+   "There's something crawling on the ceiling!"
+  ],
+  "audio": "audio/X/X-45-.mp3",
+  "section": {
+   "title": "「場所・位置」 の前置詞 ② ～ 「上・下」 の表し方",
+   "body": "「…に接触して上に」 は（ A ）で表す。位置的に 「…より上で」 は（ B ）で，「…より下で」 は（ C ）で表す。「…の真上で」 は（ D ），「…の真下で」 は（ E ）で表す。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "There's something crawling "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the ceiling!"
+   }
+  ],
+  "solutions": [
+   [
+    "on"
+   ]
+  ],
+  "secTitle": "「場所・位置」 の前置詞 ② ～ 「上・下」 の表し方"
+ },
+ {
+  "id": "X-46",
+  "unit": "X",
+  "no": "46",
+  "jp": "それを冷蔵庫の上に置いて，そのことを忘れてしまった。",
+  "answers": [
+   "I put it on top of the fridge and forgot about it."
+  ],
+  "audio": "audio/X/X-46-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I put it "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " of the fridge and forgot about it."
+   }
+  ],
+  "solutions": [
+   [
+    "on",
+    "top"
+   ]
+  ],
+  "secTitle": "「場所・位置」 の前置詞 ② ～ 「上・下」 の表し方"
+ },
+ {
+  "id": "X-47",
+  "unit": "X",
+  "no": "47",
+  "jp": "ヘリコプターが村の上空を低い高度で飛んでいた。",
+  "answers": [
+   "A helicopter was flying over the village at a low altitude."
+  ],
+  "audio": "audio/X/X-47-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "A helicopter was flying "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "above",
+     "over"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " the village at a low altitude."
+   }
+  ],
+  "solutions": [
+   [
+    "over"
+   ]
+  ],
+  "secTitle": "「場所・位置」 の前置詞 ② ～ 「上・下」 の表し方"
+ },
+ {
+  "id": "X-48",
+  "unit": "X",
+  "no": "48",
+  "jp": "エベレストの山頂は海抜何フィートですか？",
+  "answers": [
+   "How many feet above sea level is the peak of Mt. Everest?"
+  ],
+  "audio": "audio/X/X-48-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "How many feet "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " sea level is the peak of Mt. Everest?"
+   }
+  ],
+  "solutions": [
+   [
+    "above"
+   ]
+  ],
+  "secTitle": "「場所・位置」 の前置詞 ② ～ 「上・下」 の表し方"
+ },
+ {
+  "id": "X-49",
+  "unit": "X",
+  "no": "49",
+  "jp": "極地では冬の間，一日中太陽が地平線の下に沈んだままです。",
+  "answers": [
+   "During the polar winter the sun is below the horizon for 24 hours."
+  ],
+  "audio": "audio/X/X-49-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "During the polar winter the sun is "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "below",
+     "under"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " the horizon for 24 hours."
+   }
+  ],
+  "solutions": [
+   [
+    "below"
+   ]
+  ],
+  "secTitle": "「場所・位置」 の前置詞 ② ～ 「上・下」 の表し方"
+ },
+ {
+  "id": "X-50",
+  "unit": "X",
+  "no": "50",
+  "jp": "鍵を外に，特に玄関マットの下に隠してはいけません。",
+  "answers": [
+   "Don't hide your key outside, especially under the welcome mat."
+  ],
+  "audio": "audio/X/X-50-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Don't hide your key outside, especially "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the welcome mat."
+   }
+  ],
+  "solutions": [
+   [
+    "under"
+   ]
+  ],
+  "secTitle": "「場所・位置」 の前置詞 ② ～ 「上・下」 の表し方"
+ },
+ {
+  "id": "X-51",
+  "unit": "X",
+  "no": "51",
+  "jp": "私はそれを自分で上の階にある私の部屋まで運びました。",
+  "answers": [
+   "I carried it myself up the stairs to my apartment."
+  ],
+  "audio": "audio/X/X-51-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I carried it myself "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the stairs to my apartment."
+   }
+  ],
+  "solutions": [
+   [
+    "up"
+   ]
+  ],
+  "secTitle": "「場所・位置」 の前置詞 ② ～ 「上・下」 の表し方"
+ },
+ {
+  "id": "X-52-a",
+  "unit": "X",
+  "no": "52",
+  "jp": "ホテルは海の近くにあります。",
+  "answers": [
+   "The hotel is situated near the sea."
+  ],
+  "audio": "audio/X/X-52-a-.mp3",
+  "section": {
+   "title": "「場所・位置」の前置詞 ③ ～「付近」 の表し方",
+   "body": "「…の近くに」 はnear, by, beside などで表すことができる。（ A ）はnear よりも近くにあることを示唆する。（ B ）は隣に並んでいる場合に用いる。"
+  },
+  "tags": [
+   "下線部の意味の違いを指摘"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "The hotel is situated near the sea.",
+  "secTitle": "「場所・位置」の前置詞 ③ ～「付近」 の表し方"
+ },
+ {
+  "id": "X-52-b",
+  "unit": "X",
+  "no": "52",
+  "jp": "ホテルは海のすぐそばにあります。",
+  "answers": [
+   "The hotel is situated by the sea."
+  ],
+  "audio": "audio/X/X-52-b-.mp3",
+  "tags": [
+   "下線部の意味の違いを指摘"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "The hotel is situated by the sea.",
+  "secTitle": "「場所・位置」の前置詞 ③ ～「付近」 の表し方"
+ },
+ {
+  "id": "X-53",
+  "unit": "X",
+  "no": "53",
+  "jp": "私達はサンディエゴ近郊の道をドライブしていました。",
+  "answers": [
+   "We were driving on a road near San Diego."
+  ],
+  "audio": "audio/X/X-53-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We were driving on a road "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "near",
+     "by"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " San Diego."
+   }
+  ],
+  "solutions": [
+   [
+    "near"
+   ]
+  ],
+  "secTitle": "「場所・位置」の前置詞 ③ ～「付近」 の表し方"
+ },
+ {
+  "id": "X-54-a",
+  "unit": "X",
+  "no": "54",
+  "jp": "ジョンの隣に座っているあの人，誰？",
+  "answers": [
+   "Who's that sitting beside John?"
+  ],
+  "audio": "audio/X/X-54-a-.mp3",
+  "tags": [
+   "適語を記入し２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Who's that sitting "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " John?"
+   }
+  ],
+  "solutions": [
+   [
+    "beside"
+   ]
+  ],
+  "secTitle": "「場所・位置」の前置詞 ③ ～「付近」 の表し方"
+ },
+ {
+  "id": "X-54-b",
+  "unit": "X",
+  "no": "54",
+  "jp": "ジョンの隣に座っているあの人，誰？",
+  "answers": [
+   "Who's that sitting next to John?"
+  ],
+  "audio": "audio/X/X-54-b-.mp3",
+  "tags": [
+   "適語を記入し２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Who's that sitting "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " John?"
+   }
+  ],
+  "solutions": [
+   [
+    "next",
+    "to"
+   ]
+  ],
+  "secTitle": "「場所・位置」の前置詞 ③ ～「付近」 の表し方"
+ },
+ {
+  "id": "X-55",
+  "unit": "X",
+  "no": "55",
+  "jp": "ラトビアはバルト海に面している。",
+  "answers": [
+   "Latvia is located on the Baltic Sea."
+  ],
+  "audio": "audio/X/X-55-.mp3",
+  "tags": [
+   "下線部に注意して全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Latvia is located on the Baltic Sea.",
+  "secTitle": "「場所・位置」の前置詞 ③ ～「付近」 の表し方"
+ },
+ {
+  "id": "X-56",
+  "unit": "X",
+  "no": "56",
+  "jp": "我々はタクシーに乗り込み，バンコックの中心街へと向かった。",
+  "answers": [
+   "We got into a taxi and headed for downtown Bangkok.",
+   "We got in a taxi and headed for downtown Bangkok."
+  ],
+  "audio": "audio/X/X-56-.mp3",
+  "section": {
+   "title": "「場所・位置」 の前置詞 ④ ～「中」",
+   "body": "「外」「間」 の表し方in は 「…の中で［に］」 という状態を表し，（ A ）は「…の中へ」 という移動の動作を表す。逆の 「…の外に」 と 「…の外へ」 はどちらもout of で表す。また，「…の間に」は通常， 「二者の間」 は（ B ）を用い，「三者以上の間」 は（ C ）を用いる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We got "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " a taxi and headed for downtown Bangkok."
+   }
+  ],
+  "solutions": [
+   [
+    "into"
+   ],
+   [
+    "in"
+   ]
+  ],
+  "secTitle": "「場所・位置」 の前置詞 ④ ～「中」"
+ },
+ {
+  "id": "X-57",
+  "unit": "X",
+  "no": "57",
+  "jp": "私は彼がベッドから出て，車いすに座るのを手伝った。",
+  "answers": [
+   "I helped him to get out of bed and sit in his wheelchair."
+  ],
+  "audio": "audio/X/X-57-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I helped him to get "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " bed and sit "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " his wheelchair."
+   }
+  ],
+  "solutions": [
+   [
+    "out",
+    "of",
+    "in"
+   ]
+  ],
+  "secTitle": "「場所・位置」 の前置詞 ④ ～「中」"
+ },
+ {
+  "id": "X-58",
+  "unit": "X",
+  "no": "58",
+  "jp": "あの黄色いＴシャツを着た男性に見覚えある？",
+  "answers": [
+   "Do you recognize that man in the yellow T-shirt?"
+  ],
+  "audio": "audio/X/X-58-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Do you recognize that man "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the yellow T-shirt?"
+   }
+  ],
+  "solutions": [
+   [
+    "in"
+   ]
+  ],
+  "secTitle": "「場所・位置」 の前置詞 ④ ～「中」"
+ },
+ {
+  "id": "X-59",
+  "unit": "X",
+  "no": "59",
+  "jp": "飛行機では私は両親に挟まれて座った。",
+  "answers": [
+   "On the plane I sat between my parents."
+  ],
+  "audio": "audio/X/X-59-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "On the plane I sat "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " my parents."
+   }
+  ],
+  "solutions": [
+   [
+    "between"
+   ]
+  ],
+  "secTitle": "「場所・位置」 の前置詞 ④ ～「中」"
+ },
+ {
+  "id": "X-60",
+  "unit": "X",
+  "no": "60",
+  "jp": "その３つの会社の間で協定が調印された。",
+  "answers": [
+   "An agreement was signed among the three companies."
+  ],
+  "audio": "audio/X/X-60-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "An agreement was signed "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the three companies."
+   }
+  ],
+  "solutions": [
+   [
+    "among"
+   ]
+  ],
+  "secTitle": "「場所・位置」 の前置詞 ④ ～「中」"
+ },
+ {
+  "id": "X-61-a",
+  "unit": "X",
+  "no": "61",
+  "jp": "私は小さな鹿が川を泳いで渡っているところを目にした。",
+  "answers": [
+   "I saw a small deer swimming across the river."
+  ],
+  "audio": "audio/X/X-61-a-.mp3",
+  "section": {
+   "title": "「場所・位置」 の前置詞 ⑤ ～「…を越えて」 の表し方",
+   "body": "「…を（平面的に）横切って」 と言う場合は（ A ）を用い，「…を（立体的に）越えて」と言う場合や 「数が…を越えて」 と言う場合は（ B ）を用いる。（ C ）は 「…の範囲［基準値］を越えて」 という意味で用いることが多い。"
+  },
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I saw a small deer swimming "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "across",
+     "beyond",
+     "over"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " the river."
+   }
+  ],
+  "solutions": [
+   [
+    "across"
+   ]
+  ],
+  "secTitle": "「場所・位置」 の前置詞 ⑤ ～「…を越えて」 の表し方"
+ },
+ {
+  "id": "X-61-b",
+  "unit": "X",
+  "no": "61",
+  "jp": "私は黒い猫がフェンスを跳び越えるのを目にした。",
+  "answers": [
+   "I saw a black cat jump over the fence."
+  ],
+  "audio": "audio/X/X-61-b-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I saw a black cat jump "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "across",
+     "beyond",
+     "over"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " the fence."
+   }
+  ],
+  "solutions": [
+   [
+    "over"
+   ]
+  ],
+  "secTitle": "「場所・位置」 の前置詞 ⑤ ～「…を越えて」 の表し方"
+ },
+ {
+  "id": "X-61-c",
+  "unit": "X",
+  "no": "61",
+  "jp": "状況はもう既に彼らの手に負えなくなっている。",
+  "answers": [
+   "The situation is already beyond their control."
+  ],
+  "audio": "audio/X/X-61-c-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The situation is already "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "across",
+     "beyond",
+     "over"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " their control."
+   }
+  ],
+  "solutions": [
+   [
+    "beyond"
+   ]
+  ],
+  "secTitle": "「場所・位置」 の前置詞 ⑤ ～「…を越えて」 の表し方"
+ },
+ {
+  "id": "X-62",
+  "unit": "X",
+  "no": "62",
+  "jp": "ホテルの前の通りを渡った所に駐車場があります。",
+  "answers": [
+   "There is a parking lot across the street from the hotel."
+  ],
+  "audio": "audio/X/X-62-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "There is a parking lot "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "across",
+     "over"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " the street from the hotel."
+   }
+  ],
+  "solutions": [
+   [
+    "across"
+   ]
+  ],
+  "secTitle": "「場所・位置」 の前置詞 ⑤ ～「…を越えて」 の表し方"
+ },
+ {
+  "id": "X-63",
+  "unit": "X",
+  "no": "63",
+  "jp": "私達は晩ご飯を食べ，ワインを飲みながらおしゃべりをした。",
+  "answers": [
+   "We chatted over supper and a bottle of wine."
+  ],
+  "audio": "audio/X/X-63-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We chatted "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " supper and a bottle of wine."
+   }
+  ],
+  "solutions": [
+   [
+    "over"
+   ]
+  ],
+  "secTitle": "「場所・位置」 の前置詞 ⑤ ～「…を越えて」 の表し方"
+ },
+ {
+  "id": "X-64",
+  "unit": "X",
+  "no": "64",
+  "jp": "ニュージャージーまでの切符を２枚ください。",
+  "answers": [
+   "I'd like two tickets to New Jersey, please."
+  ],
+  "audio": "audio/X/X-64-.mp3",
+  "section": {
+   "title": "「到達」 「方向」 の前置詞",
+   "body": "「…まで」 という意味で 「到達地点」 を示す場合は（ A ）を用い，「…に向かって」 「…の方に」 という意味で 「方向」 を示す場合は（ B ）やtoward(s) を用いる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'd like two tickets "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "to",
+     "for"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " New Jersey, please."
+   }
+  ],
+  "solutions": [
+   [
+    "to"
+   ]
+  ],
+  "secTitle": "「到達」 「方向」 の前置詞"
+ },
+ {
+  "id": "X-65",
+  "unit": "X",
+  "no": "65",
+  "jp": "ロンドン方面行きの列車に乗ってキングスクロスで下車してください。",
+  "answers": [
+   "Take a train for London and get off at King's Cross."
+  ],
+  "audio": "audio/X/X-65-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Take a train "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "to",
+     "for"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " London and get off at King's Cross."
+   }
+  ],
+  "solutions": [
+   [
+    "for"
+   ]
+  ],
+  "secTitle": "「到達」 「方向」 の前置詞"
+ },
+ {
+  "id": "X-66",
+  "unit": "X",
+  "no": "66",
+  "jp": "大統領は日曜にモスクワへ出発しました。",
+  "answers": [
+   "The President departed for Moscow on Sunday."
+  ],
+  "audio": "audio/X/X-66-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The President departed "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "for",
+     "toward"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Moscow on Sunday."
+   }
+  ],
+  "solutions": [
+   [
+    "for"
+   ]
+  ],
+  "secTitle": "「到達」 「方向」 の前置詞"
+ },
+ {
+  "id": "X-67",
+  "unit": "X",
+  "no": "67",
+  "jp": "彼女は，泣き叫びながら，私の方に向かって駆けて来ました。",
+  "answers": [
+   "She came running toward me, crying and screaming."
+  ],
+  "audio": "audio/X/X-67-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She came running "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "for",
+     "toward"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " me, crying and screaming."
+   }
+  ],
+  "solutions": [
+   [
+    "toward"
+   ]
+  ],
+  "secTitle": "「到達」 「方向」 の前置詞"
+ },
+ {
+  "id": "X-68",
+  "unit": "X",
+  "no": "68",
+  "jp": "資金不足のために公立図書館が次々と閉鎖されています。",
+  "answers": [
+   "Public libraries are being closed for lack of funds."
+  ],
+  "audio": "audio/X/X-68-.mp3",
+  "section": {
+   "title": "「原因・理由」の前置詞",
+   "body": "「…が原因［理由］で」 という意味の前置詞には（ A ），from, out of などがある。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Public libraries are being closed "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " lack of funds."
+   }
+  ],
+  "solutions": [
+   [
+    "for"
+   ]
+  ],
+  "secTitle": "「原因・理由」の前置詞"
+ },
+ {
+  "id": "X-69",
+  "unit": "X",
+  "no": "69",
+  "jp": "私は前日の車での長旅で少し疲れていた。",
+  "answers": [
+   "I was a little tired from the long drive the day before."
+  ],
+  "audio": "audio/X/X-69-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I was a little tired "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the long drive the day before."
+   }
+  ],
+  "solutions": [
+   [
+    "from"
+   ]
+  ],
+  "secTitle": "「原因・理由」の前置詞"
+ },
+ {
+  "id": "X-70",
+  "unit": "X",
+  "no": "70",
+  "jp": "興味本位で一つ質問させてもらいます。",
+  "answers": [
+   "Let me ask you something, just out of curiosity."
+  ],
+  "audio": "audio/X/X-70-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Let me ask you something, just "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " curiosity."
+   }
+  ],
+  "solutions": [
+   [
+    "out",
+    "of"
+   ]
+  ],
+  "secTitle": "「原因・理由」の前置詞"
+ },
+ {
+  "id": "X-71",
+  "unit": "X",
+  "no": "71",
+  "jp": "彼は寝ている間に心臓発作で亡くなった。",
+  "answers": [
+   "He died of a heart attack while sleeping."
+  ],
+  "audio": "audio/X/X-71-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He died "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " a heart attack while sleeping."
+   }
+  ],
+  "solutions": [
+   [
+    "of"
+   ]
+  ],
+  "secTitle": "「原因・理由」の前置詞"
+ },
+ {
+  "id": "X-72",
+  "unit": "X",
+  "no": "72",
+  "jp": "あなたは何のために英語の学習をしているのですか？",
+  "answers": [
+   "What do you learn English for?"
+  ],
+  "audio": "audio/X/X-72-.mp3",
+  "section": {
+   "title": "「目的」 の前置詞",
+   "body": "「…のために［ための］」 という 「目的」 は（ A ）で表すが，on を用いる場合もある。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "What do you learn English "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "?"
+   }
+  ],
+  "solutions": [
+   [
+    "for"
+   ]
+  ],
+  "secTitle": "「目的」 の前置詞"
+ },
+ {
+  "id": "X-73",
+  "unit": "X",
+  "no": "73",
+  "jp": "通りを渡った所に 「貸し自転車」 という看板があった。",
+  "answers": [
+   "Across the street was a sign saying \"Bicycles for Hire\"."
+  ],
+  "audio": "audio/X/X-73-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Across the street was a sign saying \"Bicycles "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " Hire\"."
+   }
+  ],
+  "solutions": [
+   [
+    "for"
+   ]
+  ],
+  "secTitle": "「目的」 の前置詞"
+ },
+ {
+  "id": "X-74-a",
+  "unit": "X",
+  "no": "74",
+  "jp": "仕事でここへ来た時はいつもここに泊まっています。",
+  "answers": [
+   "I always stay here when I'm here on business."
+  ],
+  "audio": "audio/X/X-74-a-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I always stay here when I'm here "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "for",
+     "on"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " business."
+   }
+  ],
+  "solutions": [
+   [
+    "on"
+   ]
+  ],
+  "secTitle": "「目的」 の前置詞"
+ },
+ {
+  "id": "X-74-b",
+  "unit": "X",
+  "no": "74",
+  "jp": "私は飛行機での長旅が好きではない。",
+  "answers": [
+   "I don't like going on long plane journeys."
+  ],
+  "audio": "audio/X/X-74-b-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I don't like going "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "for",
+     "on"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " long plane journeys."
+   }
+  ],
+  "solutions": [
+   [
+    "on"
+   ]
+  ],
+  "secTitle": "「目的」 の前置詞"
+ },
+ {
+  "id": "X-74-c",
+  "unit": "X",
+  "no": "74",
+  "jp": "今は散歩に出かけたい気分ではない。",
+  "answers": [
+   "I don't feel like going for a walk right now."
+  ],
+  "audio": "audio/X/X-74-c-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I don't feel like going "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "for",
+     "on"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " a walk right now."
+   }
+  ],
+  "solutions": [
+   [
+    "for"
+   ]
+  ],
+  "secTitle": "「目的」 の前置詞"
+ },
+ {
+  "id": "X-75-a",
+  "unit": "X",
+  "no": "75",
+  "jp": "消費税は1997年４月に５％に引き上げられた。",
+  "answers": [
+   "The consumption tax was raised to 5 percent in April 1997."
+  ],
+  "audio": "audio/X/X-75-a-.mp3",
+  "section": {
+   "title": "「結果」 の前置詞",
+   "body": "「その結果…に至る［達する］」 という意味は（ A ）で表す。「変化して…になる」「力を加えて…させる」 という意味は（ B ）で表す。"
+  },
+  "tags": [
+   "前置詞の適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The consumption tax was raised "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " 5 percent in April 1997."
+   }
+  ],
+  "solutions": [
+   [
+    "to"
+   ]
+  ],
+  "secTitle": "「結果」 の前置詞"
+ },
+ {
+  "id": "X-75-b",
+  "unit": "X",
+  "no": "75",
+  "jp": "彼はバグダッド西部をパトロール中に射殺された。",
+  "answers": [
+   "He was shot to death while patrolling in western Baghdad."
+  ],
+  "audio": "audio/X/X-75-b-.mp3",
+  "tags": [
+   "前置詞の適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He was shot "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " death while patrolling in western Baghdad."
+   }
+  ],
+  "solutions": [
+   [
+    "to"
+   ]
+  ],
+  "secTitle": "「結果」 の前置詞"
+ },
+ {
+  "id": "X-75-c",
+  "unit": "X",
+  "no": "75",
+  "jp": "この小説はこれまでたくさんの言語に翻訳されている。",
+  "answers": [
+   "This novel has been translated into many languages."
+  ],
+  "audio": "audio/X/X-75-c-.mp3",
+  "tags": [
+   "前置詞の適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "This novel has been translated "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " many languages."
+   }
+  ],
+  "solutions": [
+   [
+    "into"
+   ]
+  ],
+  "secTitle": "「結果」 の前置詞"
+ },
+ {
+  "id": "X-75-d",
+  "unit": "X",
+  "no": "75",
+  "jp": "私は夫に，私がパソコンを買うのを許してくれるよう説得した。",
+  "answers": [
+   "I talked my husband into letting me buy a computer."
+  ],
+  "audio": "audio/X/X-75-d-.mp3",
+  "tags": [
+   "前置詞の適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I talked my husband "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " letting me buy a computer."
+   }
+  ],
+  "solutions": [
+   [
+    "into"
+   ]
+  ],
+  "secTitle": "「結果」 の前置詞"
+ },
+ {
+  "id": "X-76-a",
+  "unit": "X",
+  "no": "76",
+  "jp": "その事故によって3人が死亡し，多くのけが人が出た。",
+  "answers": [
+   "The accident resulted in three deaths and many injuries."
+  ],
+  "audio": "audio/X/X-76-a-.mp3",
+  "tags": [
+   "同じ前置詞を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The accident resulted "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " three deaths and many injuries."
+   }
+  ],
+  "solutions": [
+   [
+    "in"
+   ]
+  ],
+  "secTitle": "「結果」 の前置詞"
+ },
+ {
+  "id": "X-76-b",
+  "unit": "X",
+  "no": "76",
+  "jp": "彼らのエベレスト登頂の試みは失敗に終わった。",
+  "answers": [
+   "Their attempt to climb Everest ended in failure."
+  ],
+  "audio": "audio/X/X-76-b-.mp3",
+  "tags": [
+   "同じ前置詞を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Their attempt to climb Everest ended "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " failure."
+   }
+  ],
+  "solutions": [
+   [
+    "in"
+   ]
+  ],
+  "secTitle": "「結果」 の前置詞"
+ },
+ {
+  "id": "X-77-a",
+  "unit": "X",
+  "no": "77",
+  "jp": "その公園は車や公共の交通機関で容易にアクセスが可能です。",
+  "answers": [
+   "The park is easily accessible by car or public transportation."
+  ],
+  "audio": "audio/X/X-77-a-.mp3",
+  "section": {
+   "title": "「手段」「使用」 の前置詞",
+   "body": "「＜車＞で」 や 「＜電話＞で」 のように交通や通信の手段を表す場合は（ A ）を用い，目的語を（ B ）単数形にする。「＜道具＞を用いて」 と言う場合は（ C ）を用いる。"
+  },
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "The park is easily accessible by car or public transportation.",
+  "secTitle": "「手段」「使用」 の前置詞"
+ },
+ {
+  "id": "X-77-b",
+  "unit": "X",
+  "no": "77",
+  "jp": "今日はジョージと会って，彼の車でドライブに出かけました。",
+  "answers": [
+   "I saw George today and we went driving in his car."
+  ],
+  "audio": "audio/X/X-77-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I saw George today and we went driving by his car.",
+  "secTitle": "「手段」「使用」 の前置詞"
+ },
+ {
+  "id": "X-77-c",
+  "unit": "X",
+  "no": "77",
+  "jp": "お客様の多くは，電子メールで連絡を取ることを好まれます。",
+  "answers": [
+   "Many customers prefer to communicate by e-mail."
+  ],
+  "audio": "audio/X/X-77-c-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Many customers prefer to communicate by e-mail.",
+  "secTitle": "「手段」「使用」 の前置詞"
+ },
+ {
+  "id": "X-77-d",
+  "unit": "X",
+  "no": "77",
+  "jp": "私達は会う前に何回か電話で話をしていました。",
+  "answers": [
+   "We talked on the phone several times before meeting.",
+   "We talked over the phone several times before meeting."
+  ],
+  "audio": "audio/X/X-77-d-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "We talked by the phone several times before meeting.",
+  "secTitle": "「手段」「使用」 の前置詞"
+ },
+ {
+  "id": "X-77-e",
+  "unit": "X",
+  "no": "77",
+  "jp": "余分な水はペーパータオルかナプキンで拭き取ってください。",
+  "answers": [
+   "Wipe excess water off with a paper towel or napkin."
+  ],
+  "audio": "audio/X/X-77-e-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Wipe excess water off by a paper towel or napkin.",
+  "secTitle": "「手段」「使用」 の前置詞"
+ },
+ {
+  "id": "X-77-f",
+  "unit": "X",
+  "no": "77",
+  "jp": "彼が彼なりの方法で手助けしようとしていることが私にはわかった。",
+  "answers": [
+   "I saw that he was, in his own way, trying to help."
+  ],
+  "audio": "audio/X/X-77-f-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I saw that he was, by his own way, trying to help.",
+  "secTitle": "「手段」「使用」 の前置詞"
+ },
+ {
+  "id": "X-78-a",
+  "unit": "X",
+  "no": "78",
+  "jp": "私はその株を１株48ドルで買った。",
+  "answers": [
+   "I bought the stock for $48 a share."
+  ],
+  "audio": "audio/X/X-78-a-.mp3",
+  "section": {
+   "title": "「代価」「単位」 の前置詞",
+   "body": "「いくらで」 と売買の値段を言う場合は（ A ）やat を用いる。また，「…単位で」 と言う場合は（ B ）を用い，目的語には（ C ）を付ける。"
+  },
+  "tags": [
+   "下線部のニュアンスの違いを指摘"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I bought the stock for $48 a share.",
+  "secTitle": "「代価」「単位」 の前置詞"
+ },
+ {
+  "id": "X-78-b",
+  "unit": "X",
+  "no": "78",
+  "jp": "私はその株を１株48ドルで買った。",
+  "answers": [
+   "I bought the stock at $48 a share."
+  ],
+  "audio": "audio/X/X-78-b-.mp3",
+  "tags": [
+   "下線部のニュアンスの違いを指摘"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I bought the stock at $48 a share.",
+  "secTitle": "「代価」「単位」 の前置詞"
+ },
+ {
+  "id": "X-79",
+  "unit": "X",
+  "no": "79",
+  "jp": "ただで手に入るのに，なぜ年に50ポンドも払うの？",
+  "answers": [
+   "Why pay £50 a year when you can get it for nothing?"
+  ],
+  "audio": "audio/X/X-79-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Why pay £50 a year when you can get it "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " nothing?"
+   }
+  ],
+  "solutions": [
+   [
+    "for"
+   ]
+  ],
+  "secTitle": "「代価」「単位」 の前置詞"
+ },
+ {
+  "id": "X-80",
+  "unit": "X",
+  "no": "80",
+  "jp": "ガソリンはフランスではリットル（単位）で売られている。",
+  "answers": [
+   "Gasoline is sold by the liter in France."
+  ],
+  "audio": "audio/X/X-80-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Gasoline is sold "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the liter in France."
+   }
+  ],
+  "solutions": [
+   [
+    "by"
+   ]
+  ],
+  "secTitle": "「代価」「単位」 の前置詞"
+ },
+ {
+  "id": "X-81",
+  "unit": "X",
+  "no": "81",
+  "jp": "あなたは死刑制度に賛成ですかそれとも反対ですか？",
+  "answers": [
+   "Are you for or against the death penalty?"
+  ],
+  "audio": "audio/X/X-81-.mp3",
+  "section": {
+   "title": "「賛成・同意」 の前置詞",
+   "body": "be 動詞の補語で用い 「…に賛成である」 と言う場合，「物事」 が目的語の場合は（ A ）を用い，「人」 が目的語の場合は（ B ）を用いる。また，agree と共に用い 「賛成」の意味を作る場合は，目的語に関係なく（ C ）を用いる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Are you "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " or "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the death penalty?"
+   }
+  ],
+  "solutions": [
+   [
+    "for",
+    "against"
+   ]
+  ],
+  "secTitle": "「賛成・同意」 の前置詞"
+ },
+ {
+  "id": "X-82",
+  "unit": "X",
+  "no": "82",
+  "jp": "あなたはこの点について彼と同じ意見ですか？",
+  "answers": [
+   "Do you agree with him about this?"
+  ],
+  "audio": "audio/X/X-82-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Do you agree "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "with",
+     "to"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " him about this?"
+   }
+  ],
+  "solutions": [
+   [
+    "with"
+   ]
+  ],
+  "secTitle": "「賛成・同意」 の前置詞"
+ },
+ {
+  "id": "X-83",
+  "unit": "X",
+  "no": "83",
+  "jp": "先方はついに我々の提案を承諾しました。",
+  "answers": [
+   "They've finally agreed to our proposal."
+  ],
+  "audio": "audio/X/X-83-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "They've finally agreed "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "with",
+     "to"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " our proposal."
+   }
+  ],
+  "solutions": [
+   [
+    "to"
+   ]
+  ],
+  "secTitle": "「賛成・同意」 の前置詞"
+ },
+ {
+  "id": "X-84",
+  "unit": "X",
+  "no": "84",
+  "jp": "彼はひどい風邪を引いて２日間家にいた。",
+  "answers": [
+   "He spent two days at home with a bad cold."
+  ],
+  "audio": "audio/X/X-84-.mp3",
+  "section": {
+   "title": "「付随」 「付帯」 の前置詞",
+   "body": "「…を伴って」 「…がある状態で」 と言う場合は（ A ）を用いる。「…なしに」 と言う場合は（ B ）を用いる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He spent two days at home "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " a bad cold."
+   }
+  ],
+  "solutions": [
+   [
+    "with"
+   ]
+  ],
+  "secTitle": "「付随」 「付帯」 の前置詞"
+ },
+ {
+  "id": "X-85",
+  "unit": "X",
+  "no": "85",
+  "jp": "彼は葉巻を咥えて椅子に座っていた。",
+  "answers": [
+   "He was sitting in a chair with a cigar in his mouth."
+  ],
+  "audio": "audio/X/X-85-.mp3",
+  "tags": [
+   "並べ替え"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He was sitting in a chair "
+   },
+   {
+    "t": "order",
+    "words": [
+     "a cigar",
+     "his mouth",
+     "with",
+     "in"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "with a cigar in his mouth"
+   ]
+  ],
+  "secTitle": "「付随」 「付帯」 の前置詞"
+ },
+ {
+  "id": "X-86",
+  "unit": "X",
+  "no": "86",
+  "jp": "私は25年前，無一文でアメリカに来ました。",
+  "answers": [
+   "I came to the United States with no money 25 years ago."
+  ],
+  "audio": "audio/X/X-86-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I came to the United States with no money 25 years ago.",
+  "secTitle": "「付随」 「付帯」 の前置詞"
+ },
+ {
+  "id": "X-87",
+  "unit": "X",
+  "no": "87",
+  "jp": "私は地下鉄に乗らずに自転車で通勤しています。",
+  "answers": [
+   "I ride my bike to work instead of taking the subway."
+  ],
+  "audio": "audio/X/X-87-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I ride my bike to work without taking the subway.",
+  "secTitle": "「付随」 「付帯」 の前置詞"
+ },
+ {
+  "id": "X-88",
+  "unit": "X",
+  "no": "88",
+  "jp": "その博物館は月曜以外は毎日開館しています。",
+  "answers": [
+   "The museum is open every day except Monday.",
+   "The museum is open every day but Monday."
+  ],
+  "audio": "audio/X/X-88-.mp3",
+  "section": {
+   "title": "「例外」 「除外」 の前置詞",
+   "body": "「…を除く」「…以外の」 を表すexcept と（ A ）は主に 「形容詞句」 で用い，前に置かれた 「all［every, any, no, little など］を含む語」 を修飾する。「…を除けば」 という「副詞句」 として 「文」 を修飾する場合はexcept for を用いる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The museum is open every day "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " Monday."
+   }
+  ],
+  "solutions": [
+   [
+    "except"
+   ],
+   [
+    "but"
+   ]
+  ],
+  "secTitle": "「例外」 「除外」 の前置詞"
+ },
+ {
+  "id": "X-89-a",
+  "unit": "X",
+  "no": "89",
+  "jp": "運転手を除けば，バスには誰も乗っていなかった。",
+  "answers": [
+   "The bus was empty except for the driver."
+  ],
+  "audio": "audio/X/X-89-a-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "The bus was empty except the driver.",
+  "secTitle": "「例外」 「除外」 の前置詞"
+ },
+ {
+  "id": "X-89-b",
+  "unit": "X",
+  "no": "89",
+  "jp": "風（があったこと）を除けば素晴らしい日でした。",
+  "answers": [
+   "Except for the wind, it was a beautiful day."
+  ],
+  "audio": "audio/X/X-89-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Except the wind, it was a beautiful day.",
+  "secTitle": "「例外」 「除外」 の前置詞"
+ },
+ {
+  "id": "X-90",
+  "unit": "X",
+  "no": "90",
+  "jp": "東京以外にも，広島と札幌を訪れたいと思っています。",
+  "answers": [
+   "Besides Tokyo, I'd like to visit Hiroshima and Sapporo."
+  ],
+  "audio": "audio/X/X-90-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " Tokyo, I'd like to visit Hiroshima and Sapporo."
+   }
+  ],
+  "solutions": [
+   [
+    "Besides"
+   ]
+  ],
+  "secTitle": "「例外」 「除外」 の前置詞"
+ },
+ {
+  "id": "X-91-a",
+  "unit": "X",
+  "no": "91",
+  "jp": "その話は全て私には疑わしく聞こえる。",
+  "answers": [
+   "The whole story sounds suspicious to me."
+  ],
+  "audio": "audio/X/X-91-a-.mp3",
+  "section": {
+   "title": "「…にとって」 に当たる前置詞",
+   "body": "「…にとって（の）」「…に対して（の）」 という意味はto かfor で表すことが多い。一般に，「…の判断［感覚］では」 とか 「…に（悪）影響が及ぶ」 という意味合いなら（ A ）を用い，「…の利益になる」 とか 「…の目的に適う」 という意味合いなら（ B ）を用いるが，形容詞を修飾する場合は（ B ）を用いることが多い。"
+  },
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The whole story sounds suspicious "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "to",
+     "for"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " me."
+   }
+  ],
+  "solutions": [
+   [
+    "to"
+   ]
+  ],
+  "secTitle": "「…にとって」 に当たる前置詞"
+ },
+ {
+  "id": "X-91-b",
+  "unit": "X",
+  "no": "91",
+  "jp": "喫煙は人の健康にとって危険な物である。",
+  "answers": [
+   "Cigarette smoking is a danger to health."
+  ],
+  "audio": "audio/X/X-91-b-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Cigarette smoking is a danger "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "to",
+     "for"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " health."
+   }
+  ],
+  "solutions": [
+   [
+    "to"
+   ]
+  ],
+  "secTitle": "「…にとって」 に当たる前置詞"
+ },
+ {
+  "id": "X-91-c",
+  "unit": "X",
+  "no": "91",
+  "jp": "私があなたにとって何か役に立つことがあれば知らせてください。",
+  "answers": [
+   "Let me know if I can be of any help to you."
+  ],
+  "audio": "audio/X/X-91-c-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Let me know if I can be of any help "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "to",
+     "for"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " you."
+   }
+  ],
+  "solutions": [
+   [
+    "to"
+   ]
+  ],
+  "secTitle": "「…にとって」 に当たる前置詞"
+ },
+ {
+  "id": "X-91-d",
+  "unit": "X",
+  "no": "91",
+  "jp": "キャロラインはその仕事（にとって）の適任者だと思う。",
+  "answers": [
+   "I think Caroline is the right person for the job."
+  ],
+  "audio": "audio/X/X-91-d-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I think Caroline is the right person "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "to",
+     "for"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " the job."
+   }
+  ],
+  "solutions": [
+   [
+    "for"
+   ]
+  ],
+  "secTitle": "「…にとって」 に当たる前置詞"
+ },
+ {
+  "id": "X-91-e",
+  "unit": "X",
+  "no": "91",
+  "jp": "この本は５歳の子供にとっては難しすぎる。",
+  "answers": [
+   "This book is too difficult for five-year-olds."
+  ],
+  "audio": "audio/X/X-91-e-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "This book is too difficult "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "to",
+     "for"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " five-year-olds."
+   }
+  ],
+  "solutions": [
+   [
+    "for"
+   ]
+  ],
+  "secTitle": "「…にとって」 に当たる前置詞"
+ },
+ {
+  "id": "X-91-f",
+  "unit": "X",
+  "no": "91",
+  "jp": "この話はアメリカのほとんどの人に知られている。",
+  "answers": [
+   "This story is familiar to most people in the U.S."
+  ],
+  "audio": "audio/X/X-91-f-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "This story is familiar "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "to",
+     "for"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " most people in the U.S."
+   }
+  ],
+  "solutions": [
+   [
+    "to"
+   ]
+  ],
+  "secTitle": "「…にとって」 に当たる前置詞"
+ },
+ {
+  "id": "X-92-a",
+  "unit": "X",
+  "no": "92",
+  "jp": "彼が私にした仕打ちは忘れません。",
+  "answers": [
+   "I'll never forget what he did to me."
+  ],
+  "audio": "audio/X/X-92-a-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "I'll never forget what he did to me.",
+  "secTitle": "「…にとって」 に当たる前置詞"
+ },
+ {
+  "id": "X-92-b",
+  "unit": "X",
+  "no": "92",
+  "jp": "彼が私にしてくれたことは忘れません。",
+  "answers": [
+   "I'll never forget what he did for me."
+  ],
+  "audio": "audio/X/X-92-b-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "I'll never forget what he did for me.",
+  "secTitle": "「…にとって」 に当たる前置詞"
+ },
+ {
+  "id": "X-93-a",
+  "unit": "X",
+  "no": "93",
+  "jp": "私は自分の将来について真剣に考える必要がある。",
+  "answers": [
+   "I need to think seriously about my future."
+  ],
+  "audio": "audio/X/X-93-a-.mp3",
+  "section": {
+   "title": "「…に関して」 に当たる前置詞",
+   "body": "「…について」 は一般的には（ A ）で表し，専門的な内容であることを暗示させたい場合は（ B ）を用いる。また，「…をめぐって」 という意味で争いや不安を表す語を目的語にする場合は（ C ）を用いることがある。"
+  },
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I need to think seriously "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "about",
+     "of",
+     "on"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " my future."
+   }
+  ],
+  "solutions": [
+   [
+    "about"
+   ]
+  ],
+  "secTitle": "「…に関して」 に当たる前置詞"
+ },
+ {
+  "id": "X-93-b",
+  "unit": "X",
+  "no": "93",
+  "jp": "それを言い表す適切な英語のことばが思いつかない。",
+  "answers": [
+   "I can't think of a good English word for it."
+  ],
+  "audio": "audio/X/X-93-b-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I can't think "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "about",
+     "of",
+     "on"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " a good English word for it."
+   }
+  ],
+  "solutions": [
+   [
+    "of"
+   ]
+  ],
+  "secTitle": "「…に関して」 に当たる前置詞"
+ },
+ {
+  "id": "X-93-c",
+  "unit": "X",
+  "no": "93",
+  "jp": "国際肺癌研究会議は３年に１度行われます。",
+  "answers": [
+   "The World Conference on Lung Cancer takes place every three years."
+  ],
+  "audio": "audio/X/X-93-c-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The World Conference "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "about",
+     "of",
+     "on"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Lung Cancer takes place every three years."
+   }
+  ],
+  "solutions": [
+   [
+    "on"
+   ]
+  ],
+  "secTitle": "「…に関して」 に当たる前置詞"
+ },
+ {
+  "id": "X-94-a",
+  "unit": "X",
+  "no": "94",
+  "jp": "こんな些細な事で口論するのはやめよう。",
+  "answers": [
+   "Let's stop arguing over something so trivial."
+  ],
+  "audio": "audio/X/X-94-a-.mp3",
+  "tags": [
+   "about 以外の同じ前置詞を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Let's stop arguing "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " something so trivial."
+   }
+  ],
+  "solutions": [
+   [
+    "over"
+   ]
+  ],
+  "secTitle": "「…に関して」 に当たる前置詞"
+ },
+ {
+  "id": "X-94-b",
+  "unit": "X",
+  "no": "94",
+  "jp": "その事業の将来に関して深刻な懸念がある。",
+  "answers": [
+   "There is grave concern over the future of the business."
+  ],
+  "audio": "audio/X/X-94-b-.mp3",
+  "tags": [
+   "about 以外の同じ前置詞を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "There is grave concern "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the future of the business."
+   }
+  ],
+  "solutions": [
+   [
+    "over"
+   ]
+  ],
+  "secTitle": "「…に関して」 に当たる前置詞"
+ },
+ {
+  "id": "X-95",
+  "unit": "X",
+  "no": "95",
+  "jp": "テーブルの脚が折れています。修理が必要です。",
+  "answers": [
+   "A leg of the table is broken. It needs mending."
+  ],
+  "audio": "audio/X/X-95-.mp3",
+  "section": {
+   "title": "「…の」 に当たる前置詞",
+   "body": "「…の」 という意味で前に置かれた名詞を修飾する前置詞は，「所有・所属」 「部分」「材料」 などを表す場合は（ A ）を用い，そうでない場合は他の前置詞を用いる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "A leg "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the table is broken. It needs mending."
+   }
+  ],
+  "solutions": [
+   [
+    "of"
+   ]
+  ],
+  "secTitle": "「…の」 に当たる前置詞"
+ },
+ {
+  "id": "X-96",
+  "unit": "X",
+  "no": "96",
+  "jp": "アイルランドの道路はその多くがとても狭い。",
+  "answers": [
+   "Many streets and roads in Ireland are very narrow."
+  ],
+  "audio": "audio/X/X-96-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Many streets and roads "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " Ireland are very narrow."
+   }
+  ],
+  "solutions": [
+   [
+    "in"
+   ]
+  ],
+  "secTitle": "「…の」 に当たる前置詞"
+ },
+ {
+  "id": "X-97",
+  "unit": "X",
+  "no": "97",
+  "jp": "この美術館にはルノワールの作品がたくさんあります。",
+  "answers": [
+   "This museum has many works by Renoir."
+  ],
+  "audio": "audio/X/X-97-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "This museum has many works "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " Renoir."
+   }
+  ],
+  "solutions": [
+   [
+    "by"
+   ]
+  ],
+  "secTitle": "「…の」 に当たる前置詞"
+ },
+ {
+  "id": "X-98",
+  "unit": "X",
+  "no": "98",
+  "jp": "私は家のスペア・キーを（家の）外に隠しています。",
+  "answers": [
+   "I have a spare key to my house hidden outside."
+  ],
+  "audio": "audio/X/X-98-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I have a spare key "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " my house hidden outside."
+   }
+  ],
+  "solutions": [
+   [
+    "to"
+   ]
+  ],
+  "secTitle": "「…の」 に当たる前置詞"
+ },
+ {
+  "id": "X-99",
+  "unit": "X",
+  "no": "99",
+  "jp": "組合は賃金の２割アップを要求した。",
+  "answers": [
+   "The union demanded a 20 percent increase in wages."
+  ],
+  "audio": "audio/X/X-99-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The union demanded a 20 percent increase "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " wages."
+   }
+  ],
+  "solutions": [
+   [
+    "in"
+   ]
+  ],
+  "secTitle": "「…の」 に当たる前置詞"
+ }
+]

@@ -1,0 +1,1252 @@
+[
+ {
+  "id": "V-01",
+  "unit": "V",
+  "no": "01",
+  "jp": "酔っぱらった笑い声が中から聞こえた。",
+  "answers": [
+   "I could hear drunken laughter from within."
+  ],
+  "audio": "audio/V/V-01-.mp3",
+  "section": {
+   "title": "限定用法と叙述用法",
+   "body": "形容詞の使い方には名詞の（ A ）に置いて名詞を修飾する 「限定用法」と，動詞の（ B ）に置いたり名詞の後ろに置いて名詞の状態や性質を述べる 「叙述用法」 とがある。形容詞の中には限定用法，もしくは，叙述用法でしか用いないものがある。"
+  },
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I could hear drunk laughter from within.",
+  "secTitle": "限定用法と叙述用法"
+ },
+ {
+  "id": "V-02",
+  "unit": "V",
+  "no": "02",
+  "jp": "眠っている赤ん坊の顔ほど可愛らしいものはない。",
+  "answers": [
+   "There is nothing cuter than the face of a sleeping baby."
+  ],
+  "audio": "audio/V/V-02-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "There is nothing cuter than the face of an asleep baby.",
+  "secTitle": "限定用法と叙述用法"
+ },
+ {
+  "id": "V-03",
+  "unit": "V",
+  "no": "03",
+  "jp": "私達は大半の問題に関して似通った考えをもっている。",
+  "answers": [
+   "We have similar views on most issues."
+  ],
+  "audio": "audio/V/V-03-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "We have alike views on most issues.",
+  "secTitle": "限定用法と叙述用法"
+ },
+ {
+  "id": "V-04",
+  "unit": "V",
+  "no": "04",
+  "jp": "彼らは瓦礫の下に生き埋めになった。",
+  "answers": [
+   "They were buried alive in the rubble."
+  ],
+  "audio": "audio/V/V-04-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "They were buried alive in the rubble.",
+  "secTitle": "限定用法と叙述用法"
+ },
+ {
+  "id": "V-05",
+  "unit": "V",
+  "no": "05",
+  "jp": "暗闇を怖がる子供のように，彼は私に一緒にいてくれと頼んだ。",
+  "answers": [
+   "Like a child afraid of the dark, he asked me to stay with him."
+  ],
+  "audio": "audio/V/V-05-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Like a child afraid of the dark, he asked me to stay with him.",
+  "secTitle": "限定用法と叙述用法"
+ },
+ {
+  "id": "V-06",
+  "unit": "V",
+  "no": "06",
+  "jp": "一人っ子なので，つい甘やかしてしまうんですよ。",
+  "answers": [
+   "Since she is our only child, we tend to spoil her."
+  ],
+  "audio": "audio/V/V-06-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Since she is our alone child, we tend to spoil her.",
+  "secTitle": "限定用法と叙述用法"
+ },
+ {
+  "id": "V-07-a",
+  "unit": "V",
+  "no": "07",
+  "jp": "ある特定の人達はこの薬に拒否反応を示す。",
+  "answers": [
+   "Certain people react badly to this drug."
+  ],
+  "audio": "audio/V/V-07-a-.mp3",
+  "section": {
+   "title": "限定用法と叙述用法で意味が異なる語",
+   "body": "「限定用法」 と 「叙述用法」 とでは意味が異なる形容詞もある。例えば，（ A ）は限定用法では 「悪い」 という意味に，叙述用法では「病気で」 という意味になる。"
+  },
+  "tags": [
+   "下線部に注意して全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Certain people react badly to this drug.",
+  "secTitle": "限定用法と叙述用法で意味が異なる語"
+ },
+ {
+  "id": "V-07-b",
+  "unit": "V",
+  "no": "07",
+  "jp": "絶対的な自信はないが，私は自分の考えが正しいと思っている。",
+  "answers": [
+   "I'm not absolutely certain, but I think I'm right."
+  ],
+  "audio": "audio/V/V-07-b-.mp3",
+  "tags": [
+   "下線部に注意して全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "I'm not absolutely certain, but I think I'm right.",
+  "secTitle": "限定用法と叙述用法で意味が異なる語"
+ },
+ {
+  "id": "V-08-a",
+  "unit": "V",
+  "no": "08",
+  "jp": "あなたの現在のお仕事は何ですか？",
+  "answers": [
+   "What is your present occupation?"
+  ],
+  "audio": "audio/V/V-08-a-.mp3",
+  "tags": [
+   "下線部に注意して全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "What is your present occupation?",
+  "secTitle": "限定用法と叙述用法で意味が異なる語"
+ },
+ {
+  "id": "V-08-b",
+  "unit": "V",
+  "no": "08",
+  "jp": "何人の人が会議に出席していましたか？",
+  "answers": [
+   "How many people were present at the meeting?"
+  ],
+  "audio": "audio/V/V-08-b-.mp3",
+  "tags": [
+   "下線部に注意して全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "How many people were present at the meeting?",
+  "secTitle": "限定用法と叙述用法で意味が異なる語"
+ },
+ {
+  "id": "V-09-a",
+  "unit": "V",
+  "no": "09",
+  "jp": "喫煙は私達の健康に悪影響を及ぼす。",
+  "answers": [
+   "Smoking has ill effects on our health."
+  ],
+  "audio": "audio/V/V-09-a-.mp3",
+  "tags": [
+   "下線部に注意して全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Smoking has ill effects on our health.",
+  "secTitle": "限定用法と叙述用法で意味が異なる語"
+ },
+ {
+  "id": "V-09-b",
+  "unit": "V",
+  "no": "09",
+  "jp": "私はここ数日身体の具合が悪い。",
+  "answers": [
+   "I've been ill for a few days now."
+  ],
+  "audio": "audio/V/V-09-b-.mp3",
+  "tags": [
+   "下線部に注意して全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "I've been ill for a few days now.",
+  "secTitle": "限定用法と叙述用法で意味が異なる語"
+ },
+ {
+  "id": "V-10-a",
+  "unit": "V",
+  "no": "10",
+  "jp": "心配した親御さんからたくさん電話がかかってきた。",
+  "answers": [
+   "We received numerous calls from concerned parents."
+  ],
+  "audio": "audio/V/V-10-a-.mp3",
+  "tags": [
+   "下線部に注意して全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "We received numerous calls from concerned parents.",
+  "secTitle": "限定用法と叙述用法で意味が異なる語"
+ },
+ {
+  "id": "V-10-b",
+  "unit": "V",
+  "no": "10",
+  "jp": "関係者の皆様に深くお詫び申し上げます。",
+  "answers": [
+   "We deeply apologize to all the people concerned."
+  ],
+  "audio": "audio/V/V-10-b-.mp3",
+  "tags": [
+   "下線部に注意して全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "We deeply apologize to all the people concerned.",
+  "secTitle": "限定用法と叙述用法で意味が異なる語"
+ },
+ {
+  "id": "V-11-a",
+  "unit": "V",
+  "no": "11",
+  "jp": "あなたは『怒れる12人の男達』という映画を見たことがありますか？",
+  "answers": [
+   "Have you ever seen the movie \"Twelve Angry Men\"?"
+  ],
+  "audio": "audio/V/V-11-a-.mp3",
+  "section": {
+   "title": "複数の形容詞を置く場合の順序",
+   "body": "限定用法の形容詞を複数置く場合の順番は，冠詞や指示形容詞，（ A ）を表す形容詞，主観的な形容詞，客観的な形容詞，形容詞用法の（ B ）の順にする傾向がある。"
+  },
+  "tags": [
+   "並べ替え"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Have you ever seen the movie \""
+   },
+   {
+    "t": "order",
+    "words": [
+     "Men",
+     "Twelve",
+     "Angry"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "\"?"
+   }
+  ],
+  "solutions": [
+   [
+    "Twelve Angry Men"
+   ]
+  ],
+  "secTitle": "複数の形容詞を置く場合の順序"
+ },
+ {
+  "id": "V-11-b",
+  "unit": "V",
+  "no": "11",
+  "jp": "彼は質素な中流のイギリス人の家庭に生まれた。",
+  "answers": [
+   "He was born to a  modest middle-class English family."
+  ],
+  "audio": "audio/V/V-11-b-.mp3",
+  "tags": [
+   "並べ替え"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He was born to a "
+   },
+   {
+    "t": "order",
+    "words": [
+     "middle-class",
+     "English",
+     "modest"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " family."
+   }
+  ],
+  "solutions": [
+   [
+    "modest middle-class English"
+   ]
+  ],
+  "secTitle": "複数の形容詞を置く場合の順序"
+ },
+ {
+  "id": "V-11-c",
+  "unit": "V",
+  "no": "11",
+  "jp": "この可愛い小さな白い犬たちは成長するととても大きくなります。",
+  "answers": [
+   "These cute little white puppies grow into very large dogs."
+  ],
+  "audio": "audio/V/V-11-c-.mp3",
+  "tags": [
+   "並べ替え"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "order",
+    "words": [
+     "cute",
+     "little",
+     "these",
+     "white"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " puppies grow into very large dogs."
+   }
+  ],
+  "solutions": [
+   [
+    "These cute little white"
+   ]
+  ],
+  "secTitle": "複数の形容詞を置く場合の順序"
+ },
+ {
+  "id": "V-12-a",
+  "unit": "V",
+  "no": "12",
+  "jp": "一流のホテル",
+  "answers": [
+   "a first-class hotel"
+  ],
+  "audio": "audio/V/V-12-a-.mp3",
+  "section": {
+   "title": "ハイフンで結合した形容詞",
+   "body": "複数の語を結びつけて１語の 「名詞」 や 「形容詞」 を作る場合，語と語をハイフン（-）で繋げる。これを形容詞として用いる場合は通常（ A ）用法で用いる。動詞句から形容詞を作る場合は通常，動詞を（ B ）に変え，補語・目的語・副詞を動詞の 「前」 に置く。また， 「複数数字-単位の名詞（year, dollar, etc.）」 となる場合は「単位の名詞」 を（ C ）形にする。"
+  },
+  "tags": [
+   "カッコ内の語句を参考に，空所にハイフンを使った形容詞を記入"
+  ],
+  "sheetJp": true,
+  "type": "recall",
+  "secTitle": "ハイフンで結合した形容詞"
+ },
+ {
+  "id": "V-12-b",
+  "unit": "V",
+  "no": "12",
+  "jp": "示談",
+  "answers": [
+   "an out-of-court settlement"
+  ],
+  "audio": "audio/V/V-12-b-.mp3",
+  "tags": [
+   "カッコ内の語句を参考に，空所にハイフンを使った形容詞を記入"
+  ],
+  "sheetJp": true,
+  "type": "recall",
+  "secTitle": "ハイフンで結合した形容詞"
+ },
+ {
+  "id": "V-12-c",
+  "unit": "V",
+  "no": "12",
+  "jp": "勤勉な学生",
+  "answers": [
+   "a hard-working student"
+  ],
+  "audio": "audio/V/V-12-c-.mp3",
+  "tags": [
+   "カッコ内の語句を参考に，空所にハイフンを使った形容詞を記入"
+  ],
+  "sheetJp": true,
+  "type": "recall",
+  "secTitle": "ハイフンで結合した形容詞"
+ },
+ {
+  "id": "V-12-d",
+  "unit": "V",
+  "no": "12",
+  "jp": "ハンサムな男性",
+  "answers": [
+   "a good-looking man"
+  ],
+  "audio": "audio/V/V-12-d-.mp3",
+  "tags": [
+   "カッコ内の語句を参考に，空所にハイフンを使った形容詞を記入"
+  ],
+  "sheetJp": true,
+  "type": "recall",
+  "secTitle": "ハイフンで結合した形容詞"
+ },
+ {
+  "id": "V-12-e",
+  "unit": "V",
+  "no": "12",
+  "jp": "英語を話す人々",
+  "answers": [
+   "English-speaking people"
+  ],
+  "audio": "audio/V/V-12-e-.mp3",
+  "type": "recall",
+  "secTitle": "ハイフンで結合した形容詞"
+ },
+ {
+  "id": "V-12-f",
+  "unit": "V",
+  "no": "12",
+  "jp": "有名な歌手",
+  "answers": [
+   "a well-known singer"
+  ],
+  "audio": "audio/V/V-12-f-.mp3",
+  "tags": [
+   "カッコ内の語句を参考に，空所にハイフンを使った形容詞を記入"
+  ],
+  "sheetJp": true,
+  "type": "recall",
+  "secTitle": "ハイフンで結合した形容詞"
+ },
+ {
+  "id": "V-12-g",
+  "unit": "V",
+  "no": "12",
+  "jp": "故障したトラック",
+  "answers": [
+   "a broken-down truck"
+  ],
+  "audio": "audio/V/V-12-g-.mp3",
+  "tags": [
+   "カッコ内の語句を参考に，空所にハイフンを使った形容詞を記入"
+  ],
+  "sheetJp": true,
+  "type": "recall",
+  "secTitle": "ハイフンで結合した形容詞"
+ },
+ {
+  "id": "V-13-a",
+  "unit": "V",
+  "no": "13",
+  "jp": "10ドル紙幣",
+  "answers": [
+   "a ten-dollar bill"
+  ],
+  "audio": "audio/V/V-13-a-.mp3",
+  "tags": [
+   "空所にハイフンを使った形容詞を記入"
+  ],
+  "sheetJp": true,
+  "type": "recall",
+  "secTitle": "ハイフンで結合した形容詞"
+ },
+ {
+  "id": "V-13-b",
+  "unit": "V",
+  "no": "13",
+  "jp": "５カ年計画",
+  "answers": [
+   "a five-year plan"
+  ],
+  "audio": "audio/V/V-13-b-.mp3",
+  "tags": [
+   "空所にハイフンを使った形容詞を記入"
+  ],
+  "sheetJp": true,
+  "type": "recall",
+  "secTitle": "ハイフンで結合した形容詞"
+ },
+ {
+  "id": "V-13-c",
+  "unit": "V",
+  "no": "13",
+  "jp": "６歳の少年",
+  "answers": [
+   "a six-year-old boy"
+  ],
+  "audio": "audio/V/V-13-c-.mp3",
+  "tags": [
+   "空所にハイフンを使った形容詞を記入"
+  ],
+  "sheetJp": true,
+  "type": "recall",
+  "secTitle": "ハイフンで結合した形容詞"
+ },
+ {
+  "id": "V-13-d",
+  "unit": "V",
+  "no": "13",
+  "jp": "四つ葉のクローバー",
+  "answers": [
+   "a four-leaf clover"
+  ],
+  "audio": "audio/V/V-13-d-.mp3",
+  "tags": [
+   "空所にハイフンを使った形容詞を記入"
+  ],
+  "sheetJp": true,
+  "type": "recall",
+  "secTitle": "ハイフンで結合した形容詞"
+ },
+ {
+  "id": "V-13-e",
+  "unit": "V",
+  "no": "13",
+  "jp": "12フィートの壁",
+  "answers": [
+   "a twelve-foot wall"
+  ],
+  "audio": "audio/V/V-13-e-.mp3",
+  "tags": [
+   "空所にハイフンを使った形容詞を記入"
+  ],
+  "sheetJp": true,
+  "type": "recall",
+  "secTitle": "ハイフンで結合した形容詞"
+ },
+ {
+  "id": "V-14",
+  "unit": "V",
+  "no": "14",
+  "jp": "子供の教育に一番責任があるのは親です。",
+  "answers": [
+   "The person most responsible for a child's education is the parent."
+  ],
+  "audio": "audio/V/V-14-.mp3",
+  "section": {
+   "title": "修飾する名詞の後ろに置く場合",
+   "body": "名詞を修飾する形容詞は修飾する名詞の前に置くのが原則だが，形容詞が他の語と共に（ A ）を形成する場合は修飾する名詞の（ B ）に置く。これは形容詞がthose（人々）や，-thing, -one, -body で終わる代名詞を修飾する場合にも当てはまる。また，possible, imaginable, available などが（ C ）やall, every, any を伴う名詞を修飾する場合も，修飾する名詞の（ B ）に置くことがある。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The "
+   },
+   {
+    "t": "order",
+    "words": [
+     "most",
+     "person",
+     "responsible"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " for a child's education is the parent."
+   }
+  ],
+  "solutions": [
+   [
+    "person most responsible"
+   ]
+  ],
+  "secTitle": "修飾する名詞の後ろに置く場合"
+ },
+ {
+  "id": "V-15",
+  "unit": "V",
+  "no": "15",
+  "jp": "数え切れないほど多くの猛烈な竜巻がカンザス州を横断し，少なくとも40人が死亡した。",
+  "answers": [
+   "Devastating tornadoes too numerous to count roared across Kansas, killing at least 40 people."
+  ],
+  "audio": "audio/V/V-15-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Devastating "
+   },
+   {
+    "t": "order",
+    "words": [
+     "too",
+     "to",
+     "numerous",
+     "tornadoes",
+     "count"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " roared across Kansas, killing at least 40 people."
+   }
+  ],
+  "solutions": [
+   [
+    "tornadoes too numerous to count"
+   ]
+  ],
+  "secTitle": "修飾する名詞の後ろに置く場合"
+ },
+ {
+  "id": "V-16",
+  "unit": "V",
+  "no": "16",
+  "jp": "出席者の中には前大統領夫妻がいました。",
+  "answers": [
+   "Among those present were the former President and his wife."
+  ],
+  "audio": "audio/V/V-16-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Among "
+   },
+   {
+    "t": "order",
+    "words": [
+     "those",
+     "were",
+     "present"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " the former President and his wife."
+   }
+  ],
+  "solutions": [
+   [
+    "those present were"
+   ]
+  ],
+  "secTitle": "修飾する名詞の後ろに置く場合"
+ },
+ {
+  "id": "V-17",
+  "unit": "V",
+  "no": "17",
+  "jp": "一生懸命頑張って，可能な限り最良の仕事をするべきです。",
+  "answers": [
+   "You should work hard and do the best possible job.",
+   "You should work hard and do the best job possible."
+  ],
+  "audio": "audio/V/V-17-.mp3",
+  "tags": [
+   "並べ替えて２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "You should work hard and do the "
+   },
+   {
+    "t": "order",
+    "words": [
+     "job",
+     "possible",
+     "best"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "best possible job"
+   ],
+   [
+    "best job possible"
+   ]
+  ],
+  "secTitle": "修飾する名詞の後ろに置く場合"
+ },
+ {
+  "id": "V-18",
+  "unit": "V",
+  "no": "18",
+  "jp": "その事故は想像しうる限りの最悪の悪夢だった。",
+  "answers": [
+   "The accident was the worst imaginable nightmare.",
+   "The accident was the worst nightmare imaginable."
+  ],
+  "audio": "audio/V/V-18-.mp3",
+  "tags": [
+   "並べ替えて２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The accident was the "
+   },
+   {
+    "t": "order",
+    "words": [
+     "imaginable",
+     "worst",
+     "nightmare"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "worst imaginable nightmare"
+   ],
+   [
+    "worst nightmare imaginable"
+   ]
+  ],
+  "secTitle": "修飾する名詞の後ろに置く場合"
+ },
+ {
+  "id": "V-19",
+  "unit": "V",
+  "no": "19",
+  "jp": "これは利用可能な全ての選択肢の一覧表です。",
+  "answers": [
+   "Here is a list of all the available options.",
+   "Here is a list of all the options available."
+  ],
+  "audio": "audio/V/V-19-.mp3",
+  "tags": [
+   "並べ替えて２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Here is a list of "
+   },
+   {
+    "t": "order",
+    "words": [
+     "options",
+     "all",
+     "the",
+     "available"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "all the available options"
+   ],
+   [
+    "all the options available"
+   ]
+  ],
+  "secTitle": "修飾する名詞の後ろに置く場合"
+ },
+ {
+  "id": "V-21-a",
+  "unit": "V",
+  "no": "21",
+  "jp": "今日はしなければならないことがたくさんある。",
+  "answers": [
+   "I've got a lot of things to do today."
+  ],
+  "audio": "audio/V/V-21-a-.mp3",
+  "tags": [
+   "最も自然な語句を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I've got "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "many",
+     "much",
+     "a lot of"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " things to do today."
+   }
+  ],
+  "solutions": [
+   [
+    "a lot of"
+   ]
+  ],
+  "secTitle": "修飾する名詞の後ろに置く場合"
+ },
+ {
+  "id": "V-21-b",
+  "unit": "V",
+  "no": "21",
+  "jp": "今夜は（しなければならない）宿題がたくさんある。",
+  "answers": [
+   "I have a lot of homework to do tonight."
+  ],
+  "audio": "audio/V/V-21-b-.mp3",
+  "tags": [
+   "最も自然な語句を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I have "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "many",
+     "much",
+     "a lot of"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " homework to do tonight."
+   }
+  ],
+  "solutions": [
+   [
+    "a lot of"
+   ]
+  ],
+  "secTitle": "修飾する名詞の後ろに置く場合"
+ },
+ {
+  "id": "V-21-c",
+  "unit": "V",
+  "no": "21",
+  "jp": "私は仕事でたくさん出張をしている。",
+  "answers": [
+   "I do a lot of traveling in my job."
+  ],
+  "audio": "audio/V/V-21-c-.mp3",
+  "tags": [
+   "最も自然な語句を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I do "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "many",
+     "much",
+     "a lot of"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " traveling in my job."
+   }
+  ],
+  "solutions": [
+   [
+    "a lot of"
+   ]
+  ],
+  "secTitle": "修飾する名詞の後ろに置く場合"
+ },
+ {
+  "id": "V-22",
+  "unit": "V",
+  "no": "22",
+  "jp": "かなりの数の会社が職場での喫煙を禁止している。",
+  "answers": [
+   "Quite a few companies have banned smoking in the workplace.",
+   "Not a few companies have banned smoking in the workplace."
+  ],
+  "audio": "audio/V/V-22-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " few companies have banned smoking in the workplace."
+   }
+  ],
+  "solutions": [
+   [
+    "Quite",
+    "a"
+   ],
+   [
+    "Not",
+    "a"
+   ]
+  ],
+  "secTitle": "修飾する名詞の後ろに置く場合"
+ },
+ {
+  "id": "V-23",
+  "unit": "V",
+  "no": "23",
+  "jp": "それ以来，私達は何度か会っています。",
+  "answers": [
+   "Since then, we've met on a number of occasions."
+  ],
+  "audio": "audio/V/V-23-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Since then, we've met on a "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " occasions."
+   }
+  ],
+  "solutions": [
+   [
+    "number",
+    "of"
+   ]
+  ],
+  "secTitle": "修飾する名詞の後ろに置く場合"
+ },
+ {
+  "id": "V-24-a",
+  "unit": "V",
+  "no": "24",
+  "jp": "私達の現在の社会は大量のエネルギーを消費している。",
+  "answers": [
+   "Our societies today consume a large amount of energy."
+  ],
+  "audio": "audio/V/V-24-a-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Our societies today consume a lot of amount of energy.",
+  "secTitle": "修飾する名詞の後ろに置く場合"
+ },
+ {
+  "id": "V-24-b",
+  "unit": "V",
+  "no": "24",
+  "jp": "彼のテレビ番組にはたくさんの視聴者がいる。",
+  "answers": [
+   "His television show has a large audience."
+  ],
+  "audio": "audio/V/V-24-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "His television show has many audiences.",
+  "secTitle": "修飾する名詞の後ろに置く場合"
+ },
+ {
+  "id": "V-24-c",
+  "unit": "V",
+  "no": "24",
+  "jp": "それは人口の少ない小さな漁村です。",
+  "answers": [
+   "It is a small fishing village with a small population."
+  ],
+  "audio": "audio/V/V-24-c-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "It is a small fishing village with a few population.",
+  "secTitle": "修飾する名詞の後ろに置く場合"
+ },
+ {
+  "id": "V-25",
+  "unit": "V",
+  "no": "25",
+  "jp": "数十台の車やバスが深い霧の中で衝突した。",
+  "answers": [
+   "Dozens of cars and buses collided in thick fog.",
+   "Tens of cars and buses collided in thick fog."
+  ],
+  "audio": "audio/V/V-25-.mp3",
+  "section": {
+   "title": "大きな数を表す形容詞句",
+   "body": "dozen，hundred，thousand，million などの数詞は 「（ A ）＋of」 の形で 「数十の」「数百の」「数千の」 「数百万の」 という形容詞句になる。また，口語では 「非常に多くの」 を意味する誇張表現としても用いられる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " of cars and buses collided in thick fog."
+   }
+  ],
+  "solutions": [
+   [
+    "Dozens"
+   ],
+   [
+    "Tens"
+   ]
+  ],
+  "secTitle": "大きな数を表す形容詞句"
+ },
+ {
+  "id": "V-26",
+  "unit": "V",
+  "no": "26",
+  "jp": "その自動車メーカーは工場を閉鎖して数千人の労働者を解雇した。",
+  "answers": [
+   "The automaker closed plants and laid off thousands of workers."
+  ],
+  "audio": "audio/V/V-26-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The automaker closed plants and laid off "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " of workers."
+   }
+  ],
+  "solutions": [
+   [
+    "thousands"
+   ]
+  ],
+  "secTitle": "大きな数を表す形容詞句"
+ },
+ {
+  "id": "V-27",
+  "unit": "V",
+  "no": "27",
+  "jp": "その洪水で数万人がホームレスになった。",
+  "answers": [
+   "The floods left tens of thousands of people homeless."
+  ],
+  "audio": "audio/V/V-27-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The floods left "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " of thousands of people homeless."
+   }
+  ],
+  "solutions": [
+   [
+    "tens"
+   ]
+  ],
+  "secTitle": "大きな数を表す形容詞句"
+ },
+ {
+  "id": "V-28",
+  "unit": "V",
+  "no": "28",
+  "jp": "彼らは数十万ドルの寄付を受け取った。",
+  "answers": [
+   "They received hundreds of thousands of dollars in donations."
+  ],
+  "audio": "audio/V/V-28-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "They received "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " of thousands of dollars in donations."
+   }
+  ],
+  "solutions": [
+   [
+    "hundreds"
+   ]
+  ],
+  "secTitle": "大きな数を表す形容詞句"
+ },
+ {
+  "id": "V-29-a",
+  "unit": "V",
+  "no": "29",
+  "jp": "人のことに首を突っ込むなと何度言わせるんだ！",
+  "answers": [
+   "I've told you a dozen times not to poke your nose in!",
+   "I've told you a hundred times not to poke your nose in!"
+  ],
+  "audio": "audio/V/V-29-a-.mp3",
+  "tags": [
+   "適語を記入し２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I've told you a "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " times not to poke your nose in!"
+   }
+  ],
+  "solutions": [
+   [
+    "dozen"
+   ],
+   [
+    "hundred"
+   ]
+  ],
+  "secTitle": "大きな数を表す形容詞句"
+ },
+ {
+  "id": "V-29-b",
+  "unit": "V",
+  "no": "29",
+  "jp": "人のことに首を突っ込むなと何度言わせるんだ！",
+  "answers": [
+   "I've told you dozens of times not to poke your nose in!",
+   "I've told you hundreds of times not to poke your nose in!"
+  ],
+  "audio": "audio/V/V-29-b-.mp3",
+  "tags": [
+   "適語を記入し２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I've told you "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " of times not to poke your nose in!"
+   }
+  ],
+  "solutions": [
+   [
+    "dozens"
+   ],
+   [
+    "hundreds"
+   ]
+  ],
+  "secTitle": "大きな数を表す形容詞句"
+ }
+]

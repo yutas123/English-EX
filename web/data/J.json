@@ -1,0 +1,2888 @@
+[
+ {
+  "id": "J-01-a",
+  "unit": "J",
+  "no": "01",
+  "jp": "私に道を教えてくれた男性はハンサムでした。",
+  "answers": [
+   "The man who gave me directions was handsome."
+  ],
+  "audio": "audio/J/J-01-a-.mp3",
+  "section": {
+   "title": "形容詞節の基本",
+   "body": "名詞を修飾する文を 「形容詞節」 と呼び，形容詞節が修飾する名詞を 「先行詞」 と呼ぶ。形容詞節の文頭には 「関係代名詞」 「（ A ）＋関係代名詞」 「（ B ）」 のいずれかが置かれるが，省略されることもある。"
+  },
+  "tags": [
+   "各文の先行詞（1 語）に下線を引き形容詞節に （　）をする"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "The man who gave me directions was handsome.",
+  "secTitle": "形容詞節の基本"
+ },
+ {
+  "id": "J-01-b",
+  "unit": "J",
+  "no": "01",
+  "jp": "ことばとは私達が呼吸する空気のようなものだ。",
+  "answers": [
+   "Language is like the air we breathe."
+  ],
+  "audio": "audio/J/J-01-b-.mp3",
+  "tags": [
+   "各文の先行詞（1 語）に下線を引き形容詞節に （　）をする"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Language is like the air we breathe.",
+  "secTitle": "形容詞節の基本"
+ },
+ {
+  "id": "J-01-c",
+  "unit": "J",
+  "no": "01",
+  "jp": "これは今の時代にぴったりのアイデアだ。",
+  "answers": [
+   "This is an idea whose time has come."
+  ],
+  "audio": "audio/J/J-01-c-.mp3",
+  "tags": [
+   "各文の先行詞（1 語）に下線を引き形容詞節に （　）をする"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "This is an idea whose time has come.",
+  "secTitle": "形容詞節の基本"
+ },
+ {
+  "id": "J-01-d",
+  "unit": "J",
+  "no": "01",
+  "jp": "これは年齢よりも経験が物を言う仕事です。",
+  "answers": [
+   "This is a job in which experience counts more than age."
+  ],
+  "audio": "audio/J/J-01-d-.mp3",
+  "tags": [
+   "各文の先行詞（1 語）に下線を引き形容詞節に （　）をする"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "This is a job in which experience counts more than age.",
+  "secTitle": "形容詞節の基本"
+ },
+ {
+  "id": "J-01-e",
+  "unit": "J",
+  "no": "01",
+  "jp": "あなたのことを信用するに足る理由を一つ挙げてください。",
+  "answers": [
+   "Give me one good reason why I should trust you."
+  ],
+  "audio": "audio/J/J-01-e-.mp3",
+  "tags": [
+   "各文の先行詞（1 語）に下線を引き形容詞節に （　）をする"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Give me one good reason why I should trust you.",
+  "secTitle": "形容詞節の基本"
+ },
+ {
+  "id": "J-02",
+  "unit": "J",
+  "no": "02",
+  "jp": "スパナとはナットやボルトを締めるのに使われる道具です。",
+  "answers": [
+   "A wrench is a tool that is used to tighten nuts and bolts."
+  ],
+  "audio": "audio/J/J-02-.mp3",
+  "section": {
+   "title": "主語［主格］の関係代名詞",
+   "body": "「主語」 の関係代名詞で始まる形容詞節は後ろに 「動詞＋～」 という 「主語の欠落した不完全な文」 が続く。関係代名詞は先行詞が 「人」 であれば（ A ）かthat を用い，「人以外」 ならthat か（ B ）を用いる。"
+  },
+  "tags": [
+   "適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "A wrench is a tool that "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to tighten nuts and bolts."
+   }
+  ],
+  "solutions": [
+   [
+    "is",
+    "used"
+   ]
+  ],
+  "secTitle": "主語［主格］の関係代名詞"
+ },
+ {
+  "id": "J-03-a",
+  "unit": "J",
+  "no": "03",
+  "jp": "映画館で私の前に座っていた男はいびきをかいていた。",
+  "answers": [
+   "The man who was sitting in front of me at the movie was snoring."
+  ],
+  "audio": "audio/J/J-03-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The man who "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " in front of me at the movie "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " snoring."
+   }
+  ],
+  "solutions": [
+   [
+    "was",
+    "sitting",
+    "was"
+   ]
+  ],
+  "secTitle": "主語［主格］の関係代名詞"
+ },
+ {
+  "id": "J-03-b",
+  "unit": "J",
+  "no": "03",
+  "jp": "映画館で私の前に座っていた男はいびきをかいていた。",
+  "answers": [
+   "The man sitting in front of me at the movie was snoring."
+  ],
+  "audio": "audio/J/J-03-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The man "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " in front of me at the movie "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " snoring."
+   }
+  ],
+  "solutions": [
+   [
+    "sitting",
+    "was"
+   ]
+  ],
+  "secTitle": "主語［主格］の関係代名詞"
+ },
+ {
+  "id": "J-04",
+  "unit": "J",
+  "no": "04",
+  "jp": "じっと待っていてもただ年を取るだけです。",
+  "answers": [
+   "If you wait, all that happens is that you get older."
+  ],
+  "audio": "audio/J/J-04-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "If you wait, all "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " happens "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " that you get older."
+   }
+  ],
+  "solutions": [
+   [
+    "that",
+    "is"
+   ]
+  ],
+  "secTitle": "主語［主格］の関係代名詞"
+ },
+ {
+  "id": "J-05",
+  "unit": "J",
+  "no": "05",
+  "jp": "まず始めに，私に投票してくださった皆様にお礼を申し上げます。",
+  "answers": [
+   "First, I'd like to thank those of you who voted for me."
+  ],
+  "audio": "audio/J/J-05-.mp3",
+  "tags": [
+   "並べ替え"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "First, I'd like to thank "
+   },
+   {
+    "t": "order",
+    "words": [
+     "who",
+     "you",
+     "those of",
+     "voted"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " for me."
+   }
+  ],
+  "solutions": [
+   [
+    "those of you who voted"
+   ]
+  ],
+  "secTitle": "主語［主格］の関係代名詞"
+ },
+ {
+  "id": "J-06",
+  "unit": "J",
+  "no": "06",
+  "jp": "私のかつての知り合いはみんなここから引っ越してしまいました。",
+  "answers": [
+   "All the people I used to know have moved out."
+  ],
+  "audio": "audio/J/J-06-.mp3",
+  "section": {
+   "title": "目的語［目的格］の関係代名詞",
+   "body": "「目的語」 の関係代名詞で始まる形容詞節は後ろに 「主語＋動詞（＋前置詞）」 という 「（ A ）の欠落した不完全な文」 が続く。先行詞が 「人」 の場合はwhom, that, who を用い，「人以外」 の場合はthat, which を用いるが，たいてい（ B ）する。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "All the "
+   },
+   {
+    "t": "order",
+    "words": [
+     "I",
+     "used to",
+     "people",
+     "know",
+     "have"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " moved out."
+   }
+  ],
+  "solutions": [
+   [
+    "people I used to know have"
+   ]
+  ],
+  "secTitle": "目的語［目的格］の関係代名詞"
+ },
+ {
+  "id": "J-07",
+  "unit": "J",
+  "no": "07",
+  "jp": "私にわかっていることはただ，自分が何も知らないということだけです。",
+  "answers": [
+   "All I know is that I know nothing."
+  ],
+  "audio": "audio/J/J-07-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "All "
+   },
+   {
+    "t": "order",
+    "words": [
+     "is",
+     "I",
+     "know"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " that I know nothing."
+   }
+  ],
+  "solutions": [
+   [
+    "I know is"
+   ]
+  ],
+  "secTitle": "目的語［目的格］の関係代名詞"
+ },
+ {
+  "id": "J-08",
+  "unit": "J",
+  "no": "08",
+  "jp": "私が行きたい大学はハワイにあります。",
+  "answers": [
+   "The university I want to go to is in Hawaii."
+  ],
+  "audio": "audio/J/J-08-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "The university I want to go is in Hawaii.",
+  "secTitle": "目的語［目的格］の関係代名詞"
+ },
+ {
+  "id": "J-09",
+  "unit": "J",
+  "no": "09",
+  "jp": "これは私がロンドンで住んでいるアパートの写真です。",
+  "answers": [
+   "This is a picture of the flat I live in in London."
+  ],
+  "audio": "audio/J/J-09-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "This is a picture of the flat I live in in London.",
+  "secTitle": "目的語［目的格］の関係代名詞"
+ },
+ {
+  "id": "J-10",
+  "unit": "J",
+  "no": "10",
+  "jp": "英語を話す機会があれば全てフルに活用しています。",
+  "answers": [
+   "I make full use of every chance I have to speak English."
+  ],
+  "audio": "audio/J/J-10-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I make full use of every chance I have to speak English.",
+  "secTitle": "目的語［目的格］の関係代名詞"
+ },
+ {
+  "id": "J-11",
+  "unit": "J",
+  "no": "11",
+  "jp": "はい，これ。あなたが昨日私に尋ねた本よ。",
+  "answers": [
+   "Here is the book you asked me about yesterday."
+  ],
+  "audio": "audio/J/J-11-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Here is the book you "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "asked me",
+     "asked me about"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " yesterday."
+   }
+  ],
+  "solutions": [
+   [
+    "asked me about"
+   ]
+  ],
+  "secTitle": "目的語［目的格］の関係代名詞"
+ },
+ {
+  "id": "J-12-a",
+  "unit": "J",
+  "no": "12",
+  "jp": "私はかつての幸福でのんきな自分に戻りたい。",
+  "answers": [
+   "I wish to return to the happy, carefree person I used to be."
+  ],
+  "audio": "audio/J/J-12-a-.mp3",
+  "section": {
+   "title": "補語［補語格］の関係代名詞",
+   "body": "「補語」 の関係代名詞で始まる形容詞節は後ろに 「主語＋第２文型の動詞」 という「（ A ）の欠落した不完全な文」 が続く。「第２文型の動詞」 は通常，be 動詞である。関係代名詞は先行詞が 「人」 でも 「人以外」 でも（ B ）を用いるが，通常は省略する。"
+  },
+  "tags": [
+   "各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "I wish to return to the happy, carefree person I used to be.",
+  "secTitle": "補語［補語格］の関係代名詞"
+ },
+ {
+  "id": "J-12-b",
+  "unit": "J",
+  "no": "12",
+  "jp": "彼女は理想的な秘書です。",
+  "answers": [
+   "She is everything a secretary should be."
+  ],
+  "audio": "audio/J/J-12-b-.mp3",
+  "tags": [
+   "各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "She is everything a secretary should be.",
+  "secTitle": "補語［補語格］の関係代名詞"
+ },
+ {
+  "id": "J-13-a",
+  "unit": "J",
+  "no": "13",
+  "jp": "現在のラスベガスは10年前と同じ町ではない。",
+  "answers": [
+   "Las Vegas is not the same town it was ten years ago."
+  ],
+  "audio": "audio/J/J-13-a-.mp3",
+  "section": {
+   "title": "ヒント：carefree  「のんきな」",
+   "body": ""
+  },
+  "tags": [
+   " a) とほぼ同じ意味になるようにb) に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Las Vegas is not the same town it was ten years ago.",
+  "secTitle": "ヒント：carefree  「のんきな」"
+ },
+ {
+  "id": "J-13-b",
+  "unit": "J",
+  "no": "13",
+  "jp": "現在のラスベガスは10年前のそれではない。",
+  "answers": [
+   "Las Vegas is not what it was ten years ago."
+  ],
+  "audio": "audio/J/J-13-b-.mp3",
+  "tags": [
+   " a) とほぼ同じ意味になるようにb) に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Las Vegas is not "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " it was ten years ago."
+   }
+  ],
+  "solutions": [
+   [
+    "what"
+   ]
+  ],
+  "secTitle": "ヒント：carefree  「のんきな」"
+ },
+ {
+  "id": "J-14",
+  "unit": "J",
+  "no": "14",
+  "jp": "そういう男なんだよ彼は。",
+  "answers": [
+   "That's the sort of man he is."
+  ],
+  "audio": "audio/J/J-14-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "That's the sort of man "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "he",
+    "is"
+   ]
+  ],
+  "secTitle": "ヒント：carefree  「のんきな」"
+ },
+ {
+  "id": "J-15",
+  "unit": "J",
+  "no": "15",
+  "jp": "子育てというのは（この世で）最も大切な仕事だと私は思います。",
+  "answers": [
+   "I believe that raising children is the most important job there is."
+  ],
+  "audio": "audio/J/J-15-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I believe that raising children is the most important job "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " is."
+   }
+  ],
+  "solutions": [
+   [
+    "there"
+   ]
+  ],
+  "secTitle": "ヒント：carefree  「のんきな」"
+ },
+ {
+  "id": "J-16",
+  "unit": "J",
+  "no": "16",
+  "jp": "ジョージ・ワシントンはその肖像が1ドル紙幣に印刷されている大統領です。",
+  "answers": [
+   "George Washington is the president whose picture is on the one-dollar bill."
+  ],
+  "audio": "audio/J/J-16-.mp3",
+  "section": {
+   "title": "所有格の関係代名詞 ① ～ whose",
+   "body": "whose は所有格の形容詞として（ A ）を修飾し 「whose ＋（ A ）」 という名詞句で用いる。この名詞句は形容詞節の 「主語」 か 「（ B ）」 になるので 「whose ＋（ A ）」 の後ろには主語か（ B ）が欠落した不完全な文が置かれる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "George Washington is "
+   },
+   {
+    "t": "order",
+    "words": [
+     "whose",
+     "on",
+     "is",
+     "picture",
+     "the president",
+     "the one-dollar bill"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "the president whose picture is on the one-dollar bill"
+   ]
+  ],
+  "secTitle": "所有格の関係代名詞 ① ～ whose"
+ },
+ {
+  "id": "J-17",
+  "unit": "J",
+  "no": "17",
+  "jp": "彼らは今にも屋根が崩れそうな家に暮らしていた。",
+  "answers": [
+   "They lived in a house whose roof could collapse at any time."
+  ],
+  "audio": "audio/J/J-17-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "They lived in a "
+   },
+   {
+    "t": "order",
+    "words": [
+     "roof",
+     "whose",
+     "house",
+     "could",
+     "collapse"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " at any time."
+   }
+  ],
+  "solutions": [
+   [
+    "house whose roof could collapse"
+   ]
+  ],
+  "secTitle": "所有格の関係代名詞 ① ～ whose"
+ },
+ {
+  "id": "J-18",
+  "unit": "J",
+  "no": "18",
+  "jp": "私が履修している講座の教授は難しい試験問題を出します。",
+  "answers": [
+   "The professor whose course I'm taking gives hard tests."
+  ],
+  "audio": "audio/J/J-18-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The professor "
+   },
+   {
+    "t": "order",
+    "words": [
+     "I'm",
+     "whose",
+     "taking",
+     "gives",
+     "course"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " hard tests."
+   }
+  ],
+  "solutions": [
+   [
+    "whose course I'm taking gives"
+   ]
+  ],
+  "secTitle": "所有格の関係代名詞 ① ～ whose"
+ },
+ {
+  "id": "J-19",
+  "unit": "J",
+  "no": "19",
+  "jp": "意味がよくわかっていない単語は使わないようにしてください。",
+  "answers": [
+   "Don't use words whose meanings you are not sure of."
+  ],
+  "audio": "audio/J/J-19-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Don't use words whose meanings you are not sure.",
+  "secTitle": "所有格の関係代名詞 ① ～ whose"
+ },
+ {
+  "id": "J-20",
+  "unit": "J",
+  "no": "20",
+  "jp": "私には２人の息子と５人の孫がいて，彼らは全員近所に住んでいます。",
+  "answers": [
+   "I have two sons and five grandchildren, all of whom live nearby."
+  ],
+  "audio": "audio/J/J-20-.mp3",
+  "section": {
+   "title": "所有格の関係代名詞 ② ～「of＋関係代名詞」",
+   "body": "whose（すなわちその）はall, most, many, some, several, few, none などの部分詞やone, two などの数詞を修飾できないので，「of ＋（ A ）」（先行詞が人の場合）か 「of ＋（ B ）」（先行詞が人以外の場合） に置き換えて部分詞や数詞を修飾させる。この 「部分詞」「数詞」 は形容詞節の「主語」もしくは「目的語」 になり，後ろには 「主語もしくは目的語が欠落する不完全な文」 が置かれる。この形容詞節は 「部分詞」 「数詞」 以外（の一般名詞）でも用いられることがある。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I have two sons and five grandchildren, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " of "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " live nearby."
+   }
+  ],
+  "solutions": [
+   [
+    "all",
+    "whom"
+   ]
+  ],
+  "secTitle": "所有格の関係代名詞 ② ～「of＋関係代名詞」"
+ },
+ {
+  "id": "J-21",
+  "unit": "J",
+  "no": "21",
+  "jp": "その宮殿は，（その）一部が造られて数百年経つという美しい庭園で有名だ。",
+  "answers": [
+   "The palace is well known for its beautiful gardens, some of which are hundreds of years old."
+  ],
+  "audio": "audio/J/J-21-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The palace is well known for its beautiful gardens, some "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " hundreds of years old."
+   }
+  ],
+  "solutions": [
+   [
+    "of",
+    "which",
+    "are"
+   ]
+  ],
+  "secTitle": "所有格の関係代名詞 ② ～「of＋関係代名詞」"
+ },
+ {
+  "id": "J-22",
+  "unit": "J",
+  "no": "22",
+  "jp": "彼女は私が（どれも）一度も聞いたことがない，いくつかのブランド名について話した。",
+  "answers": [
+   "She mentioned a number of brand names, none of which I had ever heard of."
+  ],
+  "audio": "audio/J/J-22-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She mentioned a number of brand names, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " which I had ever heard of."
+   }
+  ],
+  "solutions": [
+   [
+    "none",
+    "of"
+   ]
+  ],
+  "secTitle": "所有格の関係代名詞 ② ～「of＋関係代名詞」"
+ },
+ {
+  "id": "J-23-a",
+  "unit": "J",
+  "no": "23",
+  "jp": "私は，オーナーがワンマンで知られるある地元の建設会社で働いていました。",
+  "answers": [
+   "I worked for a local construction company, whose owner was known to be a tyrant."
+  ],
+  "audio": "audio/J/J-23-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I worked for a local construction company, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " owner "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " known to be a tyrant."
+   }
+  ],
+  "solutions": [
+   [
+    "whose",
+    "was"
+   ]
+  ],
+  "secTitle": "所有格の関係代名詞 ② ～「of＋関係代名詞」"
+ },
+ {
+  "id": "J-23-b",
+  "unit": "J",
+  "no": "23",
+  "jp": "私は，オーナーがワンマンで知られるある地元の建設会社で働いていました。",
+  "answers": [
+   "I worked for a local construction company, the owner of which was known to be a tyrant."
+  ],
+  "audio": "audio/J/J-23-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I worked for a local construction company, the owner "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " known to be a tyrant."
+   }
+  ],
+  "solutions": [
+   [
+    "of",
+    "which",
+    "was"
+   ]
+  ],
+  "secTitle": "所有格の関係代名詞 ② ～「of＋関係代名詞」"
+ },
+ {
+  "id": "J-24",
+  "unit": "J",
+  "no": "24",
+  "jp": "彼は書いた作品の５冊が英語や他の外国語に翻訳されているベストセラー作家だ。",
+  "answers": [
+   "He is a best-selling writer, five of whose works have been translated into English and other languages."
+  ],
+  "audio": "audio/J/J-24-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He is a best-selling writer, five "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " works have been translated into English and other languages."
+   }
+  ],
+  "solutions": [
+   [
+    "of",
+    "whose"
+   ]
+  ],
+  "secTitle": "所有格の関係代名詞 ② ～「of＋関係代名詞」"
+ },
+ {
+  "id": "J-25",
+  "unit": "J",
+  "no": "25",
+  "jp": "君たちは自分にはできないと思うことをしなければならない。",
+  "answers": [
+   "You must do the things you think you cannot do."
+  ],
+  "audio": "audio/J/J-25-.mp3",
+  "section": {
+   "title": "関係代名詞がthat 節（名詞節）の主語［目的語］になる場合",
+   "body": "「主語＋動詞＋that 節」 のthat 節（＝名詞節）に含まれる 「目的語」 や 「主語」 が関係代名詞になることがある。that 節中の 「目的語」 が関係代名詞として形容詞節の文頭に置かれる場合は 「目的語の関係代名詞＋主語＋動詞＋(that)＋主語＋（ A ）の欠落する動詞（句）」 になり，that 節中の 「主語」 が関係代名詞として形容詞節の文頭に置かれる場合は 「主語の関係代名詞＋主語＋動詞＋that ＋（ B ） ～」 になる。前者の形容詞節では通常接続詞のthat を省略し，後者の形容詞節では（代名詞のthat との混同を避けるために） 接続詞のthat を必ず省略する。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "You must do the things "
+   },
+   {
+    "t": "order",
+    "words": [
+     "you",
+     "you",
+     "think",
+     "do",
+     "cannot"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "you think you cannot do"
+   ]
+  ],
+  "secTitle": "関係代名詞がthat 節（名詞節）の主語［目的語］になる場合"
+ },
+ {
+  "id": "J-26",
+  "unit": "J",
+  "no": "26",
+  "jp": "僕が一緒にいるところを見たってメアリーが言ってた子は僕の妹だよ。",
+  "answers": [
+   "The girl that Mary said she saw me with was my sister."
+  ],
+  "audio": "audio/J/J-26-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The girl that "
+   },
+   {
+    "t": "order",
+    "words": [
+     "Mary",
+     "she",
+     "me",
+     "said",
+     "saw",
+     "with"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " was my sister."
+   }
+  ],
+  "solutions": [
+   [
+    "Mary said she saw me with"
+   ]
+  ],
+  "secTitle": "関係代名詞がthat 節（名詞節）の主語［目的語］になる場合"
+ },
+ {
+  "id": "J-27",
+  "unit": "J",
+  "no": "27",
+  "jp": "それは読む価値があると私が思う唯一のニュース雑誌です。",
+  "answers": [
+   "It is the only news magazine that I think is worth reading."
+  ],
+  "audio": "audio/J/J-27-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It is the only news magazine "
+   },
+   {
+    "t": "order",
+    "words": [
+     "I",
+     "think",
+     "that",
+     "is",
+     "worth"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " reading."
+   }
+  ],
+  "solutions": [
+   [
+    "that I think is worth"
+   ]
+  ],
+  "secTitle": "関係代名詞がthat 節（名詞節）の主語［目的語］になる場合"
+ },
+ {
+  "id": "J-28-a",
+  "unit": "J",
+  "no": "28",
+  "jp": "彼が自分の妻だと言っていたその女性は実は彼の愛人だったことが後でわかった。",
+  "answers": [
+   "The woman who he said was his wife turned out to be his mistress."
+  ],
+  "audio": "audio/J/J-28-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The woman "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " his wife turned out to be his mistress."
+   }
+  ],
+  "solutions": [
+   [
+    "who",
+    "he",
+    "said",
+    "was"
+   ]
+  ],
+  "secTitle": "関係代名詞がthat 節（名詞節）の主語［目的語］になる場合"
+ },
+ {
+  "id": "J-28-b",
+  "unit": "J",
+  "no": "28",
+  "jp": "彼が自分の妻だと言っていたその女性は実は彼の愛人だったことが後でわかった。",
+  "answers": [
+   "The woman he said was his wife turned out to be his mistress."
+  ],
+  "audio": "audio/J/J-28-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The woman "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " his wife turned out to be his mistress."
+   }
+  ],
+  "solutions": [
+   [
+    "he",
+    "said",
+    "was"
+   ]
+  ],
+  "secTitle": "関係代名詞がthat 節（名詞節）の主語［目的語］になる場合"
+ },
+ {
+  "id": "J-29",
+  "unit": "J",
+  "no": "29",
+  "jp": "これは私がこれまでに学んだ中であなたの役に立つかもしれない教訓です。",
+  "answers": [
+   "Here are the lessons I've learned that may help you."
+  ],
+  "audio": "audio/J/J-29-.mp3",
+  "section": {
+   "title": "形容詞節が２つある場合（二重限定）",
+   "body": "先行詞の後ろに２つの形容詞節（ 「～」 「…」）を並べると 「～である中で…である＜先行詞＞」 という意味になる。この場合，（ A ）番目の形容詞節の関係代名詞は（目的語や補語であれば）省略できるが，（ B ）番目の形容詞節の関係代名詞は（目的語や補語であっても）省略できない。"
+  },
+  "tags": [
+   "形容詞節に下線を引き，全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Here are the lessons I've learned that may help you.",
+  "secTitle": "形容詞節が２つある場合（二重限定）"
+ },
+ {
+  "id": "J-30",
+  "unit": "J",
+  "no": "30",
+  "jp": "彼女は私の知り合いの中でロシア語を話す唯一の中国人です。",
+  "answers": [
+   "She is the only Chinese I know who speaks Russian."
+  ],
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She is the "
+   },
+   {
+    "t": "order",
+    "words": [
+     "Chinese",
+     "I",
+     "who",
+     "only",
+     "know"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " speaks Russian."
+   }
+  ],
+  "solutions": [
+   [
+    "only Chinese I know who"
+   ]
+  ],
+  "secTitle": "形容詞節が２つある場合（二重限定）"
+ },
+ {
+  "id": "J-31-a",
+  "unit": "J",
+  "no": "31",
+  "jp": "彼が滞在していた家は現在記念館になっています。",
+  "answers": [
+   "The house in which he stayed has been made into a museum."
+  ],
+  "audio": "audio/J/J-31-a-.mp3",
+  "section": {
+   "title": "前置詞＋関係代名詞",
+   "body": "「前置詞＋whom」 や 「前置詞＋which」 は形容詞節の文頭で（ A ）として用いられることがある。この（ A ）の後ろには 「主語＋動詞＋～」 という（５文型のどれかが成立する）「完全文」 が置かれる。この whom とwhich は that に置き換えることができず，省略もできない。この形容詞節はかなり堅い表現である。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The house "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " he stayed has been made into a museum."
+   }
+  ],
+  "solutions": [
+   [
+    "in",
+    "which"
+   ]
+  ],
+  "secTitle": "前置詞＋関係代名詞"
+ },
+ {
+  "id": "J-31-b",
+  "unit": "J",
+  "no": "31",
+  "jp": "彼が滞在していた家は現在記念館になっています。",
+  "answers": [
+   "The house he stayed in has been made into a museum."
+  ],
+  "audio": "audio/J/J-31-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The house he stayed "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " has been made into a museum."
+   }
+  ],
+  "solutions": [
+   [
+    "in"
+   ]
+  ],
+  "secTitle": "前置詞＋関係代名詞"
+ },
+ {
+  "id": "J-32",
+  "unit": "J",
+  "no": "32",
+  "jp": "彼女は私がありのままの自分でいられる友人の一人です。",
+  "answers": [
+   "She's one of my friends with whom I can be myself."
+  ],
+  "audio": "audio/J/J-32-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She's one of my friends "
+   },
+   {
+    "t": "order",
+    "words": [
+     "whom",
+     "can",
+     "I",
+     "be",
+     "with"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " myself."
+   }
+  ],
+  "solutions": [
+   [
+    "with whom I can be"
+   ]
+  ],
+  "secTitle": "前置詞＋関係代名詞"
+ },
+ {
+  "id": "J-33",
+  "unit": "J",
+  "no": "33",
+  "jp": "彼は，その人となりについてはほとんど知られていない，多作の作家であった。",
+  "answers": [
+   "He was a prolific writer about whom little is known."
+  ],
+  "audio": "audio/J/J-33-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He was a prolific "
+   },
+   {
+    "t": "order",
+    "words": [
+     "writer",
+     "whom",
+     "little",
+     "about",
+     "is"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " known."
+   }
+  ],
+  "solutions": [
+   [
+    "writer about whom little is"
+   ]
+  ],
+  "secTitle": "前置詞＋関係代名詞"
+ },
+ {
+  "id": "J-34",
+  "unit": "J",
+  "no": "34",
+  "jp": "唯一本当の過ちとは，我々がそれから何も学ばない過ちのことです。",
+  "answers": [
+   "The only real mistake is the one from which we learn nothing."
+  ],
+  "audio": "audio/J/J-34-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The only real mistake is the one "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " we learn nothing."
+   }
+  ],
+  "solutions": [
+   [
+    "from",
+    "which"
+   ]
+  ],
+  "secTitle": "前置詞＋関係代名詞"
+ },
+ {
+  "id": "J-35",
+  "unit": "J",
+  "no": "35",
+  "jp": "答えのない問題というのはたくさんあります。",
+  "answers": [
+   "There are many questions to which there are no answers."
+  ],
+  "audio": "audio/J/J-35-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "There are many questions "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " there are no answers."
+   }
+  ],
+  "solutions": [
+   [
+    "to",
+    "which"
+   ]
+  ],
+  "secTitle": "前置詞＋関係代名詞"
+ },
+ {
+  "id": "J-36",
+  "unit": "J",
+  "no": "36",
+  "jp": "ほ乳類は人類が属している動物の集団です。",
+  "answers": [
+   "Mammals are the group of animals to which humans belong."
+  ],
+  "audio": "audio/J/J-36-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Mammals are the group of animals "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " humans belong."
+   }
+  ],
+  "solutions": [
+   [
+    "to",
+    "which"
+   ]
+  ],
+  "secTitle": "前置詞＋関係代名詞"
+ },
+ {
+  "id": "J-37",
+  "unit": "J",
+  "no": "37",
+  "jp": "日本での犯罪検挙率（＝犯罪が解決する率）は極めて高い。",
+  "answers": [
+   "The rate at which crimes are solved in Japan is extremely high."
+  ],
+  "audio": "audio/J/J-37-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The rate "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " crimes are solved in Japan is extremely high."
+   }
+  ],
+  "solutions": [
+   [
+    "at",
+    "which"
+   ]
+  ],
+  "secTitle": "前置詞＋関係代名詞"
+ },
+ {
+  "id": "J-38",
+  "unit": "J",
+  "no": "38",
+  "jp": "これはニュートンがその隣に座っていたリンゴの木です。",
+  "answers": [
+   "This is the apple tree next to which Newton was sitting."
+  ],
+  "audio": "audio/J/J-38-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "This is the apple tree "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " which Newton was sitting."
+   }
+  ],
+  "solutions": [
+   [
+    "next",
+    "to"
+   ]
+  ],
+  "secTitle": "前置詞＋関係代名詞"
+ },
+ {
+  "id": "J-39-a",
+  "unit": "J",
+  "no": "39",
+  "jp": "何もかもがうまくいかないと思える日もあります。",
+  "answers": [
+   "There are days when everything seems to go wrong.",
+   "There are days everything seems to go wrong."
+  ],
+  "audio": "audio/J/J-39-a-.mp3",
+  "section": {
+   "title": "関係副詞の基本",
+   "body": "「前置詞＋関係代名詞」 は副詞句として形容詞節の文頭に置かれるが，where やwhen のような副詞も文頭に置かれ，これらを 「関係副詞」 と呼ぶ。関係副詞には「場所」を表すwhere，「時」を表すwhen，「理由」を表すwhy，「方法・様態」を表すthat がある。これらの関係副詞の後ろには５文型のどれかが成立する 「完全文」が置かれる。when とwhy は（ A ）で置き換えることができるが，（ B ）は原則として（ A ）で置き換えることができない。また，（ B ）は原則として省略ができないが，その他の関係副詞は全て省略ができる。"
+  },
+  "tags": [
+   "空所に適切な関係副詞を入れ，さらにそれが省略可能か否かを述べる"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "There are days "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " everything seems to go wrong."
+   }
+  ],
+  "solutions": [
+   [
+    "when"
+   ],
+   [
+    " "
+   ]
+  ],
+  "secTitle": "関係副詞の基本"
+ },
+ {
+  "id": "J-39-b",
+  "unit": "J",
+  "no": "39",
+  "jp": "日本は英語が最も通じない国の一つだ。",
+  "answers": [
+   "Japan is one of the countries where English is least understood."
+  ],
+  "audio": "audio/J/J-39-b-.mp3",
+  "tags": [
+   "空所に適切な関係副詞を入れ，さらにそれが省略可能か否かを述べる"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Japan is one of the countries "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " English is least understood."
+   }
+  ],
+  "solutions": [
+   [
+    "where"
+   ]
+  ],
+  "secTitle": "関係副詞の基本"
+ },
+ {
+  "id": "J-39-c",
+  "unit": "J",
+  "no": "39",
+  "jp": "彼女は自分が肉を食べるのをやめた理由を説明した。",
+  "answers": [
+   "She explained the reasons why she gave up eating meat.",
+   "She explained the reasons she gave up eating meat."
+  ],
+  "audio": "audio/J/J-39-c-.mp3",
+  "tags": [
+   "空所に適切な関係副詞を入れ，さらにそれが省略可能か否かを述べる"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She explained the reasons "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " she gave up eating meat."
+   }
+  ],
+  "solutions": [
+   [
+    "why"
+   ],
+   [
+    " "
+   ]
+  ],
+  "secTitle": "関係副詞の基本"
+ },
+ {
+  "id": "J-39-d",
+  "unit": "J",
+  "no": "39",
+  "jp": "君がその問題を処理したやり方はとても素晴らしかった。",
+  "answers": [
+   "The way that you handled the problem was very impressive.",
+   "The way you handled the problem was very impressive."
+  ],
+  "audio": "audio/J/J-39-d-.mp3",
+  "tags": [
+   "空所に適切な関係副詞を入れ，さらにそれが省略可能か否かを述べる"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The way "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " you handled the problem was very impressive."
+   }
+  ],
+  "solutions": [
+   [
+    "that"
+   ],
+   [
+    " "
+   ]
+  ],
+  "secTitle": "関係副詞の基本"
+ },
+ {
+  "id": "J-40-a",
+  "unit": "J",
+  "no": "40",
+  "jp": "インターネットは人のコミュニケーションの方法を変えた。",
+  "answers": [
+   "The Internet has changed the way that people communicate.",
+   "The Internet has changed the way in which people communicate."
+  ],
+  "audio": "audio/J/J-40-a-.mp3",
+  "tags": [
+   "下線部を 「前置詞＋which」 に置き換えることができない 4 4 4 4 のはどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "The Internet has changed the way that people communicate.",
+  "secTitle": "関係副詞の基本"
+ },
+ {
+  "id": "J-40-b",
+  "unit": "J",
+  "no": "40",
+  "jp": "私には彼が拒否した理由が思いつかない。",
+  "answers": [
+   "I can't think of the reason why he refused."
+  ],
+  "audio": "audio/J/J-40-b-.mp3",
+  "tags": [
+   "下線部を 「前置詞＋which」 に置き換えることができない 4 4 4 4 のはどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I can't think of the reason why he refused.",
+  "secTitle": "関係副詞の基本"
+ },
+ {
+  "id": "J-40-c",
+  "unit": "J",
+  "no": "40",
+  "jp": "それはローマ法王ヨハネ・パウロ２世がインドに来た年でした。",
+  "answers": [
+   "That was the year when Pope John Paul II came to India.",
+   "That was the year in which Pope John Paul II came to India."
+  ],
+  "audio": "audio/J/J-40-c-.mp3",
+  "tags": [
+   "下線部を 「前置詞＋which」 に置き換えることができない 4 4 4 4 のはどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "That was the year when Pope John Paul II came to India.",
+  "secTitle": "関係副詞の基本"
+ },
+ {
+  "id": "J-40-d",
+  "unit": "J",
+  "no": "40",
+  "jp": "私達はシェークスピアの生家を訪れた。",
+  "answers": [
+   "We visited the house where Shakespeare was born.",
+   "We visited the house in which Shakespeare was born."
+  ],
+  "audio": "audio/J/J-40-d-.mp3",
+  "tags": [
+   "下線部を 「前置詞＋which」 に置き換えることができない 4 4 4 4 のはどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "We visited the house where Shakespeare was born.",
+  "secTitle": "関係副詞の基本"
+ },
+ {
+  "id": "J-41-a",
+  "unit": "J",
+  "no": "41",
+  "jp": "台所は私が家の中で一番好きな場所です。",
+  "answers": [
+   "The kitchen is the place I like best in my house.",
+   "The kitchen is the place that I like best in my house."
+  ],
+  "audio": "audio/J/J-41-a-.mp3",
+  "section": {
+   "title": "「場所」と「時」を表す関係副詞",
+   "body": "「場所」 を表す関係副詞のwhere はthat で置き換えたり省略することができないが，（ A ）やanywhere, somewhere, nowhere のような 「場所」 を表すことばが先行詞の場合はthat で置き換えが可能で省略もできる。「時」 を表す関係副詞はwhen かthat であるが（ B ）されることが多い。また，「時」 を表す先行詞の前に（ C ）が置かれる場合はその（ C ）を省略することがあり，特に先行詞がthe moment やevery time などの場合は省略するのが一般的である。"
+  },
+  "tags": [
+   "間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "The kitchen is the place where I like best in my house.",
+  "secTitle": "「場所」と「時」を表す関係副詞"
+ },
+ {
+  "id": "J-41-b",
+  "unit": "J",
+  "no": "41",
+  "jp": "家は私が本当にリラックスできて伸び伸びできる唯一の場所です。",
+  "answers": [
+   "Home is the only place I can really relax and unwind."
+  ],
+  "audio": "audio/J/J-41-b-.mp3",
+  "tags": [
+   "間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Home is the only place I can really relax and unwind.",
+  "secTitle": "「場所」と「時」を表す関係副詞"
+ },
+ {
+  "id": "J-42",
+  "unit": "J",
+  "no": "42",
+  "jp": "どこか座って話ができる場所を探しましょう。",
+  "answers": [
+   "Let's find somewhere we can sit and talk."
+  ],
+  "audio": "audio/J/J-42-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Let's find "
+   },
+   {
+    "t": "order",
+    "words": [
+     "we",
+     "somewhere",
+     "can"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " sit and talk."
+   }
+  ],
+  "solutions": [
+   [
+    "somewhere we can"
+   ]
+  ],
+  "secTitle": "「場所」と「時」を表す関係副詞"
+ },
+ {
+  "id": "J-43",
+  "unit": "J",
+  "no": "43",
+  "jp": "それらの宗教の人々が共に平和に暮らせる日が来ることを願っています。",
+  "answers": [
+   "I hope the day will come when the peoples of those religions will live peacefully together."
+  ],
+  "audio": "audio/J/J-43-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I hope "
+   },
+   {
+    "t": "order",
+    "words": [
+     "when",
+     "will",
+     "the day",
+     "come"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " the peoples of those religions will live peacefully together."
+   }
+  ],
+  "solutions": [
+   [
+    "the day will come when"
+   ]
+  ],
+  "secTitle": "「場所」と「時」を表す関係副詞"
+ },
+ {
+  "id": "J-44",
+  "unit": "J",
+  "no": "44",
+  "jp": "頼まれてもはっきり 「NO」 と言わなければならない時があります。",
+  "answers": [
+   "There are occasions when you have to say 'No' to certain requests."
+  ],
+  "audio": "audio/J/J-44-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "There are occasions "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " you have to say 'No' to certain requests."
+   }
+  ],
+  "solutions": [
+   [
+    "when"
+   ]
+  ],
+  "secTitle": "「場所」と「時」を表す関係副詞"
+ },
+ {
+  "id": "J-45",
+  "unit": "J",
+  "no": "45",
+  "jp": "私達はまともな選択肢がない状況に置かれている。",
+  "answers": [
+   "We are in a situation where there are no good options."
+  ],
+  "audio": "audio/J/J-45-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We are in a situation "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " there are no good options."
+   }
+  ],
+  "solutions": [
+   [
+    "where"
+   ]
+  ],
+  "secTitle": "「場所」と「時」を表す関係副詞"
+ },
+ {
+  "id": "J-46",
+  "unit": "J",
+  "no": "46",
+  "jp": "今では車があるので，（その）バスに乗る必要はなくなりました。",
+  "answers": [
+   "Now that I have a car, I don't have to take the bus."
+  ],
+  "audio": "audio/J/J-46-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " I have a car, I don't have to take the bus."
+   }
+  ],
+  "solutions": [
+   [
+    "Now",
+    "that"
+   ]
+  ],
+  "secTitle": "「場所」と「時」を表す関係副詞"
+ },
+ {
+  "id": "J-47-a",
+  "unit": "J",
+  "no": "47",
+  "jp": "教育は我々が生まれた日に始まる。",
+  "answers": [
+   "Education starts the day we are born."
+  ],
+  "audio": "audio/J/J-47-a-.mp3",
+  "tags": [
+   "下線部の前置詞がなくても［もしくはない方が］自然な英文はどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Education starts on the day we are born.",
+  "secTitle": "「場所」と「時」を表す関係副詞"
+ },
+ {
+  "id": "J-47-b",
+  "unit": "J",
+  "no": "47",
+  "jp": "立ち上がった瞬間に彼女はめまいを感じた。",
+  "answers": [
+   "She felt dizzy the moment she stood up."
+  ],
+  "audio": "audio/J/J-47-b-.mp3",
+  "tags": [
+   "下線部の前置詞がなくても［もしくはない方が］自然な英文はどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "She felt dizzy at the moment she stood up.",
+  "secTitle": "「場所」と「時」を表す関係副詞"
+ },
+ {
+  "id": "J-47-c",
+  "unit": "J",
+  "no": "47",
+  "jp": "初めて彼女を見た時，私は彼女に恋をした。",
+  "answers": [
+   "I fell in love with her the first time I saw her."
+  ],
+  "audio": "audio/J/J-47-c-.mp3",
+  "tags": [
+   "下線部の前置詞がなくても［もしくはない方が］自然な英文はどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I fell in love with her at the first time I saw her.",
+  "secTitle": "「場所」と「時」を表す関係副詞"
+ },
+ {
+  "id": "J-47-d",
+  "unit": "J",
+  "no": "47",
+  "jp": "おばあちゃん，会う度に若くなってるね。",
+  "answers": [
+   "Grandma, you look younger every time I see you."
+  ],
+  "audio": "audio/J/J-47-d-.mp3",
+  "tags": [
+   "下線部の前置詞がなくても［もしくはない方が］自然な英文はどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Grandma, you look younger at every time I see you.",
+  "secTitle": "「場所」と「時」を表す関係副詞"
+ },
+ {
+  "id": "J-47-e",
+  "unit": "J",
+  "no": "47",
+  "jp": "我々が駅に着いた時にはすでに電車は出てしまっていた。",
+  "answers": [
+   "By the time we got to the station, the train had already gone."
+  ],
+  "audio": "audio/J/J-47-e-.mp3",
+  "tags": [
+   "下線部の前置詞がなくても［もしくはない方が］自然な英文はどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "By the time we got to the station, the train had already gone.",
+  "secTitle": "「場所」と「時」を表す関係副詞"
+ },
+ {
+  "id": "J-48",
+  "unit": "J",
+  "no": "48",
+  "jp": "登場人物達が繊細に描かれている点がとても気に入っています。",
+  "answers": [
+   "I love the sensitive way in which the characters are portrayed."
+  ],
+  "audio": "audio/J/J-48-.mp3",
+  "section": {
+   "title": "「方法・様態」を表す関係副詞",
+   "body": "先行詞が 「方法」「様態」 を表すway の場合は通常，関係副詞を省略する。省略しない場合はthat を用いるか，フォーマルな文では 「( A ) ( B )」 を用いる。また，「～する方法［様態，形］で」 という 「in the way ～」 は（ C ）を省略することができ，副詞節の 「（ D ）～」 とほぼ同じ意味になる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I love the sensitive way "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the characters are portrayed."
+   }
+  ],
+  "solutions": [
+   [
+    "in",
+    "which"
+   ]
+  ],
+  "secTitle": "「方法・様態」を表す関係副詞"
+ },
+ {
+  "id": "J-49",
+  "unit": "J",
+  "no": "49",
+  "jp": "「これは私の手には負えません」「わかった。じゃあ私に任せて」",
+  "answers": [
+   "\"There's no way I can handle this.\" \"OK, leave it to me.\""
+  ],
+  "audio": "audio/J/J-49-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"There's "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " I can handle this.\" \"OK, leave it to me.\""
+   }
+  ],
+  "solutions": [
+   [
+    "no",
+    "way"
+   ]
+  ],
+  "secTitle": "「方法・様態」を表す関係副詞"
+ },
+ {
+  "id": "J-50",
+  "unit": "J",
+  "no": "50",
+  "jp": "我々はもう昔のようなやり方ではビジネスができなくなっている。",
+  "answers": [
+   "We can't do business the way we used to."
+  ],
+  "audio": "audio/J/J-50-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We can't do business "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " we used to."
+   }
+  ],
+  "solutions": [
+   [
+    "the",
+    "way"
+   ]
+  ],
+  "secTitle": "「方法・様態」を表す関係副詞"
+ },
+ {
+  "id": "J-51",
+  "unit": "J",
+  "no": "51",
+  "jp": "僕は今の（ままの）君を愛しているんだ。",
+  "answers": [
+   "I love you just the way you are."
+  ],
+  "audio": "audio/J/J-51-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I love you just "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " you are."
+   }
+  ],
+  "solutions": [
+   [
+    "the",
+    "way"
+   ]
+  ],
+  "secTitle": "「方法・様態」を表す関係副詞"
+ },
+ {
+  "id": "J-52",
+  "unit": "J",
+  "no": "52",
+  "jp": "偉大な漫画家の手塚治虫は1989年に亡くなった。",
+  "answers": [
+   "Osamu Tezuka, who was a great cartoonist, died in 1989."
+  ],
+  "audio": "audio/J/J-52-.mp3",
+  "section": {
+   "title": "制限用法と非制限用法の違い",
+   "body": "形容詞節の前にカンマがないものを「制限用法」と呼び，あるものを「非制限用法」と呼ぶ。制限用法は先行詞の範囲を絞って特定化する働きがあり，非制限用法は先行詞に補足的な情報を加える働きがある。Bill Gates, New York, the earth のような唯一無二の存在は，補足的な情報を加えることはできても，範囲を絞ることはできないので（ A ）用法にはできない。非制限用法では関係詞を（ B ）することができず，また，that とwhy を用いることができない。"
+  },
+  "tags": [
+   "間違いがあれば訂正"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Osamu Tezuka who was a great cartoonist died in 1989.",
+  "secTitle": "制限用法と非制限用法の違い"
+ },
+ {
+  "id": "J-53",
+  "unit": "J",
+  "no": "53",
+  "jp": "おとなしい人だと思っていた私の上司が最初にマイクを取って歌い始めた。",
+  "answers": [
+   "My boss, who I thought was a quiet person, was the first to grab the microphone and sing."
+  ],
+  "audio": "audio/J/J-53-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "My boss who I thought was a quiet person was the first to grab the microphone and sing.",
+  "secTitle": "制限用法と非制限用法の違い"
+ },
+ {
+  "id": "J-54",
+  "unit": "J",
+  "no": "54",
+  "jp": "この車は液体水素で走り，最高時速は90マイルに達します。",
+  "answers": [
+   "This car, which runs on liquid hydrogen, attains a top speed of 90 mph."
+  ],
+  "audio": "audio/J/J-54-.mp3",
+  "pronNote": "mph は miles per hour と読みます。",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "This car which runs on liquid hydrogen attains a top speed of 90 mph.",
+  "secTitle": "制限用法と非制限用法の違い"
+ },
+ {
+  "id": "J-55",
+  "unit": "J",
+  "no": "55",
+  "jp": "祖父は４時に目を覚ますのですが，それは私が床につく時間です。",
+  "answers": [
+   "My grandfather wakes up at four, which is when I go to bed."
+  ],
+  "audio": "audio/J/J-55-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "My grandfather wakes up at four, that is when I go to bed.",
+  "secTitle": "制限用法と非制限用法の違い"
+ },
+ {
+  "id": "J-56",
+  "unit": "J",
+  "no": "56",
+  "jp": "優勝したのはロシアの選手でした。名前は忘れてしまいましたが。",
+  "answers": [
+   "The winner was a Russian athlete, whose name I've forgotten."
+  ],
+  "audio": "audio/J/J-56-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "The winner was a Russian athlete whose name I've forgotten.",
+  "secTitle": "制限用法と非制限用法の違い"
+ },
+ {
+  "id": "J-57",
+  "unit": "J",
+  "no": "57",
+  "jp": "我々は皆彼のことを弁護士だと思い込んでいた。実際はそうでなかったが。",
+  "answers": [
+   "We all assumed he was a lawyer, which he was not."
+  ],
+  "audio": "audio/J/J-57-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "We all assumed he was a lawyer, which he was not.",
+  "secTitle": "制限用法と非制限用法の違い"
+ },
+ {
+  "id": "J-58",
+  "unit": "J",
+  "no": "58",
+  "jp": "彼が言っていたエドワードとはおそらくエドワード・スミスのことだ。",
+  "answers": [
+   "The Edward whom he mentioned is probably Edward Smith."
+  ],
+  "audio": "audio/J/J-58-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "The Edward whom he mentioned is probably Edward Smith.",
+  "secTitle": "制限用法と非制限用法の違い"
+ },
+ {
+  "id": "J-59",
+  "unit": "J",
+  "no": "59",
+  "jp": "現在の上海は私が10年前に訪れた上海とは大きく異なります。",
+  "answers": [
+   "The Shanghai of today is vastly different from the Shanghai that I visited a decade ago."
+  ],
+  "audio": "audio/J/J-59-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "The Shanghai of today is vastly different from the Shanghai that I visited a decade ago.",
+  "secTitle": "制限用法と非制限用法の違い"
+ },
+ {
+  "id": "J-60",
+  "unit": "J",
+  "no": "60",
+  "jp": "カカがロナウドにパスをすると，ロナウドは25メートルの距離から鮮やかなシュートを決めた。",
+  "answers": [
+   "Kaká passed the ball to Ronaldo, who scored with a spectacular shot from 25 meters."
+  ],
+  "audio": "audio/J/J-60-.mp3",
+  "section": {
+   "title": "非制限用法 ① ～ 連結用法",
+   "body": "（ A ）用法の形容詞節は 「～ and …」（～して，そして（次に）…する） における「and …」 の言い換えとして用いることがある。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Kaká passed the ball to Ronaldo, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " scored with a spectacular shot from 25 meters."
+   }
+  ],
+  "solutions": [
+   [
+    "who"
+   ]
+  ],
+  "secTitle": "非制限用法 ① ～ 連結用法"
+ },
+ {
+  "id": "J-61",
+  "unit": "J",
+  "no": "61",
+  "jp": "マイクがそのバッグをメアリーに買ってやり，メアリーはそれをジョンに売り，そしてジョンはそれをアンにプレゼントした。",
+  "answers": [
+   "Mike bought the bag for Mary, who sold it to John, who gave it to Ann as a present."
+  ],
+  "audio": "audio/J/J-61-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Mike bought the bag for Mary, who sold it to John, and who gave it to Ann as a present.",
+  "secTitle": "非制限用法 ① ～ 連結用法"
+ },
+ {
+  "id": "J-62",
+  "unit": "J",
+  "no": "62",
+  "jp": "その土地で彼はジョージ・フーパーと生涯の友になり，彼の家で退職後の人生を送ることになった。",
+  "answers": [
+   "There he made friends for life with George Hooper, in whose house he was to spend his retirement."
+  ],
+  "audio": "audio/J/J-62-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "There he made friends for life with George Hooper, in "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " house he was to spend his retirement."
+   }
+  ],
+  "solutions": [
+   [
+    "whose"
+   ]
+  ],
+  "secTitle": "非制限用法 ① ～ 連結用法"
+ },
+ {
+  "id": "J-63-a",
+  "unit": "J",
+  "no": "63",
+  "jp": "彼は自分を独身だと言い，彼女はそれを信じていた。",
+  "answers": [
+   "He said he was single, which she believed."
+  ],
+  "audio": "audio/J/J-63-a-.mp3",
+  "section": {
+   "title": "非制限用法 ② ～ 名詞以外が先行詞になる場合",
+   "body": "非制限用法で用いる（ A ）は前に置かれた文の 「全部」 や 「一部」 など，名詞以外を先行詞にできる。これはカンマで区切られて前に置かれた文だけでなく，（ B ）で区切られた前の文も先行詞にすることができる。"
+  },
+  "tags": [
+   "which の先行詞に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "He said he was single, which she believed.",
+  "secTitle": "非制限用法 ② ～ 名詞以外が先行詞になる場合"
+ },
+ {
+  "id": "J-63-b",
+  "unit": "J",
+  "no": "63",
+  "jp": "よく人からおめでたですか？と尋ねられますが，おめでたではありません！",
+  "answers": [
+   "I'm often asked if I'm pregnant, which I am not!"
+  ],
+  "audio": "audio/J/J-63-b-.mp3",
+  "tags": [
+   "which の先行詞に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "I'm often asked if I'm pregnant, which I am not!",
+  "secTitle": "非制限用法 ② ～ 名詞以外が先行詞になる場合"
+ },
+ {
+  "id": "J-64-a",
+  "unit": "J",
+  "no": "64",
+  "jp": "彼女はもうタバコはやめたと言っていたが，私はそれが本当ではないとわかっていた。",
+  "answers": [
+   "She said she was no longer smoking, but I knew it wasn't true."
+  ],
+  "audio": "audio/J/J-64-a-.mp3",
+  "tags": [
+   " a) とほぼ同じ意味になるようにb) に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "She said she was no longer smoking, but I knew it wasn't true.",
+  "secTitle": "非制限用法 ② ～ 名詞以外が先行詞になる場合"
+ },
+ {
+  "id": "J-64-b",
+  "unit": "J",
+  "no": "64",
+  "jp": "彼女はもうタバコはやめたと言っていたが，私はそれが本当ではないとわかっていた。",
+  "answers": [
+   "She said she was no longer smoking, which I knew wasn't true."
+  ],
+  "audio": "audio/J/J-64-b-.mp3",
+  "tags": [
+   " a) とほぼ同じ意味になるようにb) に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She said she was no longer smoking, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " wasn't true."
+   }
+  ],
+  "solutions": [
+   [
+    "which",
+    "I",
+    "knew"
+   ]
+  ],
+  "secTitle": "非制限用法 ② ～ 名詞以外が先行詞になる場合"
+ },
+ {
+  "id": "J-65",
+  "unit": "J",
+  "no": "65",
+  "jp": "今晩は残業しなくちゃならないんだよ。あ，そうだ，夕食はいらないからね。",
+  "answers": [
+   "I'll have to work late tonight. Which reminds me, I won't be coming home for dinner."
+  ],
+  "audio": "audio/J/J-65-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'll have to work late tonight. "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " reminds me, I won't be coming home for dinner."
+   }
+  ],
+  "solutions": [
+   [
+    "Which"
+   ]
+  ],
+  "secTitle": "非制限用法 ② ～ 名詞以外が先行詞になる場合"
+ },
+ {
+  "id": "J-66",
+  "unit": "J",
+  "no": "66",
+  "jp": "「スーザンの誕生パーティーに招待されたんだけど」「そう言えば，彼女が３月に結婚するっていうの知ってた？」",
+  "answers": [
+   "\"I've been invited to Susan's birthday party.\" \"Speaking of which, did you know she is getting married in March?\""
+  ],
+  "audio": "audio/J/J-66-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"I've been invited to Susan's birthday party.\" \"Speaking of "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": ", did you know she is getting married in March?\""
+   }
+  ],
+  "solutions": [
+   [
+    "which"
+   ]
+  ],
+  "secTitle": "非制限用法 ② ～ 名詞以外が先行詞になる場合"
+ },
+ {
+  "id": "J-67",
+  "unit": "J",
+  "no": "67",
+  "jp": "ヘミングウェイの短編小説にはよくあることですが，この小説の中では多くの出来事は起こりません。",
+  "answers": [
+   "As is often the case with Hemingway's short stories, not many events happen in this story."
+  ],
+  "audio": "audio/J/J-67-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " is often the case with Hemingway's short stories, not many events happen in this story."
+   }
+  ],
+  "solutions": [
+   [
+    "As"
+   ]
+  ],
+  "secTitle": "非制限用法 ② ～ 名詞以外が先行詞になる場合"
+ },
+ {
+  "id": "J-68",
+  "unit": "J",
+  "no": "68",
+  "jp": "同意しない場合は「中止」 のボタンを選択してください。その場合，ソフトのインストールは中止されます。",
+  "answers": [
+   "If you do not agree, select the \"Cancel\" button, in which case installation of the program will stop."
+  ],
+  "audio": "audio/J/J-68-.mp3",
+  "section": {
+   "title": "非制限用法 ③ ～ 関係形容詞",
+   "body": "非制限用法のwhich は代名詞だけでなく（ A ）としても用いる。このwhich は後ろの名詞を修飾し，「（ B ）＋which ＋名詞」 という副詞句で用いるのが一般的である。このwhich は前に置かれた文全体や文の一部を先行詞にする。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "If you do not agree, select the \"Cancel\" button, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " case installation of the program will stop."
+   }
+  ],
+  "solutions": [
+   [
+    "in",
+    "which"
+   ]
+  ],
+  "secTitle": "非制限用法 ③ ～ 関係形容詞"
+ },
+ {
+  "id": "J-69",
+  "unit": "J",
+  "no": "69",
+  "jp": "試合はかなり退屈な展開だったが，５回になってから急に動き出した。",
+  "answers": [
+   "The game was pretty boring until the fifth inning, at which point it started to pick up."
+  ],
+  "audio": "audio/J/J-69-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The game was pretty boring until the fifth inning, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " point it started to pick up."
+   }
+  ],
+  "solutions": [
+   [
+    "at",
+    "which"
+   ]
+  ],
+  "secTitle": "非制限用法 ③ ～ 関係形容詞"
+ },
+ {
+  "id": "J-70",
+  "unit": "J",
+  "no": "70",
+  "jp": "ペリーは８ヶ月後に再来日し，その時には（既に）日本は開国の意志を固めていた。",
+  "answers": [
+   "Perry came back eight months later, by which time Japan had decided to open its ports to foreign trade."
+  ],
+  "audio": "audio/J/J-70-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Perry came back eight months later, by "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " Japan had decided to open its ports to foreign trade."
+   }
+  ],
+  "solutions": [
+   [
+    "which",
+    "time"
+   ]
+  ],
+  "secTitle": "非制限用法 ③ ～ 関係形容詞"
+ }
+]

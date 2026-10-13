@@ -1,0 +1,2705 @@
+[
+ {
+  "id": "I-01-a",
+  "unit": "I",
+  "no": "01",
+  "jp": "自分が幸せな人は誰でも全て他人をも幸せにする。",
+  "answers": [
+   "Whoever is happy will make others happy too."
+  ],
+  "audio": "audio/I/I-01-a-.mp3",
+  "section": {
+   "title": "名詞節の基本",
+   "body": "文中で１語の名詞と同じ働きをする文を 「名詞節」 と呼ぶ。名詞節は第3 文型の目的語，第4 文型の直接目的語，主語，be動詞の補語，前置詞の目的語などで用いる。名詞節には 「～だということ」 という意味の（ A ）や， 「～かどうか（ということ）」という意味の（ B ）やwhether 節がある。また，what，which，who, how などが導く（間接）疑問文も名詞節である。"
+  },
+  "tags": [
+   "名詞節に下線を引き，全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Whoever is happy will make others happy too.",
+  "secTitle": "名詞節の基本"
+ },
+ {
+  "id": "I-01-b",
+  "unit": "I",
+  "no": "01",
+  "jp": "彼の言っていることの大半はナンセンスだ。",
+  "answers": [
+   "Most of what he is saying is nonsense."
+  ],
+  "audio": "audio/I/I-01-b-.mp3",
+  "tags": [
+   "名詞節に下線を引き，全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Most of what he is saying is nonsense.",
+  "secTitle": "名詞節の基本"
+ },
+ {
+  "id": "I-01-c",
+  "unit": "I",
+  "no": "01",
+  "jp": "君が事故に遭ったということをスティーブから聞いたよ。",
+  "answers": [
+   "I heard from Steve that you had an accident."
+  ],
+  "audio": "audio/I/I-01-c-.mp3",
+  "tags": [
+   "名詞節に下線を引き，全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "I heard from Steve that you had an accident.",
+  "secTitle": "名詞節の基本"
+ },
+ {
+  "id": "I-01-d",
+  "unit": "I",
+  "no": "01",
+  "jp": "私は立ち止まって彼女に大丈夫ですかと尋ねた。",
+  "answers": [
+   "I stopped to ask her if she was all right."
+  ],
+  "audio": "audio/I/I-01-d-.mp3",
+  "tags": [
+   "名詞節に下線を引き，全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "I stopped to ask her if she was all right.",
+  "secTitle": "名詞節の基本"
+ },
+ {
+  "id": "I-02",
+  "unit": "I",
+  "no": "02",
+  "jp": "良心とは，あなたのしていることが道徳的に正しいか間違っているかをあなたに告げる心の部分のことです。",
+  "answers": [
+   "Your conscience is the part of your mind that tells you whether what you are doing is morally right or wrong."
+  ],
+  "audio": "audio/I/I-02-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Your conscience is the part of your mind that tells you "
+   },
+   {
+    "t": "order",
+    "words": [
+     "what",
+     "whether",
+     "you"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " are doing is morally right or wrong."
+   }
+  ],
+  "solutions": [
+   [
+    "whether what you"
+   ]
+  ],
+  "secTitle": "名詞節の基本"
+ },
+ {
+  "id": "I-04-a",
+  "unit": "I",
+  "no": "04",
+  "jp": "もっと多くの学校がこのプロジェクトに参加してくれることを望んでいる。",
+  "answers": [
+   "I hope that more schools will join us in this project."
+  ],
+  "audio": "audio/I/I-04-a-.mp3",
+  "tags": [
+   "下線部の動詞の使い方に間違いがあるのはどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I want that more schools will join us in this project.",
+  "secTitle": "名詞節の基本"
+ },
+ {
+  "id": "I-04-b",
+  "unit": "I",
+  "no": "04",
+  "jp": "私は妻に，仕事をやめようと思っていると言った。",
+  "answers": [
+   "I said to my wife that I was thinking of leaving my job."
+  ],
+  "audio": "audio/I/I-04-b-.mp3",
+  "tags": [
+   "下線部の動詞の使い方に間違いがあるのはどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I said to my wife that I was thinking of leaving my job.",
+  "secTitle": "名詞節の基本"
+ },
+ {
+  "id": "I-04-c",
+  "unit": "I",
+  "no": "04",
+  "jp": "私は彼に本当のことを話すのが最善のことだと判断した。",
+  "answers": [
+   "I decided that it would be best to tell him the truth."
+  ],
+  "audio": "audio/I/I-04-c-.mp3",
+  "tags": [
+   "下線部の動詞の使い方に間違いがあるのはどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I decided that it would be best to tell him the truth.",
+  "secTitle": "名詞節の基本"
+ },
+ {
+  "id": "I-04-d",
+  "unit": "I",
+  "no": "04",
+  "jp": "私は車で彼を空港まで送ろうかと申し出た。",
+  "answers": [
+   "I offered to drive him to the airport."
+  ],
+  "audio": "audio/I/I-04-d-.mp3",
+  "tags": [
+   "下線部の動詞の使い方に間違いがあるのはどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I offered that I would drive him to the airport.",
+  "secTitle": "名詞節の基本"
+ },
+ {
+  "id": "I-05",
+  "unit": "I",
+  "no": "05",
+  "jp": "彼は一番の親友が自分を裏切ったことを知った。",
+  "answers": [
+   "He found that his best friend had betrayed him.",
+   "He learned that his best friend had betrayed him."
+  ],
+  "audio": "audio/I/I-05-.mp3",
+  "tags": [
+   "適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " that his best friend had betrayed him."
+   }
+  ],
+  "solutions": [
+   [
+    "found"
+   ],
+   [
+    "learned"
+   ]
+  ],
+  "secTitle": "名詞節の基本"
+ },
+ {
+  "id": "I-06",
+  "unit": "I",
+  "no": "06",
+  "jp": "我々の結婚生活は良好で，隠し事など何もないと思っていました。",
+  "answers": [
+   "I thought our marriage was fine and that we had no secrets."
+  ],
+  "audio": "audio/I/I-06-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I thought our marriage was fine and "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " we had no secrets."
+   }
+  ],
+  "solutions": [
+   [
+    "that"
+   ]
+  ],
+  "secTitle": "名詞節の基本"
+ },
+ {
+  "id": "I-07",
+  "unit": "I",
+  "no": "07",
+  "jp": "ほら，だからあいつは遅刻するって（僕は君に）言っただろ。",
+  "answers": [
+   "You see, I told you he'd be late."
+  ],
+  "audio": "audio/I/I-07-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "You see, I "
+   },
+   {
+    "t": "order",
+    "words": [
+     "you",
+     "he'd",
+     "told",
+     "be"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " late."
+   }
+  ],
+  "solutions": [
+   [
+    "told you he'd be"
+   ]
+  ],
+  "secTitle": "名詞節の基本"
+ },
+ {
+  "id": "I-08",
+  "unit": "I",
+  "no": "08",
+  "jp": "万事うまくいくから大丈夫だよ，と彼女は私に言った。",
+  "answers": [
+   "She assured me that everything would be all right."
+  ],
+  "audio": "audio/I/I-08-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She "
+   },
+   {
+    "t": "order",
+    "words": [
+     "me",
+     "everything",
+     "that",
+     "assured",
+     "would"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " be all right."
+   }
+  ],
+  "solutions": [
+   [
+    "assured me that everything would"
+   ]
+  ],
+  "secTitle": "名詞節の基本"
+ },
+ {
+  "id": "I-09",
+  "unit": "I",
+  "no": "09",
+  "jp": "彼は私に絶対的な自由などというものは存在しないと説明した。",
+  "answers": [
+   "He explained to me that there was no such thing as absolute freedom."
+  ],
+  "audio": "audio/I/I-09-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "He explained me that there was no such thing as absolute freedom.",
+  "secTitle": "名詞節の基本"
+ },
+ {
+  "id": "I-10-a",
+  "unit": "I",
+  "no": "10",
+  "jp": "彼が犬に対して深い愛情を持っていたことは誰の目にも明らかだった。",
+  "answers": [
+   "That he had a deep affection for dogs was obvious to everyone."
+  ],
+  "audio": "audio/I/I-10-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " he had a deep affection for dogs was obvious to everyone."
+   }
+  ],
+  "solutions": [
+   [
+    "That"
+   ]
+  ],
+  "secTitle": "名詞節の基本"
+ },
+ {
+  "id": "I-10-b",
+  "unit": "I",
+  "no": "10",
+  "jp": "彼が犬に対して深い愛情を持っていたことは誰の目にも明らかだった。",
+  "answers": [
+   "It was obvious to everyone that he had a deep affection for dogs."
+  ],
+  "audio": "audio/I/I-10-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " was obvious to everyone "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " he had a deep affection for dogs."
+   }
+  ],
+  "solutions": [
+   [
+    "It",
+    "that"
+   ]
+  ],
+  "secTitle": "名詞節の基本"
+ },
+ {
+  "id": "I-11",
+  "unit": "I",
+  "no": "11",
+  "jp": "君は考えすぎるところが問題なんだ。",
+  "answers": [
+   "Your problem is that you think too much."
+  ],
+  "audio": "audio/I/I-11-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Your problem "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " think too much."
+   }
+  ],
+  "solutions": [
+   [
+    "is",
+    "that",
+    "you"
+   ]
+  ],
+  "secTitle": "名詞節の基本"
+ },
+ {
+  "id": "I-12",
+  "unit": "I",
+  "no": "12",
+  "jp": "実は，これらの疑問には誰も答えられないのです。",
+  "answers": [
+   "The fact is, nobody can answer these questions."
+  ],
+  "audio": "audio/I/I-12-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The "
+   },
+   {
+    "t": "blank",
+    "hint": "f"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": ", nobody can answer these questions."
+   }
+  ],
+  "solutions": [
+   [
+    "fact",
+    "is"
+   ]
+  ],
+  "secTitle": "名詞節の基本"
+ },
+ {
+  "id": "I-13",
+  "unit": "I",
+  "no": "13",
+  "jp": "彼の奥さんがそこにいたので私はその事については何も言わなかった。",
+  "answers": [
+   "I said nothing about it because his wife was there."
+  ],
+  "audio": "audio/I/I-13-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I said nothing about it because of that his wife was there.",
+  "secTitle": "名詞節の基本"
+ },
+ {
+  "id": "I-14",
+  "unit": "I",
+  "no": "14",
+  "jp": "このお茶は煎ったお米が中に入っているという点でめずらしい。",
+  "answers": [
+   "This tea is unusual in that it contains roasted rice."
+  ],
+  "audio": "audio/I/I-14-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "This tea is unusual in that it contains roasted rice.",
+  "secTitle": "名詞節の基本"
+ },
+ {
+  "id": "I-15",
+  "unit": "I",
+  "no": "15",
+  "jp": "コメントありがとう。気に入ってもらえて嬉しいです。",
+  "answers": [
+   "Thanks for the comment. I'm glad you liked it."
+  ],
+  "audio": "audio/I/I-15-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Thanks for the comment. I'm "
+   },
+   {
+    "t": "order",
+    "words": [
+     "liked",
+     "you",
+     "glad",
+     "it"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "glad you liked it"
+   ]
+  ],
+  "secTitle": "名詞節の基本"
+ },
+ {
+  "id": "I-16",
+  "unit": "I",
+  "no": "16",
+  "jp": "「遅れてすみません」「いえ，大丈夫です。どうぞおかけください」",
+  "answers": [
+   "\"I'm sorry I'm late.\" \"No problem. Have a seat.\""
+  ],
+  "audio": "audio/I/I-16-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"I'm "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " late.\" \"No problem. Have a seat.\""
+   }
+  ],
+  "solutions": [
+   [
+    "sorry",
+    "I'm"
+   ]
+  ],
+  "secTitle": "名詞節の基本"
+ },
+ {
+  "id": "I-17",
+  "unit": "I",
+  "no": "17",
+  "jp": "私達は彼が無実であることを確信しています。",
+  "answers": [
+   "We are convinced that he is innocent."
+  ],
+  "audio": "audio/I/I-17-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "We are convinced of that he is innocent.",
+  "secTitle": "名詞節の基本"
+ },
+ {
+  "id": "I-18",
+  "unit": "I",
+  "no": "18",
+  "jp": "「それは確かに彼だったのですか？」「間違いありません」",
+  "answers": [
+   "\"Are you sure it was him?\" \"Positive.\"",
+   "\"Are you certain it was him?\" \"Positive.\"",
+   "\"Are you positive it was him?\" \"Positive.\"",
+   "\"Are you confident it was him?\" \"Positive.\"",
+   "\"Are you convinced it was him?\" \"Positive.\""
+  ],
+  "audio": "audio/I/I-18-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"Are you "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " it was him?\" \"Positive.\""
+   }
+  ],
+  "solutions": [
+   [
+    "sure"
+   ],
+   [
+    "certain"
+   ],
+   [
+    "positive"
+   ],
+   [
+    "confident"
+   ],
+   [
+    "convinced"
+   ]
+  ],
+  "secTitle": "名詞節の基本"
+ },
+ {
+  "id": "I-19",
+  "unit": "I",
+  "no": "19",
+  "jp": "私は何か悪いことが起こるのではないかと心配していた。",
+  "answers": [
+   "I was afraid that something bad might happen.",
+   "I was worried that something bad might happen."
+  ],
+  "audio": "audio/I/I-19-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I was "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " that something bad might happen."
+   }
+  ],
+  "solutions": [
+   [
+    "afraid"
+   ],
+   [
+    "worried"
+   ]
+  ],
+  "secTitle": "名詞節の基本"
+ },
+ {
+  "id": "I-20",
+  "unit": "I",
+  "no": "20",
+  "jp": "彼女が（何者かに）殺害されたという可能性は排除できない。",
+  "answers": [
+   "We cannot yet rule out the possibility that she was murdered."
+  ],
+  "audio": "audio/I/I-20-.mp3",
+  "section": {
+   "title": "that 節 ② ～ 同格のthat 節",
+   "body": "fact, news, opinion など一部の名詞は（ A ）に 「～という（こと）」 という意味のthat 節を置いてその内容を示すことができ，これを 「同格のthat 節」 と呼ぶ。この用法のthat も口語では（ B ）されることがある。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We cannot yet rule out the "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " she was murdered."
+   }
+  ],
+  "solutions": [
+   [
+    "possibility",
+    "that"
+   ]
+  ],
+  "secTitle": "that 節 ② ～ 同格のthat 節"
+ },
+ {
+  "id": "I-21",
+  "unit": "I",
+  "no": "21",
+  "jp": "君は英語が流ちょうに話せるから他の受験者よりも有利なはずだよ。",
+  "answers": [
+   "The fact you speak fluent English should give you an advantage over other candidates."
+  ],
+  "audio": "audio/I/I-21-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The "
+   },
+   {
+    "t": "order",
+    "words": [
+     "you",
+     "fluent English",
+     "fact",
+     "speak"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " should give you an advantage over other candidates."
+   }
+  ],
+  "solutions": [
+   [
+    "fact you speak fluent English"
+   ]
+  ],
+  "secTitle": "that 節 ② ～ 同格のthat 節"
+ },
+ {
+  "id": "I-22",
+  "unit": "I",
+  "no": "22",
+  "jp": "社長が辞任するかもしれないという噂が流れています。",
+  "answers": [
+   "There is a rumor going around that the president might resign."
+  ],
+  "audio": "audio/I/I-22-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "There is "
+   },
+   {
+    "t": "order",
+    "words": [
+     "a rumor",
+     "that",
+     "going around"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " the president might resign."
+   }
+  ],
+  "solutions": [
+   [
+    "a rumor going around that"
+   ]
+  ],
+  "secTitle": "that 節 ② ～ 同格のthat 節"
+ },
+ {
+  "id": "I-23",
+  "unit": "I",
+  "no": "23",
+  "jp": "誰もが職場での男女平等を語っているが，女性の方が男性より賃金が安いという事実は依然として残る。",
+  "answers": [
+   "Everyone talks about gender equality in the workplace, but the fact remains that women are paid less than men."
+  ],
+  "audio": "audio/I/I-23-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Everyone talks about gender equality in the workplace, but "
+   },
+   {
+    "t": "order",
+    "words": [
+     "the fact",
+     "that",
+     "remains"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " women are paid less than men."
+   }
+  ],
+  "solutions": [
+   [
+    "the fact remains that"
+   ]
+  ],
+  "secTitle": "that 節 ② ～ 同格のthat 節"
+ },
+ {
+  "id": "I-24",
+  "unit": "I",
+  "no": "24",
+  "jp": "教師達は皆，名詞節を教えるのは難しいという意見で一致した。",
+  "answers": [
+   "The teachers all agreed that teaching noun clauses was difficult."
+  ],
+  "audio": "audio/I/I-24-.mp3",
+  "section": {
+   "title": "that 節 ③ ～ that 節の時制",
+   "body": "that 節は，現在のことは現在形で表し，過去のことは過去形で表すというように，意味に応じた時制で表す。但し，that 節が 「提案・勧告・命令・要求・依頼」 の内容を表す場合は，動詞の（ A ）を用い，また，助動詞の（ B ）を用いることもある。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The teachers all agreed that teaching noun clauses "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " difficult."
+   }
+  ],
+  "solutions": [
+   [
+    "was"
+   ]
+  ],
+  "secTitle": "that 節 ③ ～ that 節の時制"
+ },
+ {
+  "id": "I-25-a",
+  "unit": "I",
+  "no": "25",
+  "jp": "医者は彼にたばこはやめるように勧めた。",
+  "answers": [
+   "His doctor recommended that he quit smoking.",
+   "His doctor recommended that he stop smoking."
+  ],
+  "audio": "audio/I/I-25-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "His doctor recommended that he "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " smoking."
+   }
+  ],
+  "solutions": [
+   [
+    "quit"
+   ],
+   [
+    "stop"
+   ]
+  ],
+  "secTitle": "that 節 ③ ～ that 節の時制"
+ },
+ {
+  "id": "I-25-b",
+  "unit": "I",
+  "no": "25",
+  "jp": "医者は彼にたばこはやめるように勧めた。",
+  "answers": [
+   "His doctor recommended that he should quit smoking.",
+   "His doctor recommended that he should stop smoking."
+  ],
+  "audio": "audio/I/I-25-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "His doctor recommended that he "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " smoking."
+   }
+  ],
+  "solutions": [
+   [
+    "should",
+    "quit"
+   ],
+   [
+    "should",
+    "stop"
+   ]
+  ],
+  "secTitle": "that 節 ③ ～ that 節の時制"
+ },
+ {
+  "id": "I-26-a",
+  "unit": "I",
+  "no": "26",
+  "jp": "私は彼女に一年間休みを取って絵の勉強をしてみてはどうかと言った。",
+  "answers": [
+   "I suggested that she take a year off to study drawing."
+  ],
+  "audio": "audio/I/I-26-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I suggested that she "
+   },
+   {
+    "t": "blank",
+    "hint": "t"
+   },
+   {
+    "t": "text",
+    "v": " a year off to study drawing."
+   }
+  ],
+  "solutions": [
+   [
+    "take"
+   ]
+  ],
+  "secTitle": "that 節 ③ ～ that 節の時制"
+ },
+ {
+  "id": "I-26-b",
+  "unit": "I",
+  "no": "26",
+  "jp": "私は彼女に一年間休みを取って絵の勉強をしてみてはどうかと言った。",
+  "answers": [
+   "I suggested that she should take a year off to study drawing."
+  ],
+  "audio": "audio/I/I-26-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I suggested that she "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank",
+    "hint": "t"
+   },
+   {
+    "t": "text",
+    "v": " a year off to study drawing."
+   }
+  ],
+  "solutions": [
+   [
+    "should",
+    "take"
+   ]
+  ],
+  "secTitle": "that 節 ③ ～ that 節の時制"
+ },
+ {
+  "id": "I-27",
+  "unit": "I",
+  "no": "27",
+  "jp": "彼はその事故は私の責任だということをほのめかした。",
+  "answers": [
+   "He suggested that the accident was my fault."
+  ],
+  "audio": "audio/I/I-27-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He suggested that the accident "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " my fault."
+   }
+  ],
+  "solutions": [
+   [
+    "was"
+   ]
+  ],
+  "secTitle": "that 節 ③ ～ that 節の時制"
+ },
+ {
+  "id": "I-28",
+  "unit": "I",
+  "no": "28",
+  "jp": "彼女は，ギルはその日の晩はずっと自分と一緒にいたと主張した。",
+  "answers": [
+   "She insisted that Gill had been with her all evening."
+  ],
+  "audio": "audio/I/I-28-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She insisted that Gill "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " with her all evening."
+   }
+  ],
+  "solutions": [
+   [
+    "had",
+    "been"
+   ]
+  ],
+  "secTitle": "that 節 ③ ～ that 節の時制"
+ },
+ {
+  "id": "I-29",
+  "unit": "I",
+  "no": "29",
+  "jp": "私は彼にすぐに医者に診てもらうようにと強く勧めた。",
+  "answers": [
+   "I insisted that he see a doctor immediately."
+  ],
+  "audio": "audio/I/I-29-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I insisted that he "
+   },
+   {
+    "t": "blank",
+    "hint": "s"
+   },
+   {
+    "t": "text",
+    "v": " a doctor immediately."
+   }
+  ],
+  "solutions": [
+   [
+    "see"
+   ]
+  ],
+  "secTitle": "that 節 ③ ～ that 節の時制"
+ },
+ {
+  "id": "I-30",
+  "unit": "I",
+  "no": "30",
+  "jp": "彼らはその大臣を内閣から外すよう要求した。",
+  "answers": [
+   "They demanded that the minister be dropped from the cabinet."
+  ],
+  "audio": "audio/I/I-30-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "They demanded that the minister "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " dropped from the cabinet."
+   }
+  ],
+  "solutions": [
+   [
+    "be"
+   ]
+  ],
+  "secTitle": "that 節 ③ ～ that 節の時制"
+ },
+ {
+  "id": "I-31",
+  "unit": "I",
+  "no": "31",
+  "jp": "我々は部外者がホールに入るのを許可しないよう頼んだ。",
+  "answers": [
+   "We requested that outsiders not be allowed to enter the hall."
+  ],
+  "audio": "audio/I/I-31-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We requested that outsiders "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " allowed to enter the hall."
+   }
+  ],
+  "solutions": [
+   [
+    "not",
+    "be"
+   ]
+  ],
+  "secTitle": "that 節 ③ ～ that 節の時制"
+ },
+ {
+  "id": "I-32",
+  "unit": "I",
+  "no": "32",
+  "jp": "法律関係の翻訳者は法律の基本知識をもつことがとても重要です。",
+  "answers": [
+   "It is very important that a legal translator have a basic knowledge of the law."
+  ],
+  "audio": "audio/I/I-32-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It is very important that a legal translator "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " a basic knowledge of the law."
+   }
+  ],
+  "solutions": [
+   [
+    "have"
+   ]
+  ],
+  "secTitle": "that 節 ③ ～ that 節の時制"
+ },
+ {
+  "id": "I-33",
+  "unit": "I",
+  "no": "33",
+  "jp": "成績を正しく比較するためには，各生徒が同じ条件でテストされることが必要です。",
+  "answers": [
+   "To compare performance equitably, it is necessary that each student be tested under the same conditions."
+  ],
+  "audio": "audio/I/I-33-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "To compare performance equitably, it is necessary that each student "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " tested under the same conditions."
+   }
+  ],
+  "solutions": [
+   [
+    "be"
+   ]
+  ],
+  "secTitle": "that 節 ③ ～ that 節の時制"
+ },
+ {
+  "id": "I-34",
+  "unit": "I",
+  "no": "34",
+  "jp": "女性が夜一人でこの辺りを歩くのは危険です。",
+  "answers": [
+   "It is dangerous for a woman to walk alone in this area at night."
+  ],
+  "audio": "audio/I/I-34-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "It is dangerous that a woman walks alone in this area at night.",
+  "secTitle": "that 節 ③ ～ that 節の時制"
+ },
+ {
+  "id": "I-35",
+  "unit": "I",
+  "no": "35",
+  "jp": "彼にはそのような理解のあるご両親がいて幸せだ。",
+  "answers": [
+   "It's fortunate that he has such understanding parents."
+  ],
+  "audio": "audio/I/I-35-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "It's fortunate that he has such understanding parents.",
+  "secTitle": "that 節 ③ ～ that 節の時制"
+ },
+ {
+  "id": "I-36-a",
+  "unit": "I",
+  "no": "36",
+  "jp": "彼らが週末こっちに来るということを知っていますか？",
+  "answers": [
+   "Do you know that they are coming over this weekend?"
+  ],
+  "audio": "audio/I/I-36-a-.mp3",
+  "section": {
+   "title": "間接疑問文 ① ～  if 節とwhether 節",
+   "body": "「～かどうか（ということ）」 という名詞節はif 節かwhether 節で表す。( A ) は用いる場所を選ばないが，（ B ）は主語，be 動詞の補語，前置詞の目的語では用いず，主に第3 文型（SVO）の目的語（O）か第4 文型（SVO'O）の直接目的語（O）で用いる。"
+  },
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Do you know that they are coming over this weekend?",
+  "secTitle": "間接疑問文 ① ～  if 節とwhether 節"
+ },
+ {
+  "id": "I-36-b",
+  "unit": "I",
+  "no": "36",
+  "jp": "彼らが週末こっちに来るのかどうか知っていますか？",
+  "answers": [
+   "Do you know if they are coming over this weekend?"
+  ],
+  "audio": "audio/I/I-36-b-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Do you know if they are coming over this weekend?",
+  "secTitle": "間接疑問文 ① ～  if 節とwhether 節"
+ },
+ {
+  "id": "I-37-a",
+  "unit": "I",
+  "no": "37",
+  "jp": "そうなるかどうかわからないが，もしそうなれば私はとても嬉しい。",
+  "answers": [
+   "I don't know if that will happen, but if it does, I'll be very happy."
+  ],
+  "audio": "audio/I/I-37-a-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I don't know if that will happen, but if it does, I'll be very happy.",
+  "secTitle": "間接疑問文 ① ～  if 節とwhether 節"
+ },
+ {
+  "id": "I-37-b",
+  "unit": "I",
+  "no": "37",
+  "jp": "もし間違いやリンク切れを見つけたら私に知らせてください。",
+  "answers": [
+   "Please let me know if you find any errors or broken links."
+  ],
+  "audio": "audio/I/I-37-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Please let me know if you will find any errors or broken links.",
+  "secTitle": "間接疑問文 ① ～  if 節とwhether 節"
+ },
+ {
+  "id": "I-38",
+  "unit": "I",
+  "no": "38",
+  "jp": "明日会うことになっていたか確認しようと思って電話したんだ。",
+  "answers": [
+   "I called to check if we are meeting tomorrow."
+  ],
+  "audio": "audio/I/I-38-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "order",
+    "words": [
+     "check",
+     "called",
+     "if",
+     "to"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " we are meeting tomorrow."
+   }
+  ],
+  "solutions": [
+   [
+    "called to check if"
+   ]
+  ],
+  "secTitle": "間接疑問文 ① ～  if 節とwhether 節"
+ },
+ {
+  "id": "I-39",
+  "unit": "I",
+  "no": "39",
+  "jp": "私は彼にうちで働いてみる気はないかと尋ねた。",
+  "answers": [
+   "I asked him if he was interested in working for me.",
+   "I asked him whether he was interested in working for me."
+  ],
+  "audio": "audio/I/I-39-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " he was interested in working for me."
+   }
+  ],
+  "solutions": [
+   [
+    "asked",
+    "him",
+    "if"
+   ],
+   [
+    "asked",
+    "him",
+    "whether"
+   ]
+  ],
+  "secTitle": "間接疑問文 ① ～  if 節とwhether 節"
+ },
+ {
+  "id": "I-40",
+  "unit": "I",
+  "no": "40",
+  "jp": "問題は就学前に子供達に英語を教えるべきなのかということです。",
+  "answers": [
+   "The question is whether we should teach our children English before they start school."
+  ],
+  "audio": "audio/I/I-40-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The question is "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " we should teach our children English before they start school."
+   }
+  ],
+  "solutions": [
+   [
+    "whether"
+   ]
+  ],
+  "secTitle": "間接疑問文 ① ～  if 節とwhether 節"
+ },
+ {
+  "id": "I-41",
+  "unit": "I",
+  "no": "41",
+  "jp": "要はそれをする時間があなたにあるか否かです。",
+  "answers": [
+   "It all depends on whether or not you have the time."
+  ],
+  "audio": "audio/I/I-41-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It all depends on "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " or not you have the time."
+   }
+  ],
+  "solutions": [
+   [
+    "whether"
+   ]
+  ],
+  "secTitle": "間接疑問文 ① ～  if 節とwhether 節"
+ },
+ {
+  "id": "I-42",
+  "unit": "I",
+  "no": "42",
+  "jp": "コンピューター・ウイルスが原因なのかよくわかりませんが，最近パソコンの動作が不安定なんです。",
+  "answers": [
+   "I'm not sure if this is a computer virus, but my computer has been unstable lately.",
+   "I'm not certain if this is a computer virus, but my computer has been unstable lately."
+  ],
+  "audio": "audio/I/I-42-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'm not "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " if this is a computer virus, but my computer has been unstable lately."
+   }
+  ],
+  "solutions": [
+   [
+    "sure"
+   ],
+   [
+    "certain"
+   ]
+  ],
+  "secTitle": "間接疑問文 ① ～  if 節とwhether 節"
+ },
+ {
+  "id": "I-43-a",
+  "unit": "I",
+  "no": "43",
+  "jp": "私は彼にどうして（彼が）そのことについて知っているのかと尋ねた。",
+  "answers": [
+   "I asked him how he knew about it."
+  ],
+  "audio": "audio/I/I-43-a-.mp3",
+  "section": {
+   "title": "間接疑問文 ② ～ 疑問詞を用いる場合",
+   "body": "「何が［誰が，いつ，どこで，なぜ］～か（ということ）」 のように疑問詞を含む名詞節は 「疑問詞＋主語＋（助動詞）＋動詞」 か 「疑問詞＋（助動詞）＋動詞」 という語順で表す。この疑問詞節は他動詞の目的語，前置詞の目的語，（ A ）の補語，（ B ）など，名詞が置かれる場所で用いられる。"
+  },
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I asked him how did he know about it.",
+  "secTitle": "間接疑問文 ② ～ 疑問詞を用いる場合"
+ },
+ {
+  "id": "I-43-b",
+  "unit": "I",
+  "no": "43",
+  "jp": "それがいつDVDで発売されるのか知っていますか？",
+  "answers": [
+   "Do you know when it will be available on DVD?"
+  ],
+  "audio": "audio/I/I-43-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Do you know when will it be available on DVD?",
+  "secTitle": "間接疑問文 ② ～ 疑問詞を用いる場合"
+ },
+ {
+  "id": "I-43-c",
+  "unit": "I",
+  "no": "43",
+  "jp": "ここで何人の人が働いているのか正確には知りません。",
+  "answers": [
+   "I don't know exactly how many people work here."
+  ],
+  "audio": "audio/I/I-43-c-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I don't know exactly how many people work here.",
+  "secTitle": "間接疑問文 ② ～ 疑問詞を用いる場合"
+ },
+ {
+  "id": "I-43-d",
+  "unit": "I",
+  "no": "43",
+  "jp": "彼女は私に星座は何かと尋ねてきた。",
+  "answers": [
+   "She asked me what my astrological sign was."
+  ],
+  "audio": "audio/I/I-43-d-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "She asked me what was my astrological sign.",
+  "secTitle": "間接疑問文 ② ～ 疑問詞を用いる場合"
+ },
+ {
+  "id": "I-44",
+  "unit": "I",
+  "no": "44",
+  "jp": "誰にでも等しく能力があります。違いはそれをどう使うかです。",
+  "answers": [
+   "We all have ability. The difference is how we use it."
+  ],
+  "audio": "audio/I/I-44-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We all have ability. The difference "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " we use it."
+   }
+  ],
+  "solutions": [
+   [
+    "is",
+    "how"
+   ]
+  ],
+  "secTitle": "間接疑問文 ② ～ 疑問詞を用いる場合"
+ },
+ {
+  "id": "I-45",
+  "unit": "I",
+  "no": "45",
+  "jp": "利き腕が右か左かは，脳のどちら側が優勢かによって決まる。",
+  "answers": [
+   "Whether you are right- or left-handed is determined by which side of the brain is dominant."
+  ],
+  "audio": "audio/I/I-45-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Whether you are right- or left-handed "
+   },
+   {
+    "t": "order",
+    "words": [
+     "determined",
+     "the brain",
+     "which side",
+     "is",
+     "is",
+     "of",
+     "by"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " dominant."
+   }
+  ],
+  "solutions": [
+   [
+    "is determined by which side of the brain is"
+   ]
+  ],
+  "secTitle": "間接疑問文 ② ～ 疑問詞を用いる場合"
+ },
+ {
+  "id": "I-46",
+  "unit": "I",
+  "no": "46",
+  "jp": "あなたは言っていることとやっていることが違うのでは？",
+  "answers": [
+   "What you say is different from what you do, isn't it?"
+  ],
+  "audio": "audio/I/I-46-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " you say "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " different from "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " you do, isn't it?"
+   }
+  ],
+  "solutions": [
+   [
+    "What",
+    "is",
+    "what"
+   ]
+  ],
+  "secTitle": "間接疑問文 ② ～ 疑問詞を用いる場合"
+ },
+ {
+  "id": "I-47",
+  "unit": "I",
+  "no": "47",
+  "jp": "それが誰のせいだとか誰が何をしたとか，そんなのはどうでもいいことだ。",
+  "answers": [
+   "It just doesn't matter whose fault it was or who did what."
+  ],
+  "audio": "audio/I/I-47-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It just doesn't matter "
+   },
+   {
+    "t": "order",
+    "words": [
+     "it",
+     "was",
+     "fault",
+     "whose"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " or "
+   },
+   {
+    "t": "order",
+    "words": [
+     "who",
+     "what",
+     "did"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "whose fault it was",
+    "who did what"
+   ]
+  ],
+  "secTitle": "間接疑問文 ② ～ 疑問詞を用いる場合"
+ },
+ {
+  "id": "I-48",
+  "unit": "I",
+  "no": "48",
+  "jp": "何故このような現象が起きたのか科学者達にもよくわからない。",
+  "answers": [
+   "Scientists are not certain why this phenomenon occurred."
+  ],
+  "audio": "audio/I/I-48-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Scientists "
+   },
+   {
+    "t": "order",
+    "words": [
+     "certain",
+     "why",
+     "not",
+     "are"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " this phenomenon occurred."
+   }
+  ],
+  "solutions": [
+   [
+    "are not certain why"
+   ]
+  ],
+  "secTitle": "間接疑問文 ② ～ 疑問詞を用いる場合"
+ },
+ {
+  "id": "I-49-d",
+  "unit": "I",
+  "no": "49",
+  "jp": "彼はどんな反応をすると思いますか？",
+  "answers": [
+   "How do you think he will react?"
+  ],
+  "audio": "audio/I/I-49-d-.mp3",
+  "tags": [
+   "適切な英訳はどれか"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "How do you think he will react?",
+  "secTitle": "間接疑問文 ② ～ 疑問詞を用いる場合"
+ },
+ {
+  "id": "I-50",
+  "unit": "I",
+  "no": "50",
+  "jp": "幸福と成功，どちらが先だと思いますか？",
+  "answers": [
+   "Which do you think comes first, happiness or success?"
+  ],
+  "audio": "audio/I/I-50-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " comes first, happiness or success?"
+   }
+  ],
+  "solutions": [
+   [
+    "Which",
+    "do",
+    "you",
+    "think"
+   ]
+  ],
+  "secTitle": "間接疑問文 ② ～ 疑問詞を用いる場合"
+ },
+ {
+  "id": "I-51",
+  "unit": "I",
+  "no": "51",
+  "jp": "すみません，（今）お名前を何とおっしゃいましたか？",
+  "answers": [
+   "I'm sorry, what did you say your name was?"
+  ],
+  "audio": "audio/I/I-51-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'm sorry, "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " your name was?"
+   }
+  ],
+  "solutions": [
+   [
+    "what",
+    "did",
+    "you",
+    "say"
+   ]
+  ],
+  "secTitle": "間接疑問文 ② ～ 疑問詞を用いる場合"
+ },
+ {
+  "id": "I-52",
+  "unit": "I",
+  "no": "52",
+  "jp": "あなた，彼に（自分のことを）何歳だって言ったの？",
+  "answers": [
+   "How old did you tell him you were?"
+  ],
+  "audio": "audio/I/I-52-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "How old did you tell him that you were?",
+  "secTitle": "間接疑問文 ② ～ 疑問詞を用いる場合"
+ },
+ {
+  "id": "I-53",
+  "unit": "I",
+  "no": "53",
+  "jp": "私達が結婚する時，あなたは私に何て言ったか覚えていますか？",
+  "answers": [
+   "Do you remember what you said to me when we got married?",
+   "Do you remember what you said to me when we got married?"
+  ],
+  "audio": "audio/I/I-53-.mp3",
+  "section": {
+   "title": "間接疑問文 ④ ～ what 節",
+   "body": "名詞節のwhat 節は 「何を［何が］～ か」 という意味だが， 「～である事［物］」 という意味にも解釈できる。what 節はwhat が節の主語，目的語，（ A ）のどれかになるのでwhat の後ろは（主語，目的語，（ A ）のどれかが欠落する）不完全な文になる。また， 「what ＋（ B ）＋ ～」 の形で 「～するどんな…も」 という意味でも用いる 。"
+  },
+  "tags": [
+   "下線部を２通りで和訳する"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Do you remember what you said to me when we got married?",
+  "secTitle": "間接疑問文 ④ ～ what 節"
+ },
+ {
+  "id": "I-54",
+  "unit": "I",
+  "no": "54",
+  "jp": "私は彼女に真実を告げたことを後悔した。",
+  "answers": [
+   "I regretted that I had told her the truth."
+  ],
+  "audio": "audio/I/I-54-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I regretted what I had told her the truth.",
+  "secTitle": "間接疑問文 ④ ～ what 節"
+ },
+ {
+  "id": "I-55",
+  "unit": "I",
+  "no": "55",
+  "jp": "最初は簡単そうに思えたことが実は難しかった，というのはよくあることです。",
+  "answers": [
+   "What seems easy at first often turns out to be difficult."
+  ],
+  "audio": "audio/I/I-55-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "That seems easy at first often turns out to be difficult.",
+  "secTitle": "間接疑問文 ④ ～ what 節"
+ },
+ {
+  "id": "I-56",
+  "unit": "I",
+  "no": "56",
+  "jp": "今していることが正しいのかそれとも間違っているのか自分でもわかりません。",
+  "answers": [
+   "I don't know if what I'm doing is right or wrong."
+  ],
+  "audio": "audio/I/I-56-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I don't know "
+   },
+   {
+    "t": "order",
+    "words": [
+     "what",
+     "I'm",
+     "if",
+     "doing"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " is right or wrong."
+   }
+  ],
+  "solutions": [
+   [
+    "if what I'm doing"
+   ]
+  ],
+  "secTitle": "間接疑問文 ④ ～ what 節"
+ },
+ {
+  "id": "I-57",
+  "unit": "I",
+  "no": "57",
+  "jp": "時間とは我々が最も足りないと言いつつ最も下手に使っているものです。",
+  "answers": [
+   "Time is what we want most, but what we use worst."
+  ],
+  "audio": "audio/I/I-57-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Time "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " we want most, but "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " we use worst."
+   }
+  ],
+  "solutions": [
+   [
+    "is",
+    "what",
+    "what"
+   ]
+  ],
+  "secTitle": "間接疑問文 ④ ～ what 節"
+ },
+ {
+  "id": "I-58",
+  "unit": "I",
+  "no": "58",
+  "jp": "今の自分があるのは彼女のおかげだといっても過言ではありません。",
+  "answers": [
+   "It is no exaggeration to say that I owe what I am to her."
+  ],
+  "audio": "audio/I/I-58-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It is no exaggeration to say that I owe "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to her."
+   }
+  ],
+  "solutions": [
+   [
+    "what",
+    "I",
+    "am"
+   ]
+  ],
+  "secTitle": "間接疑問文 ④ ～ what 節"
+ },
+ {
+  "id": "I-59",
+  "unit": "I",
+  "no": "59",
+  "jp": "今日，雇用の安定はかつてのそれではなくなっている。",
+  "answers": [
+   "Job security is not what it used to be."
+  ],
+  "audio": "audio/I/I-59-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Job security is not "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " be."
+   }
+  ],
+  "solutions": [
+   [
+    "what",
+    "it",
+    "used",
+    "to"
+   ]
+  ],
+  "secTitle": "間接疑問文 ④ ～ what 節"
+ },
+ {
+  "id": "I-60",
+  "unit": "I",
+  "no": "60",
+  "jp": "私は自由になる時間を全て読書や詩の執筆に費やしています。",
+  "answers": [
+   "I spend what free time I have reading and writing poetry."
+  ],
+  "audio": "audio/I/I-60-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I spend "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " free time I have reading and writing poetry."
+   }
+  ],
+  "solutions": [
+   [
+    "what"
+   ]
+  ],
+  "secTitle": "間接疑問文 ④ ～ what 節"
+ },
+ {
+  "id": "I-61",
+  "unit": "I",
+  "no": "61",
+  "jp": "彼は数少ない所持品をまとめて立ち去った。",
+  "answers": [
+   "He packed what few belongings he had, and left."
+  ],
+  "audio": "audio/I/I-61-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He packed "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " belongings he had, and left."
+   }
+  ],
+  "solutions": [
+   [
+    "what",
+    "few"
+   ]
+  ],
+  "secTitle": "間接疑問文 ④ ～ what 節"
+ },
+ {
+  "id": "I-62",
+  "unit": "I",
+  "no": "62",
+  "jp": "変わるべき時とは（むしろまだ）物事がうまく行っている時です。",
+  "answers": [
+   "The time to change is when things are going well."
+  ],
+  "audio": "audio/I/I-62-.mp3",
+  "section": {
+   "title": "間接疑問文 ⑤ ～ where 節，when 節，why 節，how 節",
+   "body": "what 節が 「何を［何が］～ か」 と 「～である事［物］」 の２通りの解釈ができるように，where 節は 「どこで～か」 と「～する（ A ）」 の２通りに，when 節は 「いつ～か」と 「～する（ B ）」 の２通りに，why 節は 「なぜ～か」 と 「～する（ C ）」 の２通りに，how 節は 「どのようにして～か」 と 「～する方法［仕方，様態］」 の２通りにそれぞれ解釈ができる。これらの名詞節は 「This [That] is ～」 のような 「主語＋be 動詞＋ ～」  の 「～」 部分（＝補語）でよく用いられる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The time to change "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " things are going well."
+   }
+  ],
+  "solutions": [
+   [
+    "is",
+    "when"
+   ]
+  ],
+  "secTitle": "間接疑問文 ⑤ ～ where 節，when 節，why 節，how 節"
+ },
+ {
+  "id": "I-63",
+  "unit": "I",
+  "no": "63",
+  "jp": "ここは新しいスーパーの建設予定地です。",
+  "answers": [
+   "This is where they're going to build a new supermarket."
+  ],
+  "audio": "audio/I/I-63-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "This "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " they're going to build a new supermarket."
+   }
+  ],
+  "solutions": [
+   [
+    "is",
+    "where"
+   ]
+  ],
+  "secTitle": "間接疑問文 ⑤ ～ where 節，when 節，why 節，how 節"
+ },
+ {
+  "id": "I-64",
+  "unit": "I",
+  "no": "64",
+  "jp": "私の住んでいる所からは富士山が見えます。",
+  "answers": [
+   "I can see Mt. Fuji from where I live."
+  ],
+  "audio": "audio/I/I-64-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I can see Mt. Fuji "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " I live."
+   }
+  ],
+  "solutions": [
+   [
+    "from",
+    "where"
+   ]
+  ],
+  "secTitle": "間接疑問文 ⑤ ～ where 節，when 節，why 節，how 節"
+ },
+ {
+  "id": "I-65",
+  "unit": "I",
+  "no": "65",
+  "jp": "とにかく，そうやって私は自分の問題を解決しました。",
+  "answers": [
+   "Anyway, that's how I solved my problem."
+  ],
+  "audio": "audio/I/I-65-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Anyway, that's "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " I solved my problem."
+   }
+  ],
+  "solutions": [
+   [
+    "how"
+   ]
+  ],
+  "secTitle": "間接疑問文 ⑤ ～ where 節，when 節，why 節，how 節"
+ },
+ {
+  "id": "I-66",
+  "unit": "I",
+  "no": "66",
+  "jp": "この理由から，私はできるだけあの店は利用しないようにしています。",
+  "answers": [
+   "This is why I avoid that store as much as possible."
+  ],
+  "audio": "audio/I/I-66-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "This is "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " I avoid that store as much as possible."
+   }
+  ],
+  "solutions": [
+   [
+    "why"
+   ]
+  ],
+  "secTitle": "間接疑問文 ⑤ ～ where 節，when 節，why 節，how 節"
+ },
+ {
+  "id": "I-67",
+  "unit": "I",
+  "no": "67",
+  "jp": "何でも好きな物を自由にお取りください。",
+  "answers": [
+   "Please help yourself to whatever you want."
+  ],
+  "audio": "audio/I/I-67-.mp3",
+  "section": {
+   "title": "間接疑問文 ⑥ ～whatever [whichever, whoever] 節",
+   "body": "「何であれ～な物［事］」  は 「（ A ）＋ ～」 とし，「どれ［どちら］であれ～なもの［こと，人］」 は 「（ B ）＋ ～」 ， 「誰であれ～な人」  は 「（ C ）＋ ～」 とする。これらの名詞節はそれぞれ，what 節，which 節，who 節と同じ構造で，主として他動詞か前置詞の目的語，及び（ D ）で用いられる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Please help yourself "
+   },
+   {
+    "t": "order",
+    "words": [
+     "whatever",
+     "want",
+     "you",
+     "to"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "to whatever you want"
+   ]
+  ],
+  "secTitle": "間接疑問文 ⑥ ～whatever [whichever, whoever] 節"
+ },
+ {
+  "id": "I-68",
+  "unit": "I",
+  "no": "68",
+  "jp": "彼らが取り組むプロジェクトはどんなものでも常に成功します。",
+  "answers": [
+   "Whatever project they work on is always successful."
+  ],
+  "audio": "audio/I/I-68-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Whatever "
+   },
+   {
+    "t": "order",
+    "words": [
+     "they",
+     "work on",
+     "is",
+     "project"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " always successful."
+   }
+  ],
+  "solutions": [
+   [
+    "project they work on is"
+   ]
+  ],
+  "secTitle": "間接疑問文 ⑥ ～whatever [whichever, whoever] 節"
+ },
+ {
+  "id": "I-69",
+  "unit": "I",
+  "no": "69",
+  "jp": "どれでも自分の目的に合うコースを選んでいただけます。",
+  "answers": [
+   "You can choose whichever course suits your needs."
+  ],
+  "audio": "audio/I/I-69-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "You can choose "
+   },
+   {
+    "t": "order",
+    "words": [
+     "course",
+     "your needs",
+     "whichever",
+     "suits"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "whichever course suits your needs"
+   ]
+  ],
+  "secTitle": "間接疑問文 ⑥ ～whatever [whichever, whoever] 節"
+ },
+ {
+  "id": "I-70",
+  "unit": "I",
+  "no": "70",
+  "jp": "誰にこの責任があるにせよ，その人間は処罰されるべきだ。",
+  "answers": [
+   "Whoever is responsible for this should be punished."
+  ],
+  "audio": "audio/I/I-70-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " responsible for this should be punished."
+   }
+  ],
+  "solutions": [
+   [
+    "Whoever",
+    "is"
+   ]
+  ],
+  "secTitle": "間接疑問文 ⑥ ～whatever [whichever, whoever] 節"
+ },
+ {
+  "id": "I-71",
+  "unit": "I",
+  "no": "71",
+  "jp": "最も優れた作文を書いた人には賞が与えられます。",
+  "answers": [
+   "A prize will be given to whoever writes the best essay."
+  ],
+  "audio": "audio/I/I-71-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "A prize will be given to "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "whoever",
+     "whomever"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " writes the best essay."
+   }
+  ],
+  "solutions": [
+   [
+    "whoever"
+   ]
+  ],
+  "secTitle": "間接疑問文 ⑥ ～whatever [whichever, whoever] 節"
+ }
+]

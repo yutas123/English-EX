@@ -1,0 +1,111 @@
+C-23: not found in Q-sheet -> recall
+C-36: not found in Q-sheet -> recall
+D-01-i: not found in Q-sheet -> recall
+D-02-i: not found in Q-sheet -> recall
+D-02-j: not found in Q-sheet -> recall
+D-02-k: not found in Q-sheet -> recall
+D-03-a: in Q-sheet but not in Review
+D-04-a: in Q-sheet but not in Review
+D-04-c: in Q-sheet but not in Review
+D-04-d: in Q-sheet but not in Review
+D-04-e: in Q-sheet but not in Review
+E-66-h: slots did not match answer -> recall | ( ), let me thank you all for coming here today. i) ( ), she married a Russian and now lives in Moscow. j) ( ), you would think he is quite a religious man. || ['To begin with, let me thank you all for coming here today.']
+E-66-i: not found in Q-sheet -> recall
+E-66-j: not found in Q-sheet -> recall
+F-11: in Q-sheet but not in Review
+G-01-b: not found in Q-sheet -> recall
+G-01-c: not found in Q-sheet -> recall
+G-01-d: not found in Q-sheet -> recall
+G-01-e: not found in Q-sheet -> recall
+G-01-f: not found in Q-sheet -> recall
+G-14-a: not found in Q-sheet -> recall
+G-14-b: not found in Q-sheet -> recall
+G-14-c: not found in Q-sheet -> recall
+G-14-d: not found in Q-sheet -> recall
+G-14-e: not found in Q-sheet -> recall
+H-31: slots did not match answer -> recall | I couldn't recognize her at first, ( having, her, not, seen ) for 20 years. || ["I couldn't recognize her at first, not having seen her for 20 years."]
+H-13-a: in Q-sheet but not in Review
+H-20-a: in Q-sheet but not in Review
+H-21-a: in Q-sheet but not in Review
+H-25-a: in Q-sheet but not in Review
+H-36-a: in Q-sheet but not in Review
+H-38-a: in Q-sheet but not in Review
+H-39-a: in Q-sheet but not in Review
+H-42-a: in Q-sheet but not in Review
+H-47: in Q-sheet but not in Review
+I-03: in Q-sheet but not in Review
+I-49-a: in Q-sheet but not in Review
+I-49-b: in Q-sheet but not in Review
+I-49-c: in Q-sheet but not in Review
+K-21-a: in Q-sheet but not in Review
+K-45-b: in Q-sheet but not in Review
+K-45-c: in Q-sheet but not in Review
+K-46-c: in Q-sheet but not in Review
+L-01-a: in Q-sheet but not in Review
+L-01-b: in Q-sheet but not in Review
+L-01-c: in Q-sheet but not in Review
+L-01-d: in Q-sheet but not in Review
+L-01-e: in Q-sheet but not in Review
+L-01-f: in Q-sheet but not in Review
+L-01-g: in Q-sheet but not in Review
+L-01-h: in Q-sheet but not in Review
+L-52-a: in Q-sheet but not in Review
+L-52-b: in Q-sheet but not in Review
+L-86-a: in Q-sheet but not in Review
+M-14-a: in Q-sheet but not in Review
+N-29: not found in Q-sheet -> recall
+O-10: in Q-sheet but not in Review
+O-32-b: in Q-sheet but not in Review
+P-56: slots did not match answer -> recall | "Would you like to drive?" "Yes, I'd ( ) ( ). || ['"Would you like to drive?" "Yes, I\'d love to."', '"Would you like to drive?" "Yes, I\'d like to."']
+P-83-b: slots did not match answer -> recall | You ( ) ( ) take an umbrella ― it's ( ) ( ) rain. || ["You had better take an umbrella—it's going to rain."]
+P-19-b: in Q-sheet but not in Review
+P-20-a: in Q-sheet but not in Review
+P-33-a: in Q-sheet but not in Review
+Q-25-g: slots did not match answer -> recall | She was pretty as a ( ) in her new dress. apple pie beaver cucumber fiddle mouse picture peacock || ['She was pretty as a picture in her new dress.']
+Q-76-a: in Q-sheet but not in Review
+S-17-a: slots did not match answer -> recall | She's bad at driving. = She's a ( ) ( ). || ["She's a bad driver."]
+S-17-b: slots did not match answer -> recall | She's good at cooking. = She's a ( ) ( ). || ["She's a good cook."]
+S-17-c: slots did not match answer -> recall | She plays golf well. = She's a ( ) ( ). || ["She's a good golfer."]
+S-17-d: slots did not match answer -> recall | She walks slowly. = She's a ( ) ( ). || ["She's a slow walker."]
+S-17-e: slots did not match answer -> recall | He sleeps lightly. = He's a ( ) ( ). || ["He's a light sleeper."]
+S-17-f: slots did not match answer -> recall | He complains constantly. = He's a ( ) ( ). || ["He's a constant complainer."]
+S-17-g: slots did not match answer -> recall | He usually gets up very early. = He's an ( ) ( ). || ["He's an early riser."]
+S-17-h: slots did not match answer -> recall | She loves French cuisine. = She's a ( ) ( ) French cuisine. i) He visits my blog frequently. = He's a ( ) ( ) to my blog. || ["She's a lover of French cuisine."]
+S-17-i: not found in Q-sheet -> recall
+S-18-a: slots did not match answer -> recall | Let me look at that photo. = Let me ( ) a ( ) at that photo. || ['Let me have a look at that photo.', 'Let me take a look at that photo.']
+S-18-b: slots did not match answer -> recall | We talked for a long time. = We ( ) a ( ) ( ). || ['We had a long talk.']
+S-18-c: slots did not match answer -> recall | We rested for a short time. = We ( ) a ( ) ( ). || ['We had a short rest.', 'We took a short rest.']
+S-18-d: slots did not match answer -> recall | She smiled weakly. = She ( ) a ( ) ( ). || ['She gave a weak smile.']
+S-18-e: slots did not match answer -> recall | I can't decide just yet. = I can't ( ) a ( ) just yet. || ["I can't make a decision just yet."]
+S-18-f: slots did not match answer -> recall | A week later I called him. = A week later I ( ) ( ) a ( ). || ['A week later I gave him a call.']
+S-18-g: slots did not match answer -> recall | Let's try it once again. = Let's ( ) it ( ) ( ). || ["Let's give it another try."]
+S-18-h: slots did not match answer -> recall | She likes to cook. = She likes to ( ) the ( ). || ['She likes to do the cooking.']
+T-29-e: slots did not match answer -> recall | ( ) Lake Victoria is the biggest lake in Africa. || ['Lake Victoria is the biggest lake in Africa.']
+T-34: slots did not match answer -> recall | "You have a call from ( ) Nick Morgan." || ['You have a call from a Nick Morgan.']
+T-54-a: in Q-sheet but not in Review
+U-26: not found in Q-sheet -> recall
+U-37: not found in Q-sheet -> recall
+U-60: not found in Q-sheet -> recall
+U-66-a: in Q-sheet but not in Review
+U-75: in Q-sheet but not in Review
+V-12-a: slots did not match answer -> recall | = a ( ) hotel || ['a first-class hotel']
+V-12-b: slots did not match answer -> recall | = an ( ) settlement || ['an out-of-court settlement']
+V-12-c: slots did not match answer -> recall | = a ( ) student || ['a hard-working student']
+V-12-d: slots did not match answer -> recall | = a ( ) man || ['a good-looking man']
+V-12-e: not found in Q-sheet -> recall
+V-12-f: slots did not match answer -> recall | = a ( ) singer || ['a well-known singer']
+V-12-g: slots did not match answer -> recall | = a ( ) truck || ['a broken-down truck']
+V-13-a: slots did not match answer -> recall | = a ( ) bill || ['a ten-dollar bill']
+V-13-b: slots did not match answer -> recall | = a ( ) plan || ['a five-year plan']
+V-13-c: slots did not match answer -> recall | = a ( ) boy || ['a six-year-old boy']
+V-13-d: slots did not match answer -> recall | = a ( ) clover || ['a four-leaf clover']
+V-13-e: slots did not match answer -> recall | = a ( ) wall || ['a twelve-foot wall']
+V-20-a: in Q-sheet but not in Review
+V-20-b: in Q-sheet but not in Review
+V-20-c: in Q-sheet but not in Review
+V-20-d: in Q-sheet but not in Review
+V-20-e: in Q-sheet but not in Review
+V-20-f: in Q-sheet but not in Review
+W-14-a: in Q-sheet but not in Review
+W-29: in Q-sheet but not in Review
+W-29-b: in Q-sheet but not in Review

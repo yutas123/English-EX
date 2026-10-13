@@ -1,0 +1,2655 @@
+[
+ {
+  "id": "B-01",
+  "unit": "B",
+  "no": "01",
+  "jp": "６掛ける４は２４です。",
+  "answers": [
+   "Six times four is twenty-four."
+  ],
+  "audio": "audio/B/B-01-.mp3",
+  "section": {
+   "title": "be 動詞の意味",
+   "body": "「動詞」 で用いる場合のbe 動詞は，「…である」 「イコール…」 という意味で後ろに名詞や（ A ）を置く場合と， 「いる」「ある」という意味で後ろに場所や時，状態を表す（ B ）を置く場合とがある。"
+  },
+  "tags": [
+   "適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Six times four "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " twenty-four."
+   }
+  ],
+  "solutions": [
+   [
+    "is"
+   ]
+  ],
+  "secTitle": "be 動詞の意味"
+ },
+ {
+  "id": "B-02",
+  "unit": "B",
+  "no": "02",
+  "jp": "彼は将来，良いコーチになりますよ。",
+  "answers": [
+   "He will be a good coach down the road."
+  ],
+  "audio": "audio/B/B-02-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He will "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " a good coach down the road."
+   }
+  ],
+  "solutions": [
+   [
+    "be"
+   ]
+  ],
+  "secTitle": "be 動詞の意味"
+ },
+ {
+  "id": "B-03",
+  "unit": "B",
+  "no": "03",
+  "jp": "「ここはどこですか？」「渋谷です」",
+  "answers": [
+   "\"Where are we?\" \"We are in Shibuya.\""
+  ],
+  "audio": "audio/B/B-03-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"Where "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "?\" \"We "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " in Shibuya.\""
+   }
+  ],
+  "solutions": [
+   [
+    "are",
+    "we",
+    "are"
+   ]
+  ],
+  "secTitle": "be 動詞の意味"
+ },
+ {
+  "id": "B-04",
+  "unit": "B",
+  "no": "04",
+  "jp": "それを元の場所に戻しておきなさい。",
+  "answers": [
+   "Put it back where it was."
+  ],
+  "audio": "audio/B/B-04-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Put it back where it "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "was"
+   ]
+  ],
+  "secTitle": "be 動詞の意味"
+ },
+ {
+  "id": "B-05",
+  "unit": "B",
+  "no": "05",
+  "jp": "我々はかつてないことを夢見ることのできる人間が必要だ。",
+  "answers": [
+   "We need men who can dream of things that never were."
+  ],
+  "audio": "audio/B/B-05-.mp3",
+  "tags": [
+   "下線部に注意して和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "We need men* who can dream of things that never were.",
+  "secTitle": "be 動詞の意味"
+ },
+ {
+  "id": "B-06",
+  "unit": "B",
+  "no": "06",
+  "jp": "「君は？ 車は何に乗っているの？」「私はプリウスです」",
+  "answers": [
+   "\"How about you? What do you drive?\" \"I drive a Prius.\""
+  ],
+  "audio": "audio/B/B-06-.mp3",
+  "section": {
+   "title": "＊men  「人々，人間」",
+   "body": "第２文型（S V C）～ be 動詞の補語動詞の後ろに主語の状態や性質を表す語が置かれる場合，この語を 「補語」 と呼び，「主語＋動詞＋補語」 の文を 「第２文型」 と呼ぶ。第２文型で最もよく用いられる動詞は（ A ）である。（ A ）の補語で用いられる品詞は通常，（ B ），名詞，代名詞と名詞に相当する語句や節であるが，「（ C ）＋名詞」 のような（ B ）の意味を持つ前置詞句が補語になることもある。"
+  },
+  "tags": [
+   "間違いがあれば訂正"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "\"How about you? What do you drive?\" \"I'm Prius.\"",
+  "secTitle": "＊men  「人々，人間」"
+ },
+ {
+  "id": "B-07",
+  "unit": "B",
+  "no": "07",
+  "jp": "彼は肺ガンを患い重病であった。",
+  "answers": [
+   "He was seriously ill with lung cancer."
+  ],
+  "audio": "audio/B/B-07-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "He was serious illness with lung cancer.",
+  "secTitle": "＊men  「人々，人間」"
+ },
+ {
+  "id": "B-08-a",
+  "unit": "B",
+  "no": "08",
+  "jp": "私の仕事は生徒の手助けを行い導くことです。",
+  "answers": [
+   "My job is to help and guide the students."
+  ],
+  "audio": "audio/B/B-08-a-.mp3",
+  "tags": [
+   "各文の補語に下線を引き，全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "My job is to help and guide the students.",
+  "secTitle": "＊men  「人々，人間」"
+ },
+ {
+  "id": "B-08-b",
+  "unit": "B",
+  "no": "08",
+  "jp": "問題はどのようにしてそれを機能させるかということだ。",
+  "answers": [
+   "The question is how to make it work."
+  ],
+  "audio": "audio/B/B-08-b-.mp3",
+  "tags": [
+   "各文の補語に下線を引き，全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "The question is how to make it work.",
+  "secTitle": "＊men  「人々，人間」"
+ },
+ {
+  "id": "B-08-c",
+  "unit": "B",
+  "no": "08",
+  "jp": "彼の欠点は短気だということです。",
+  "answers": [
+   "His weak point is that he's short-tempered."
+  ],
+  "audio": "audio/B/B-08-c-.mp3",
+  "tags": [
+   "各文の補語に下線を引き，全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "His weak point is that he's short-tempered.",
+  "secTitle": "＊men  「人々，人間」"
+ },
+ {
+  "id": "B-08-d",
+  "unit": "B",
+  "no": "08",
+  "jp": "ことばとは私達が吸っている空気のようなものだ。",
+  "answers": [
+   "Language is like the air we breathe."
+  ],
+  "audio": "audio/B/B-08-d-.mp3",
+  "tags": [
+   "各文の補語に下線を引き，全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Language is like the air we breathe.",
+  "secTitle": "＊men  「人々，人間」"
+ },
+ {
+  "id": "B-08-e",
+  "unit": "B",
+  "no": "08",
+  "jp": "もし君が負けるとしたら，それは君の頑張りが足りなかったからだ。",
+  "answers": [
+   "If you lose, it's because you didn't try hard enough."
+  ],
+  "audio": "audio/B/B-08-e-.mp3",
+  "tags": [
+   "各文の補語に下線を引き，全文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "If you lose, it's because you didn't try hard enough.",
+  "secTitle": "＊men  「人々，人間」"
+ },
+ {
+  "id": "B-09-a",
+  "unit": "B",
+  "no": "09",
+  "jp": "顧客満足は私達にとって非常に重要なことです。",
+  "answers": [
+   "Customer satisfaction is of great importance to us."
+  ],
+  "audio": "audio/B/B-09-a-.mp3",
+  "tags": [
+   "適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Customer satisfaction is "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " great "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to us."
+   }
+  ],
+  "solutions": [
+   [
+    "of",
+    "importance"
+   ]
+  ],
+  "secTitle": "＊men  「人々，人間」"
+ },
+ {
+  "id": "B-09-b",
+  "unit": "B",
+  "no": "09",
+  "jp": "この本が少しでもあなたの役に立てればと思います。",
+  "answers": [
+   "I hope this book will be of some use to you."
+  ],
+  "audio": "audio/B/B-09-b-.mp3",
+  "tags": [
+   "適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I hope this book will be "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " some "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to you."
+   }
+  ],
+  "solutions": [
+   [
+    "of",
+    "use"
+   ]
+  ],
+  "secTitle": "＊men  「人々，人間」"
+ },
+ {
+  "id": "B-09-c",
+  "unit": "B",
+  "no": "09",
+  "jp": "その指輪は実際にはほとんど価値がなかった。",
+  "answers": [
+   "The ring was actually of very little value."
+  ],
+  "audio": "audio/B/B-09-c-.mp3",
+  "tags": [
+   "適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The ring was actually "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " very little "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "of",
+    "value"
+   ]
+  ],
+  "secTitle": "＊men  「人々，人間」"
+ },
+ {
+  "id": "B-10",
+  "unit": "B",
+  "no": "10",
+  "jp": "私は常に忙しくしているのが好きなんです。",
+  "answers": [
+   "I like to keep busy.",
+   "I like to stay busy."
+  ],
+  "audio": "audio/B/B-10-.mp3",
+  "section": {
+   "title": "第２文型（S V C）でよく用いられる動詞",
+   "body": "第２文型で用いる動詞は，be やkeep のように 「状態」 や 「持続」 を表すもの，becomeのように 「変化」 を表すもの，seem のように 「印象」 を表すもの，feel のように 「感覚」 を表すものに大別できる。どの動詞も補語には（ A ）を置くことができる。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I like to "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " busy."
+   }
+  ],
+  "solutions": [
+   [
+    "keep"
+   ],
+   [
+    "stay"
+   ]
+  ],
+  "secTitle": "第２文型（S V C）でよく用いられる動詞"
+ },
+ {
+  "id": "B-11",
+  "unit": "B",
+  "no": "11",
+  "jp": "貧困は多くの国々において依然として深刻な問題のままである。",
+  "answers": [
+   "Poverty remains a serious problem in many countries."
+  ],
+  "audio": "audio/B/B-11-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Poverty "
+   },
+   {
+    "t": "blank",
+    "hint": "r"
+   },
+   {
+    "t": "text",
+    "v": " a serious problem in many countries."
+   }
+  ],
+  "solutions": [
+   [
+    "remains"
+   ]
+  ],
+  "secTitle": "第２文型（S V C）でよく用いられる動詞"
+ },
+ {
+  "id": "B-12",
+  "unit": "B",
+  "no": "12",
+  "jp": "チャンネルはそのままで。（（CMに入る前の番組司会者のことば））",
+  "answers": [
+   "Stay tuned. We'll be right back."
+  ],
+  "audio": "audio/B/B-12-.mp3",
+  "tags": [
+   "CM に入る前の番組司会者のことば"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " tuned. We'll be right back."
+   }
+  ],
+  "solutions": [
+   [
+    "Stay"
+   ]
+  ],
+  "secTitle": "第２文型（S V C）でよく用いられる動詞"
+ },
+ {
+  "id": "B-13",
+  "unit": "B",
+  "no": "13",
+  "jp": "くだらないことを考えて夜ベッドで眠れずにいることがあります。",
+  "answers": [
+   "I sometimes lie awake at night worrying about silly things."
+  ],
+  "audio": "audio/B/B-13-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I sometimes "
+   },
+   {
+    "t": "blank",
+    "hint": "l"
+   },
+   {
+    "t": "text",
+    "v": " awake at night worrying about silly things."
+   }
+  ],
+  "solutions": [
+   [
+    "lie"
+   ]
+  ],
+  "secTitle": "第２文型（S V C）でよく用いられる動詞"
+ },
+ {
+  "id": "B-14-a",
+  "unit": "B",
+  "no": "14",
+  "jp": "彼は2001 年に総理大臣になった。",
+  "answers": [
+   "He became Prime Minister in 2001."
+  ],
+  "audio": "audio/B/B-14-a-.mp3",
+  "tags": [
+   "become, come, fall, get, go, grow, make, turn の中から選び適当な形にする。但し， 同じ動詞を２回使わないこと"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " Prime Minister in 2001."
+   }
+  ],
+  "solutions": [
+   [
+    "became"
+   ]
+  ],
+  "secTitle": "第２文型（S V C）でよく用いられる動詞"
+ },
+ {
+  "id": "B-14-b",
+  "unit": "B",
+  "no": "14",
+  "jp": "「食事が冷めますよ」「今行きます」",
+  "answers": [
+   "\"Your food's getting cold.\" \"I'm coming.\""
+  ],
+  "audio": "audio/B/B-14-b-.mp3",
+  "tags": [
+   "become, come, fall, get, go, grow, make, turn の中から選び適当な形にする。但し， 同じ動詞を２回使わないこと"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"Your food's "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " cold.\" \"I'm coming.\""
+   }
+  ],
+  "solutions": [
+   [
+    "getting"
+   ]
+  ],
+  "secTitle": "第２文型（S V C）でよく用いられる動詞"
+ },
+ {
+  "id": "B-14-c",
+  "unit": "B",
+  "no": "14",
+  "jp": "彼はその会社での仕事に退屈し始めていた。",
+  "answers": [
+   "He was growing bored with his work at the company."
+  ],
+  "audio": "audio/B/B-14-c-.mp3",
+  "tags": [
+   "become, come, fall, get, go, grow, make, turn の中から選び適当な形にする。但し， 同じ動詞を２回使わないこと"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He was "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " bored with his work at the company."
+   }
+  ],
+  "solutions": [
+   [
+    "growing"
+   ]
+  ],
+  "secTitle": "第２文型（S V C）でよく用いられる動詞"
+ },
+ {
+  "id": "B-14-d",
+  "unit": "B",
+  "no": "14",
+  "jp": "私は18 歳になったばかりです。",
+  "answers": [
+   "I have just turned 18."
+  ],
+  "audio": "audio/B/B-14-d-.mp3",
+  "tags": [
+   "become, come, fall, get, go, grow, make, turn の中から選び適当な形にする。但し， 同じ動詞を２回使わないこと"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I have just "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " 18."
+   }
+  ],
+  "solutions": [
+   [
+    "turned"
+   ]
+  ],
+  "secTitle": "第２文型（S V C）でよく用いられる動詞"
+ },
+ {
+  "id": "B-14-e",
+  "unit": "B",
+  "no": "14",
+  "jp": "スティーブはいつも何杯かビールを飲むと寝てしまう。",
+  "answers": [
+   "Steve always falls asleep after a few beers."
+  ],
+  "audio": "audio/B/B-14-e-.mp3",
+  "tags": [
+   "become, come, fall, get, go, grow, make, turn の中から選び適当な形にする。但し， 同じ動詞を２回使わないこと"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Steve always "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " asleep after a few beers."
+   }
+  ],
+  "solutions": [
+   [
+    "falls"
+   ]
+  ],
+  "secTitle": "第２文型（S V C）でよく用いられる動詞"
+ },
+ {
+  "id": "B-14-f",
+  "unit": "B",
+  "no": "14",
+  "jp": "このことをママが聞いたらカンカンに怒るよ。",
+  "answers": [
+   "Mom will go crazy when she hears about this."
+  ],
+  "audio": "audio/B/B-14-f-.mp3",
+  "tags": [
+   "become, come, fall, get, go, grow, make, turn の中から選び適当な形にする。但し， 同じ動詞を２回使わないこと"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Mom will "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " crazy when she hears about this."
+   }
+  ],
+  "solutions": [
+   [
+    "go"
+   ]
+  ],
+  "secTitle": "第２文型（S V C）でよく用いられる動詞"
+ },
+ {
+  "id": "B-14-g",
+  "unit": "B",
+  "no": "14",
+  "jp": "ドアのノブがぐらぐらしちゃってるね。",
+  "answers": [
+   "The door handle has come loose."
+  ],
+  "audio": "audio/B/B-14-g-.mp3",
+  "tags": [
+   "become, come, fall, get, go, grow, make, turn の中から選び適当な形にする。但し， 同じ動詞を２回使わないこと"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The door handle has "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " loose."
+   }
+  ],
+  "solutions": [
+   [
+    "come"
+   ]
+  ],
+  "secTitle": "第２文型（S V C）でよく用いられる動詞"
+ },
+ {
+  "id": "B-14-h",
+  "unit": "B",
+  "no": "14",
+  "jp": "ピンポン球は猫の絶好の遊び道具になる。",
+  "answers": [
+   "Ping-pong balls make great toys for cats."
+  ],
+  "audio": "audio/B/B-14-h-.mp3",
+  "tags": [
+   "become, come, fall, get, go, grow, make, turn の中から選び適当な形にする。但し， 同じ動詞を２回使わないこと"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Ping-pong balls "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " great toys for cats."
+   }
+  ],
+  "solutions": [
+   [
+    "make"
+   ]
+  ],
+  "secTitle": "第２文型（S V C）でよく用いられる動詞"
+ },
+ {
+  "id": "B-15-a",
+  "unit": "B",
+  "no": "15",
+  "jp": "彼女は家ではあまり幸せではないようです。",
+  "answers": [
+   "She doesn't seem very happy at home.",
+   "She doesn't appear very happy at home."
+  ],
+  "audio": "audio/B/B-15-a-.mp3",
+  "tags": [
+   "同じ動詞を用い２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She doesn't "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " very happy at home."
+   }
+  ],
+  "solutions": [
+   [
+    "seem"
+   ],
+   [
+    "appear"
+   ]
+  ],
+  "secTitle": "第２文型（S V C）でよく用いられる動詞"
+ },
+ {
+  "id": "B-15-b",
+  "unit": "B",
+  "no": "15",
+  "jp": "彼女は家ではあまり幸せではないようです。",
+  "answers": [
+   "She doesn't seem to be very happy at home.",
+   "She doesn't appear to be very happy at home."
+  ],
+  "audio": "audio/B/B-15-b-.mp3",
+  "tags": [
+   "同じ動詞を用い２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She doesn't "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " be very happy at home."
+   }
+  ],
+  "solutions": [
+   [
+    "seem",
+    "to"
+   ],
+   [
+    "appear",
+    "to"
+   ]
+  ],
+  "secTitle": "第２文型（S V C）でよく用いられる動詞"
+ },
+ {
+  "id": "B-16-a",
+  "unit": "B",
+  "no": "16",
+  "jp": "そのワンピース，君によく似合ってるよ。",
+  "answers": [
+   "That dress looks nice on you."
+  ],
+  "audio": "audio/B/B-16-a-.mp3",
+  "tags": [
+   "同じ動詞を用い適切な形に"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "That dress "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " nice "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " you."
+   }
+  ],
+  "solutions": [
+   [
+    "looks",
+    "on"
+   ]
+  ],
+  "secTitle": "第２文型（S V C）でよく用いられる動詞"
+ },
+ {
+  "id": "B-16-b",
+  "unit": "B",
+  "no": "16",
+  "jp": "君はそのワンピースがよく似合うね。",
+  "answers": [
+   "You look nice in that dress."
+  ],
+  "audio": "audio/B/B-16-b-.mp3",
+  "tags": [
+   "同じ動詞を用い適切な形に"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "You "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " nice "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " that dress."
+   }
+  ],
+  "solutions": [
+   [
+    "look",
+    "in"
+   ]
+  ],
+  "secTitle": "第２文型（S V C）でよく用いられる動詞"
+ },
+ {
+  "id": "B-17-a",
+  "unit": "B",
+  "no": "17",
+  "jp": "どうしたの？ 声が怒っているみたいだけど。",
+  "answers": [
+   "What's wrong? You sound upset."
+  ],
+  "audio": "audio/B/B-17-a-.mp3",
+  "tags": [
+   "同じ動詞を用い適切な形に"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "What's wrong? You "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " upset."
+   }
+  ],
+  "solutions": [
+   [
+    "sound"
+   ]
+  ],
+  "secTitle": "第２文型（S V C）でよく用いられる動詞"
+ },
+ {
+  "id": "B-17-b",
+  "unit": "B",
+  "no": "17",
+  "jp": "それは危険そうですね。どうか気をつけてください。",
+  "answers": [
+   "That sounds dangerous! Please be careful."
+  ],
+  "audio": "audio/B/B-17-b-.mp3",
+  "tags": [
+   "同じ動詞を用い適切な形に"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "That "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " dangerous! Please be careful."
+   }
+  ],
+  "solutions": [
+   [
+    "sounds"
+   ]
+  ],
+  "secTitle": "第２文型（S V C）でよく用いられる動詞"
+ },
+ {
+  "id": "B-18-a",
+  "unit": "B",
+  "no": "18",
+  "jp": "それを使った後は，お肌が一日中柔らかくてすべすべなんですよ。",
+  "answers": [
+   "After using it, my skin feels soft and smooth all day long."
+  ],
+  "audio": "audio/B/B-18-a-.mp3",
+  "tags": [
+   "同じ動詞を用い適切な形に"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "After using it, my skin "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " soft and smooth all day long."
+   }
+  ],
+  "solutions": [
+   [
+    "feels"
+   ]
+  ],
+  "secTitle": "第２文型（S V C）でよく用いられる動詞"
+ },
+ {
+  "id": "B-18-b",
+  "unit": "B",
+  "no": "18",
+  "jp": "「気分が悪いんですか？」「いえ，大丈夫です」",
+  "answers": [
+   "\"Are you feeling sick?\" \"No, I'm okay.\""
+  ],
+  "audio": "audio/B/B-18-b-.mp3",
+  "tags": [
+   "同じ動詞を用い適切な形に"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"Are you "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " sick?\" \"No, I'm okay.\""
+   }
+  ],
+  "solutions": [
+   [
+    "feeling"
+   ]
+  ],
+  "secTitle": "第２文型（S V C）でよく用いられる動詞"
+ },
+ {
+  "id": "B-19-a",
+  "unit": "B",
+  "no": "19",
+  "jp": "う～ん，何かおいしそうな匂い。",
+  "answers": [
+   "Hmm, something smells delicious!"
+  ],
+  "audio": "audio/B/B-19-a-.mp3",
+  "tags": [
+   "同じ動詞を用い適切な形に"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Hmm, something "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " delicious!"
+   }
+  ],
+  "solutions": [
+   [
+    "smells"
+   ]
+  ],
+  "secTitle": "第２文型（S V C）でよく用いられる動詞"
+ },
+ {
+  "id": "B-19-b",
+  "unit": "B",
+  "no": "19",
+  "jp": "この部屋はタバコのにおいがする。",
+  "answers": [
+   "This room smells of cigarettes."
+  ],
+  "audio": "audio/B/B-19-b-.mp3",
+  "tags": [
+   "同じ動詞を用い適切な形に"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "This room "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " cigarettes."
+   }
+  ],
+  "solutions": [
+   [
+    "smells",
+    "of"
+   ]
+  ],
+  "secTitle": "第２文型（S V C）でよく用いられる動詞"
+ },
+ {
+  "id": "B-20-a",
+  "unit": "B",
+  "no": "20",
+  "jp": "その料理は見た目よりおいしかった。",
+  "answers": [
+   "The dish tasted better than it looked."
+  ],
+  "audio": "audio/B/B-20-a-.mp3",
+  "tags": [
+   "同じ動詞を用い適切な形に"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The dish "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " better than it looked."
+   }
+  ],
+  "solutions": [
+   [
+    "tasted"
+   ]
+  ],
+  "secTitle": "第２文型（S V C）でよく用いられる動詞"
+ },
+ {
+  "id": "B-20-b",
+  "unit": "B",
+  "no": "20",
+  "jp": "それは歯磨き粉のような味がするよ。",
+  "answers": [
+   "That tastes like toothpaste."
+  ],
+  "audio": "audio/B/B-20-b-.mp3",
+  "tags": [
+   "同じ動詞を用い適切な形に"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "That "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " toothpaste."
+   }
+  ],
+  "solutions": [
+   [
+    "tastes",
+    "like"
+   ]
+  ],
+  "secTitle": "第２文型（S V C）でよく用いられる動詞"
+ },
+ {
+  "id": "B-21-a",
+  "unit": "B",
+  "no": "21",
+  "jp": "スターバックスで６時半にあなたとお会いします。",
+  "answers": [
+   "I'll meet you at Starbucks at 6:30."
+  ],
+  "audio": "audio/B/B-21-a-.mp3",
+  "section": {
+   "title": "自動詞（第１文型）と他動詞（第３文型）の区別",
+   "body": "「 …を」 や 「 …に」 という意味で動詞の後ろに置かれ，動詞の動作や行為の対象を表す名詞［代名詞］を 「目的語」 と呼ぶ。目的語をとる（＝置く・必要とする）動詞を（ A ）と呼び，目的語をとらない動詞を（ B ）と呼ぶが，多くの動詞は他動詞と自動詞の両方で用いることができる。また，自動詞は後ろに（ C ）を置くことで他動詞と同じように目的語をとれるものが多い。"
+  },
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I'll meet with you at Starbucks at 6:30.",
+  "secTitle": "自動詞（第１文型）と他動詞（第３文型）の区別"
+ },
+ {
+  "id": "B-21-b",
+  "unit": "B",
+  "no": "21",
+  "jp": "スターバックスで６時半に会いましょう。",
+  "answers": [
+   "Let's meet at Starbucks at 6:30."
+  ],
+  "audio": "audio/B/B-21-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Let's meet each other at Starbucks at 6:30.",
+  "secTitle": "自動詞（第１文型）と他動詞（第３文型）の区別"
+ },
+ {
+  "id": "B-22",
+  "unit": "B",
+  "no": "22",
+  "jp": "彼は生活費を払うために窃盗をせざるを得なかったと言った。",
+  "answers": [
+   "He said he had to steal in order to pay his bills."
+  ],
+  "audio": "audio/B/B-22-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "He said he had to steal in order to pay his bills.",
+  "secTitle": "自動詞（第１文型）と他動詞（第３文型）の区別"
+ },
+ {
+  "id": "B-23",
+  "unit": "B",
+  "no": "23",
+  "jp": "私は今，台湾でエンジョイしています。ここの人々はとても気さくです。",
+  "answers": [
+   "I'm enjoying myself in Taiwan. People here are very friendly."
+  ],
+  "audio": "audio/B/B-23-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I'm enjoying in Taiwan. People here are very friendly.",
+  "secTitle": "自動詞（第１文型）と他動詞（第３文型）の区別"
+ },
+ {
+  "id": "B-24",
+  "unit": "B",
+  "no": "24",
+  "jp": "彼はこれまで常に贅沢な生活を送ってきました。",
+  "answers": [
+   "He's always lived a life of luxury."
+  ],
+  "audio": "audio/B/B-24-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "He's always lived a life of luxury.",
+  "secTitle": "自動詞（第１文型）と他動詞（第３文型）の区別"
+ },
+ {
+  "id": "B-25-a",
+  "unit": "B",
+  "no": "25",
+  "jp": "二本の松の木が家の前に立っている。",
+  "answers": [
+   "Two pine trees stand in front of the house."
+  ],
+  "audio": "audio/B/B-25-a-.mp3",
+  "tags": [
+   "同じ動詞を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Two pine trees "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " in front of the house."
+   }
+  ],
+  "solutions": [
+   [
+    "stand"
+   ]
+  ],
+  "secTitle": "自動詞（第１文型）と他動詞（第３文型）の区別"
+ },
+ {
+  "id": "B-25-b",
+  "unit": "B",
+  "no": "25",
+  "jp": "私は厳しい練習に耐えられず野球部をやめた。",
+  "answers": [
+   "I couldn't stand the hard practice and left the baseball club."
+  ],
+  "audio": "audio/B/B-25-b-.mp3",
+  "tags": [
+   "同じ動詞を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I couldn't "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the hard practice and left the baseball club."
+   }
+  ],
+  "solutions": [
+   [
+    "stand"
+   ]
+  ],
+  "secTitle": "自動詞（第１文型）と他動詞（第３文型）の区別"
+ },
+ {
+  "id": "B-26-a",
+  "unit": "B",
+  "no": "26",
+  "jp": "電車に乗るために走らなければならなかった。",
+  "answers": [
+   "I had to run to catch the train."
+  ],
+  "audio": "audio/B/B-26-a-.mp3",
+  "tags": [
+   "同じ動詞を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I had to "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to catch the train."
+   }
+  ],
+  "solutions": [
+   [
+    "run"
+   ]
+  ],
+  "secTitle": "自動詞（第１文型）と他動詞（第３文型）の区別"
+ },
+ {
+  "id": "B-26-b",
+  "unit": "B",
+  "no": "26",
+  "jp": "彼らは自宅の隣で小さなレストランを経営している。",
+  "answers": [
+   "They run a small restaurant next to their house."
+  ],
+  "audio": "audio/B/B-26-b-.mp3",
+  "tags": [
+   "同じ動詞を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "They "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " a small restaurant next to their house."
+   }
+  ],
+  "solutions": [
+   [
+    "run"
+   ]
+  ],
+  "secTitle": "自動詞（第１文型）と他動詞（第３文型）の区別"
+ },
+ {
+  "id": "B-27",
+  "unit": "B",
+  "no": "27",
+  "jp": "彼の服が床の上に散乱していた。",
+  "answers": [
+   "His clothes lay all over the floor."
+  ],
+  "audio": "audio/B/B-27-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "His clothes "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "lied",
+     "lay",
+     "laid"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " all over the floor."
+   }
+  ],
+  "solutions": [
+   [
+    "lay"
+   ]
+  ],
+  "secTitle": "自動詞（第１文型）と他動詞（第３文型）の区別"
+ },
+ {
+  "id": "B-28",
+  "unit": "B",
+  "no": "28",
+  "jp": "彼女は赤ん坊を少し眠らせるためにベビーベッドに横たえた。",
+  "answers": [
+   "She laid the baby in his crib for a nap."
+  ],
+  "audio": "audio/B/B-28-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "lied",
+     "lay",
+     "laid"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " the baby in his crib for a nap."
+   }
+  ],
+  "solutions": [
+   [
+    "laid"
+   ]
+  ],
+  "secTitle": "自動詞（第１文型）と他動詞（第３文型）の区別"
+ },
+ {
+  "id": "B-29",
+  "unit": "B",
+  "no": "29",
+  "jp": "その会社は1895 年に設立された。",
+  "answers": [
+   "The company was founded in 1895."
+  ],
+  "audio": "audio/B/B-29-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The company was "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "found",
+     "founded"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " in 1895."
+   }
+  ],
+  "solutions": [
+   [
+    "founded"
+   ]
+  ],
+  "secTitle": "自動詞（第１文型）と他動詞（第３文型）の区別"
+ },
+ {
+  "id": "B-30",
+  "unit": "B",
+  "no": "30",
+  "jp": "その箱を開けた時，彼女の顔を涙が伝った。",
+  "answers": [
+   "Tears flowed down her face when she opened the box."
+  ],
+  "audio": "audio/B/B-30-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Tears "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "flowed",
+     "flew"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " down her face when she opened the box."
+   }
+  ],
+  "solutions": [
+   [
+    "flowed"
+   ]
+  ],
+  "secTitle": "自動詞（第１文型）と他動詞（第３文型）の区別"
+ },
+ {
+  "id": "B-31",
+  "unit": "B",
+  "no": "31",
+  "jp": "私が部屋に入ると，彼女は顔を上げた。",
+  "answers": [
+   "She raised her head as I entered the room."
+  ],
+  "audio": "audio/B/B-31-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "rised",
+     "rose",
+     "raised"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " her head as I "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "entered",
+     "entered into"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " the room."
+   }
+  ],
+  "solutions": [
+   [
+    "raised",
+    "entered"
+   ]
+  ],
+  "secTitle": "自動詞（第１文型）と他動詞（第３文型）の区別"
+ },
+ {
+  "id": "B-32",
+  "unit": "B",
+  "no": "32",
+  "jp": "我々は午前０時前にサンディエゴに到着した。",
+  "answers": [
+   "We arrived in San Diego just before midnight."
+  ],
+  "audio": "audio/B/B-32-.mp3",
+  "tags": [
+   "間違いがあれば訂正"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "We arrived San Diego just before midnight.",
+  "secTitle": "自動詞（第１文型）と他動詞（第３文型）の区別"
+ },
+ {
+  "id": "B-33-a",
+  "unit": "B",
+  "no": "33",
+  "jp": "そのことについて，まず主人と話し合ってみます。",
+  "answers": [
+   "I'll discuss that with my husband first."
+  ],
+  "audio": "audio/B/B-33-a-.mp3",
+  "tags": [
+   "適語を記入し２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'll "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " that with my husband first."
+   }
+  ],
+  "solutions": [
+   [
+    "discuss"
+   ]
+  ],
+  "secTitle": "自動詞（第１文型）と他動詞（第３文型）の区別"
+ },
+ {
+  "id": "B-33-b",
+  "unit": "B",
+  "no": "33",
+  "jp": "そのことについて，まず主人と話し合ってみます。",
+  "answers": [
+   "I'll talk about that with my husband first."
+  ],
+  "audio": "audio/B/B-33-b-.mp3",
+  "tags": [
+   "適語を記入し２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'll "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " that with my husband first."
+   }
+  ],
+  "solutions": [
+   [
+    "talk",
+    "about"
+   ]
+  ],
+  "secTitle": "自動詞（第１文型）と他動詞（第３文型）の区別"
+ },
+ {
+  "id": "B-34",
+  "unit": "B",
+  "no": "34",
+  "jp": "私はすぐに彼の手紙に返事を書いた。",
+  "answers": [
+   "I answered his letter immediately.",
+   "I replied to his letter immediately."
+  ],
+  "audio": "audio/B/B-34-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I answered to his letter immediately.",
+  "secTitle": "自動詞（第１文型）と他動詞（第３文型）の区別"
+ },
+ {
+  "id": "B-35",
+  "unit": "B",
+  "no": "35",
+  "jp": "何千人ものファンが彼女の葬儀に参列した。",
+  "answers": [
+   "Thousands of fans attended her funeral."
+  ],
+  "audio": "audio/B/B-35-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Thousands of fans attended to her funeral.",
+  "secTitle": "自動詞（第１文型）と他動詞（第３文型）の区別"
+ },
+ {
+  "id": "B-36",
+  "unit": "B",
+  "no": "36",
+  "jp": "只今，ロンドン塔に近づいております。",
+  "answers": [
+   "We're now approaching the Tower of London."
+  ],
+  "audio": "audio/B/B-36-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "We're now approaching to the Tower of London.",
+  "secTitle": "自動詞（第１文型）と他動詞（第３文型）の区別"
+ },
+ {
+  "id": "B-37",
+  "unit": "B",
+  "no": "37",
+  "jp": "こんな時にお金の話をするのもなんですが...",
+  "answers": [
+   "I hate to mention money at a time like this, but ..."
+  ],
+  "audio": "audio/B/B-37-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I hate to mention about money at a time like this, but ...",
+  "secTitle": "自動詞（第１文型）と他動詞（第３文型）の区別"
+ },
+ {
+  "id": "B-38",
+  "unit": "B",
+  "no": "38",
+  "jp": "君には自分の将来について考える時間が必要です。",
+  "answers": [
+   "You need time to consider your future."
+  ],
+  "audio": "audio/B/B-38-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "You need time to consider about your future.",
+  "secTitle": "自動詞（第１文型）と他動詞（第３文型）の区別"
+ },
+ {
+  "id": "B-39",
+  "unit": "B",
+  "no": "39",
+  "jp": "君はスミス氏の名誉を傷つけたことを謝罪すべきだ。",
+  "answers": [
+   "You should apologize to Mr. Smith for injuring his reputation."
+  ],
+  "audio": "audio/B/B-39-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "You should apologize Mr. Smith for injuring his reputation.",
+  "secTitle": "自動詞（第１文型）と他動詞（第３文型）の区別"
+ },
+ {
+  "id": "B-40",
+  "unit": "B",
+  "no": "40",
+  "jp": "私達は行方不明になった子猫を探した。",
+  "answers": [
+   "We searched for the lost kitten."
+  ],
+  "audio": "audio/B/B-40-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "We searched the lost kitten.",
+  "secTitle": "自動詞（第１文型）と他動詞（第３文型）の区別"
+ },
+ {
+  "id": "B-41",
+  "unit": "B",
+  "no": "41",
+  "jp": "妻は女の子（が生まれるの）を願っています。",
+  "answers": [
+   "My wife is hoping for a baby girl."
+  ],
+  "audio": "audio/B/B-41-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "My wife is hoping a baby girl.",
+  "secTitle": "自動詞（第１文型）と他動詞（第３文型）の区別"
+ },
+ {
+  "id": "B-42-a",
+  "unit": "B",
+  "no": "42",
+  "jp": "あなたは母の日にお母さんに何をしてあげましたか？",
+  "answers": [
+   "What did you do for your mother on Mother's Day?"
+  ],
+  "audio": "audio/B/B-42-a-.mp3",
+  "section": {
+   "title": "第３文型（S V O）の目的語",
+   "body": "「主語＋他動詞＋目的語」 の文を 「第３文型」 と呼ぶ。第３文型の目的語になるのは（ A ）と代名詞，並びに（ A ）に相当する語句［節］である。"
+  },
+  "tags": [
+   "下線部の他動詞の目的語を指摘"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "What did you do for your mother on Mother's Day?",
+  "secTitle": "第３文型（S V O）の目的語"
+ },
+ {
+  "id": "B-42-b",
+  "unit": "B",
+  "no": "42",
+  "jp": "私は滑らないようにするためにその靴を履いていた。",
+  "answers": [
+   "I wore those shoes to avoid slipping."
+  ],
+  "audio": "audio/B/B-42-b-.mp3",
+  "tags": [
+   "下線部の他動詞の目的語を指摘"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I wore those shoes to avoid slipping.",
+  "secTitle": "第３文型（S V O）の目的語"
+ },
+ {
+  "id": "B-42-c",
+  "unit": "B",
+  "no": "42",
+  "jp": "君の家への行き方がわからない。",
+  "answers": [
+   "I don't know how to get to your house."
+  ],
+  "audio": "audio/B/B-42-c-.mp3",
+  "tags": [
+   "下線部の他動詞の目的語を指摘"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I don't know how to get to your house.",
+  "secTitle": "第３文型（S V O）の目的語"
+ },
+ {
+  "id": "B-42-d",
+  "unit": "B",
+  "no": "42",
+  "jp": "笑いは一番の薬だと言います。",
+  "answers": [
+   "They say laughter is the best medicine."
+  ],
+  "audio": "audio/B/B-42-d-.mp3",
+  "tags": [
+   "下線部の他動詞の目的語を指摘"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "They say laughter is the best medicine.",
+  "secTitle": "第３文型（S V O）の目的語"
+ },
+ {
+  "id": "B-42-e",
+  "unit": "B",
+  "no": "42",
+  "jp": "彼女が既にそちらを出たかおわかりになりますか？",
+  "answers": [
+   "Do you know if she's left yet?"
+  ],
+  "audio": "audio/B/B-42-e-.mp3",
+  "tags": [
+   "下線部の他動詞の目的語を指摘"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Do you know if she's left yet?",
+  "secTitle": "第３文型（S V O）の目的語"
+ },
+ {
+  "id": "B-43-a",
+  "unit": "B",
+  "no": "43",
+  "jp": "あなたは何について話しているのですか？",
+  "answers": [
+   "What are you talking about?"
+  ],
+  "audio": "audio/B/B-43-a-.mp3",
+  "section": {
+   "title": "第３文型の 「他動詞＋副詞」",
+   "body": "talk, look, think は通常（ A ）だが，副詞（句）を伴う慣用表現では（ B ）になる。put, turn, take などの他動詞がon, off, up, down, out, away などの副詞と共に使われる場合は，「他動詞＋目的語＋副詞」 と 「他動詞＋副詞＋目的語」 の２つの語順が可能だが，目的語が（ C ）の場合は 「他動詞＋目的語＋副詞」 だけが可能である。"
+  },
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "What are you talking?",
+  "secTitle": "第３文型の 「他動詞＋副詞」"
+ },
+ {
+  "id": "B-43-b",
+  "unit": "B",
+  "no": "43",
+  "jp": "恋人にねだって指輪を買ってもらった。",
+  "answers": [
+   "I talked my boyfriend into buying me a ring."
+  ],
+  "audio": "audio/B/B-43-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I talked to my boyfriend into buying me a ring.",
+  "secTitle": "第３文型の 「他動詞＋副詞」"
+ },
+ {
+  "id": "B-44-a",
+  "unit": "B",
+  "no": "44",
+  "jp": "おい，何を見てるんだよ。俺は鏡じゃないぞ！",
+  "answers": [
+   "Hey, what are you looking at? I'm not a mirror!"
+  ],
+  "audio": "audio/B/B-44-a-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Hey, what are you looking? I'm not a mirror!",
+  "secTitle": "第３文型の 「他動詞＋副詞」"
+ },
+ {
+  "id": "B-44-b",
+  "unit": "B",
+  "no": "44",
+  "jp": "私は彼の顔を直視できなかった。",
+  "answers": [
+   "I couldn't look him in the face."
+  ],
+  "audio": "audio/B/B-44-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I couldn't look at him in the face.",
+  "secTitle": "第３文型の 「他動詞＋副詞」"
+ },
+ {
+  "id": "B-44-c",
+  "unit": "B",
+  "no": "44",
+  "jp": "その意味がわからないなら辞書で調べなさい。",
+  "answers": [
+   "If you don't know what it means, look it up in the dictionary."
+  ],
+  "audio": "audio/B/B-44-c-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "If you don't know what it means, look it up in the dictionary.",
+  "secTitle": "第３文型の 「他動詞＋副詞」"
+ },
+ {
+  "id": "B-45",
+  "unit": "B",
+  "no": "45",
+  "jp": "その件についてはもう少し時間をかけてじっくり考えたいと思います。",
+  "answers": [
+   "I need more time to think it over."
+  ],
+  "audio": "audio/B/B-45-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I need more time to think over it.",
+  "secTitle": "第３文型の 「他動詞＋副詞」"
+ },
+ {
+  "id": "B-46",
+  "unit": "B",
+  "no": "46",
+  "jp": "靴を脱ぐ場合は着陸前に履くようにしてください。",
+  "answers": [
+   "If you take your shoes off, put them on before we land."
+  ],
+  "audio": "audio/B/B-46-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "If you take your shoes off, put on them before we land.",
+  "secTitle": "第３文型の 「他動詞＋副詞」"
+ },
+ {
+  "id": "B-47",
+  "unit": "B",
+  "no": "47",
+  "jp": "駅まで迎えに行くよ。",
+  "answers": [
+   "I'll pick you up at the station."
+  ],
+  "audio": "audio/B/B-47-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I'll pick up you at the station.",
+  "secTitle": "第３文型の 「他動詞＋副詞」"
+ },
+ {
+  "id": "B-48-a",
+  "unit": "B",
+  "no": "48",
+  "jp": "その会社は重役に社用車を与えている。",
+  "answers": [
+   "The company provides its executives with company cars."
+  ],
+  "audio": "audio/B/B-48-a-.mp3",
+  "section": {
+   "title": "第３文型＋前置詞句",
+   "body": "他動詞の中には特定の前置詞と結びつき 「他動詞＋目的語＋前置詞句」 の形で慣用的に用いるものがある。この場合の 「前置詞」 は 「結果として…をもつように」という意味なら（ A ）を用い，「…から遠ざけてさせないように」 という意味なら（ B ）を， 「…（のこと）を」 なら（ C ）を用いる。"
+  },
+  "tags": [
+   "適語を記入し２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The company provides its executives "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " company cars."
+   }
+  ],
+  "solutions": [
+   [
+    "with"
+   ]
+  ],
+  "secTitle": "第３文型＋前置詞句"
+ },
+ {
+  "id": "B-48-b",
+  "unit": "B",
+  "no": "48",
+  "jp": "その会社は重役に社用車を与えている。",
+  "answers": [
+   "The company provides company cars for its executives."
+  ],
+  "audio": "audio/B/B-48-b-.mp3",
+  "tags": [
+   "適語を記入し２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The company provides company cars "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " its executives."
+   }
+  ],
+  "solutions": [
+   [
+    "for"
+   ]
+  ],
+  "secTitle": "第３文型＋前置詞句"
+ },
+ {
+  "id": "B-49-a",
+  "unit": "B",
+  "no": "49",
+  "jp": "その発電所は町の全域に電力を供給している。",
+  "answers": [
+   "The power plant supplies the whole town with electricity."
+  ],
+  "audio": "audio/B/B-49-a-.mp3",
+  "tags": [
+   "同じ前置詞を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The power plant supplies the whole town "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " electricity."
+   }
+  ],
+  "solutions": [
+   [
+    "with"
+   ]
+  ],
+  "secTitle": "第３文型＋前置詞句"
+ },
+ {
+  "id": "B-49-b",
+  "unit": "B",
+  "no": "49",
+  "jp": "勝利者達はメダルとトロフィーを授与された。",
+  "answers": [
+   "The winners were presented with medals and trophies."
+  ],
+  "audio": "audio/B/B-49-b-.mp3",
+  "tags": [
+   "同じ前置詞を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The winners were presented "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " medals and trophies."
+   }
+  ],
+  "solutions": [
+   [
+    "with"
+   ]
+  ],
+  "secTitle": "第３文型＋前置詞句"
+ },
+ {
+  "id": "B-49-c",
+  "unit": "B",
+  "no": "49",
+  "jp": "スイートルームにはアンティーク家具とキングサイズのベッドが備えられています。",
+  "answers": [
+   "The suite rooms are furnished with antique furniture and king-size beds."
+  ],
+  "audio": "audio/B/B-49-c-.mp3",
+  "tags": [
+   "同じ前置詞を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The suite rooms are furnished "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " antique furniture and king-size beds."
+   }
+  ],
+  "solutions": [
+   [
+    "with"
+   ]
+  ],
+  "secTitle": "第３文型＋前置詞句"
+ },
+ {
+  "id": "B-50-a",
+  "unit": "B",
+  "no": "50",
+  "jp": "彼には障害があって車を運転することができない。",
+  "answers": [
+   "His disability prevents him from driving a car."
+  ],
+  "audio": "audio/B/B-50-a-.mp3",
+  "tags": [
+   "同じ前置詞を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "His disability prevents him "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " driving a car."
+   }
+  ],
+  "solutions": [
+   [
+    "from"
+   ]
+  ],
+  "secTitle": "第３文型＋前置詞句"
+ },
+ {
+  "id": "B-50-b",
+  "unit": "B",
+  "no": "50",
+  "jp": "その病気が広がるのを阻止するために何が行われているのですか？",
+  "answers": [
+   "What's being done to stop the disease from spreading?"
+  ],
+  "audio": "audio/B/B-50-b-.mp3",
+  "tags": [
+   "同じ前置詞を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "What's being done to stop the disease "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " spreading?"
+   }
+  ],
+  "solutions": [
+   [
+    "from"
+   ]
+  ],
+  "secTitle": "第３文型＋前置詞句"
+ },
+ {
+  "id": "B-50-c",
+  "unit": "B",
+  "no": "50",
+  "jp": "法律は未成年者がアルコール飲料を飲むことを禁じている。",
+  "answers": [
+   "The law prohibits minors from drinking alcoholic beverages."
+  ],
+  "audio": "audio/B/B-50-c-.mp3",
+  "tags": [
+   "同じ前置詞を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The law prohibits minors "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " drinking alcoholic beverages."
+   }
+  ],
+  "solutions": [
+   [
+    "from"
+   ]
+  ],
+  "secTitle": "第３文型＋前置詞句"
+ },
+ {
+  "id": "B-51-a",
+  "unit": "B",
+  "no": "51",
+  "jp": "この歌を聞くと初めて付き合ったボーイフレンドのことを思い出す。",
+  "answers": [
+   "This song reminds me of my first boyfriend."
+  ],
+  "audio": "audio/B/B-51-a-.mp3",
+  "tags": [
+   "同じ前置詞を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "This song reminds me "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " my first boyfriend."
+   }
+  ],
+  "solutions": [
+   [
+    "of"
+   ]
+  ],
+  "secTitle": "第３文型＋前置詞句"
+ },
+ {
+  "id": "B-51-b",
+  "unit": "B",
+  "no": "51",
+  "jp": "住所や電話番号が変わった場合はお知らせください。",
+  "answers": [
+   "Please inform us of any change of address or telephone number."
+  ],
+  "audio": "audio/B/B-51-b-.mp3",
+  "tags": [
+   "同じ前置詞を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Please inform us "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " any change of address or telephone number."
+   }
+  ],
+  "solutions": [
+   [
+    "of"
+   ]
+  ],
+  "secTitle": "第３文型＋前置詞句"
+ },
+ {
+  "id": "B-51-c",
+  "unit": "B",
+  "no": "51",
+  "jp": "結果は郵便で通知します。",
+  "answers": [
+   "You will be notified of the results by mail."
+  ],
+  "audio": "audio/B/B-51-c-.mp3",
+  "tags": [
+   "同じ前置詞を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "You will be notified "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the results by mail."
+   }
+  ],
+  "solutions": [
+   [
+    "of"
+   ]
+  ],
+  "secTitle": "第３文型＋前置詞句"
+ },
+ {
+  "id": "B-52-a",
+  "unit": "B",
+  "no": "52",
+  "jp": "２人の男が彼に襲いかかり，彼から所持品を奪った。",
+  "answers": [
+   "Two men attacked him and robbed him of his possessions."
+  ],
+  "audio": "audio/B/B-52-a-.mp3",
+  "tags": [
+   "同じ前置詞を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Two men attacked him and robbed him "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " his possessions."
+   }
+  ],
+  "solutions": [
+   [
+    "of"
+   ]
+  ],
+  "secTitle": "第３文型＋前置詞句"
+ },
+ {
+  "id": "B-52-b",
+  "unit": "B",
+  "no": "52",
+  "jp": "彼らは道路から雪と氷を取り除くために大量の塩を使った。",
+  "answers": [
+   "They used a lot of salt to clear the roads of snow and ice."
+  ],
+  "audio": "audio/B/B-52-b-.mp3",
+  "tags": [
+   "同じ前置詞を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "They used a lot of salt to clear the roads "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " snow and ice."
+   }
+  ],
+  "solutions": [
+   [
+    "of"
+   ]
+  ],
+  "secTitle": "第３文型＋前置詞句"
+ },
+ {
+  "id": "B-52-c",
+  "unit": "B",
+  "no": "52",
+  "jp": "患者の大半はその病気が治ります。",
+  "answers": [
+   "The majority of patients can be cured of the disease."
+  ],
+  "audio": "audio/B/B-52-c-.mp3",
+  "tags": [
+   "同じ前置詞を記入"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The majority of patients can be cured "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " the disease."
+   }
+  ],
+  "solutions": [
+   [
+    "of"
+   ]
+  ],
+  "secTitle": "第３文型＋前置詞句"
+ },
+ {
+  "id": "B-53",
+  "unit": "B",
+  "no": "53",
+  "jp": "子供に過剰な期待を寄せてはいけません。",
+  "answers": [
+   "Don't expect too much of your child."
+  ],
+  "audio": "audio/B/B-53-.mp3",
+  "tags": [
+   "並べ替え"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Don't expect "
+   },
+   {
+    "t": "order",
+    "words": [
+     "of",
+     "your child",
+     "too much"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "too much of your child"
+   ]
+  ],
+  "secTitle": "第３文型＋前置詞句"
+ }
+]

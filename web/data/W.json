@@ -1,0 +1,2535 @@
+[
+ {
+  "id": "W-01",
+  "unit": "W",
+  "no": "01",
+  "jp": "お待たせしませんでしたか？",
+  "answers": [
+   "I hope you haven't been waiting long."
+  ],
+  "audio": "audio/W/W-01-.mp3",
+  "section": {
+   "title": "形容詞と同形の副詞",
+   "body": "early, fast, enough などの語は，形容詞と（ A ）の両方で用いる。"
+  },
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I hope you haven't been waiting long.",
+  "secTitle": "形容詞と同形の副詞"
+ },
+ {
+  "id": "W-02",
+  "unit": "W",
+  "no": "02",
+  "jp": "もっとよく見られるように，より近くに移動した。",
+  "answers": [
+   "I moved closer so I could get a better look."
+  ],
+  "audio": "audio/W/W-02-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I moved closer so I could get a better look.",
+  "secTitle": "形容詞と同形の副詞"
+ },
+ {
+  "id": "W-03",
+  "unit": "W",
+  "no": "03",
+  "jp": "カモメが水上を低く飛んでいた。",
+  "answers": [
+   "Seagulls were flying low over the water."
+  ],
+  "audio": "audio/W/W-03-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Seagulls were flying lowly over the water.",
+  "secTitle": "形容詞と同形の副詞"
+ },
+ {
+  "id": "W-04",
+  "unit": "W",
+  "no": "04",
+  "jp": "このホームページは毎日更新されます。",
+  "answers": [
+   "This website is updated on a daily basis."
+  ],
+  "audio": "audio/W/W-04-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "This website is updated on a daily basis.",
+  "secTitle": "形容詞と同形の副詞"
+ },
+ {
+  "id": "W-05",
+  "unit": "W",
+  "no": "05",
+  "jp": "十分聞こえる声ではっきり話してください。口ごもったり大声はいけません。",
+  "answers": [
+   "Speak loudly and clearly enough. Don't mumble or shout.",
+   "Speak loud and clear enough. Don't mumble or shout."
+  ],
+  "audio": "audio/W/W-05-.mp3",
+  "section": {
+   "title": "形容詞と同形の副詞と-ly を付けた副詞",
+   "body": "loud やhard は形容詞と副詞の両方で用い，さらに語尾に（ A ）を付けた副詞でも用いる。このタイプの副詞はloud のように（ A ）が付いても付かなくても意味が変わらないものと，hard のように（ A ）が付くと意味が変わるものとがある。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Speak loud and clear enough. Don't mumble or shout.",
+  "secTitle": "形容詞と同形の副詞と-ly を付けた副詞"
+ },
+ {
+  "id": "W-06",
+  "unit": "W",
+  "no": "06",
+  "jp": "彼女はしっかり耳をふさぎ，固く目を閉じた。",
+  "answers": [
+   "She covered her ears and shut her eyes tight."
+  ],
+  "audio": "audio/W/W-06-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "She covered her ears and shut her eyes tight.",
+  "secTitle": "形容詞と同形の副詞と-ly を付けた副詞"
+ },
+ {
+  "id": "W-07",
+  "unit": "W",
+  "no": "07",
+  "jp": "肩の力を抜いて，英語の学習を楽しんでください。",
+  "answers": [
+   "Take it easy and enjoy studying English."
+  ],
+  "audio": "audio/W/W-07-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Take it easily and enjoy studying English.",
+  "secTitle": "形容詞と同形の副詞と-ly を付けた副詞"
+ },
+ {
+  "id": "W-08",
+  "unit": "W",
+  "no": "08",
+  "jp": "もう少しゆっくり話してもらえますか？",
+  "answers": [
+   "Could you speak a little slower, please?"
+  ],
+  "audio": "audio/W/W-08-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Could you speak a little slower, please?",
+  "secTitle": "形容詞と同形の副詞と-ly を付けた副詞"
+ },
+ {
+  "id": "W-09",
+  "unit": "W",
+  "no": "09",
+  "jp": "お金儲けの第一のルール，それは，すぐにお金持ちにはなれないということ。",
+  "answers": [
+   "The first rule of making money: you can't get rich quickly.",
+   "The first rule of making money: you can't get rich quick."
+  ],
+  "audio": "audio/W/W-09-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "The first rule of making money: you can't get rich quick.",
+  "secTitle": "形容詞と同形の副詞と-ly を付けた副詞"
+ },
+ {
+  "id": "W-10-a",
+  "unit": "W",
+  "no": "10",
+  "jp": "調査員達は帳簿を詳しく調べた。",
+  "answers": [
+   "Inspectors examined the accounts very closely."
+  ],
+  "audio": "audio/W/W-10-a-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Inspectors examined the accounts very "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "close",
+     "closely"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "closely"
+   ]
+  ],
+  "secTitle": "形容詞と同形の副詞と-ly を付けた副詞"
+ },
+ {
+  "id": "W-10-b",
+  "unit": "W",
+  "no": "10",
+  "jp": "私は休暇を短く切り上げて仕事に戻らなければならなかった。",
+  "answers": [
+   "I had to cut my vacation short and go back to work."
+  ],
+  "audio": "audio/W/W-10-b-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I had to cut my vacation "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "short",
+     "shortly"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " and go back to work."
+   }
+  ],
+  "solutions": [
+   [
+    "short"
+   ]
+  ],
+  "secTitle": "形容詞と同形の副詞と-ly を付けた副詞"
+ },
+ {
+  "id": "W-10-c",
+  "unit": "W",
+  "no": "10",
+  "jp": "タイタニック号は大西洋に深く沈んだ。",
+  "answers": [
+   "The Titanic sank deep into the Atlantic Ocean."
+  ],
+  "audio": "audio/W/W-10-c-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The Titanic sank "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "deep",
+     "deeply"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " into the Atlantic Ocean."
+   }
+  ],
+  "solutions": [
+   [
+    "deep"
+   ]
+  ],
+  "secTitle": "形容詞と同形の副詞と-ly を付けた副詞"
+ },
+ {
+  "id": "W-10-d",
+  "unit": "W",
+  "no": "10",
+  "jp": "彼はボールを空中高く蹴り上げた。",
+  "answers": [
+   "He kicked the ball high in the air."
+  ],
+  "audio": "audio/W/W-10-d-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He kicked the ball "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "high",
+     "highly"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " in the air."
+   }
+  ],
+  "solutions": [
+   [
+    "high"
+   ]
+  ],
+  "secTitle": "形容詞と同形の副詞と-ly を付けた副詞"
+ },
+ {
+  "id": "W-11-a",
+  "unit": "W",
+  "no": "11",
+  "jp": "最近何をしていましたか？",
+  "answers": [
+   "What have you been doing lately?"
+  ],
+  "audio": "audio/W/W-11-a-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "What have you been doing "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "late",
+     "lately"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "?"
+   }
+  ],
+  "solutions": [
+   [
+    "lately"
+   ]
+  ],
+  "secTitle": "形容詞と同形の副詞と-ly を付けた副詞"
+ },
+ {
+  "id": "W-11-b",
+  "unit": "W",
+  "no": "11",
+  "jp": "彼は答える前に一生懸命考えた。",
+  "answers": [
+   "He thought hard before answering."
+  ],
+  "audio": "audio/W/W-11-b-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "He thought "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "hard",
+     "hardly"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " before answering."
+   }
+  ],
+  "solutions": [
+   [
+    "hard"
+   ]
+  ],
+  "secTitle": "形容詞と同形の副詞と-ly を付けた副詞"
+ },
+ {
+  "id": "W-11-c",
+  "unit": "W",
+  "no": "11",
+  "jp": "私は，彼らが何を話しているのか聞こえるぐらい近くに座っていた。",
+  "answers": [
+   "I was sitting near enough to hear what they were saying."
+  ],
+  "audio": "audio/W/W-11-c-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I was sitting "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "near",
+     "nearly"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " enough to hear what they were saying."
+   }
+  ],
+  "solutions": [
+   [
+    "near"
+   ]
+  ],
+  "secTitle": "形容詞と同形の副詞と-ly を付けた副詞"
+ },
+ {
+  "id": "W-11-d",
+  "unit": "W",
+  "no": "11",
+  "jp": "彼らは大半が子供のいない若い夫婦達でした。",
+  "answers": [
+   "They were mostly young couples with no children."
+  ],
+  "audio": "audio/W/W-11-d-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "They were "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "most",
+     "mostly"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " young couples with no children."
+   }
+  ],
+  "solutions": [
+   [
+    "mostly"
+   ]
+  ],
+  "secTitle": "形容詞と同形の副詞と-ly を付けた副詞"
+ },
+ {
+  "id": "W-12-a",
+  "unit": "W",
+  "no": "12",
+  "jp": "我々は先月ロンドンでストーン氏とお会いして話をしました。",
+  "answers": [
+   "We met with Mr. Stone in London last month."
+  ],
+  "audio": "audio/W/W-12-a-.mp3",
+  "section": {
+   "title": "複数の副詞を置く場合の順序",
+   "body": "文末に複数の副詞を置く場合は通常，「様態 → 場所 → 時」 の順番にする。"
+  },
+  "tags": [
+   "並べ替え"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We met with Mr. Stone "
+   },
+   {
+    "t": "order",
+    "words": [
+     "last",
+     "London",
+     "in",
+     "month"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "in London last month"
+   ]
+  ],
+  "secTitle": "複数の副詞を置く場合の順序"
+ },
+ {
+  "id": "W-12-b",
+  "unit": "W",
+  "no": "12",
+  "jp": "昨日こちらではたくさん雪が降りました。",
+  "answers": [
+   "It snowed a lot here yesterday."
+  ],
+  "audio": "audio/W/W-12-b-.mp3",
+  "tags": [
+   "並べ替え"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It snowed "
+   },
+   {
+    "t": "order",
+    "words": [
+     "here",
+     "yesterday",
+     "a lot"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "a lot here yesterday"
+   ]
+  ],
+  "secTitle": "複数の副詞を置く場合の順序"
+ },
+ {
+  "id": "W-12-c",
+  "unit": "W",
+  "no": "12",
+  "jp": "今日，ドレスが無事こちらに届きました。すごく素敵です！",
+  "answers": [
+   "The dress arrived here safely today and it's beautiful!"
+  ],
+  "audio": "audio/W/W-12-c-.mp3",
+  "tags": [
+   "並べ替え"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The dress arrived "
+   },
+   {
+    "t": "order",
+    "words": [
+     "safely",
+     "today",
+     "here"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " and it's beautiful!"
+   }
+  ],
+  "solutions": [
+   [
+    "here safely today"
+   ]
+  ],
+  "secTitle": "複数の副詞を置く場合の順序"
+ },
+ {
+  "id": "W-13-a",
+  "unit": "W",
+  "no": "13",
+  "jp": "彼はゆっくりとドアを開けて，中を覗き込んだ。",
+  "answers": [
+   "He slowly opened the door and peeked in."
+  ],
+  "audio": "audio/W/W-13-a-.mp3",
+  "section": {
+   "title": "副詞の位置 ① ～ 「様態」を表す副詞の場合",
+   "body": "slowly, hard, well のような 「様態」 を表す副詞のうち，「形容詞-ly」 の形でないものは修飾する動詞（句）の（ A ）に置き，「形容詞-ly」 の形のものは修飾する動詞（句）の後ろか前に置くのが一般的である。但し，様態の副詞が形容詞を修飾する場合は（ B ）に置き，過去分詞を修飾する場合も（ B ）に置くことが多い。"
+  },
+  "tags": [
+   "下線部の副詞の位置が不適切 4 4 4 な文はどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "He slowly opened the door and peeked in.",
+  "secTitle": "副詞の位置 ① ～ 「様態」を表す副詞の場合"
+ },
+ {
+  "id": "W-13-b",
+  "unit": "W",
+  "no": "13",
+  "jp": "共働きは急速に必要なことになりつつある。",
+  "answers": [
+   "Double income is fast becoming a necessity."
+  ],
+  "audio": "audio/W/W-13-b-.mp3",
+  "tags": [
+   "下線部の副詞の位置が不適切 4 4 4 な文はどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Double income is fast becoming a necessity.",
+  "secTitle": "副詞の位置 ① ～ 「様態」を表す副詞の場合"
+ },
+ {
+  "id": "W-13-c",
+  "unit": "W",
+  "no": "13",
+  "jp": "私は自分が何をすることを要求されているのか十分承知している。",
+  "answers": [
+   "I am well aware of what I am required to do."
+  ],
+  "audio": "audio/W/W-13-c-.mp3",
+  "tags": [
+   "下線部の副詞の位置が不適切 4 4 4 な文はどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I am aware well of what I am required to do.",
+  "secTitle": "副詞の位置 ① ～ 「様態」を表す副詞の場合"
+ },
+ {
+  "id": "W-13-d",
+  "unit": "W",
+  "no": "13",
+  "jp": "我々のスタッフは全員徹底的に訓練されています。",
+  "answers": [
+   "All of our staff members are thoroughly trained."
+  ],
+  "audio": "audio/W/W-13-d-.mp3",
+  "tags": [
+   "下線部の副詞の位置が不適切 4 4 4 な文はどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "All of our staff members are thoroughly trained.",
+  "secTitle": "副詞の位置 ① ～ 「様態」を表す副詞の場合"
+ },
+ {
+  "id": "W-14-b",
+  "unit": "W",
+  "no": "14",
+  "jp": "結婚式があるので短期間で痩せたいのです。",
+  "answers": [
+   "I want to lose weight quickly for my wedding."
+  ],
+  "audio": "audio/W/W-14-b-.mp3",
+  "tags": [
+   "適切な英訳はどちらか"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I want to lose weight quickly for my wedding.",
+  "secTitle": "副詞の位置 ① ～ 「様態」を表す副詞の場合"
+ },
+ {
+  "id": "W-15-a",
+  "unit": "W",
+  "no": "15",
+  "jp": "私は注意深く指示に従った。",
+  "answers": [
+   "I carefully followed the instructions."
+  ],
+  "audio": "audio/W/W-15-a-.mp3",
+  "tags": [
+   "２つの文のニュアンスの違いを指摘"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I carefully followed the instructions.",
+  "secTitle": "副詞の位置 ① ～ 「様態」を表す副詞の場合"
+ },
+ {
+  "id": "W-15-b",
+  "unit": "W",
+  "no": "15",
+  "jp": "私は指示に注意深く従った。",
+  "answers": [
+   "I followed the instructions carefully."
+  ],
+  "audio": "audio/W/W-15-b-.mp3",
+  "tags": [
+   "２つの文のニュアンスの違いを指摘"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "I followed the instructions carefully.",
+  "secTitle": "副詞の位置 ① ～ 「様態」を表す副詞の場合"
+ },
+ {
+  "id": "W-16",
+  "unit": "W",
+  "no": "16",
+  "jp": "彼らは葬儀に参列するために香港からやって来た。",
+  "answers": [
+   "They came over from Hong Kong to attend the funeral."
+  ],
+  "audio": "audio/W/W-16-.mp3",
+  "section": {
+   "title": "副詞の位置 ② ～「場所」を表す副詞の場合",
+   "body": "「場所」 を表す副詞（句）は原則として動詞（句）の（ A ）か（ B ）に置く。場所を表す副詞（句）が２つ以上ある場合は小さい単位［狭い方］を先に置く。また，先に大まかな位置や方向を示して，次に具体的な場所を示すこともある。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "They came "
+   },
+   {
+    "t": "order",
+    "words": [
+     "from",
+     "over",
+     "Hong Kong"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " to attend the funeral."
+   }
+  ],
+  "solutions": [
+   [
+    "over from Hong Kong"
+   ]
+  ],
+  "secTitle": "副詞の位置 ② ～「場所」を表す副詞の場合"
+ },
+ {
+  "id": "W-17",
+  "unit": "W",
+  "no": "17",
+  "jp": "私はニューヨークのブルックリンにある，小さなマンションに暮らしている。",
+  "answers": [
+   "I live in a small apartment in Brooklyn, New York."
+  ],
+  "audio": "audio/W/W-17-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I live "
+   },
+   {
+    "t": "order",
+    "words": [
+     "in",
+     "in",
+     ",",
+     "a small apartment",
+     "Brooklyn",
+     "New York"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "in a small apartment in Brooklyn, New York"
+   ]
+  ],
+  "secTitle": "副詞の位置 ② ～「場所」を表す副詞の場合"
+ },
+ {
+  "id": "W-18",
+  "unit": "W",
+  "no": "18",
+  "jp": "私はここアリゾナで生まれ育ちました。",
+  "answers": [
+   "I was born and raised here in Arizona."
+  ],
+  "audio": "audio/W/W-18-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I was born and raised "
+   },
+   {
+    "t": "order",
+    "words": [
+     "in",
+     "here",
+     "Arizona"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "here in Arizona"
+   ]
+  ],
+  "secTitle": "副詞の位置 ② ～「場所」を表す副詞の場合"
+ },
+ {
+  "id": "W-19",
+  "unit": "W",
+  "no": "19",
+  "jp": "彼女は今，庭に出て夕食で使うハーブを採っています。",
+  "answers": [
+   "She is out in the garden picking herbs for dinner."
+  ],
+  "audio": "audio/W/W-19-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She is "
+   },
+   {
+    "t": "order",
+    "words": [
+     "in",
+     "out",
+     "the garden"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " picking herbs for dinner."
+   }
+  ],
+  "solutions": [
+   [
+    "out in the garden"
+   ]
+  ],
+  "secTitle": "副詞の位置 ② ～「場所」を表す副詞の場合"
+ },
+ {
+  "id": "W-20-a",
+  "unit": "W",
+  "no": "20",
+  "jp": "近頃，たくさんの人達が大きなストレスにさらされている。",
+  "answers": [
+   "Nowadays, lots of people are under heavy stress."
+  ],
+  "audio": "audio/W/W-20-a-.mp3",
+  "section": {
+   "title": "副詞の位置 ③ ～「時」を表す副詞の場合",
+   "body": "「時点」 「時期」 「期間」 を表すtoday, last night, recently, for ten days などの副詞（句）は原則として（ A ）に置くが，（ B ）に置くこともある。already，just，still，ever のような 「時間的関係」 を表す副詞と，always，often，seldom，never のような 「頻度」 を表す副詞は通常，助動詞がある場合は助動詞の後ろに置き，助動詞がない場合は，一般動詞の前もしくはbe 動詞の後ろに置く。また，「時」 を表す副詞（句）は名詞の（ C ）に置いて名詞を修飾することができる。"
+  },
+  "tags": [
+   "下線部の副詞（句）の位置に間違いがある文はどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Nowadays, lots of people are under heavy stress.",
+  "secTitle": "副詞の位置 ③ ～「時」を表す副詞の場合"
+ },
+ {
+  "id": "W-20-b",
+  "unit": "W",
+  "no": "20",
+  "jp": "彼女は現在，一流の法律事務所で働いています。",
+  "answers": [
+   "She is now working at a prestigious law firm."
+  ],
+  "audio": "audio/W/W-20-b-.mp3",
+  "tags": [
+   "下線部の副詞（句）の位置に間違いがある文はどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "She is now working at a prestigious law firm.",
+  "secTitle": "副詞の位置 ③ ～「時」を表す副詞の場合"
+ },
+ {
+  "id": "W-20-c",
+  "unit": "W",
+  "no": "20",
+  "jp": "まもなく横浜（駅）で少しの間停車致します。",
+  "answers": [
+   "We will soon make a brief stop at Yokohama."
+  ],
+  "audio": "audio/W/W-20-c-.mp3",
+  "tags": [
+   "下線部の副詞（句）の位置に間違いがある文はどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "We will soon make a brief stop at Yokohama.",
+  "secTitle": "副詞の位置 ③ ～「時」を表す副詞の場合"
+ },
+ {
+  "id": "W-20-d",
+  "unit": "W",
+  "no": "20",
+  "jp": "私はまだ日曜日に誰に投票するかを決めていない。",
+  "answers": [
+   "I haven't yet decided whom I will vote for on Sunday."
+  ],
+  "audio": "audio/W/W-20-d-.mp3",
+  "tags": [
+   "下線部の副詞（句）の位置に間違いがある文はどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I haven't yet decided whom I will vote for on Sunday.",
+  "secTitle": "副詞の位置 ③ ～「時」を表す副詞の場合"
+ },
+ {
+  "id": "W-20-e",
+  "unit": "W",
+  "no": "20",
+  "jp": "そのビデオはその後ユーチューブから削除された。",
+  "answers": [
+   "The video has since been removed from YouTube."
+  ],
+  "audio": "audio/W/W-20-e-.mp3",
+  "tags": [
+   "下線部の副詞（句）の位置に間違いがある文はどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "The video has been since removed from YouTube.",
+  "secTitle": "副詞の位置 ③ ～「時」を表す副詞の場合"
+ },
+ {
+  "id": "W-21-a",
+  "unit": "W",
+  "no": "21",
+  "jp": "「もう食事は終えたの？」「いいや。君は？」",
+  "answers": [
+   "\"Have you eaten yet?\" \"No, have you?\""
+  ],
+  "audio": "audio/W/W-21-a-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "\"Have you eaten yet?\" \"No, have you?\"",
+  "secTitle": "副詞の位置 ③ ～「時」を表す副詞の場合"
+ },
+ {
+  "id": "W-21-b",
+  "unit": "W",
+  "no": "21",
+  "jp": "えっ，もう食事を終えたの？ どうして待っていてくれなかったの？",
+  "answers": [
+   "Have you eaten already? Why didn't you wait for me?"
+  ],
+  "audio": "audio/W/W-21-b-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Have you eaten already? Why didn't you wait for me?",
+  "secTitle": "副詞の位置 ③ ～「時」を表す副詞の場合"
+ },
+ {
+  "id": "W-22-a",
+  "unit": "W",
+  "no": "22",
+  "jp": "彼女はまだこちらに来ていません。",
+  "answers": [
+   "She is not here yet."
+  ],
+  "audio": "audio/W/W-22-a-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "She is not here yet.",
+  "secTitle": "副詞の位置 ③ ～「時」を表す副詞の場合"
+ },
+ {
+  "id": "W-22-b",
+  "unit": "W",
+  "no": "22",
+  "jp": "彼女はいまだにこちらに来ていません。",
+  "answers": [
+   "She is still not here."
+  ],
+  "audio": "audio/W/W-22-b-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "She is still not here.",
+  "secTitle": "副詞の位置 ③ ～「時」を表す副詞の場合"
+ },
+ {
+  "id": "W-23-a",
+  "unit": "W",
+  "no": "23",
+  "jp": "同じ事が（今から）３週間前にフロリダで起きた。",
+  "answers": [
+   "The same thing happened three weeks ago in Florida."
+  ],
+  "audio": "audio/W/W-23-a-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "The same thing happened three weeks ago in Florida.",
+  "secTitle": "副詞の位置 ③ ～「時」を表す副詞の場合"
+ },
+ {
+  "id": "W-23-b",
+  "unit": "W",
+  "no": "23",
+  "jp": "同じ事がその３週間前にフロリダで起きていた。",
+  "answers": [
+   "The same thing happened three weeks before in Florida."
+  ],
+  "audio": "audio/W/W-23-b-.mp3",
+  "tags": [
+   "下線部に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "The same thing happened three weeks before in Florida.",
+  "secTitle": "副詞の位置 ③ ～「時」を表す副詞の場合"
+ },
+ {
+  "id": "W-24-a",
+  "unit": "W",
+  "no": "24",
+  "jp": "近頃の子供は非常に甘やかされている。",
+  "answers": [
+   "Kids nowadays are very much pampered."
+  ],
+  "audio": "audio/W/W-24-a-.mp3",
+  "tags": [
+   "並べ替え"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Kids "
+   },
+   {
+    "t": "order",
+    "words": [
+     "are",
+     "very much",
+     "nowadays"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " pampered."
+   }
+  ],
+  "solutions": [
+   [
+    "nowadays are very much"
+   ]
+  ],
+  "secTitle": "副詞の位置 ③ ～「時」を表す副詞の場合"
+ },
+ {
+  "id": "W-24-b",
+  "unit": "W",
+  "no": "24",
+  "jp": "先週末のパーティーはとても楽しかった。",
+  "answers": [
+   "The party last weekend was a lot of fun."
+  ],
+  "audio": "audio/W/W-24-b-.mp3",
+  "tags": [
+   "並べ替え"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The "
+   },
+   {
+    "t": "order",
+    "words": [
+     "last weekend",
+     "party",
+     "was"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " a lot of fun."
+   }
+  ],
+  "solutions": [
+   [
+    "party last weekend was"
+   ]
+  ],
+  "secTitle": "副詞の位置 ③ ～「時」を表す副詞の場合"
+ },
+ {
+  "id": "W-24-c",
+  "unit": "W",
+  "no": "24",
+  "jp": "そこにいた人達の大半は10代の女子でした。",
+  "answers": [
+   "Most of the people there were teenage girls."
+  ],
+  "audio": "audio/W/W-24-c-.mp3",
+  "tags": [
+   "並べ替え"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Most of "
+   },
+   {
+    "t": "order",
+    "words": [
+     "people",
+     "were",
+     "there",
+     "the"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " teenage girls."
+   }
+  ],
+  "solutions": [
+   [
+    "the people there were"
+   ]
+  ],
+  "secTitle": "副詞の位置 ③ ～「時」を表す副詞の場合"
+ },
+ {
+  "id": "W-25",
+  "unit": "W",
+  "no": "25",
+  "jp": "ゴルフ旅行は毎年，母の日の次の月曜日に行われます。",
+  "answers": [
+   "The golf outing is held annually on the Monday after Mother's Day."
+  ],
+  "audio": "audio/W/W-25-.mp3",
+  "section": {
+   "title": "副詞の位置 ④ ～「頻度」を表す副詞の場合",
+   "body": "頻度［回数］を表す副詞（句）には，一定の頻度（daily, every month, twice a week など）を表すものと，漠然とした頻度（always, often, seldom，never など）を表すものがある。 「一定の頻度」 を表す副詞（句）は原則として（ A ）に置き，「漠然とした頻度」 を表す副詞は（ B ）に置くが，文頭や（ A ）に置けるものもある。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The golf outing is held "
+   },
+   {
+    "t": "order",
+    "words": [
+     "on",
+     "annually",
+     "the Monday"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " after Mother's Day."
+   }
+  ],
+  "solutions": [
+   [
+    "annually on the Monday"
+   ]
+  ],
+  "secTitle": "副詞の位置 ④ ～「頻度」を表す副詞の場合"
+ },
+ {
+  "id": "W-26",
+  "unit": "W",
+  "no": "26",
+  "jp": "時々タクシーを利用しますが，通常は自分で運転します。",
+  "answers": [
+   "I use taxis sometimes, but usually I drive."
+  ],
+  "audio": "audio/W/W-26-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I use "
+   },
+   {
+    "t": "order",
+    "words": [
+     "sometimes",
+     "usually",
+     "taxis",
+     "I",
+     ", but"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " drive."
+   }
+  ],
+  "solutions": [
+   [
+    "taxis sometimes, but usually I"
+   ]
+  ],
+  "secTitle": "副詞の位置 ④ ～「頻度」を表す副詞の場合"
+ },
+ {
+  "id": "W-27",
+  "unit": "W",
+  "no": "27",
+  "jp": "彼があんなに怒っている姿はほとんど一度も見たことがない。",
+  "answers": [
+   "I have hardly ever seen him so angry."
+  ],
+  "audio": "audio/W/W-27-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "order",
+    "words": [
+     "seen",
+     "have",
+     "ever",
+     "hardly"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " him so angry."
+   }
+  ],
+  "solutions": [
+   [
+    "have hardly ever seen"
+   ]
+  ],
+  "secTitle": "副詞の位置 ④ ～「頻度」を表す副詞の場合"
+ },
+ {
+  "id": "W-28-a",
+  "unit": "W",
+  "no": "28",
+  "jp": "その店は毎日，午前９時から午後７時まで営業しています。",
+  "answers": [
+   "The shop is open daily from 9 a.m. to 7 p.m."
+  ],
+  "audio": "audio/W/W-28-a-.mp3",
+  "tags": [
+   "下線部の副詞（句）の位置に間違いがある文はどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "The shop is daily open from 9 a.m. to 7 p.m.",
+  "secTitle": "副詞の位置 ④ ～「頻度」を表す副詞の場合"
+ },
+ {
+  "id": "W-28-b",
+  "unit": "W",
+  "no": "28",
+  "jp": "私は今まで常に君を愛してきたし，今後もずっとそうだ。",
+  "answers": [
+   "I have always loved you and I always will."
+  ],
+  "audio": "audio/W/W-28-b-.mp3",
+  "tags": [
+   "下線部の副詞（句）の位置に間違いがある文はどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I have always loved you and I will always.",
+  "secTitle": "副詞の位置 ④ ～「頻度」を表す副詞の場合"
+ },
+ {
+  "id": "W-28-c",
+  "unit": "W",
+  "no": "28",
+  "jp": "彼らが勝つ可能性は高くないが，何が起こるかは決してわからない。",
+  "answers": [
+   "They're not likely to win, but you never can tell."
+  ],
+  "audio": "audio/W/W-28-c-.mp3",
+  "tags": [
+   "下線部の副詞（句）の位置に間違いがある文はどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "They're not likely to win, but you never can tell.",
+  "secTitle": "副詞の位置 ④ ～「頻度」を表す副詞の場合"
+ },
+ {
+  "id": "W-29-a",
+  "unit": "W",
+  "no": "29",
+  "jp": "幸いにも，彼は死なず，数時間後に自分のベッドに横たわっているところを発見された。",
+  "answers": [
+   "Happily, he didn't die and a few hours later was found lying on his bed."
+  ],
+  "audio": "audio/W/W-29-a-.mp3",
+  "tags": [
+   "空所に入る適切な文はa) とb) のどちらか"
+  ],
+  "sheetJp": false,
+  "type": "compose",
+  "stem": "Happily, he didn't die",
+  "secTitle": "副詞の位置 ④ ～「頻度」を表す副詞の場合"
+ },
+ {
+  "id": "W-30",
+  "unit": "W",
+  "no": "30",
+  "jp": "一般に，女性は対立を避ける傾向がある。",
+  "answers": [
+   "Generally, women tend to avoid confrontation."
+  ],
+  "audio": "audio/W/W-30-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank",
+    "hint": "G"
+   },
+   {
+    "t": "text",
+    "v": ", women tend to avoid confrontation."
+   }
+  ],
+  "solutions": [
+   [
+    "Generally"
+   ]
+  ],
+  "secTitle": "副詞の位置 ④ ～「頻度」を表す副詞の場合"
+ },
+ {
+  "id": "W-31",
+  "unit": "W",
+  "no": "31",
+  "jp": "それはよく聞かれる質問なんですよ，実は。",
+  "answers": [
+   "It's a question I'm asked quite a lot, actually."
+  ],
+  "audio": "audio/W/W-31-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It's a question I'm asked quite a lot, "
+   },
+   {
+    "t": "blank",
+    "hint": "a"
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "actually"
+   ]
+  ],
+  "secTitle": "副詞の位置 ④ ～「頻度」を表す副詞の場合"
+ },
+ {
+  "id": "W-32",
+  "unit": "W",
+  "no": "32",
+  "jp": "私は幸運にも比較的すぐに仕事を見つけることができた。",
+  "answers": [
+   "I was fortunately able to find a job relatively quickly."
+  ],
+  "audio": "audio/W/W-32-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I was "
+   },
+   {
+    "t": "blank",
+    "hint": "f"
+   },
+   {
+    "t": "text",
+    "v": " able to find a job relatively quickly."
+   }
+  ],
+  "solutions": [
+   [
+    "fortunately"
+   ]
+  ],
+  "secTitle": "副詞の位置 ④ ～「頻度」を表す副詞の場合"
+ },
+ {
+  "id": "W-33-a",
+  "unit": "W",
+  "no": "33",
+  "jp": "彼は明らかに教師に不向きであった。",
+  "answers": [
+   "Clearly, he was not suited to being a teacher."
+  ],
+  "audio": "audio/W/W-33-a-.mp3",
+  "tags": [
+   "適語を記入し２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank",
+    "hint": "C"
+   },
+   {
+    "t": "text",
+    "v": ", he was not suited to being a teacher."
+   }
+  ],
+  "solutions": [
+   [
+    "Clearly"
+   ]
+  ],
+  "secTitle": "副詞の位置 ④ ～「頻度」を表す副詞の場合"
+ },
+ {
+  "id": "W-33-b",
+  "unit": "W",
+  "no": "33",
+  "jp": "彼が教師に不向きであるのは明らかだった。",
+  "answers": [
+   "It was clear that he was not suited to being a teacher."
+  ],
+  "audio": "audio/W/W-33-b-.mp3",
+  "tags": [
+   "適語を記入し２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "It was "
+   },
+   {
+    "t": "blank",
+    "hint": "c"
+   },
+   {
+    "t": "text",
+    "v": " that he was not suited to being a teacher."
+   }
+  ],
+  "solutions": [
+   [
+    "clear"
+   ]
+  ],
+  "secTitle": "副詞の位置 ④ ～「頻度」を表す副詞の場合"
+ },
+ {
+  "id": "W-34-a",
+  "unit": "W",
+  "no": "34",
+  "jp": "どうやら彼女はまた気持ちが変わったようだ。",
+  "answers": [
+   "Apparently, she has changed her mind again."
+  ],
+  "audio": "audio/W/W-34-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank",
+    "hint": "A"
+   },
+   {
+    "t": "text",
+    "v": ", she has changed her mind again."
+   }
+  ],
+  "solutions": [
+   [
+    "Apparently"
+   ]
+  ],
+  "secTitle": "副詞の位置 ④ ～「頻度」を表す副詞の場合"
+ },
+ {
+  "id": "W-34-b",
+  "unit": "W",
+  "no": "34",
+  "jp": "どうやら彼女はまた気持ちが変わったようだ。",
+  "answers": [
+   "It appears that she has changed her mind again."
+  ],
+  "audio": "audio/W/W-34-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank",
+    "hint": "a"
+   },
+   {
+    "t": "text",
+    "v": " that she has changed her mind again."
+   }
+  ],
+  "solutions": [
+   [
+    "It",
+    "appears"
+   ]
+  ],
+  "secTitle": "副詞の位置 ④ ～「頻度」を表す副詞の場合"
+ },
+ {
+  "id": "W-35-a",
+  "unit": "W",
+  "no": "35",
+  "jp": "月末までにそれを終えたいと思っているんだ。",
+  "answers": [
+   "Hopefully, I'll get it done by the end of this month."
+  ],
+  "audio": "audio/W/W-35-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank",
+    "hint": "H"
+   },
+   {
+    "t": "text",
+    "v": ", I'll get it done by the end of this month."
+   }
+  ],
+  "solutions": [
+   [
+    "Hopefully"
+   ]
+  ],
+  "secTitle": "副詞の位置 ④ ～「頻度」を表す副詞の場合"
+ },
+ {
+  "id": "W-35-b",
+  "unit": "W",
+  "no": "35",
+  "jp": "月末までにそれを終えたいと思っているんだ。",
+  "answers": [
+   "I hope I'll get it done by the end of this month."
+  ],
+  "audio": "audio/W/W-35-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank",
+    "hint": "h"
+   },
+   {
+    "t": "text",
+    "v": " I'll get it done by the end of this month."
+   }
+  ],
+  "solutions": [
+   [
+    "I",
+    "hope"
+   ]
+  ],
+  "secTitle": "副詞の位置 ④ ～「頻度」を表す副詞の場合"
+ },
+ {
+  "id": "W-36-a",
+  "unit": "W",
+  "no": "36",
+  "jp": "戦争を宣言できるのは大統領だけです。",
+  "answers": [
+   "Only the president can declare war."
+  ],
+  "audio": "audio/W/W-36-a-.mp3",
+  "section": {
+   "title": "only の使い方",
+   "body": "副詞として用いるonly は修飾する語句や節の（ A ）に置くのが原則だが，口語ではonly が主語を修飾する場合を除き，（ B ）の前に置くことが多い。この場合，onlyが修飾する語句を明確にするためにその語句を（ C ）する。"
+  },
+  "tags": [
+   "only が修飾する語句に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Only the president can declare war.",
+  "secTitle": "only の使い方"
+ },
+ {
+  "id": "W-36-b",
+  "unit": "W",
+  "no": "36",
+  "jp": "ここの駐車場は従業員専用です。",
+  "answers": [
+   "The car park here is for staff only."
+  ],
+  "audio": "audio/W/W-36-b-.mp3",
+  "tags": [
+   "only が修飾する語句に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "The car park here is for staff only.",
+  "secTitle": "only の使い方"
+ },
+ {
+  "id": "W-36-c",
+  "unit": "W",
+  "no": "36",
+  "jp": "私達はそこに一晩しかいませんでした。",
+  "answers": [
+   "We only stayed there for one night."
+  ],
+  "audio": "audio/W/W-36-c-.mp3",
+  "tags": [
+   "only が修飾する語句に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "We only stayed there for one night.",
+  "secTitle": "only の使い方"
+ },
+ {
+  "id": "W-37",
+  "unit": "W",
+  "no": "37",
+  "jp": "私はピアノだけで，他の楽器は弾きません。",
+  "answers": [
+   "I only play the piano, and no other instruments.",
+   "I play only the piano, and no other instruments."
+  ],
+  "audio": "audio/W/W-37-.mp3",
+  "tags": [
+   "並べ替えて２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I "
+   },
+   {
+    "t": "order",
+    "words": [
+     "play",
+     "the piano",
+     "only"
+    ]
+   },
+   {
+    "t": "text",
+    "v": ", and no other instruments."
+   }
+  ],
+  "solutions": [
+   [
+    "only play the piano"
+   ],
+   [
+    "play only the piano"
+   ]
+  ],
+  "secTitle": "only の使い方"
+ },
+ {
+  "id": "W-38",
+  "unit": "W",
+  "no": "38",
+  "jp": "残念ながら，これらのモデルは英国でしか手に入りません。",
+  "answers": [
+   "Unfortunately, these models are only available in the UK.",
+   "Unfortunately, these models are available only in the UK."
+  ],
+  "audio": "audio/W/W-38-.mp3",
+  "tags": [
+   "並べ替えて２通りで"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Unfortunately, these models "
+   },
+   {
+    "t": "order",
+    "words": [
+     "are",
+     "only",
+     "in",
+     "available"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " the UK."
+   }
+  ],
+  "solutions": [
+   [
+    "are only available in"
+   ],
+   [
+    "are available only in"
+   ]
+  ],
+  "secTitle": "only の使い方"
+ },
+ {
+  "id": "W-39",
+  "unit": "W",
+  "no": "39",
+  "jp": "私は彼に一度だけ会ったことがあります。",
+  "answers": [
+   "I've met him only once.",
+   "I've only met him once."
+  ],
+  "audio": "audio/W/W-39-.mp3",
+  "section": {
+   "title": "once の使い方",
+   "body": "once は「一度」（on one occasion）の意味で用いる場合は（ A ）に置き，「かつて」（at a time in the past）の意味で用いる場合は（ B ）か文頭に置く。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "order",
+    "words": [
+     "I've",
+     "him",
+     "once",
+     "only",
+     "met"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "I've met him only once"
+   ],
+   [
+    "I've only met him once"
+   ]
+  ],
+  "secTitle": "once の使い方"
+ },
+ {
+  "id": "W-40",
+  "unit": "W",
+  "no": "40",
+  "jp": "かつて彼女と私は大の仲良しでした。",
+  "answers": [
+   "She and I were once very good friends."
+  ],
+  "audio": "audio/W/W-40-.mp3",
+  "tags": [
+   "間違いがあれば訂正"
+  ],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "She and I were very good friends once.",
+  "secTitle": "once の使い方"
+ },
+ {
+  "id": "W-41-a",
+  "unit": "W",
+  "no": "41",
+  "jp": "あなたはかつて，彼とは絶対に結婚しないと言っていました。",
+  "answers": [
+   "You once said that you would never marry him."
+  ],
+  "audio": "audio/W/W-41-a-.mp3",
+  "tags": [
+   "once の位置に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "You once said that you would never marry him.",
+  "secTitle": "once の使い方"
+ },
+ {
+  "id": "W-41-b",
+  "unit": "W",
+  "no": "41",
+  "jp": "あなたは一度，彼とは絶対に結婚しないと言ったことがあります。",
+  "answers": [
+   "You said once that you would never marry him."
+  ],
+  "audio": "audio/W/W-41-b-.mp3",
+  "tags": [
+   "once の位置に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "You said once that you would never marry him.",
+  "secTitle": "once の使い方"
+ },
+ {
+  "id": "W-42-a",
+  "unit": "W",
+  "no": "42",
+  "jp": "今までにラスベガスに行ったことがありますか？",
+  "answers": [
+   "Have you been to Las Vegas?"
+  ],
+  "audio": "audio/W/W-42-a-.mp3",
+  "section": {
+   "title": "ever の使い方",
+   "body": "ever は 「いかなるどんな時点でも」という意味で，通常は現在［過去・未来］完了形の 「疑問文」 か 「否定文」 で用いるが，（ A ）節や，（ B ）の先行詞を修飾する関係詞節では 「肯定文」 でも用いる。"
+  },
+  "tags": [
+   "２つの文のニュアンスの違いを指摘"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Have you been to Las Vegas?",
+  "secTitle": "ever の使い方"
+ },
+ {
+  "id": "W-42-b",
+  "unit": "W",
+  "no": "42",
+  "jp": "今までに一度でもラスベガスに行ったことがありますか？",
+  "answers": [
+   "Have you ever been to Las Vegas?"
+  ],
+  "audio": "audio/W/W-42-b-.mp3",
+  "tags": [
+   "２つの文のニュアンスの違いを指摘"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Have you ever been to Las Vegas?",
+  "secTitle": "ever の使い方"
+ },
+ {
+  "id": "W-43-a",
+  "unit": "W",
+  "no": "43",
+  "jp": "近頃は，誰も決して［一切］そのことについて話さない。",
+  "answers": [
+   "No one ever talks about it these days."
+  ],
+  "audio": "audio/W/W-43-a-.mp3",
+  "tags": [
+   " ever の使い方に間違いがある文はどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "No one ever talks about it these days.",
+  "secTitle": "ever の使い方"
+ },
+ {
+  "id": "W-43-b",
+  "unit": "W",
+  "no": "43",
+  "jp": "私は以前一度彼に会ったことがあると思う。",
+  "answers": [
+   "I think I've met him once before."
+  ],
+  "audio": "audio/W/W-43-b-.mp3",
+  "tags": [
+   " ever の使い方に間違いがある文はどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I think I've ever met him once.",
+  "secTitle": "ever の使い方"
+ },
+ {
+  "id": "W-43-c",
+  "unit": "W",
+  "no": "43",
+  "jp": "これは私が今まで使った中でも最も良いシェーバーだ。",
+  "answers": [
+   "This is the best shaver I've ever used."
+  ],
+  "audio": "audio/W/W-43-c-.mp3",
+  "tags": [
+   " ever の使い方に間違いがある文はどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "This is the best shaver I've ever used.",
+  "secTitle": "ever の使い方"
+ },
+ {
+  "id": "W-43-d",
+  "unit": "W",
+  "no": "43",
+  "jp": "もし何か助けが必要になったら，連絡してください。",
+  "answers": [
+   "If you ever need any help, let me know."
+  ],
+  "audio": "audio/W/W-43-d-.mp3",
+  "tags": [
+   " ever の使い方に間違いがある文はどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "If you ever need any help, let me know.",
+  "secTitle": "ever の使い方"
+ },
+ {
+  "id": "W-44",
+  "unit": "W",
+  "no": "44",
+  "jp": "子供の頃，キャンプに行った経験はあるかい？",
+  "answers": [
+   "Did you ever go camping as a kid?"
+  ],
+  "audio": "audio/W/W-44-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Have you ever gone camping as a kid?",
+  "secTitle": "ever の使い方"
+ },
+ {
+  "id": "W-45",
+  "unit": "W",
+  "no": "45",
+  "jp": "トマトとケチャップは味がとても異なる。",
+  "answers": [
+   "Tomatoes and ketchup taste very different."
+  ],
+  "audio": "audio/W/W-45-.mp3",
+  "section": {
+   "title": "very とmuch の使い方",
+   "body": "very は形容詞や副詞の（ A ）を修飾し，much は過去分詞や形容詞［副詞］の（ B ）を修飾する。動詞を修飾するmuch は通常，very [so, too] much の形にして文末で用いるが，疑問文と（ C ）文ではmuch だけで用いることもある。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "Tomatoes and ketchup taste different very much.",
+  "secTitle": "very とmuch の使い方"
+ },
+ {
+  "id": "W-46-a",
+  "unit": "W",
+  "no": "46",
+  "jp": "私はベネチアが大好きですが，フローレンスはさらに好きです。",
+  "answers": [
+   "I like Venice very much but I like Florence even more."
+  ],
+  "audio": "audio/W/W-46-a-.mp3",
+  "tags": [
+   " much の使い方に間違いがある文はどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I like Venice much but I like Florence even more.",
+  "secTitle": "very とmuch の使い方"
+ },
+ {
+  "id": "W-46-b",
+  "unit": "W",
+  "no": "46",
+  "jp": "出産の時はとても痛かった？",
+  "answers": [
+   "Did it hurt much when you gave birth?"
+  ],
+  "audio": "audio/W/W-46-b-.mp3",
+  "tags": [
+   " much の使い方に間違いがある文はどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Did it hurt much when you gave birth?",
+  "secTitle": "very とmuch の使い方"
+ },
+ {
+  "id": "W-46-c",
+  "unit": "W",
+  "no": "46",
+  "jp": "そのメニューは過去20年間あまり変わっていない。",
+  "answers": [
+   "The menu hasn't changed much in the last 20 years."
+  ],
+  "audio": "audio/W/W-46-c-.mp3",
+  "tags": [
+   " much の使い方に間違いがある文はどれか"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "The menu hasn't changed much in the last 20 years.",
+  "secTitle": "very とmuch の使い方"
+ },
+ {
+  "id": "W-47-a",
+  "unit": "W",
+  "no": "47",
+  "jp": "彼女は家族と友人全員からとても愛されていた。",
+  "answers": [
+   "She was much loved by all her family and friends."
+  ],
+  "audio": "audio/W/W-47-a-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She was "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "very",
+     "much"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " loved by all her family and friends."
+   }
+  ],
+  "solutions": [
+   [
+    "much"
+   ]
+  ],
+  "secTitle": "very とmuch の使い方"
+ },
+ {
+  "id": "W-47-b",
+  "unit": "W",
+  "no": "47",
+  "jp": "私達はその知らせにとても興奮していた。",
+  "answers": [
+   "We were very excited about the news."
+  ],
+  "audio": "audio/W/W-47-b-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We were "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "very",
+     "much"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " excited about the news."
+   }
+  ],
+  "solutions": [
+   [
+    "very"
+   ]
+  ],
+  "secTitle": "very とmuch の使い方"
+ },
+ {
+  "id": "W-48-a",
+  "unit": "W",
+  "no": "48",
+  "jp": "この椅子の方がずっと快適です。",
+  "answers": [
+   "This chair is much more comfortable."
+  ],
+  "audio": "audio/W/W-48-a-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "This chair is very more comfortable.",
+  "secTitle": "very とmuch の使い方"
+ },
+ {
+  "id": "W-48-b",
+  "unit": "W",
+  "no": "48",
+  "jp": "あなたはご主人よりどれだけ年上ですか？",
+  "answers": [
+   "How much older are you than your husband?"
+  ],
+  "audio": "audio/W/W-48-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "How much older are you than your husband?",
+  "secTitle": "very とmuch の使い方"
+ },
+ {
+  "id": "W-48-c",
+  "unit": "W",
+  "no": "48",
+  "jp": "彼らはまさに最悪の状況の中で暮らしている",
+  "answers": [
+   "They live in the very worst conditions."
+  ],
+  "audio": "audio/W/W-48-c-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "They live in very worst conditions.",
+  "secTitle": "very とmuch の使い方"
+ },
+ {
+  "id": "W-49-a",
+  "unit": "W",
+  "no": "49",
+  "jp": "初見では，それはカリフラワーにとてもよく似ている。",
+  "answers": [
+   "At first glance, it looks much like cauliflower."
+  ],
+  "audio": "audio/W/W-49-a-.mp3",
+  "tags": [
+   "much の意味に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "At first glance, it looks much like cauliflower.",
+  "secTitle": "very とmuch の使い方"
+ },
+ {
+  "id": "W-49-b",
+  "unit": "W",
+  "no": "49",
+  "jp": "ここの生活は1950年代当時とほぼ同じだ。",
+  "answers": [
+   "Life here is much as it was back in the 1950s."
+  ],
+  "audio": "audio/W/W-49-b-.mp3",
+  "tags": [
+   "much の意味に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "Life here is much as it was back in the 1950s.",
+  "secTitle": "very とmuch の使い方"
+ },
+ {
+  "id": "W-49-c",
+  "unit": "W",
+  "no": "49",
+  "jp": "その２つのビルはほぼ同じに見えます。",
+  "answers": [
+   "The two buildings look much the same."
+  ],
+  "audio": "audio/W/W-49-c-.mp3",
+  "tags": [
+   "much の意味に注意して各文を和訳"
+  ],
+  "sheetJp": false,
+  "type": "translate",
+  "stem": "The two buildings look much the same.",
+  "secTitle": "very とmuch の使い方"
+ },
+ {
+  "id": "W-50-a",
+  "unit": "W",
+  "no": "50",
+  "jp": "授業の進み方は私にはついていけないほど速かった。",
+  "answers": [
+   "The lessons went so fast that I couldn't follow them."
+  ],
+  "audio": "audio/W/W-50-a-.mp3",
+  "section": {
+   "title": "so, such, too の使い方",
+   "body": "so は 「そんなに」 「とても」という意味で後ろの 「形容詞」 や 「副詞」 を修飾するが，その程度や結果を示すために（ A ）節などを伴うことがある。後ろに 「形容詞＋名詞」 を置く場合はso ではなく（ B ）を用いるのが一般的である。too は「あまりにも」 という意味で 「形容詞」 や 「副詞」 を修飾するが，それが過度であるために何らかの行為が妨げられることを示唆し，その行為を（ C ）で表すことがある。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The lessons went "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " fast "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " I couldn't follow them."
+   }
+  ],
+  "solutions": [
+   [
+    "so",
+    "that"
+   ]
+  ],
+  "secTitle": "so, such, too の使い方"
+ },
+ {
+  "id": "W-50-b",
+  "unit": "W",
+  "no": "50",
+  "jp": "授業の進み方は私にはついていけないほど速かった。",
+  "answers": [
+   "The lessons went too fast for me to follow."
+  ],
+  "audio": "audio/W/W-50-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The lessons went "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " fast "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " me "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " follow."
+   }
+  ],
+  "solutions": [
+   [
+    "too",
+    "for",
+    "to"
+   ]
+  ],
+  "secTitle": "so, such, too の使い方"
+ },
+ {
+  "id": "W-51",
+  "unit": "W",
+  "no": "51",
+  "jp": "かつて絹は大変珍しく，その重量が金の重量と同じ価値をもつほどだった。",
+  "answers": [
+   "Silk used to be so rare as to be worth its weight in gold."
+  ],
+  "audio": "audio/W/W-51-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Silk used to be "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " rare "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " to be worth its weight in gold."
+   }
+  ],
+  "solutions": [
+   [
+    "so",
+    "as"
+   ]
+  ],
+  "secTitle": "so, such, too の使い方"
+ },
+ {
+  "id": "W-52-a",
+  "unit": "W",
+  "no": "52",
+  "jp": "私はそんなに大きな街へはそれまで一度も来たことがなかった。",
+  "answers": [
+   "I had never been to such a big city before."
+  ],
+  "audio": "audio/W/W-52-a-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I had never been to "
+   },
+   {
+    "t": "order",
+    "words": [
+     "a",
+     "such",
+     "big"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " city before."
+   }
+  ],
+  "solutions": [
+   [
+    "such a big"
+   ]
+  ],
+  "secTitle": "so, such, too の使い方"
+ },
+ {
+  "id": "W-52-b",
+  "unit": "W",
+  "no": "52",
+  "jp": "私はそんなに大きな街へはそれまで一度も来たことがなかった。",
+  "answers": [
+   "I had never been to so big a city before."
+  ],
+  "audio": "audio/W/W-52-b-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I had never been to "
+   },
+   {
+    "t": "order",
+    "words": [
+     "a",
+     "so",
+     "big"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " city before."
+   }
+  ],
+  "solutions": [
+   [
+    "so big a"
+   ]
+  ],
+  "secTitle": "so, such, too の使い方"
+ },
+ {
+  "id": "W-53",
+  "unit": "W",
+  "no": "53",
+  "jp": "これは逃せない絶好のチャンスだ。",
+  "answers": [
+   "This is too good an opportunity to miss."
+  ],
+  "audio": "audio/W/W-53-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "proof",
+  "stem": "This is a too good opportunity to miss.",
+  "secTitle": "so, such, too の使い方"
+ },
+ {
+  "id": "W-54-a",
+  "unit": "W",
+  "no": "54",
+  "jp": "とても良い天気だったので，私達は少し外で遊んだ。",
+  "answers": [
+   "It was such nice weather that we played outside a little."
+  ],
+  "audio": "audio/W/W-54-a-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "It was so nice weather that we played outside a little.",
+  "secTitle": "so, such, too の使い方"
+ },
+ {
+  "id": "W-54-b",
+  "unit": "W",
+  "no": "54",
+  "jp": "彼は非常に多くのミスをして仕事をクビになった。",
+  "answers": [
+   "He made so many mistakes that he lost his job."
+  ],
+  "audio": "audio/W/W-54-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "He made such many mistakes that he lost his job.",
+  "secTitle": "so, such, too の使い方"
+ },
+ {
+  "id": "W-54-c",
+  "unit": "W",
+  "no": "54",
+  "jp": "熱すぎるお湯は皮膚の水分を奪って痛める可能性があります。",
+  "answers": [
+   "Water that is too hot can dry and damage the skin."
+  ],
+  "audio": "audio/W/W-54-c-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Too hot water can dry and damage the skin.",
+  "secTitle": "so, such, too の使い方"
+ },
+ {
+  "id": "W-54-d",
+  "unit": "W",
+  "no": "54",
+  "jp": "飛行機に乗っている時にはアルコールの飲み過ぎはいけません。",
+  "answers": [
+   "Don't drink too much alcohol on an airplane."
+  ],
+  "audio": "audio/W/W-54-d-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Don't drink too much alcohol on an airplane.",
+  "secTitle": "so, such, too の使い方"
+ }
+]

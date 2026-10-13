@@ -1,0 +1,2627 @@
+[
+ {
+  "id": "S-01-a",
+  "unit": "S",
+  "no": "01",
+  "jp": "これは５歳から12歳までの耳が不自由な子供が通う学校です。",
+  "answers": [
+   "This is a school for deaf children aged 5 to 12."
+  ],
+  "audio": "audio/S/S-01-a-.mp3",
+  "section": {
+   "title": "可算名詞と不可算名詞",
+   "body": "名詞は可算名詞と不可算名詞に分けることができる。（ A ）名詞は主に 「a [an, one]＋単数形」 「the＋単数形」 「（the ＋）複数形」「修飾語＋複数形」 などの形で用いる。（ B ）名詞は主に無冠詞で用いたり，the や修飾語を付けて用いる。"
+  },
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "This is school for deaf children aged 5 to 12.",
+  "secTitle": "可算名詞と不可算名詞"
+ },
+ {
+  "id": "S-01-b",
+  "unit": "S",
+  "no": "01",
+  "jp": "平和がさらに20年間続きました。",
+  "answers": [
+   "Peace continued for another 20 years."
+  ],
+  "audio": "audio/S/S-01-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "A peace continued for another 20 years.",
+  "secTitle": "可算名詞と不可算名詞"
+ },
+ {
+  "id": "S-01-c",
+  "unit": "S",
+  "no": "01",
+  "jp": "結婚は私にはあまり魅力的に思えません。",
+  "answers": [
+   "Marriage doesn't really appeal to me."
+  ],
+  "audio": "audio/S/S-01-c-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Marriage doesn't really appeal to me.",
+  "secTitle": "可算名詞と不可算名詞"
+ },
+ {
+  "id": "S-01-d",
+  "unit": "S",
+  "no": "01",
+  "jp": "彼はぼさぼさの髪をした痩せた男だった。",
+  "answers": [
+   "He was a thin man with untidy hair."
+  ],
+  "audio": "audio/S/S-01-d-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "He was a thin man with untidy hairs.",
+  "secTitle": "可算名詞と不可算名詞"
+ },
+ {
+  "id": "S-02",
+  "unit": "S",
+  "no": "02",
+  "jp": "イルカは知能の高い動物です。",
+  "answers": [
+   "Dolphins are intelligent animals.",
+   "The dolphin is an intelligent animal.",
+   "A dolphin is an intelligent animal."
+  ],
+  "audio": "audio/S/S-02-.mp3",
+  "section": {
+   "title": "総称（種類・種族全般）の表し方",
+   "body": "「犬（という動物）」 のように特定の可算名詞の種類［種族］全般を表す場合は無冠詞で（ A ）形にするのが一般的だが，a [an] やthe を付けて（ B ）形にすることもある。他方，「音楽」 のような不可算名詞の種類［種族］全般を表す場合は（ C ）にする。"
+  },
+  "tags": [],
+  "sheetJp": true,
+  "type": "compose",
+  "stem": "4 4 4",
+  "secTitle": "総称（種類・種族全般）の表し方"
+ },
+ {
+  "id": "S-03-a",
+  "unit": "S",
+  "no": "03",
+  "jp": "国連は全ての国に鯨を殺すのをやめるよう求めた。",
+  "answers": [
+   "The UN asked all nations to stop killing whales.",
+   "The UN asked all nations to stop killing the whale."
+  ],
+  "audio": "audio/S/S-03-a-.mp3",
+  "section": {
+   "title": "なのはどれか））",
+   "body": "a) Dolphin is an intelligent animal. b) A dolphin is an intelligent animal. c) The dolphin is an intelligent animal. d) Dolphins are intelligent animals. e) The dolphins are intelligent animals."
+  },
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The UN asked all nations to stop killing "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "a whale",
+     "the whale",
+     "whales"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "whales"
+   ],
+   [
+    "the whale"
+   ]
+  ],
+  "secTitle": "なのはどれか））"
+ },
+ {
+  "id": "S-03-b",
+  "unit": "S",
+  "no": "03",
+  "jp": "トラは絶滅の危機にある。",
+  "answers": [
+   "Tigers are on the brink of extinction.",
+   "The tiger is on the brink of extinction."
+  ],
+  "audio": "audio/S/S-03-b-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "choice",
+    "options": [
+     "A tiger is",
+     "The tiger is",
+     "Tigers are"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " on the brink of extinction."
+   }
+  ],
+  "solutions": [
+   [
+    "Tigers are"
+   ],
+   [
+    "The tiger is"
+   ]
+  ],
+  "secTitle": "なのはどれか））"
+ },
+ {
+  "id": "S-03-c",
+  "unit": "S",
+  "no": "03",
+  "jp": "電話はアレクサンダー・グラハム・ベルが発明した。",
+  "answers": [
+   "The telephone was invented by Alexander Graham Bell."
+  ],
+  "audio": "audio/S/S-03-c-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "choice",
+    "options": [
+     "A telephone was",
+     "The telephone was",
+     "Telephones were"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " invented by Alexander Graham Bell."
+   }
+  ],
+  "solutions": [
+   [
+    "The telephone was"
+   ]
+  ],
+  "secTitle": "なのはどれか））"
+ },
+ {
+  "id": "S-04-a",
+  "unit": "S",
+  "no": "04",
+  "jp": "鉄は白銀の金属です。",
+  "answers": [
+   "Iron is a silver-white metal."
+  ],
+  "audio": "audio/S/S-04-a-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "choice",
+    "options": [
+     "Iron",
+     "An iron",
+     "The iron"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " is a silver-white metal."
+   }
+  ],
+  "solutions": [
+   [
+    "Iron"
+   ]
+  ],
+  "secTitle": "なのはどれか））"
+ },
+ {
+  "id": "S-04-b",
+  "unit": "S",
+  "no": "04",
+  "jp": "「歴史は繰り返す」とは誰のことば？",
+  "answers": [
+   "Who said, \"History repeats itself\"?"
+  ],
+  "audio": "audio/S/S-04-b-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Who said, \""
+   },
+   {
+    "t": "choice",
+    "options": [
+     "History",
+     "The history"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " repeats itself\"?"
+   }
+  ],
+  "solutions": [
+   [
+    "History"
+   ]
+  ],
+  "secTitle": "なのはどれか））"
+ },
+ {
+  "id": "S-04-c",
+  "unit": "S",
+  "no": "04",
+  "jp": "私はスポーツと読書と音楽が大好きです。",
+  "answers": [
+   "I love sports, reading, and music."
+  ],
+  "audio": "audio/S/S-04-c-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I love sports, reading, and "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "music",
+     "a music",
+     "the music"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "music"
+   ]
+  ],
+  "secTitle": "なのはどれか））"
+ },
+ {
+  "id": "S-04-d",
+  "unit": "S",
+  "no": "04",
+  "jp": "濡れた指に空気が冷たく感じられた。",
+  "answers": [
+   "The air felt cold on my wet fingers."
+  ],
+  "audio": "audio/S/S-04-d-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "choice",
+    "options": [
+     "Air",
+     "The air"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " felt cold on my wet fingers."
+   }
+  ],
+  "solutions": [
+   [
+    "The air"
+   ]
+  ],
+  "secTitle": "なのはどれか））"
+ },
+ {
+  "id": "S-05-a",
+  "unit": "S",
+  "no": "05",
+  "jp": "私は他のどの音楽のジャンルよりもクラシック音楽が好きだ。",
+  "answers": [
+   "I prefer classical music to any other genre."
+  ],
+  "audio": "audio/S/S-05-a-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I prefer "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "classical",
+     "the classical"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " music to any other genre."
+   }
+  ],
+  "solutions": [
+   [
+    "classical"
+   ]
+  ],
+  "secTitle": "なのはどれか））"
+ },
+ {
+  "id": "S-05-b",
+  "unit": "S",
+  "no": "05",
+  "jp": "彼女は大学でヨーロッパ史を学んだ。",
+  "answers": [
+   "She studied European history at college."
+  ],
+  "audio": "audio/S/S-05-b-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "She studied "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "European",
+     "the European"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " history at college."
+   }
+  ],
+  "solutions": [
+   [
+    "European"
+   ]
+  ],
+  "secTitle": "なのはどれか））"
+ },
+ {
+  "id": "S-05-c",
+  "unit": "S",
+  "no": "05",
+  "jp": "大統領はアメリカ経済を蘇らせると誓った。",
+  "answers": [
+   "The President pledged to revive the U.S. economy."
+  ],
+  "audio": "audio/S/S-05-c-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The President pledged to revive "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "U.S.",
+     "the U.S."
+    ]
+   },
+   {
+    "t": "text",
+    "v": " economy."
+   }
+  ],
+  "solutions": [
+   [
+    "the U.S."
+   ]
+  ],
+  "secTitle": "なのはどれか））"
+ },
+ {
+  "id": "S-06-a",
+  "unit": "S",
+  "no": "06",
+  "jp": "あなたに（１つ）アドバイスをしましょう。",
+  "answers": [
+   "Let me offer you some advice.",
+   "Let me offer you a piece of advice."
+  ],
+  "audio": "audio/S/S-06-a-.mp3",
+  "section": {
+   "title": "可算名詞と混同しやすい不可算名詞",
+   "body": "advice やfurniture は（ A ）名詞だが，（ B ）名詞と間違いやすいので注意が必要である。不可算名詞にはa [an] を付けたり，複数形にしたり，数の大小を示すmany, few, a number of などの修飾語を付けることはできない。"
+  },
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Let me offer you an advice.",
+  "secTitle": "可算名詞と混同しやすい不可算名詞"
+ },
+ {
+  "id": "S-06-b",
+  "unit": "S",
+  "no": "06",
+  "jp": "より詳しいことは事務局にお電話いただくか，ホームページをご覧ください。",
+  "answers": [
+   "For more information, contact our office or visit our website."
+  ],
+  "audio": "audio/S/S-06-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "For more informations, contact our office or visit our website.",
+  "secTitle": "可算名詞と混同しやすい不可算名詞"
+ },
+ {
+  "id": "S-06-c",
+  "unit": "S",
+  "no": "06",
+  "jp": "機会があったらメールをください。",
+  "answers": [
+   "Please send me an e-mail when you get a chance."
+  ],
+  "audio": "audio/S/S-06-c-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Please send me an e-mail when you get a chance.",
+  "secTitle": "可算名詞と混同しやすい不可算名詞"
+ },
+ {
+  "id": "S-06-d",
+  "unit": "S",
+  "no": "06",
+  "jp": "彼は私に電話番号を書いた紙を渡した。",
+  "answers": [
+   "He handed me a piece of paper with a phone number on it.",
+   "He handed me a sheet of paper with a phone number on it."
+  ],
+  "audio": "audio/S/S-06-d-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "He handed me a paper with a phone number on it.",
+  "secTitle": "可算名詞と混同しやすい不可算名詞"
+ },
+ {
+  "id": "S-06-e",
+  "unit": "S",
+  "no": "06",
+  "jp": "今晩はしなければならない宿題がたくさんある。",
+  "answers": [
+   "I have a lot of homework to do tonight."
+  ],
+  "audio": "audio/S/S-06-e-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I have a lot of homeworks to do tonight.",
+  "secTitle": "可算名詞と混同しやすい不可算名詞"
+ },
+ {
+  "id": "S-06-f",
+  "unit": "S",
+  "no": "06",
+  "jp": "明日は荒れた天気になる見込みです。",
+  "answers": [
+   "We are expecting rough weather tomorrow."
+  ],
+  "audio": "audio/S/S-06-f-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "We are expecting a rough weather tomorrow.",
+  "secTitle": "可算名詞と混同しやすい不可算名詞"
+ },
+ {
+  "id": "S-07-a",
+  "unit": "S",
+  "no": "07",
+  "jp": "私達は中古のオフィス用品を販売しています。",
+  "answers": [
+   "We're selling used office equipment."
+  ],
+  "audio": "audio/S/S-07-a-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "We're selling used office equipments.",
+  "secTitle": "可算名詞と混同しやすい不可算名詞"
+ },
+ {
+  "id": "S-07-b",
+  "unit": "S",
+  "no": "07",
+  "jp": "彼女の部屋には家具がほとんどない。",
+  "answers": [
+   "There is little furniture in her room."
+  ],
+  "audio": "audio/S/S-07-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "There are few furnitures in her room.",
+  "secTitle": "可算名詞と混同しやすい不可算名詞"
+ },
+ {
+  "id": "S-07-c",
+  "unit": "S",
+  "no": "07",
+  "jp": "預ける手荷物はありますか？",
+  "answers": [
+   "Do you have any baggage to check?"
+  ],
+  "audio": "audio/S/S-07-c-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Do you have any baggages to check?",
+  "secTitle": "可算名詞と混同しやすい不可算名詞"
+ },
+ {
+  "id": "S-08-a",
+  "unit": "S",
+  "no": "08",
+  "jp": "学校は９月５日に始まります。",
+  "answers": [
+   "School begins on the fifth of September."
+  ],
+  "audio": "audio/S/S-08-a-.mp3",
+  "section": {
+   "title": "可算名詞と不可算名詞の使い分け",
+   "body": "可算名詞と不可算名詞の区別は必ずしも単語によって決まっているわけではない。通常は 「可算名詞」 として用いられるものが抽象化して 「不可算名詞」 として用いられたり，逆に，「不可算名詞」 として用いられる抽象的な名詞が具現化して 「可算名詞」 として用いられることがよくある。"
+  },
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "choice",
+    "options": [
+     "School",
+     "A school"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " begins on the fifth of September."
+   }
+  ],
+  "solutions": [
+   [
+    "School"
+   ]
+  ],
+  "secTitle": "可算名詞と不可算名詞の使い分け"
+ },
+ {
+  "id": "S-08-b",
+  "unit": "S",
+  "no": "08",
+  "jp": "その橋は石でできていてとても頑丈だ。",
+  "answers": [
+   "The bridge is built of stone and is very sturdy."
+  ],
+  "audio": "audio/S/S-08-b-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The bridge is built of "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "stone",
+     "stones"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " and is very sturdy."
+   }
+  ],
+  "solutions": [
+   [
+    "stone"
+   ]
+  ],
+  "secTitle": "可算名詞と不可算名詞の使い分け"
+ },
+ {
+  "id": "S-08-c",
+  "unit": "S",
+  "no": "08",
+  "jp": "私達の家ではたくさんチキンを食べる。",
+  "answers": [
+   "We eat a lot of chicken in our house."
+  ],
+  "audio": "audio/S/S-08-c-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We eat a lot of "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "chicken",
+     "chickens"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " in our house."
+   }
+  ],
+  "solutions": [
+   [
+    "chicken"
+   ]
+  ],
+  "secTitle": "可算名詞と不可算名詞の使い分け"
+ },
+ {
+  "id": "S-08-d",
+  "unit": "S",
+  "no": "08",
+  "jp": "あごに卵がついてますよ。",
+  "answers": [
+   "Um, you've got some egg on your chin."
+  ],
+  "audio": "audio/S/S-08-d-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Um, you've got "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "an egg",
+     "some egg"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " on your chin."
+   }
+  ],
+  "solutions": [
+   [
+    "some egg"
+   ]
+  ],
+  "secTitle": "可算名詞と不可算名詞の使い分け"
+ },
+ {
+  "id": "S-08-e",
+  "unit": "S",
+  "no": "08",
+  "jp": "車にもう１人乗れるスペースはありますか？",
+  "answers": [
+   "Is there room for one more in the car?"
+  ],
+  "audio": "audio/S/S-08-e-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Is there "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "a room",
+     "room"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " for one more in the car?"
+   }
+  ],
+  "solutions": [
+   [
+    "room"
+   ]
+  ],
+  "secTitle": "可算名詞と不可算名詞の使い分け"
+ },
+ {
+  "id": "S-09-a",
+  "unit": "S",
+  "no": "09",
+  "jp": "18歳の時には彼女は美人へと変貌していた。",
+  "answers": [
+   "By the age of 18, she had turned into a beauty."
+  ],
+  "audio": "audio/S/S-09-a-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "By the age of 18, she had turned into "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "beauty",
+     "a beauty"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "a beauty"
+   ]
+  ],
+  "secTitle": "可算名詞と不可算名詞の使い分け"
+ },
+ {
+  "id": "S-09-b",
+  "unit": "S",
+  "no": "09",
+  "jp": "私は弁護士としては成功者だけど，妻としては失格（者）なの。",
+  "answers": [
+   "I've been a success as a lawyer but a failure as a wife."
+  ],
+  "audio": "audio/S/S-09-b-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I've been "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "success",
+     "a success"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " as a lawyer but "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "failure",
+     "a failure"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " as a wife."
+   }
+  ],
+  "solutions": [
+   [
+    "a success",
+    "a failure"
+   ]
+  ],
+  "secTitle": "可算名詞と不可算名詞の使い分け"
+ },
+ {
+  "id": "S-09-c",
+  "unit": "S",
+  "no": "09",
+  "jp": "西側の民主主義国家はそれにどう対応しましたか？",
+  "answers": [
+   "How did western democracies respond to it?"
+  ],
+  "audio": "audio/S/S-09-c-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "How did western "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "democracy",
+     "democracies"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " respond to it?"
+   }
+  ],
+  "solutions": [
+   [
+    "democracies"
+   ]
+  ],
+  "secTitle": "可算名詞と不可算名詞の使い分け"
+ },
+ {
+  "id": "S-09-d",
+  "unit": "S",
+  "no": "09",
+  "jp": "インドは経済大国として姿を現しつつある。",
+  "answers": [
+   "India is emerging as an economic power."
+  ],
+  "audio": "audio/S/S-09-d-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "India is emerging as "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "economic power",
+     "an economic power"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "an economic power"
+   ]
+  ],
+  "secTitle": "可算名詞と不可算名詞の使い分け"
+ },
+ {
+  "id": "S-09-e",
+  "unit": "S",
+  "no": "09",
+  "jp": "ハムレットはシェークスピアの最も有名な作品の一つだ。",
+  "answers": [
+   "Hamlet is one of Shakespeare's most famous works."
+  ],
+  "audio": "audio/S/S-09-e-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Hamlet is one of Shakespeare's most famous "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "work",
+     "works"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "works"
+   ]
+  ],
+  "secTitle": "可算名詞と不可算名詞の使い分け"
+ },
+ {
+  "id": "S-10-a",
+  "unit": "S",
+  "no": "10",
+  "jp": "昨晩，家の近くで火事があった。",
+  "answers": [
+   "There was a fire near my house last night."
+  ],
+  "audio": "audio/S/S-10-a-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "There was "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "fire",
+     "a fire"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " near my house last night."
+   }
+  ],
+  "solutions": [
+   [
+    "a fire"
+   ]
+  ],
+  "secTitle": "可算名詞と不可算名詞の使い分け"
+ },
+ {
+  "id": "S-10-b",
+  "unit": "S",
+  "no": "10",
+  "jp": "「タバコの火ありますか？」「すみません。私はタバコは吸いませんので」",
+  "answers": [
+   "\"Do you have a light?\" \"Sorry, I don't smoke.\""
+  ],
+  "audio": "audio/S/S-10-b-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"Do you have "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "light",
+     "a light"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "?\" \"Sorry, I don't smoke.\""
+   }
+  ],
+  "solutions": [
+   [
+    "a light"
+   ]
+  ],
+  "secTitle": "可算名詞と不可算名詞の使い分け"
+ },
+ {
+  "id": "S-10-c",
+  "unit": "S",
+  "no": "10",
+  "jp": "私は恐竜に関する論文を書くための研究をしています。",
+  "answers": [
+   "I'm doing research for a paper on dinosaurs."
+  ],
+  "audio": "audio/S/S-10-c-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I'm doing research for "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "paper",
+     "a paper"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " on dinosaurs."
+   }
+  ],
+  "solutions": [
+   [
+    "a paper"
+   ]
+  ],
+  "secTitle": "可算名詞と不可算名詞の使い分け"
+ },
+ {
+  "id": "S-10-d",
+  "unit": "S",
+  "no": "10",
+  "jp": "すみません，食べ物に髪の毛が入っています。",
+  "answers": [
+   "Excuse me, waiter, there's a hair in my food."
+  ],
+  "audio": "audio/S/S-10-d-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Excuse me, waiter, there's "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "hair",
+     "a hair"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " in my food."
+   }
+  ],
+  "solutions": [
+   [
+    "a hair"
+   ]
+  ],
+  "secTitle": "可算名詞と不可算名詞の使い分け"
+ },
+ {
+  "id": "S-10-e",
+  "unit": "S",
+  "no": "10",
+  "jp": "「ビール飲む人いる？」 「俺，ビールにする」",
+  "answers": [
+   "\"Anybody want a beer?\" \"I could use one.\""
+  ],
+  "audio": "audio/S/S-10-e-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "\"Anybody want "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "beer",
+     "a beer"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "?\" \"I could use one.\""
+   }
+  ],
+  "solutions": [
+   [
+    "a beer"
+   ]
+  ],
+  "secTitle": "可算名詞と不可算名詞の使い分け"
+ },
+ {
+  "id": "S-11-a",
+  "unit": "S",
+  "no": "11",
+  "jp": "その警官は私を止めて，身分証明書の提示を求めてきた。",
+  "answers": [
+   "The policeman stopped me and asked to see my papers."
+  ],
+  "audio": "audio/S/S-11-a-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The policeman stopped me and asked to see my "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "paper",
+     "papers"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "papers"
+   ]
+  ],
+  "secTitle": "可算名詞と不可算名詞の使い分け"
+ },
+ {
+  "id": "S-11-b",
+  "unit": "S",
+  "no": "11",
+  "jp": "北朝鮮の船が日本の水域に侵入した。",
+  "answers": [
+   "A North Korean ship violated Japanese waters."
+  ],
+  "audio": "audio/S/S-11-b-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "A North Korean ship violated Japanese "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "water",
+     "waters"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "waters"
+   ]
+  ],
+  "secTitle": "可算名詞と不可算名詞の使い分け"
+ },
+ {
+  "id": "S-11-c",
+  "unit": "S",
+  "no": "11",
+  "jp": "裁判所は彼に損害賠償金として５千ユーロ支払うよう命じた。",
+  "answers": [
+   "The court ordered him to pay 5,000 euros in damages."
+  ],
+  "audio": "audio/S/S-11-c-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The court ordered him to pay 5,000 euros in "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "damage",
+     "damages"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "damages"
+   ]
+  ],
+  "secTitle": "可算名詞と不可算名詞の使い分け"
+ },
+ {
+  "id": "S-12-a",
+  "unit": "S",
+  "no": "12",
+  "jp": "不安定な平和が20年続いた。",
+  "answers": [
+   "An uneasy peace continued for 20 years."
+  ],
+  "audio": "audio/S/S-12-a-.mp3",
+  "section": {
+   "title": "抽象名詞（不可算名詞）の可算名詞化",
+   "body": "抽象名詞は（ A ）名詞として用いるが，（ B ）が付いて具体的な種類を表す場合は可算名詞になることがある。"
+  },
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "An uneasy peace continued for 20 years.",
+  "secTitle": "抽象名詞（不可算名詞）の可算名詞化"
+ },
+ {
+  "id": "S-12-b",
+  "unit": "S",
+  "no": "12",
+  "jp": "両親は長く幸せな結婚生活を送っています。",
+  "answers": [
+   "My parents have had a long, happy marriage."
+  ],
+  "audio": "audio/S/S-12-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "My parents have had long, happy marriage.",
+  "secTitle": "抽象名詞（不可算名詞）の可算名詞化"
+ },
+ {
+  "id": "S-12-c",
+  "unit": "S",
+  "no": "12",
+  "jp": "彼は学業面でとても大きな進歩をしている。",
+  "answers": [
+   "He's making great progress in his studies."
+  ],
+  "audio": "audio/S/S-12-c-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "He's making a great progress in his studies.",
+  "secTitle": "抽象名詞（不可算名詞）の可算名詞化"
+ },
+ {
+  "id": "S-12-d",
+  "unit": "S",
+  "no": "12",
+  "jp": "子供が悪いことをした時にはお尻を叩いた方がいいのでしょうか？",
+  "answers": [
+   "Should children be spanked for bad behavior?"
+  ],
+  "audio": "audio/S/S-12-d-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Should children be spanked for a bad behavior?",
+  "secTitle": "抽象名詞（不可算名詞）の可算名詞化"
+ },
+ {
+  "id": "S-13-a",
+  "unit": "S",
+  "no": "13",
+  "jp": "そのはさみを私に渡してくれますか？",
+  "answers": [
+   "Could you pass me those scissors, please?"
+  ],
+  "audio": "audio/S/S-13-a-.mp3",
+  "section": {
+   "title": "常に複数形で用いる名詞 ① ～ ２つ１組で対をなす名詞",
+   "body": "glasses（眼鏡）やpants（ズボン）のように対になった２つの部分から成り 「不可分」なものは常に複数形で表す。"
+  },
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Could you pass me that scissor, please?",
+  "secTitle": "常に複数形で用いる名詞 ① ～ ２つ１組で対をなす名詞"
+ },
+ {
+  "id": "S-13-b",
+  "unit": "S",
+  "no": "13",
+  "jp": "私は新しいサングラスと水着を買った。",
+  "answers": [
+   "I bought a new pair of sunglasses and a swimsuit.",
+   "I bought some new sunglasses and a swimsuit."
+  ],
+  "audio": "audio/S/S-13-b-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "I bought a new sunglass and a swimsuit.",
+  "secTitle": "常に複数形で用いる名詞 ① ～ ２つ１組で対をなす名詞"
+ },
+ {
+  "id": "S-13-c",
+  "unit": "S",
+  "no": "13",
+  "jp": "マイク，なぜズボンをはいていないの？",
+  "answers": [
+   "Why aren't you wearing any trousers, Mike?"
+  ],
+  "audio": "audio/S/S-13-c-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "Why aren't you wearing any trouser, Mike?",
+  "secTitle": "常に複数形で用いる名詞 ① ～ ２つ１組で対をなす名詞"
+ },
+ {
+  "id": "S-13-d",
+  "unit": "S",
+  "no": "13",
+  "jp": "靴下の片方がどこかへ行ってしまって見つからない。",
+  "answers": [
+   "One sock is missing and I can't find it."
+  ],
+  "audio": "audio/S/S-13-d-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "One sock is missing and I can't find it.",
+  "secTitle": "常に複数形で用いる名詞 ① ～ ２つ１組で対をなす名詞"
+ },
+ {
+  "id": "S-13-e",
+  "unit": "S",
+  "no": "13",
+  "jp": "私のパジャマは私には少し大きすぎる。",
+  "answers": [
+   "My pajamas are slightly too large for me."
+  ],
+  "audio": "audio/S/S-13-e-.mp3",
+  "tags": [
+   "下線部に間違いがあれば訂正"
+  ],
+  "sheetJp": false,
+  "type": "proof",
+  "stem": "My pajama is slightly too large for me.",
+  "secTitle": "常に複数形で用いる名詞 ① ～ ２つ１組で対をなす名詞"
+ },
+ {
+  "id": "S-14-a",
+  "unit": "S",
+  "no": "14",
+  "jp": "彼はどんな服を着ていましたか？",
+  "answers": [
+   "What sort of clothes was he wearing?"
+  ],
+  "audio": "audio/S/S-14-a-.mp3",
+  "section": {
+   "title": "常に複数形で用いる名詞 ②",
+   "body": "arms（武器）のようにその意味では複数形でしか用いない名詞や，means（手段）のように複数形しかない名詞もある。"
+  },
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "What sort of "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "cloth",
+     "clothes"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " was he wearing?"
+   }
+  ],
+  "solutions": [
+   [
+    "clothes"
+   ]
+  ],
+  "secTitle": "常に複数形で用いる名詞 ②"
+ },
+ {
+  "id": "S-14-b",
+  "unit": "S",
+  "no": "14",
+  "jp": "突然，階段を歩く足音が聞こえた。",
+  "answers": [
+   "I suddenly heard footsteps on the stairs."
+  ],
+  "audio": "audio/S/S-14-b-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I suddenly heard footsteps on the "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "stair",
+     "stairs"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "stairs"
+   ]
+  ],
+  "secTitle": "常に複数形で用いる名詞 ②"
+ },
+ {
+  "id": "S-14-c",
+  "unit": "S",
+  "no": "14",
+  "jp": "近頃は全くマナーが身についていない人間がいる",
+  "answers": [
+   "Some people have no manners these days!"
+  ],
+  "audio": "audio/S/S-14-c-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Some people have no "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "manner",
+     "manners"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " these days!"
+   }
+  ],
+  "solutions": [
+   [
+    "manners"
+   ]
+  ],
+  "secTitle": "常に複数形で用いる名詞 ②"
+ },
+ {
+  "id": "S-14-d",
+  "unit": "S",
+  "no": "14",
+  "jp": "液体物を持って税関を通り抜けることはできません。",
+  "answers": [
+   "You can't take liquids through customs."
+  ],
+  "audio": "audio/S/S-14-d-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "You can't take liquids through "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "a custom",
+     "customs"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "customs"
+   ]
+  ],
+  "secTitle": "常に複数形で用いる名詞 ②"
+ },
+ {
+  "id": "S-14-e",
+  "unit": "S",
+  "no": "14",
+  "jp": "その退役軍人達はいつ軍隊にいたのですか？",
+  "answers": [
+   "When did the veterans serve in the armed forces?"
+  ],
+  "audio": "audio/S/S-14-e-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "When did the veterans serve in the armed "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "force",
+     "forces"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "?"
+   }
+  ],
+  "solutions": [
+   [
+    "forces"
+   ]
+  ],
+  "secTitle": "常に複数形で用いる名詞 ②"
+ },
+ {
+  "id": "S-15-a",
+  "unit": "S",
+  "no": "15",
+  "jp": "単純に言えば芸術は意思伝達の一手段である。",
+  "answers": [
+   "Simply put, art is a means of communication."
+  ],
+  "audio": "audio/S/S-15-a-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Simply put, art is "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "a means",
+     "means"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " of communication."
+   }
+  ],
+  "solutions": [
+   [
+    "a means"
+   ]
+  ],
+  "secTitle": "常に複数形で用いる名詞 ②"
+ },
+ {
+  "id": "S-15-b",
+  "unit": "S",
+  "no": "15",
+  "jp": "ジャイアントパンダは絶滅危惧種である。",
+  "answers": [
+   "Giant pandas are an endangered species."
+  ],
+  "audio": "audio/S/S-15-b-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Giant pandas are an endangered "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "specie",
+     "species"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "species"
+   ]
+  ],
+  "secTitle": "常に複数形で用いる名詞 ②"
+ },
+ {
+  "id": "S-15-c",
+  "unit": "S",
+  "no": "15",
+  "jp": "一連のスキャンダルが自由党を揺るがした。",
+  "answers": [
+   "A series of scandals has rocked the Liberal Party."
+  ],
+  "audio": "audio/S/S-15-c-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "choice",
+    "options": [
+     "A series",
+     "Series"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " of scandals has rocked the Liberal Party."
+   }
+  ],
+  "solutions": [
+   [
+    "A series"
+   ]
+  ],
+  "secTitle": "常に複数形で用いる名詞 ②"
+ },
+ {
+  "id": "S-15-d",
+  "unit": "S",
+  "no": "15",
+  "jp": "その会社の本社は台北にある。",
+  "answers": [
+   "The company's headquarters is in Taipei."
+  ],
+  "audio": "audio/S/S-15-d-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "The company's "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "headquarter",
+     "headquarters"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " is in Taipei."
+   }
+  ],
+  "solutions": [
+   [
+    "headquarters"
+   ]
+  ],
+  "secTitle": "常に複数形で用いる名詞 ②"
+ },
+ {
+  "id": "S-16-a",
+  "unit": "S",
+  "no": "16",
+  "jp": "ブリスベンに行くにはシドニーで列車の乗り換えが可能です。",
+  "answers": [
+   "You can change trains at Sydney for Brisbane."
+  ],
+  "audio": "audio/S/S-16-a-.mp3",
+  "section": {
+   "title": "常に複数形で用いる名詞 ③ ～ 相互複数",
+   "body": "shake hands（握手をする）のように同種のものが相互に関わり合う表現の名詞は常に（ A ）にする。"
+  },
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "You can change "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "train",
+     "a train",
+     "trains"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " at Sydney for Brisbane."
+   }
+  ],
+  "solutions": [
+   [
+    "trains"
+   ]
+  ],
+  "secTitle": "常に複数形で用いる名詞 ③ ～ 相互複数"
+ },
+ {
+  "id": "S-16-b",
+  "unit": "S",
+  "no": "16",
+  "jp": "名刺を交換しましょう。",
+  "answers": [
+   "Let's exchange business cards."
+  ],
+  "audio": "audio/S/S-16-b-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Let's exchange "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "business card",
+     "a business card",
+     "business cards"
+    ]
+   },
+   {
+    "t": "text",
+    "v": "."
+   }
+  ],
+  "solutions": [
+   [
+    "business cards"
+   ]
+  ],
+  "secTitle": "常に複数形で用いる名詞 ③ ～ 相互複数"
+ },
+ {
+  "id": "S-16-c",
+  "unit": "S",
+  "no": "16",
+  "jp": "ジャックと僕はしょっちゅうマンガ本を交換し合っていた。",
+  "answers": [
+   "Jack and I traded comics all the time."
+  ],
+  "audio": "audio/S/S-16-c-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Jack and I traded "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "comic",
+     "a comic",
+     "comics"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " all the time."
+   }
+  ],
+  "solutions": [
+   [
+    "comics"
+   ]
+  ],
+  "secTitle": "常に複数形で用いる名詞 ③ ～ 相互複数"
+ },
+ {
+  "id": "S-16-d",
+  "unit": "S",
+  "no": "16",
+  "jp": "我々は握手をしてさよならを言った。",
+  "answers": [
+   "We shook hands and said goodbye."
+  ],
+  "audio": "audio/S/S-16-d-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "We shook "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "hand",
+     "a hand",
+     "hands"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " and said goodbye."
+   }
+  ],
+  "solutions": [
+   [
+    "hands"
+   ]
+  ],
+  "secTitle": "常に複数形で用いる名詞 ③ ～ 相互複数"
+ },
+ {
+  "id": "S-16-e",
+  "unit": "S",
+  "no": "16",
+  "jp": "私はクリスという名前の男の子と友達になった。",
+  "answers": [
+   "I made friends with a boy named Chris."
+  ],
+  "audio": "audio/S/S-16-e-.mp3",
+  "tags": [
+   "適語を選択"
+  ],
+  "sheetJp": false,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "I made "
+   },
+   {
+    "t": "choice",
+    "options": [
+     "friend",
+     "a friend",
+     "friends"
+    ]
+   },
+   {
+    "t": "text",
+    "v": " with a boy named Chris."
+   }
+  ],
+  "solutions": [
+   [
+    "friends"
+   ]
+  ],
+  "secTitle": "常に複数形で用いる名詞 ③ ～ 相互複数"
+ },
+ {
+  "id": "S-17-a",
+  "unit": "S",
+  "no": "17",
+  "jp": "彼女は運転が下手だ。",
+  "answers": [
+   "She's a bad driver."
+  ],
+  "audio": "audio/S/S-17-a-.mp3",
+  "section": {
+   "title": "名詞の重要構文 ① ～ 「形容詞＋…する人」",
+   "body": "日本語では「彼は運転が上手だ」「彼は上手に運転する」のように述語を形容詞や動詞にするところを，英語では 「彼は上手な運転者だ」のように 「…する人」という名詞で表すことがよくある。"
+  },
+  "tags": [
+   "左右の文の意味がほぼ同じになるように空所に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "recall",
+  "secTitle": "名詞の重要構文 ① ～ 「形容詞＋…する人」"
+ },
+ {
+  "id": "S-17-b",
+  "unit": "S",
+  "no": "17",
+  "jp": "彼女は料理が上手だ。",
+  "answers": [
+   "She's a good cook."
+  ],
+  "audio": "audio/S/S-17-b-.mp3",
+  "tags": [
+   "左右の文の意味がほぼ同じになるように空所に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "recall",
+  "secTitle": "名詞の重要構文 ① ～ 「形容詞＋…する人」"
+ },
+ {
+  "id": "S-17-c",
+  "unit": "S",
+  "no": "17",
+  "jp": "彼女はゴルフがうまい。",
+  "answers": [
+   "She's a good golfer."
+  ],
+  "audio": "audio/S/S-17-c-.mp3",
+  "tags": [
+   "左右の文の意味がほぼ同じになるように空所に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "recall",
+  "secTitle": "名詞の重要構文 ① ～ 「形容詞＋…する人」"
+ },
+ {
+  "id": "S-17-d",
+  "unit": "S",
+  "no": "17",
+  "jp": "彼女は歩くのが遅い。",
+  "answers": [
+   "She's a slow walker."
+  ],
+  "audio": "audio/S/S-17-d-.mp3",
+  "tags": [
+   "左右の文の意味がほぼ同じになるように空所に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "recall",
+  "secTitle": "名詞の重要構文 ① ～ 「形容詞＋…する人」"
+ },
+ {
+  "id": "S-17-e",
+  "unit": "S",
+  "no": "17",
+  "jp": "彼は眠りが浅い。",
+  "answers": [
+   "He's a light sleeper."
+  ],
+  "audio": "audio/S/S-17-e-.mp3",
+  "tags": [
+   "左右の文の意味がほぼ同じになるように空所に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "recall",
+  "secTitle": "名詞の重要構文 ① ～ 「形容詞＋…する人」"
+ },
+ {
+  "id": "S-17-f",
+  "unit": "S",
+  "no": "17",
+  "jp": "彼はしょっちゅう不満を言っている。",
+  "answers": [
+   "He's a constant complainer."
+  ],
+  "audio": "audio/S/S-17-f-.mp3",
+  "tags": [
+   "左右の文の意味がほぼ同じになるように空所に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "recall",
+  "secTitle": "名詞の重要構文 ① ～ 「形容詞＋…する人」"
+ },
+ {
+  "id": "S-17-g",
+  "unit": "S",
+  "no": "17",
+  "jp": "彼はとても早起きです。",
+  "answers": [
+   "He's an early riser."
+  ],
+  "audio": "audio/S/S-17-g-.mp3",
+  "tags": [
+   "左右の文の意味がほぼ同じになるように空所に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "recall",
+  "secTitle": "名詞の重要構文 ① ～ 「形容詞＋…する人」"
+ },
+ {
+  "id": "S-17-h",
+  "unit": "S",
+  "no": "17",
+  "jp": "彼女はフランス料理がとても好きだ。",
+  "answers": [
+   "She's a lover of French cuisine."
+  ],
+  "audio": "audio/S/S-17-h-.mp3",
+  "tags": [
+   "左右の文の意味がほぼ同じになるように空所に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "recall",
+  "secTitle": "名詞の重要構文 ① ～ 「形容詞＋…する人」"
+ },
+ {
+  "id": "S-17-i",
+  "unit": "S",
+  "no": "17",
+  "jp": "彼は頻繁に私のブログを訪れる。",
+  "answers": [
+   "He's a frequent visitor to my blog."
+  ],
+  "audio": "audio/S/S-17-i-.mp3",
+  "type": "recall",
+  "secTitle": "名詞の重要構文 ① ～ 「形容詞＋…する人」"
+ },
+ {
+  "id": "S-18-a",
+  "unit": "S",
+  "no": "18",
+  "jp": "その写真を私に見せてください。",
+  "answers": [
+   "Let me have a look at that photo.",
+   "Let me take a look at that photo."
+  ],
+  "audio": "audio/S/S-18-a-.mp3",
+  "section": {
+   "title": "名詞の重要構文 ② ～ 「動詞＋a(n)＋名詞」",
+   "body": "「…をする［行う］」 と言う場合，口語では，動詞と同形か派生語の（ A ）を目的語にして，  「動詞＋a [an, the] ＋（ A ）」  の形で表すことがよくある。"
+  },
+  "tags": [
+   "左右の文の意味がほぼ同じになるように空所に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "recall",
+  "secTitle": "名詞の重要構文 ② ～ 「動詞＋a(n)＋名詞」"
+ },
+ {
+  "id": "S-18-b",
+  "unit": "S",
+  "no": "18",
+  "jp": "私達は長い間話をした。",
+  "answers": [
+   "We had a long talk."
+  ],
+  "audio": "audio/S/S-18-b-.mp3",
+  "tags": [
+   "左右の文の意味がほぼ同じになるように空所に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "recall",
+  "secTitle": "名詞の重要構文 ② ～ 「動詞＋a(n)＋名詞」"
+ },
+ {
+  "id": "S-18-c",
+  "unit": "S",
+  "no": "18",
+  "jp": "私達は少しの時間休憩をした。",
+  "answers": [
+   "We had a short rest.",
+   "We took a short rest."
+  ],
+  "audio": "audio/S/S-18-c-.mp3",
+  "tags": [
+   "左右の文の意味がほぼ同じになるように空所に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "recall",
+  "secTitle": "名詞の重要構文 ② ～ 「動詞＋a(n)＋名詞」"
+ },
+ {
+  "id": "S-18-d",
+  "unit": "S",
+  "no": "18",
+  "jp": "彼女はかすかに微笑んだ。",
+  "answers": [
+   "She gave a weak smile."
+  ],
+  "audio": "audio/S/S-18-d-.mp3",
+  "tags": [
+   "左右の文の意味がほぼ同じになるように空所に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "recall",
+  "secTitle": "名詞の重要構文 ② ～ 「動詞＋a(n)＋名詞」"
+ },
+ {
+  "id": "S-18-e",
+  "unit": "S",
+  "no": "18",
+  "jp": "私は現時点ではまだ決めることができません。",
+  "answers": [
+   "I can't make a decision just yet."
+  ],
+  "audio": "audio/S/S-18-e-.mp3",
+  "tags": [
+   "左右の文の意味がほぼ同じになるように空所に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "recall",
+  "secTitle": "名詞の重要構文 ② ～ 「動詞＋a(n)＋名詞」"
+ },
+ {
+  "id": "S-18-f",
+  "unit": "S",
+  "no": "18",
+  "jp": "１週間後に私は彼に電話をした。",
+  "answers": [
+   "A week later I gave him a call."
+  ],
+  "audio": "audio/S/S-18-f-.mp3",
+  "tags": [
+   "左右の文の意味がほぼ同じになるように空所に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "recall",
+  "secTitle": "名詞の重要構文 ② ～ 「動詞＋a(n)＋名詞」"
+ },
+ {
+  "id": "S-18-g",
+  "unit": "S",
+  "no": "18",
+  "jp": "それをもう一度やってみましょう。",
+  "answers": [
+   "Let's give it another try."
+  ],
+  "audio": "audio/S/S-18-g-.mp3",
+  "tags": [
+   "左右の文の意味がほぼ同じになるように空所に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "recall",
+  "secTitle": "名詞の重要構文 ② ～ 「動詞＋a(n)＋名詞」"
+ },
+ {
+  "id": "S-18-h",
+  "unit": "S",
+  "no": "18",
+  "jp": "彼女は料理が好きだ。",
+  "answers": [
+   "She likes to do the cooking."
+  ],
+  "audio": "audio/S/S-18-h-.mp3",
+  "tags": [
+   "左右の文の意味がほぼ同じになるように空所に適語を記入"
+  ],
+  "sheetJp": false,
+  "type": "recall",
+  "secTitle": "名詞の重要構文 ② ～ 「動詞＋a(n)＋名詞」"
+ },
+ {
+  "id": "S-19",
+  "unit": "S",
+  "no": "19",
+  "jp": "それを考えただけで涙が出そうになります。",
+  "answers": [
+   "Just thinking about it makes me want to cry."
+  ],
+  "audio": "audio/S/S-19-.mp3",
+  "section": {
+   "title": "名詞の重要構文 ③ ～ 「無生物主語」 の構文",
+   "body": "日本語で 「…（という原因・理由・手段・条件）で人が～する」 と 「人」 を（ A ）にして言うところを，英語ではよく「…が人に～させる」 と 「無生物」 を（ A ）にして表す。"
+  },
+  "tags": [
+   "適語を記入"
+  ],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Just thinking about it "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " want to cry."
+   }
+  ],
+  "solutions": [
+   [
+    "makes",
+    "me"
+   ]
+  ],
+  "secTitle": "名詞の重要構文 ③ ～ 「無生物主語」 の構文"
+ },
+ {
+  "id": "S-20",
+  "unit": "S",
+  "no": "20",
+  "jp": "どんなことがあっても私は自分の目標を達成しますよ。",
+  "answers": [
+   "Nothing will stop me from reaching my goal."
+  ],
+  "audio": "audio/S/S-20-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " will "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " me from reaching my goal."
+   }
+  ],
+  "solutions": [
+   [
+    "Nothing",
+    "stop"
+   ]
+  ],
+  "secTitle": "名詞の重要構文 ③ ～ 「無生物主語」 の構文"
+ },
+ {
+  "id": "S-21",
+  "unit": "S",
+  "no": "21",
+  "jp": "あぁ，それで思い出したんだけど，ジョージとはいつ会うの？",
+  "answers": [
+   "Oh, that reminds me. When are you meeting George?"
+  ],
+  "audio": "audio/S/S-21-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Oh, that "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": ". When are you meeting George?"
+   }
+  ],
+  "solutions": [
+   [
+    "reminds",
+    "me"
+   ]
+  ],
+  "secTitle": "名詞の重要構文 ③ ～ 「無生物主語」 の構文"
+ },
+ {
+  "id": "S-22",
+  "unit": "S",
+  "no": "22",
+  "jp": "ロシアとの和平により，ドイツ軍は西部で戦うことが可能になった。",
+  "answers": [
+   "Peace with Russia enabled German forces to fight in the west.",
+   "Peace with Russia allowed German forces to fight in the west."
+  ],
+  "audio": "audio/S/S-22-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Peace with Russia "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " German forces "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " fight in the west."
+   }
+  ],
+  "solutions": [
+   [
+    "enabled",
+    "to"
+   ],
+   [
+    "allowed",
+    "to"
+   ]
+  ],
+  "secTitle": "名詞の重要構文 ③ ～ 「無生物主語」 の構文"
+ },
+ {
+  "id": "S-23",
+  "unit": "S",
+  "no": "23",
+  "jp": "いくつかの要因から我々はこの結論に達しました。",
+  "answers": [
+   "A number of things have led us to this conclusion."
+  ],
+  "audio": "audio/S/S-23-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "A number of things have "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " us to this conclusion."
+   }
+  ],
+  "solutions": [
+   [
+    "led"
+   ]
+  ],
+  "secTitle": "名詞の重要構文 ③ ～ 「無生物主語」 の構文"
+ },
+ {
+  "id": "S-24",
+  "unit": "S",
+  "no": "24",
+  "jp": "助けてもらってありがとう。おかげで時間と手間がすごく省けました。",
+  "answers": [
+   "Thanks for the help—it saved me so much time and trouble."
+  ],
+  "audio": "audio/S/S-24-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Thanks for the help—it "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " so much time and trouble."
+   }
+  ],
+  "solutions": [
+   [
+    "saved",
+    "me"
+   ]
+  ],
+  "secTitle": "名詞の重要構文 ③ ～ 「無生物主語」 の構文"
+ },
+ {
+  "id": "S-25",
+  "unit": "S",
+  "no": "25",
+  "jp": "飲酒運転をすると（あなたは）命を失うことになりかねません。",
+  "answers": [
+   "Drunken driving can cost you your life."
+  ],
+  "audio": "audio/S/S-25-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "text",
+    "v": "Drunken driving can "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " your life."
+   }
+  ],
+  "solutions": [
+   [
+    "cost",
+    "you"
+   ]
+  ],
+  "secTitle": "名詞の重要構文 ③ ～ 「無生物主語」 の構文"
+ },
+ {
+  "id": "S-26",
+  "unit": "S",
+  "no": "26",
+  "jp": "ジョーンズさん，今日はどうしてこちらへ？",
+  "answers": [
+   "What brought you here today, Mr. Jones?"
+  ],
+  "audio": "audio/S/S-26-.mp3",
+  "tags": [],
+  "sheetJp": true,
+  "type": "fill",
+  "segments": [
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " brought "
+   },
+   {
+    "t": "blank"
+   },
+   {
+    "t": "text",
+    "v": " here today, Mr. Jones?"
+   }
+  ],
+  "solutions": [
+   [
+    "What",
+    "you"
+   ]
+  ],
+  "secTitle": "名詞の重要構文 ③ ～ 「無生物主語」 の構文"
+ }
+]
