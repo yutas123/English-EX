@@ -1,2 +1,7 @@
 ENGLISH_EX-CD/
-web/audio/
+public/audio/
+node_modules/
+.next/
+.env*
+.vercel/
+*.tsbuildinfo

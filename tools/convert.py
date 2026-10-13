@@ -15,8 +15,8 @@ import xlrd
 
 ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "ENGLISH_EX-CD"
-OUT = ROOT / "web" / "data"
-AUDIO_OUT = ROOT / "web" / "audio"
+OUT = ROOT / "public" / "data"
+AUDIO_OUT = ROOT / "public" / "audio"
 
 CJK = re.compile(r"[぀-ヿ㐀-鿿＀-￯]")
 JUNK = {"ENGLISH EX", "UNIV.", "STEP", "TOEIC", "TOEFL", "Grammar"}

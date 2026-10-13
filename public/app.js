@@ -12,6 +12,7 @@ function load() {
   catch { return { items: {}, settings: {} }; }
 }
 function save() { try { localStorage.setItem(KEY, JSON.stringify(db)); } catch { /* 保存不可でも動作は継続 */ } }
+db.items = Object.fromEntries(Object.entries(db.items).map(([id, v]) => [id, { ...v, u: v.u || v.t || 0 }])); // 旧データに更新時刻(u)を補う
 const st = (id) => (db.items[id] ||= { a: 0, c: 0, w: 0, box: 0, due: 0, ok: null, bm: false });
 const setting = (k, d) => (k in db.settings ? db.settings[k] : d);
 
@@ -21,9 +22,38 @@ function record(id, ok) {
   if (ok) { s.c++; s.box = Math.min(GAP.length - 1, s.box + 1); } else { s.w++; s.box = 0; }
   s.ok = ok;
   s.due = ok ? Date.now() + GAP[s.box] * DAY : 0;
-  save();
+  touch(id);
   return snap;
 }
+/* ---------- サーバー同期（Neon）: 更新時刻(u)の新しい方を採用 ---------- */
+const dirty = new Set(db.dirty || []);
+let flushTimer;
+function touch(id) { st(id).u = Date.now(); dirty.add(id); db.dirty = [...dirty]; save(); clearTimeout(flushTimer); flushTimer = setTimeout(flush, 1500); }
+const unauthorized = (r) => r.status === 401 && (location.href = "/login.html");
+async function flush() {
+  if (!dirty.size) return;
+  const ids = [...dirty], items = Object.fromEntries(ids.map((id) => [id, db.items[id]]));
+  try {
+    const r = await fetch("/api/progress", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ items }), keepalive: true });
+    if (unauthorized(r) || !r.ok) return;
+    ids.forEach((id) => dirty.delete(id)); db.dirty = [...dirty]; save();
+  } catch { /* オフライン等: 未送信のまま残し、次回に再送 */ }
+}
+async function pull() {
+  try {
+    const r = await fetch("/api/progress", { cache: "no-store" });
+    if (unauthorized(r) || !r.ok) return false;
+    const { items } = await r.json();
+    let changed = false;
+    for (const [id, v] of Object.entries(items)) { const l = db.items[id]; if (!l || (v.u || 0) > (l.u || 0)) { db.items[id] = v; changed = true; } }
+    for (const [id, l] of Object.entries(db.items)) { const v = items[id]; if (!v || (l.u || 0) > (v.u || 0)) dirty.add(id); }
+    db.dirty = [...dirty]; save(); await flush();
+    return changed;
+  } catch { return false; }
+}
+const syncAndRefresh = () => pull().then((changed) => { if (changed && !location.hash.startsWith("#/quiz")) route(); });
+document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible") syncAndRefresh(); });
+
 const isAnswered = (id) => (db.items[id]?.a || 0) > 0;
 const isDue = (id) => isAnswered(id) && db.items[id].due <= Date.now();
 const isWeak = (id) => { const s = db.items[id]; return !!s && s.w > 0 && s.box < 3; };
@@ -32,7 +62,7 @@ const isBm = (id) => !!db.items[id]?.bm;
 /* ---------- データ ---------- */
 const cache = {};
 async function loadJson(path) {
-  if (!cache[path]) cache[path] = fetch(path).then((r) => { if (!r.ok) throw new Error(path); return r.json(); });
+  if (!cache[path]) cache[path] = fetch(path).then((r) => { if (r.status === 401) location.href = "/login.html"; if (!r.ok) throw new Error(path); return r.json(); });
   return cache[path];
 }
 const loadUnit = (u) => loadJson(`data/${u}.json`).then((items) => { // 各問題に所属する区切り(sec)を持たせる
@@ -199,7 +229,7 @@ function quizScreen() {
     const k = +c.parentElement.dataset.chips; qs.order[k].push(+c.dataset.w); redrawOrder(k);
   }));
   $q("[data-chosen]").forEach((c) => (c.onclick = () => { if (!qs.answered) { const k = +c.dataset.chosen; qs.order[k] = []; redrawOrder(k); } }));
-  $q('[data-act="bm"]').forEach((b) => (b.onclick = () => { st(q.id).bm = !isBm(q.id); save(); b.textContent = isBm(q.id) ? "★" : "☆"; }));
+  $q('[data-act="bm"]').forEach((b) => (b.onclick = () => { st(q.id).bm = !isBm(q.id); touch(q.id); b.textContent = isBm(q.id) ? "★" : "☆"; }));
   $q('[data-act="listen"]').forEach((b) => (b.onclick = () => play(q.audio)));
 
   const finish = (ok, extra = {}) => {
@@ -307,7 +337,7 @@ function doneScreen() {
 $("#menu").onclick = () => {
   const d = document.createElement("dialog");
   d.innerHTML = `<h3 style="margin-top:0">学習データ</h3>
-    <p class="sub">学習履歴はこの端末のブラウザに保存されます。端末間で移すには書き出し→読み込みを使います。</p>
+    <p class="sub">学習履歴はこの端末に保存され、ログイン中は自動でサーバーと同期されます（未送信: ${dirty.size}件）。書き出しはバックアップ用です。</p>
     <div class="actions"><button class="btn" id="ex">書き出し</button><button class="btn ghost" id="im">読み込み</button></div>
     <div class="actions"><button class="btn ng" id="rs">履歴をリセット</button><button class="btn ghost" id="cl">閉じる</button></div>
     <input type="file" id="file" accept="application/json" hidden>`;
@@ -324,11 +354,13 @@ $("#menu").onclick = () => {
     try {
       const j = JSON.parse(await e.target.files[0].text());
       if (!j.items) throw 0;
-      if (!confirm("この端末の履歴を、読み込んだ内容で置き換えます。よろしいですか？")) return;
-      db = { items: j.items, settings: j.settings || {} }; save(); d.close(); route();
+      if (!confirm("読み込んだ内容を履歴に反映します（同期先にも反映されます）。よろしいですか？")) return;
+      Object.entries(j.items).forEach(([id, v]) => { db.items[id] = { ...v }; touch(id); });
+      d.close(); route();
+syncAndRefresh();
     } catch { alert("読み込めないファイルです"); }
   };
-  d.querySelector("#rs").onclick = () => { if (confirm("学習履歴をすべて消します。よろしいですか？")) { db = { items: {}, settings: db.settings }; save(); d.close(); go("#/"); } };
+  d.querySelector("#rs").onclick = () => { if (confirm("学習履歴をすべて消します。よろしいですか？")) { db = { items: {}, settings: db.settings, dirty: [] }; dirty.clear(); save(); fetch("/api/progress", { method: "DELETE" }).catch(() => {}); d.close(); go("#/"); } };
 };
 
 route();

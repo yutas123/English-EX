@@ -1,0 +1,17 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
+}
+
+// 問題1つ分の学習状態（クライアントのlocalStorageと同じ形をそのままJSONで保持）
+model Progress {
+  id        String   @id // 例: "A-01"
+  data      Json
+  u         BigInt   // 最終更新(ms)。新しい方を採用する
+  updatedAt DateTime @updatedAt
+}

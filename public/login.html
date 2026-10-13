@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ログイン | English EX</title>
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<main style="max-width:360px;margin-top:20vh">
+  <div class="card">
+    <h2 style="margin-top:0;color:inherit;font-size:18px">English EX</h2>
+    <form id="f">
+      <input id="pw" type="password" autocomplete="current-password" placeholder="パスワード" required
+        style="width:100%;font:inherit;padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:inherit">
+      <p id="err" class="note" hidden>パスワードが違います</p>
+      <button class="btn block" style="margin-top:12px">ログイン</button>
+    </form>
+  </div>
+</main>
+<script>
+document.getElementById("f").onsubmit = async (e) => {
+  e.preventDefault();
+  const r = await fetch("/api/login", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ password: document.getElementById("pw").value }) });
+  if (r.ok) location.href = "/"; else document.getElementById("err").hidden = false;
+};
+</script>
+</body>
+</html>
