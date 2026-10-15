@@ -15,3 +15,9 @@ model Progress {
   u         BigInt   // 最終更新(ms)。新しい方を採用する
   updatedAt DateTime @updatedAt
 }
+
+// ディクテーションで正解済みの音声ID（例: "001-01"）
+model DictationDone {
+  id        String   @id
+  updatedAt DateTime @updatedAt
+}

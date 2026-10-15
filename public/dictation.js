@@ -3,10 +3,27 @@ const $ = (s) => document.querySelector(s);
 const app = $("#app"), titleEl = $("#title"), backBtn = $("#back"), player = $("#player");
 const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 
-/* ---------- 保存（この端末のみ）: 各音声の正解済みフラグ ---------- */
+/* ---------- 保存（端末 + サーバー同期）: 各音声の正解済みフラグ ---------- */
 const KEY = "english-ex-dictation-v1";
 let done = (() => { try { return JSON.parse(localStorage.getItem(KEY)) || {}; } catch { return {}; } })();
-const save = () => { try { localStorage.setItem(KEY, JSON.stringify(done)); } catch { /* 保存不可でも継続 */ } };
+const saveLocal = () => { try { localStorage.setItem(KEY, JSON.stringify(done)); } catch { /* 保存不可でも継続 */ } };
+const save = () => { saveLocal(); push(); };
+// 正解済みは増えるだけなので、サーバーとの同期は和集合を取るだけでよい
+function push() {
+  fetch("/api/dictation", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ ids: Object.keys(done) }), keepalive: true }).catch(() => {});
+}
+async function pull() {
+  try {
+    const r = await fetch("/api/dictation", { cache: "no-store" });
+    if (!r.ok) return;
+    const { ids } = await r.json();
+    const before = Object.keys(done).length;
+    for (const id of ids) done[id] = 1;
+    saveLocal();
+    if (Object.keys(done).length !== before && !app.querySelector("textarea")) listScreen(); // 入力中でなければ一覧を更新
+    if (Object.keys(done).length > ids.length) push(); // 端末にだけある分を送る
+  } catch { /* オフラインでも継続 */ }
+}
 
 /* ---------- 判定 ---------- */
 // 大文字小文字・句読点・引用符・空白の違いは無視し、単語単位で比較する
@@ -168,5 +185,5 @@ function lessonScreen(lesson, only) {
   question();
 }
 
-fetch("dictation/lessons.json").then((r) => r.json()).then((j) => { lessons = j; listScreen(); })
+fetch("dictation/lessons.json").then((r) => r.json()).then((j) => { lessons = j; listScreen(); pull(); })
   .catch(() => { app.innerHTML = '<p class="sub">教材を読み込めませんでした。</p>'; });
