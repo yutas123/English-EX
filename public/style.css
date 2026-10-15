@@ -78,3 +78,15 @@ dialog::backdrop { background: rgba(0,0,0,.45); }
 @media (prefers-color-scheme: dark) { .gsec { background: #3b1f2b; color: #f5b8cc; } }
 .en u { text-decoration-thickness: 2px; text-underline-offset: 4px; }
 .cell .star { position: absolute; top: -5px; right: -3px; font-style: normal; font-size: 12px; line-height: 1; color: #e0a100; text-shadow: 0 0 2px var(--card); pointer-events: none; }
+.dok { color: var(--ok); font-weight: 600; } .dng { color: var(--ng); font-weight: 700; text-decoration: underline; }
+.hero .big small { font-size: 18px; color: var(--sub); font-weight: 400; } .hero .pct { font-size: 18px; color: var(--ok); margin-left: 6px; }
+.legend { display: flex; align-items: center; gap: 6px; margin: 4px 0 8px; font-size: 12px; }
+.legend .lg { width: 12px; height: 12px; border-radius: 3px; border: 1px solid var(--line); background: var(--bg); } .legend .lg.part { background: var(--okbg); } .legend .lg.full { background: var(--ok); border-color: var(--ok); margin-left: 6px; } .legend .lg.part { margin-left: 6px; }
+.lgrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(64px, 1fr)); gap: 8px; }
+.lcell { position: relative; overflow: hidden; font: inherit; display: flex; flex-direction: column; align-items: center; padding: 6px 2px 8px; border-radius: 10px; border: 1px solid var(--line); background: var(--bg); color: var(--fg); cursor: pointer; }
+.lcell span { font-size: 18px; font-weight: 700; } .lcell b { font-size: 11px; color: var(--sub); font-weight: 600; }
+.lcell i { position: absolute; left: 0; bottom: 0; height: 4px; background: var(--ok); }
+.lcell.part { background: var(--okbg); border-color: var(--ok); }
+.lcell.full { background: var(--ok); border-color: var(--ok); color: #fff; } .lcell.full b { color: #fff; font-size: 14px; }
+.party { font-size: 48px; line-height: 1.2; animation: pop .5s ease-out; }
+@keyframes pop { 0% { transform: scale(.3); opacity: 0 } 70% { transform: scale(1.2) } 100% { transform: scale(1); opacity: 1 } }

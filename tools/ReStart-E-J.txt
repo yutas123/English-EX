@@ -1,0 +1,2737 @@
+[001-01] 
+Ann is a good singer. She's an excellent dancer too. 
+アンは歌がうまい。踊りもすごく上手です。
+[001-02]
+Most basketball players are very tall.
+大半のバスケットボール選手はとても背が高い。
+[001-03]
+I'm not a good swimmer.
+ 私は水泳が苦手です。
+[001-04]
+She is a terrible cook.
+彼女は料理がすごく下手です。
+[001-05]
+I'm a careful driver.
+私は車の運転が慎重です。
+[002-01]
+Almost all vegetables and fruits are available all year long.
+ほとんど全ての野菜と果物は一年中いつでも手に入ります。
+[002-02]
+They love each other very much.
+彼らはお互いをとても愛し合っている。
+[003-01]
+She walked toward me with quick steps.
+彼女は急ぎ足で私の方に向かってきた。
+[003-02]
+Go straight along this road and turn right at the traffic light.
+この道路に沿って真っすぐ進み，信号を右に曲がってください。
+[003-03]
+The market is closed on Sundays and holidays.
+市場は日曜と祝祭日は閉まっています。
+[004-01]
+I work out at the gym every day.
+私は毎日ジムで体を鍛えています。
+[004-02]
+Divide it into five pieces. 
+それを５つに分けてちょうだい。
+[004-03]
+One foot is equal to twelve inches.
+１フィートは12インチに等しい。
+[005-01]
+He has a strong sense of responsibility.
+彼は責任感が強い。
+[005-02]
+Green is the color of the leaves of plants.
+緑は植物の葉の色です。
+[005-03]
+We stayed in a corner room with an ocean view.
+私達は海が見える角部屋に泊まりました。
+[006-01]
+You know, every class has someone like that.
+ほら，どのクラスにもいるでしょ，そういう人。
+[006-02]
+He doesn't like you.
+彼はあなたのことが好きではない。
+[006-03]
+He isn't like you.
+彼はあなたのようではない。
+[006-04]
+This bag is in very good condition.
+このバッグはとても状態がいいですよ。
+[006-05]
+This issue is under active discussion.
+この問題は活発に議論されている最中です。
+[006-06]
+Advice from friends is like the weather. Some of it is good; some of it is bad.
+友人からの忠告は天気のようなものだ。良いものもあれば悪いものもある。
+[007-01]
+My friends and I had a lot of fun and took lots of photos. 
+私と友人達はいっぱい楽しんで，いっぱい写真を撮りました。
+[007-02]
+This website contains plenty of useful information.
+このホームページは役に立つ情報が豊富だ。
+[007-03]
+We produce various types of furniture.
+私たちはさまざまな種類の家具を製造しています。
+[008-01]
+The price is 1,980 yen, including tax.
+値段は税込みで1980円です。
+[008-02]
+Following his speech, he took questions from members of the audience.
+スピーチの後，彼は聴衆から質問を受けた。
+[009-01]
+He's not at his desk right now.
+彼はただ今席を外しております。
+[009-02a]
+She is not Japanese. She is Korean.
+彼女は日本人ではありません。韓国人です。
+[009-02b]
+She's not Japanese. She is Korean.
+彼女は日本人ではありません。韓国人です。
+[009-02c]
+She isn't Japanese. She is Korean.
+彼女は日本人ではありません。韓国人です。
+[009-03a]
+You are not a kid anymore, but you're not an adult, either. 
+君はもう子供ではないが，かといって大人でもない。
+[009-03b]
+You're not a kid anymore, but you're not an adult, either.
+君はもう子供ではないが，かといって大人でもない。
+[009-03c]
+You aren't a kid anymore, but you're not an adult, either.
+君はもう子供ではないが，かといって大人でもない。
+[009-04]
+He is never late for an appointment.
+彼は絶対に約束の時間には遅れません。
+[010-01]
+I don't see any problem regarding this matter.
+この件に関しては何ら問題はないと思います。
+[010-02]
+She doesn't have a good memory. 
+彼女は記憶力が良くない。
+[010-03]
+How come you didn't knock on the door? 
+どうしてドアをノックしなかったの？
+[010-04]
+He never learns.
+あいつは懲りないやつだ。
+[011-01]
+The water's deep here. I can't touch the bottom.
+ここは深い。底に足がつかないよ。
+[011-02]
+I will never forget this day.
+今日という日を私は決して忘れません。
+[012-01]
+Wait a minute.
+ちょっと待って。
+[012-02]
+Be careful.
+気をつけてよ。
+[012-03]
+Don't cry. It happens to everybody. 
+泣くなよ。それは誰にでもあることさ。
+[012-04]
+Come on, don't be shy! Let's sing together.
+ほら，恥ずかしがってないで。一緒に歌おうよ。
+[012-05]
+Never judge something by its looks.
+決して物事を外見で判断してはいけません。
+[013-01]
+Nobody's perfect, except me, maybe. 
+完璧な人間なんていないよ。たぶん，僕を除けばね。
+[013-02]
+None of them believed me at first.
+初めは，彼らは誰も私の言うことを信じませんでした。
+[013-03]
+Nothing ever happens in this village.
+この村には全く変化がない。
+[013-04]
+My aunt and uncle have no children.
+叔父夫婦には子供がいません。
+[014-01]
+Not everything on the Internet is accurate.
+インターネット上の情報が全て正確だというわけではない。
+[014-02]
+I'm sorry I can't understand everything.
+すみません。全部は理解できません。
+[014-03]
+Not all Americans supported the war.
+全てのアメリカ人がその戦争を支持したわけではない。
+[014-04]
+“Attack is the best form of defense.” “Not always.”
+「攻撃は最大の防御だよ」「いつでもそうとは限らないわ」
+[015-01]
+Is Monday afternoon convenient for you? 
+月曜の午後はご都合よろしいですか？
+[015-02]
+Can you prove it? 
+それが証明できますか？
+[015-03]
+Does anyone here speak Japanese?
+誰か日本語を話す方はいませんか？
+[015-04]
+Did she bake it herself? 
+彼女はそれを自分で焼いたの？
+[016-01]
+“Where am I on this map?” “Let's see. You're here, near Heian Shrine.”
+「私はこの地図のどこにいますか？」「ええっと，ここです。平安神宮の近くです」
+[016-02]
+Where can I wash my hands? 
+お手洗いはどちらですか？
+[016-03]
+When will I get my money back?
+いつお金を返してもらえるのでしょうか。
+[016-04]
+“When does the store open?” “We open at 4:30 p.m.”
+「開店は何時ですか？」「午後４時30分です」
+[016-05]
+Where did I put my notes?
+メモはどこに置いたっけ。
+[017-01]
+“Why did you choose those shoes?” “Because I liked the color.”
+「どうしてあの靴にしたの？」「色が気に入ったから」
+[017-02]
+You seem tired. Why don't you take a rest?
+疲れているようですね。少し休んだらどうです？
+[017-03]
+“Why don't we take a walk in the park after lunch?” “Good idea!”
+「昼食後，公園を散歩しない？」「いいね」
+[017-04]
+“I can't go.” “You can't? Why not?”
+「僕は行けないんだ」「えっ，行けないの？なんで？」
+[017-05]
+Why not take a rest?
+ちょっと休んだら？
+[017-06]
+Why go out in this weather? 
+どうしてこんな天気に出かけるの？
+[018-01]
+How do you pronounce your last name?
+あなたの名字は何と読むのですか？
+[018-02]
+“How did you get there?” “I walked.”
+「どうやってそこまで行ったの？」「歩いてだよ」
+[018-03]
+How is the baby? Is she healthy?
+赤ちゃんはどう？ 元気にしてる？
+[018-04]
+How old is this temple?
+このお寺はできてからどのくらい経つのですか？
+[018-05]
+How fast does blood flow in a person's body? 
+血液は人の体内でどのくらいの速さで流れているのですか？
+[018-06]
+“How long is the wait?” “About forty minutes.”
+「待ち時間はどのくらいですか？」「約40分です」
+[018-07]
+How often do you go to the movies?
+どのくらい頻繁に映画を見に行きますか？
+[018-08]
+How high or how thick is the atmosphere? 
+大気はどのくらいの高さというか，どのくらいの厚さがあるのですか？
+[019-01]
+How many hours a day do you practice? 
+１日何時間練習していますか？
+[019-02]
+How many did you spell correctly? 
+正しく綴れた数はいくつだった？
+[019-03]
+How much is this pork a kilo?
+この豚肉は１キロいくらですか？
+[019-04]
+How much did it cost?
+それはいくらかかりましたか？
+[019-05]
+How much energy does the sun pour onto the Earth? 
+太陽はどのくらいのエネルギーを地球上に注いでいるのですか？
+[020-01]
+“What's the date today?” “It's the 12th.”
+「今日は何日ですか？」「12日です」
+[020-02]
+Which do you prefer, Japanese movies or American ones? 
+日本の映画とアメリカの映画，どちらが好きですか？
+[020-03]
+“What day is it? Wednesday?” “That's right.”
+「今日は何曜日？ 水曜？」「そうだよ」
+[020-04]
+I'm a beginner. Which guitar do you recommend? 
+初心者なんですけど，どのギターがおすすめですか？
+[020-05]
+“Oh, how cute! What kind of animal is it?” “A rat.”
+「まあ，かわいい！ 何の動物？」「ねずみだよ」
+[021-01]
+“Who is it?” “It's me. Elizabeth.” “Hi, Betty. Come on in.”
+「どなたですか？」「私。エリザベス」「やあ，ベティー。さあ入って」
+[021-02]
+Who did he defeat in the final? 
+彼が決勝で破った相手は誰ですか？
+[021-03]
+Who does it belong to?
+それは誰のものですか？ 
+[021-04]
+“Whose fault is that?” “It's yours.”
+「それって誰のせい？」「君だよ」
+[021-05]
+“It certainly isn't mine.” “Then whose is it?”
+「それは僕のものでないのは確かだ」「じゃあ誰のなの？」
+[022-01]
+“What brought you here? ” “I'm here on vacation.”
+「どうしてこちらへ？」「休暇で来ています」
+[022-02]
+Which came first, the chicken or the egg? 
+鶏が先か卵が先か。
+[022-03]
+“Who painted this picture? Van Gogh?” “That's correct.”
+「誰がこの絵を描いたの？ ゴッホ（Van Gogh）？」「そうだよ」
+[022-04]
+Which course is suitable for me? 
+どの講座が私に合っていますか？
+[022-05]
+How many students were present and how many were absent? 
+出席した生徒の数は何人で，欠席は何人でしたか？
+[023-01]
+“That was interesting, wasn't it?” “Yeah, it was.”
+「おもしろかったでしょ？」「うん，そうだね」
+[023-02]
+“I said that, didn't I?” “You did?”
+「私，そう言ったでしょ？」「そうだったっけ？」
+[023-03]
+You will look after him, won't you?
+あなたが彼の面倒を見てくれるんでしょ？ 
+[023-04]
+“I'm right, aren't I?” “I suppose so.”
+「私の言ってること，正しいでしょ？」「たぶんね」
+[023-05]
+You will look after him, right? 
+あなたが彼の面倒を見てくれるんでしょ？ 
+[024-01]
+“You're not serious, are you?” “Yes, I am.”
+「マジじゃないよね？」「いいや，マジだよ」
+[024-02]
+That doesn't explain anything, does it?
+それじゃ何の説明にもなってないだろ。
+[024-03]
+“He can't be that silly, can he?”
+彼がそんなに愚かなはずはないよね？ 
+[024-04]
+After all, no one really won that war, did they? 
+結局，その戦争に勝者はいなかったのですね。
+[024-05]
+“Don't you like Chinese food?” “No, I don't.”
+「中華料理は好きじゃないんですか？」「ええ，そうなんです」
+[024-06]
+“I'm not a good mother.” “Yes, you are!”
+「私はよい母親ではないんです」「いいえ，あなたはよい母親です」
+[025-01]
+Just look at that, will you?
+ちょっとあれを見てくれる？ 
+[025-02]
+Give me a break, will you?
+（（いらだちながら））勘弁してよ。
+[025-03]
+Take a seat, won't you? 
+まあ座りませんか。
+[025-04]
+Don't tell anybody, will you? It's a secret.
+誰にも話さないでくれる？ 秘密だから。
+[025-05] 
+“Let's take a break, shall we?” “Yes, let's.”
+「一休みしようか」「うん，そうしよう」
+[026-01] 
+“I'm bored.” “So am I.” “How about going to the beach?”
+「退屈だわ」「僕も」「ねえ，海に行くのはどう？」
+[026-02]
+I was very upset and so was my stomach.
+「私はとても気がめいっており，私の胃もまたそうだった」
+[026-03]
+“My husband likes fishing a lot.” “So does mine.”
+「うちのダンナは魚釣りが大好きなの」「うちもそうよ」
+[026-04]
+No industry is safe and neither is any occupation or profession. 
+いかなる産業も安泰ではなく，いかなる職業もまたしかりです。
+[026-05] 
+“I don't feel like doing anything.” “Neither do I.”
+「何もする気がしないな」「私もそう」
+[026-06] 
+I can't dance very well, but neither can you.
+僕はあまりダンスが得意じゃないけど，君もそうだね。
+[027-01]
+There is a church across the street and to the left.
+通りの斜め左向かい側には教会があります。
+[027-02]
+There's nothing wrong, is there? 
+どこもおかしなところはないでしょ？
+ [027-03] 
+There are only fifty-three students in the fifth grade.
+５年生は53人しかいません。
+[027-04] 
+Are there any other suggestions?
+何か他に提案はありませんか？
+[027-05] 
+Here's a piece of advice for you.
+君に１つアドバイスをしよう。
+[027-06]
+Here are the tickets.
+はい，チケットよ。
+[027-07] 
+My office is in downtown Tokyo.
+私のオフィスは東京の中心にあります。
+[028-01]
+He never learns.
+あいつは懲りないやつだ。
+[028-02] 
+“What is your hobby?” “I play the piano.”
+「趣味は何ですか？」「ピアノをやっています」
+[028-03] 
+“What does he do?” “He teaches French.”
+「彼は何をしている人ですか？」「フランス語の先生です」
+[028-04]
+I have three tests next week.
+来週テストが３つあるんだ。
+[028-05] 
+The Tokyo Arts Festival takes place from August 25th to September 2nd.
+東京芸術祭は８月25日から９月２日まで開催されます。
+[029-01] 
+“What do you do?” “I'm a government employee.”
+「お仕事は何ですか？」「公務員をしています」
+[029-02] 
+“What are you doing?” “I'm looking for my glasses. Ah, here they are.”
+「何してんの？」「メガネを探してるんだよ。あっ，あった」
+[029-03]
+Don't take that ladder away. I'm using it.
+そのはしごを持っていかないでくれ。今使ってるとこだから。
+[029-04] 
+“What's that noise?” “I don't hear anything.”
+「あの音は何？」「何も聞こえないけど」
+[029-05]
+I want some chocolate.
+チョコレートが食べたい。
+[030-01]
+“Where are you going?” “I'm going to the dentist.”
+「どこへ行くんだい？」「歯医者に行くところ」
+[030-02] 
+“Help! Help! I'm falling!” “Wake up! It's already past eight.”
+「助けてくれー！ 落ちるー！」「起きなさい！もう８時過ぎよ」
+[030-03] 
+I'm coming.
+いま行きます。
+[030-04] 
+“How soon are we taking off?” “In six minutes.”
+「あとどのくらいで離陸しますか？」「あと６分です」
+[030-05] 
+“I'm getting married in June.” “Congratulations!”
+「６月に結婚するんだ」「おめでとう！」
+[031-01]
+We exchanged e-mail addresses and phone numbers. 
+私達はメールアドレスと電話番号を交換した。
+[031-02]
+I hung my wet socks in front of the heater.
+私は濡れた靴下をストーブの前に吊した。
+[031-03] 
+Did the telephone ring?
+電話鳴った？
+[031-04] 
+I went to Yale University.
+私はエール大学に通っていました。
+[031-05] 
+We lived in Canada for fifteen years.
+私たちは15年間カナダで暮らしていました。
+[032-01] 
+The Yankees were leading 3-0 in the sixth inning. 
+６回途中でヤンキースが３対０でリードしてたよ。
+[032-02] 
+Who were you speaking to just now?
+今，誰と話してたの？
+[032-03] 
+Naomi was working on her essay last night.
+昨晩，ナオミは作文に取り組んでいました。
+[032-04]
+The second floor? I thought we were going to the toy department. 
+えっ，２階？ おもちゃ売場に行くんじゃなかったの？ 
+[032-05] 
+I was moving to an apartment close to campus.
+私は大学の近くにあるアパートに引っ越す予定でした。
+[033-01]
+Ouch! I've cut my finger.
+いてっ！ 指を切っちゃった。
+[033-02]
+I've learned something new.
+１つ賢くなりました。
+[033-03]
+We have just arrived in Bangkok.
+今バンコクに着いたところです。
+[033-04] 
+“Have you had breakfast?” “No, I haven't had it yet.”
+「もう朝食は食べたの？」「いいえ，まだ食べてません」
+[034-01]
+We've had rainy weather for several days now.
+ここ数日，雨降りの天気が続いています。
+[034-02]
+I have known him since high school.
+彼とは高校の時からの知り合いです。
+[034-03] 
+I haven't seen you for a long time. How have you been?
+ひさしぶりだね。どうしてた？
+[034-04]
+Who's been sleeping in my bed?
+私のベッドで寝てたの誰？
+[034-05]
+It has been snowing all day and the entire field is white.
+今日は一日ずっと雪で，フィールド全体が真っ白になっています。
+[035-01]
+I've never felt so sad in my life.
+こんな悲しい思いは生まれて初めてです。
+[035-02]
+Have you ever tried sashimi?
+刺身を食べてみたことはありますか？
+[035-03] 
+Have you heard of Kent Derricott?
+ケント・デリカットって知ってる？ 
+[035-04]
+“Have you ever been to a foreign country?” “Yes. I went to Korea this fall.”
+「外国へ行ったことはありますか？」「はい。この秋に韓国に行きました」
+[035-05]
+“How many times have you been there?” “Three or four times.”
+「そこへは何回行ったことがありますか？」「３，４回です」
+[036-01]
+I had never been in love before.
+私はそれ以前には１度も恋をしたことがなかった。
+[036-02]
+The fire had been burning for an hour and a half.
+火は１時間半燃え続けていました。
+[036-03] 
+We lived in Canada for 30 years.
+私達は30年間カナダに住んでいました。
+[036-04]
+We had lived in Canada for 30 years.
+私達はそれまで30年間カナダに住んでいました。
+[036-05]
+He moved to Britain in 1997. He had lived in Canada for 30 years.
+彼は1997年にイギリスに移りました。それまで30年間はカナダに住んでいました。
+[036-06]
+I had known her for three months when I proposed.
+知り合って３ヶ月目に彼女にプロポーズをしました。
+[037-01] 
+Nancy had left.
+ナンシーはその時には立ち去っていた。
+[037-02]
+When I arrived, Nancy had left.
+私が到着した時，ナンシーは立ち去っていた。
+[037-03]
+When I arrived, Nancy left.
+私が到着した時，ナンシーが立ち去った。
+[037-04] 
+When I reached the theater, the curtain had already risen.
+劇場に着いた時にはすでに幕が上がっていました。
+[037-05] 
+He worked on a farm. He had left home after high school.
+彼は農場で働いていた。彼は高校を卒業後，親元を離れたのであった。
+[037-06]
+Her dress was dirty. She had worn it the day before.
+彼女のワンピースは汚れていた。彼女はそれを前の日にも着ていた。
+[037-07]
+I got out of the taxi and dashed into the station.
+タクシーを降りて駅の中にダッシュで駆け込んだ。
+[038-01] 
+I agree.
+同感［賛成］です。
+[038-02] 
+“Hurray! I passed!” “Good for you!”
+「やったー！合格したぞ！」「よかったねえ」
+[038-03]
+I love you.
+君を愛してるよ。
+[038-04] 
+I finally passed my driving test yesterday.
+昨日やっと運転免許試験に合格しました。
+[038-05]
+When I reached the theater, the curtain had already risen.
+劇場に着いた時にはすでに幕が上がっていました。
+[038-06]
+He left.
+彼は立ち去った。
+[038-07] 
+He left Japan.
+彼は日本を立ち去った。
+[039-01] 
+We prayed.
+私達は祈りを捧げた。
+[039-02] 
+We prayed silently.
+私達は無言で祈りを捧げた。
+[039-03] 
+We prayed for his safety.
+私達は彼の無事を祈った。
+[039-04] 
+The north wind was blowing hard.
+北風が激しく吹いていた。
+[039-05] 
+I agree with your opinion.
+あなたの意見に賛成です。
+[039-06] 
+Both my son and daughter work for me.
+息子も娘もどちらも私のもとで働いています。
+[039-07]
+The stars were shining brightly in the sky.
+空には星が明るく輝いていた。
+[040-01] 
+She is always very polite.
+彼女は常にとても礼儀正しい。
+[040-02]
+Two times four is eight. 
+２掛ける４は８です。
+[040-03]
+I'll be thirty in October.
+私は10月で30歳になります。
+[040-04] 
+Advice from friends is like the weather.
+友人のアドバイスとは天気のようなものだ。
+[040-05]
+Your dessert is in the refrigerator.
+デザートが冷蔵庫に入ってるわよ。
+[040-06]
+The dog was lying flat on the rug.
+その犬はじゅうたんの上にべったりと横たわっていた。
+[041-01]
+“You've become so beautiful.” “There you go again.”
+「きれいになったね」「またそんなこと言って」
+[041-02] 
+“It's gotten cooler, hasn't it?” “Yes, it has.”
+「涼しくなりましたね」「ええ本当に」
+[041-03]
+He's getting fat and bald.
+彼は太ってきていて，頭も薄くなってきています。
+[041-04]
+The milk's gone sour.
+牛乳が酸っぱくなってるよ。
+[041-05]
+In autumn, the leaves turn red and yellow.
+秋には紅葉が見られます。
+[042-01]
+Please keep quiet.
+お静かにお願いします。
+[042-02]
+I keep telling him, but he won't listen!
+彼にはしょっちゅう言ってるんだけど，聞かないんだよね。
+[042-03] 
+Please remain seated.
+どうかそのまま席からお立ちにならないでください。
+[042-04]
+I can hardly stay awake during history class.
+歴史の授業は眠くてしょうがない。
+[043-01]
+“You look sick. What's up?” “I'm fine.”
+「顔色が悪いけど，どうしたんだ？」「何ともないよ」
+[043-02] 
+What's wrong, dear? You seem nervous.
+どうかしたの？ なんかそわそわしてるみたいだけど。
+[043-03] 
+He appears perfectly normal.
+彼はいたって普通みたいだけど。
+[043-04]
+That sounds interesting.
+それはおもしろそうだね。
+[043-05] 
+You seem to be nervous.
+なんかそわそわしてるみたいだね。
+[043-06] 
+He appears to be a perfectly normal person.
+彼はいたって普通の人みたいだけど。
+[044-01] 
+It's gotten cold. Yuck, it tastes awful.
+さめちゃってるね 。げっ，まずい。
+[044-02] 
+Hmm, that smells delicious! What are you cooking?
+う～ん，おいしそうなにおい。何，作ってるの？
+[044-03]
+Her hand felt soft.
+彼女の手はやわらかだった。
+[044-04]
+“Are you feeling all right now?” “Better, I guess.”
+「どう？もう気分は大丈夫？」「たぶん」
+[045-01] 
+You get two points for each correct answer.
+正解１つに対して２点が与えられます。
+[045-02]
+I have a bad cold. Ah, ah, Ahchoo!
+ひどい風邪を引いてましてね，は，は，はっくしょん！
+[045-03]
+Mom wants you--she's in the kitchen.
+ママが君に用事があるって。台所にいるよ。
+[045-04]
+I usually get home around 7:30.
+私はたいてい７時半頃に帰宅します。
+[045-05] 
+Your coffee is getting cold.
+コーヒーが冷めますよ。
+[045-06] 
+I got some bread at the store.
+その店でパンを買った。
+[046-01]
+A staff member explained the rules.
+スタッフの１人がルールを説明した。
+[046-02]
+A staff member explained the rules to the kids.
+スタッフの１人がルールを子供達に説明した。
+[046-03]
+I bought some flowers.
+私は花を買いました。
+[046-04] 
+I bought some flowers for my wife.
+私は妻に花を買いました。
+[046-05] 
+We filled the hole with sand and stones. 
+私達はその穴を砂と石で埋めました。
+[047-01] 
+Can you drop me off at the corner?
+そこの角で降ろしてもらえますか？
+[047-02] 
+“Can I try it on?” “Yes, of course. Here you are.”
+「それ，試着していいですか？」「ええ，もちろんです。はいどうぞ」
+[047-03] 
+“Honey, you have your pants on inside out.” “Uh-oh.” 
+「あなた，ズボンが裏返しよ」「おっと，いけない」
+[047-04] 
+Wake me up at seven in the morning.
+朝７時に起こしてね。
+[047-05] 
+“I looked it up in the dictionary.” “What did it say?”
+「それを辞書で調べてみました」「何て書いてあった？」
+[047-06]
+Your music is too loud. Turn it down!
+音楽がうるさすぎるよ。音量を下げて！
+[047-07]
+I never throw books away.
+私は本は絶対に捨てません。
+[048-01]
+I took off my clothes and put on my uniform.
+服を脱いで制服に着替えた。
+[048-02]
+I never throw away books.
+私は本は絶対に捨てません。
+[048-03]
+Please pick up all your trash and take it home.
+ゴミは全て拾って持ち帰ってください。
+[048-04] 
+How soon are we taking off?
+あとどのくらいで離陸しますか？
+[048-05] 
+Wake up! It's already past eight.
+起きなさい。もう８時すぎよ。
+[048-06] 
+He got on his bicycle and rode down the street.
+彼は自転車に乗り，通りを走り去った。
+[049-01] 
+I'll send my address by email.
+メールで私の住所を送ります。
+[049-02]
+I'll send you my address by email.
+メールであなたに私の住所を送ります。
+[049-03]
+I'll show you the way. I'm going in the same direction.
+道案内しますよ。私もちょうど同じ方向に行くところですから。
+[049-04] 
+“Will you pass me the salt?” “Here you go.” “Thanks.”
+「お塩を取ってくれる？」「はいどうぞ」「ありがとう」
+[049-05]
+Just trust me and give it a try. 
+だまされたと思ってやってごらんよ。
+[050-01] 
+Hey, guys, I made you some rice balls.
+おい，お前達，おむすびを作ってやったよ。
+[050-02]
+When you go downstairs, can you also get me the newspaper?
+下に降りたら，ついでに新聞を取ってきてくれる？
+[050-03]
+What did you buy her for her birthday?
+彼女の誕生日には何を買ってあげたの？ 
+[050-04]
+You've been nice this year, so Santa will bring you something good.
+今年はいい子にしてたから，サンタさんが素敵なプレゼントを届けてくれるわよ。
+[051-01] 
+“Can I ask you something?” “Please do.”
+「ちょっと聞いていいですか？」「ええ，どうぞ」
+[051-02] 
+The nurse asked me a few questions.
+看護士が私にいくつかの質問をした。
+[051-03] 
+The nurse asked a few questions of me 
+看護士がいくつかの質問を私にした。
+[051-04]
+The meal cost us 12 dollars each.
+食事は一人12ドルでした。
+[051-05]
+I wish you health and happiness for the future.
+今後の健康と幸福をお祈りしています。
+[052-01]
+I made you some rice balls.
+お前達におむすびを作ってやったよ。
+[052-02]
+What film made him a star?
+何の映画で彼はスターになったのですか？ 
+[052-03] 
+I can't afford that. Can you make it cheaper?
+そんなにお金がないんで，まけてもらえませんか？
+[052-04]
+Nice to meet you. My name is Robert. Please call me Bob.
+はじめまして，ロバートです。ボブって呼んでください。
+[052-05]
+They named the ship Pacific Princess.
+彼らはその船をパシフィック・プリンセスと命名した。
+[053-01]
+Sometimes he gets me so angry.
+彼にはすごく腹が立つ時があります。
+[053-02]
+Club activities have been keeping me busy lately.
+ここのところクラブ活動で忙しかったんだ。
+[053-03]
+Go away! Leave me alone!
+あっちへ行けよ。俺のことはほっといてくれ。
+[053-04]
+“How do you like your new chair?” “I find it quite comfortable.”
+「新しい椅子はどう？」「かなり快適だよ」
+[054-01]
+I told you to come back on time.
+時間通りに戻ってくるようにと言っただろ。
+[054-02]
+Kate asked me to say hello to all of you.
+ケイトがみなさんによろしくって言ってました。
+[054-03]
+“I don't want you to stay up late.” “I'll go to bed soon.”
+「夜更かしはしないでほしいんだけど」「今寝るよ」
+[054-04]
+I'd like you to meet a friend of mine.
+僕の友達を紹介します。
+[054-05] 
+“Meow.” “How many times have I told you not to disturb me?”
+「ニャーオ」「じゃまするなって何度言ったらわかるんだ？」
+[055-01] 
+I can't get this wood to burn.
+この木，燃えないよ。
+[055-02]
+My parents don't allow me to have a boyfriend.
+親は私が男の子と付き合うことを許可しません。
+[055-03]
+The court ordered him to serve five years in prison.
+裁判所は彼に懲役５年を言い渡した。
+[055-04]
+Nobody expected the team to finish in the top three.
+そのチームが上位３位内に入るとは誰も予想しなかった。
+[055-05]
+My doctor advised me to lose weight.
+医者から体重を減らすよう忠告されました。
+[055-06]
+Give it to me at once, or I'll force you to.
+ただちにそれをこちらに渡しなさい。さもないと力ずくでそうさせますよ。
+[055-07]
+Our guide warned us not to go out after dark.
+ガイドは私達に，夜は外出しないようにと注意した。
+[056-01]
+Come here and help me clean up the house.
+こっちへ来て家の掃除を手伝って。
+[056-02]
+Come here and help me to clean up the house.
+こっちへ来て家の掃除を手伝って。
+[056-03]
+This shirt makes me look thin.
+このシャツを着るとやせて見えるのよね。
+[056-04]
+What made you change your mind?
+なぜ決心を変えたのですか？ 
+[057-01]
+I'll make him apologize to you.
+彼にはきちんと謝罪をさせますので。
+[057-02]
+I can let you have another five minutes, but no more.
+あと５分あげるけど，もうそれ以上はだめだよ。
+[057-03] 
+“Let's go Dutch.” “Let me pay the bill. It's my turn.”
+「じゃあワリカンでいこうか」「私に払わせてください。今回は私の番ですから」
+[057-04]
+I called them up and had them send me an estimate by fax.
+業者に電話をして見積もりをファクスで送ってもらった。
+[057-05]
+I'll get my sister to help me with my homework.
+姉さんに僕の宿題を手伝ってもらおう。
+[058-01] 
+Oh, I didn't hear you come in. Welcome!
+おっと，これは気がつきませんで。ようこそいらっしゃいました。
+[058-02]
+Excuse me, but I just heard you mention Ms. Jones. 
+ちょっとすみません。今，ジョーンズさんのことをお話しになったのを耳にしたのですが。
+[058-03]
+I saw you come out of your house with a blond woman. 
+あなたがブロンドの女性と一緒に家から出てくるところを見たわよ。
+[058-04]
+Dad, watch me do a dive!
+パパ，飛び込みをやるから見て。
+[058-05]
+Suddenly, I felt the earth shake beneath my feet.
+突然，足下の地面が揺れるのを感じた。
+[059-01]
+The cake was eaten by someone.
+ケーキが誰かに食べられた。
+[059-02]
+We were shocked by the election results.
+私達は選挙結果にショックを受けました。
+[059-03]
+The Tokyo Tower was destroyed by Godzilla.
+東京タワーがゴジラによって破壊された。
+[059-04] 
+I was brought up by my grandmother.
+私は祖母に育てられました。
+[060-01] 
+Some milk is made into butter and cheese.
+一部の牛乳はバターやチーズに変えられる。
+[060-02]
+Who was elected?
+誰が当選したの？ 
+[060-03] 
+Garbage is collected twice a week.
+ゴミは週に２回収集されます。
+[060-04]
+The use of cell phones is not permitted during class.
+授業中の携帯電話の使用は許可されていません。
+[060-05] 
+I got hit by a bike on the way home.
+帰宅途中に自転車に追突されたよ。
+[060-06] 
+He became known as the Father of Modern Education.
+彼は現代教育の父と呼ばれるようになった。
+[061-01] 
+Pull up your zipper, or you'll be laughed at.
+きちんとチャックを閉めないと笑われるよ。
+[061-02]
+My place was broken into the other night.
+先日の夜，家が空き巣に入られたんだ。
+[062-01]
+I'm not really interested in political and social issues.
+私は政治問題とか社会問題とかにはあまり興味がありません。
+[062-02] 
+So far, I'm satisfied with their service.
+今までのところ，彼らのサービスには満足しています。
+[062-03] 
+I was disappointed with my exam results.
+私は試験の結果にがっかりした。
+[062-04] 
+“Are you finished?” “Yeah, I'm done.”
+「もう終わった？」「うん，終わったよ」
+[063-01] 
+Oops! I nearly got caught by the teacher.
+おっと，もう少しで先生に見つかるとこだった。
+[063-02] 
+I got caught in traffic on the way to work.
+仕事に行く途中，渋滞に捕まった。
+[063-03] 
+Our furniture is made by master craftsmen.
+我々の家具は一流の職人によって作られています。
+[063-04]
+Butter is made from milk.
+バターは牛乳から作られる。
+[063-05]
+The round body is made of metal.
+その丸いボディーは金属でできています。
+[063-06]
+His name is known to every Arab. 
+彼の名前は全てのアラブ人に知られている。
+[064-01]
+I was given this wallet for Christmas.
+私はクリスマスにこの財布をもらいました。
+[064-02] 
+My wallet was stolen and my credit cards were in it.
+財布を盗まれましてね。中にクレジットカードが入っていたんです。
+[064-03] 
+I was asked a few questions in English at the end of the interview.
+面接の最後に英語で２，３質問されました。
+[064-04]
+He was named Best Actor at the awards ceremony.
+彼はその授賞式で主演男優賞を受賞した。
+[064-05] 
+In 2001, Beckham was made captain of the England team. 
+2001年，ベッカムはイングランド代表チームの主将になった。
+[065-01]
+I was asked to sign the paper, but I refused.
+私は，書類に署名するよう求められましたが，断りました。
+[065-02]
+I was told not to worry, but how can I not? 
+心配するなと言われても，これが心配せずにいられますか。
+[065-03] 
+Am I allowed to take pictures here?
+ここで写真を撮ってもかまいませんか？
+[065-04]
+We were made to wait for half an hour.
+私達は30分待たされました。
+[066-01] 
+He is said to have great influence with the king.
+彼は国王に対して大きな影響力をもっていると言われています。
+[066-02]
+It was supposed to be sunny and warm, but it's cloudy and cold.
+晴れて暖かくなるということでしたけど，曇ってて寒いですね。
+[066-03] 
+The Earth is thought to be about 4.6 billion years old.
+地球の年齢は46億年ぐらいだと考えられています。
+[066-04] 
+The number 13 is believed to be unlucky.
+13という数字は不吉だと考えられている。
+[066-05] 
+My brother had his nose broken in the fight.
+弟がけんかをして鼻を折った。
+[067-01] 
+The truth will be discovered someday.
+真実はいつか明らかになるでしょう。
+[067-02]
+Never mind. It can't be helped. 
+ドンマイ，ドンマイ。それは仕方ないよ。
+[067-03] 
+Action should be taken at the national and local levels.
+国家レベルで，また地域レベルで行動を取るべきです。
+[067-04] 
+That castle is said to be haunted by many ghosts.
+あのお城にはたくさんの幽霊が出ると言われています。
+[067-05] 
+Most library books have to be returned within two weeks.
+たいていの図書館の本は２週間以内に返却しなければなりません。
+[068-01] 
+“Can't you come?” “No. You see, my car is being repaired.”
+「来られないのですか？」「うん。それがね，今，車を修理に出しててね」
+[068-02] 
+Elephants are being hunted and killed for their ivory.
+象牙を手に入れるために，象が狩られ殺されている。
+[068-03] 
+A new hotel was being built next to the bank.
+銀行の隣に新しいホテルが建設中だった。
+[068-04] 
+Your hair has been damaged a bit, hasn't it?
+髪が少しいたんじゃってますね。
+[068-05]
+The sidewalk had already been cleared of snow.
+歩道からはすでに雪が取り除かれていました。
+[069-01] 
+To teach is to learn.
+教えるということは学ぶということです。
+[069-02]
+The important thing is to keep trying.
+大切なことはトライし続けることです。
+[069-03] 
+My dream is to ride a spaceship to the moon.
+私の夢は宇宙船に乗って月へ行くことです。
+[069-04] 
+Red means to stop; green means to go; and yellow means caution.
+赤は止まれ，青は進め，黄色は注意を意味します。
+[070-01] 
+It is dangerous to walk alone at night in that part of the city.
+街のあの辺を夜１人で歩くのは危険です。
+[070-02]
+I find it hard to concentrate on anything for more than 10 minutes. 
+私は何事につけ，集中力を10分以上維持することがむずかしいのです。
+[070-03]
+It takes at least three weeks for a new behavior to become a habit. 
+新しく始めた行動が習慣になるまでには少なくとも３週間はかかります。
+[070-04]
+The Internet has made it easier for individuals to look things up. 
+インターネットによって個人が調べものをするのが容易になった。
+[071-01]
+You just like to talk, but there's no action. 
+あなたは口だけで行動が伴わないのよ。
+[071-02]
+I want to study English all over again. 
+私はもう一度最初から英語の勉強をやり直したいのです。
+[071-03]
+Would you like to leave a message? 
+何かお伝えすることはありますか？ 
+[071-04]
+Don't forget to set the alarm clock for 6 am. 
+６時に目覚ましをかけるのを忘れないようにね。
+[071-05]
+What made you decide to become a writer? 
+どうして作家になることに決めたのですか？
+[072-01]
+We're hoping for a baby girl. 
+私達は女の子を願っています。
+[072-02]
+I hope to get along with everyone.
+これからみなさんと仲良くやっていきたいです。
+[072-03]
+I've just finished my work. 
+今ちょうど仕事を終えたところだよ。
+[073-01]
+I don't know what to say, but ... 
+何て言えばいいかわからないんだけど...
+[073-02]
+How do I know what size to buy? 
+どのサイズを買えばいいかどうやったらわかりますか？
+[073-03]
+I'm wondering which to buy. Any suggestions? 
+どっちにするか迷うなあ。どうしたらいいと思う？
+[073-04]
+I don't read German, so I have no idea which button to press. 
+ドイツ語は読めないから，どのボタンを押せばいいのか全くわからないや。
+[073-05]
+Did you manage to find out how to fix it? 
+修理の仕方はなんとかわかったかい？
+[073-06]
+“Please tell me when to get off.” “No problem.” 
+「そこへ着いたら教えてください」「いいですよ」
+[073-07]
+The question is where to draw the line. 
+問題はどこで線引きをするかだな。
+[074-01]
+Johnny, I have something to say to you. 
+ジョニー，ちょっとあなたに言いたいことがあるんだけど。
+[074-02]
+We have nothing to lose. 
+だめでもともとじゃないか。
+[074-03]
+Finally, do you have anything to add for the fans out there? 
+最後に，ファンに対して何かメッセージがありましたらどうぞ。
+[074-04]
+I have something to worry about. 
+ちょっと心配事がありましてね。
+[074-05]
+I have other business to take care of. 
+ほかに用事がありますので。
+[074-06]
+I have nothing to write. 
+書くことがない。
+[074-07]
+I have nothing to write with. 
+書くものがない。
+[074-08]
+I have nothing to write on. 
+書きとめるものがない。
+[075-01]
+I can't find a place to park. 
+駐車する場所が見つからないよ。
+[075-02]
+That's not the way to do it. 
+そういうふうにやるんじゃないんですよ。
+[075-03]
+It's time to get up! You need to get ready for school. 
+起きる時間よ！ 学校に行く準備をしなさい。
+[075-04]
+I don't have enough money to go to university without a loan. 
+ローンを組まずに大学に通えるほどのお金はないんですよ。
+[075-05]
+There is no reason to doubt his word. 
+彼のことばを疑う理由は何もありません。
+[076-01]
+Calm down. There's no need to shout. 
+落ち着けよ。大声を出すようなことじゃないだろ。
+[076-02]
+The President has announced his decision to raise taxes. 
+大統領が増税の決定を発表しました。
+[076-03]
+Marie Curie was the first woman to be awarded a Nobel Prize. 
+マリー・キューリーはノーベル賞を受賞した初めての女性だった。
+[076-04]
+He was the only person to survive the crash. 
+彼はその衝突事故の唯一の生存者でした。
+[077-01]
+I'm visiting today to introduce our newest product. 
+今日は当社の新製品をご紹介にまいりました。
+[077-02]
+Goals are necessary to achieve success. 
+成功を得るためには目標が必要です。
+[077-03]
+To get a job nowadays, one must go through at least five interviews. 
+近頃では仕事を得るためには少なくとも５回は面接を受けなければならない。
+[077-04]
+Goals are necessary in order to achieve success. 
+成功を得るためには目標が必要です。
+[077-05a]
+I'll come and pick you up at the station. 
+車で駅まで迎えに行くよ。
+[077-05b]
+I'll come pick you up at the station. 
+車で駅まで迎えに行くよ。
+[077-06a]
+Go and check the door. 
+戸締まりを見てきてちょうだい。
+[077-06b]
+Go check the door. 
+戸締まりを見てきてちょうだい。
+[077-07]
+“I'm coming to see you at two o'clock.” “All right. See you then.” 
+「では２時におうかがいします」「わかりました。ではまたその時に」
+[078-01]
+I'm so glad to meet you at last. 
+やっとお会いできて，とても嬉しいです。
+[078-02]
+I'm so happy to see you again! 
+いやー懐かしいな！
+[078-03]
+We're very sorry to hear of his sudden death. 
+彼の急死の知らせを聞いてとても残念です。
+[078-04]
+Hey, Joe! I'm surprised to see you here. 
+やぁ，ジョーじゃないか。こんなとこで君に会うとは驚きだな。
+[078-05]
+By the way, I read your story. Truly, you are lucky to be alive. 
+ところで，君の話を読んだよ。本当に命拾いしたね。
+[079-01]
+I am able to communicate in both Spanish and Italian. 
+私はスペイン語とイタリア語の両方でコミュニケーションが可能です。
+[079-02]
+Keep up the good work and you are sure to succeed. 
+この調子で頑張れば必ずうまくいくよ。
+[079-03]
+We're not ready to start a family yet. 
+私達は子供はまだ早いと思っています。
+[079-04]
+She sounded very eager to see you. 
+彼女，すごくあなたに会いたがってるみたいだったわよ。
+[079-05]
+It is possible to see as far as Cape Miura on a clear day. 
+晴れた日には遠く三浦岬が見えます。
+[080-01]
+Men are easy to understand. 
+男なんて単純なものよ。
+[080-02]
+He's easy to forget. 
+彼って存在感がないよね。
+[080-03]
+The ground is frozen and impossible to dig. 
+地面が凍っていて掘ることができませんね。
+[080-04]
+My husband is sometimes hard to deal with. 
+うちの主人は扱いにくい時があります。
+[080-05]
+He's so much fun to be with. I've never had a dull moment with him. 
+彼は一緒にいてほんとに楽しい人だ。彼といて退屈したことは１度もない。
+[081-01]
+Cranes can live to be around 80 years old in a zoo. 
+鶴は動物園で80歳前後まで生きることがある。
+[081-02]
+My nephew grew up to be a successful lawyer. 
+私の甥は弁護士になって成功しています。
+[081-03]
+The window is too high for me to reach. 
+窓が高すぎて手が届かないよ。
+[081-04]
+It's hot enough to go swimming in the sea. 
+この暑さなら海に泳ぎに行けるよ。
+[081-05]
+To change the subject, what sports do you play? 
+話は変わるけど，君はどんなスポーツをやっていますか？
+[082-01]
+They seem to be waiting for prices to drop further. 
+彼らは価格がさらに下がるのを待っているようです。
+[082-02]
+He is said to be the richest man in the world. 
+彼は世界で最もお金持ちだと言われています。
+[082-03]
+He is said to have been the richest man in Shanghai at the time. 
+彼は当時上海で最もお金持ちだったと言われています。
+[082-04]
+They seem to have broken up recently. 
+あの２人，最近別れたみたいだよ。
+[082-05]
+He claims to have been a friend of Elvis Presley's. 
+彼はエルビス・プレスリーの友達だったと自分で言っています。
+[082-06]
+What an idiot I am, not to have thought of that! 
+そんなことが思いつかなかったとは，俺は何て間抜けなんだ。
+[082-07]
+I seem to have forgotten your name. 
+あなたのお名前をど忘れしてしまったみたいです。
+[082-08]
+I pretended to have read the novel. 
+私はその小説を読んだことがあるふりをした。
+[083-01]
+Traveling abroad is one of my favorite things. 
+海外旅行は私が最も好きなことの一つです。
+[083-02]
+My father's hobby is taking care of our garden. 
+父の趣味は庭いじりをすることです。
+[083-03]
+It's started raining, so I'll drive you home. 
+雨が降ってきたから，車で家まで送るよ。
+[083-04]
+Good evening. Thank you for inviting me. 
+こんばんは。招待していただいてありがとうございます。
+[084-01]
+I don't like speaking in public. 
+私は人前で話をするのが好きではありません。
+[084-02]
+I don't like to speak in public. 
+私は人前で話をするのが好きではありません。
+[084-03]
+I prefer working on my own. 
+自分でできる仕事の方が私は好きです。
+[084-04]
+I prefer to work on my own. 
+自分でできる仕事の方が私は好きです。
+[084-05]
+The fishing boat struck a rock and began sinking. 
+その釣り船は岩に衝突して沈み始めた。
+[084-06]
+The fishing boat struck a rock and began to sink. 
+その釣り船は岩に衝突して沈み始めた。
+[084-07]
+I'm beginning to understand. 
+だんだんわかってきたぞ。
+[085-01]
+Have you finished doing the dishes? 
+もうお皿洗いは済ませたの？
+[085-02]
+I enjoyed talking with you. Let's get together again sometime! 
+お話できて楽しかったです。是非またいつか会いましょう。
+[085-03]
+“Boo!” “Stop acting like a child.” 
+「わっ！」「子供みたいなことはもうやめて」
+[085-04]
+Why not take this opportunity to give up smoking? 
+これを機会にタバコをやめたら？
+[085-05]
+Would you mind repeating that for me? 
+もう一度言っていただいていいですか？
+[085-06]
+Every half hour he stops to smoke a cigarette. 
+彼は30分おきにたばこを吸うために作業を中断する。
+[086-01]
+Don't forget to switch off your mobile phone. 
+携帯電話のスイッチを切るのを忘れないようにしてください。
+[086-02]
+I'll never forget seeing Saturn's rings for the first time. 
+初めて土星の輪を見たときのことは忘れません。
+[086-03]
+Remember to go to the post office by five. 
+５時までに郵便局へ行くのを忘れないようにね。
+[086-04]
+Now that you mention it, I do remember learning that in school. 
+そう言えば，それって確かに学校で習ったよね。
+[086-05]
+I tried to lift it but it was too heavy. 
+私はそれを持ち上げようとしたが，重すぎて無理だった。
+[086-06]
+“Do you want to try keeping a snake?” “No way!” 
+「ヘビを飼ってみる？」「とんでもない！」
+[087-01]
+Sorry for calling this early. Do you have time to talk now? 
+こんな早くに電話してごめんなさい。今，話す時間あります？
+[087-02]
+Congratulations on entering junior high school! 
+中学入学おめでとう！
+[087-03]
+How can we prevent the disease from spreading? 
+どうすればその病気の広がりを食い止められますか？
+[087-04]
+I can't go to a karaoke bar without hearing this song at least once. 
+カラオケ・スナックに行くと必ず一回はこの曲を耳にするよ。
+[087-05]
+We're not used to discussing issues such as this. 
+私達はこのような問題を議論するのには慣れていないんです。
+[087-06]
+I'm looking forward to hearing from you. 
+ご連絡，お待ちしています。
+[088-01]
+I narrowly escaped being run over. 
+もう少しで車にひかれるところでした。
+[088-02]
+I apologize for having been rude to you the other day. 
+先日は無礼なことをいたしまして申し訳ございません。
+[088-03]
+This cupboard shows no signs of having been used. It's a beauty! 
+この食器棚は全く使用された痕がありません。すごくいい品物です。
+[088-04]
+No one appears to have been killed or injured in the accident. 
+この事故による死傷者はいないようです。
+[089-01]
+“I hope you don't mind me leaving now.” “Oh, not at all.” 
+「先に失礼させてもらいたいんですが」「あっ，どうぞどうぞ」
+[089-02]
+“I hope you don't mind my leaving now.” “Oh, not at all.” 
+「先に失礼させてもらいたいんですが」「あっ，どうぞどうぞ」
+[089-03]
+Can you imagine Dick cleaning the bathroom? 
+ディックが浴室の掃除をしてる姿なんて想像できる？
+[089-04]
+There's no chance of that happening. 
+そんなことが起こる可能性はないね。
+[089-05]
+Thank you for your reply. That's too bad about your trip being canceled. 
+返信ありがとうございます。旅行が中止になって残念ですね。
+[090-01]
+A little learning is a dangerous thing. 
+生兵法は怪我のもと。
+[090-02]
+The lending period is two weeks. 
+貸し出し期間は２週間です。
+[091-01]
+Barking dogs seldom bite. 
+吠える犬はめったにかまない。
+[091-02]
+Our president is also a walking advertisement for our company. 
+社長は，我が社の歩く広告塔でもあります。
+[091-03]
+I miss seeing your smiling face. 
+あなたの笑顔が見られなくて寂しいです。
+[092-01]
+I recently saw an interesting experiment on TV. 
+最近テレビで面白い実験をやってたよ。
+[092-02]
+What an exciting game this is! 
+これ，すごく面白いゲームだね。
+[092-03]
+It was indeed a boring conversation. 
+実に退屈な会話でした。
+[092-04]
+Whew! Teaching small kids is really tiring. 
+ふうー。小さな子供に教えるのはほんと疲れるよ。
+[092-05]
+Isn't it surprising? 
+それって驚きじゃない？
+[092-06]
+That sounds interesting. 
+面白そうだね。
+[092-07]
+I find math interesting. 
+私は数学は面白いと思います。
+[093-01]
+An airplane carrying 170 passengers crashed in northern India. 
+170人の乗客を乗せた飛行機がインド北部で墜落しました。
+[093-02]
+Hey, check out that new girl sitting over there. 
+おい，あそこに座ってる新顔の子を見てみろよ。
+[093-03]
+Usually, there's a long line of people waiting to get in. 
+たいてい待っている人の行列ができていますよ。
+[094-01]
+Be careful of the broken glass. 
+割れたガラスに気をつけて。
+[094-02]
+I had her mend my torn jeans. 
+破れたジーンズを彼女に直してもらった。
+[094-03]
+Fluent in written and spoken English. 
+筆記英語と口語英語が流ちょうであること。
+[095-01]
+Several hundred excited fans gathered to greet the group. 
+何百人もの興奮したファンがそのグループを出迎えるために集まった。
+[095-02]
+I'm not really interested in political and social issues. 
+私は政治問題とか社会問題とかにはあまり興味がありません。
+[095-03]
+I'm bored. 
+退屈だわ。
+[095-04]
+To tell you the truth, I'm tired of my job. It's so boring. 
+正直言うと，今の仕事にはうんざり。すごく退屈なの。
+[095-05]
+I'm so irritated! 
+あー，イライラする！
+[095-06]
+This is irritating. 
+これ，いらいらするわ。
+[096-01]
+About one quarter of the land is covered with forests. 
+その土地の約４分の１は森林に覆われています。
+[096-02]
+Anyone interested in volunteering can call 0120-911-911. 
+ボランティア活動に関心をお持ちの方は 0120-911-911 までお電話ください。
+[096-03]
+My grandfather died of lung cancer caused by smoking. 
+祖父はタバコによる肺癌で亡くなりました。
+[096-04]
+You must have the wrong number. There's no one here named Nick. 
+お掛け間違いだと思います。こちらにはニックという名前の者はおりません。
+[096-05]
+You must have the wrong number. There's no one here called Nick. 
+お掛け間違いだと思います。こちらにはニックという名前の者はおりません。
+[097-01]
+I'm sorry to have kept you waiting. 
+お待たせしてすみませんでした。
+[097-02]
+Don't leave sharp tools lying around. 
+先のとがった道具をその辺に置きっぱなしにしないでね。
+[097-03]
+I kept my mouth shut about it. 
+そのことについてはちゃんと黙っていたからね。
+[097-04]
+That leaves a lot unexplained. 
+それでは説明不足ですよ。
+[098-01]
+I could hear them arguing through the wall. 
+彼らが口論している声が壁越しに聞こえた。
+[098-02]
+I turned around to see Jack waving at me. 
+振り返ると，ジャックが私に手を振っていた。
+[098-03]
+I stood by the window and watched my grandson playing outside. 
+私は窓のそばに立って，孫が外で遊んでいる様子を見つめていました。
+[098-04]
+I felt the anger rising in me. 
+私は怒りがこみ上げてくるのを感じた。
+[098-05]
+I heard my name called. The voice was familiar to me. 
+私の名前を呼ぶ声がした。それは聞き慣れた声だった。
+[098-06]
+I saw a cat run over by a car this morning. 
+今朝，猫が車にひかれるところを見ちゃったよ。
+[098-07]
+It's unpleasant to hear bad things being said about other people. 
+人の悪口を耳にするのは気持ちのいいことではありません。
+[099-01]
+I want something done about this. 
+ここのところを何とかしてよ。
+[099-02]
+“How would you like your hair done today?” “I'd like to have it cut short.” 
+「今日はどうなさいますか」「ショートにしたいんですが」
+[099-03]
+We're having pizza delivered for dinner tonight. 
+今晩の夕食はピザの宅配にするからね。
+[099-04]
+We will think of a way to get it done within your budget. 
+ご予算の範囲内でそれを仕上げる方法を考えてみます。
+[100-01]
+A couple of days ago, I hurt my knees playing tennis. 
+数日前テニスをしていてひざを痛めてしまいました。
+[100-02]
+I killed two hours watching TV. 
+テレビを見て２時間暇をつぶした。
+[100-03]
+I was too busy working to notice the time. 
+時間が経つのも忘れるほど忙しかったです。
+[100-04]
+I have trouble falling asleep and staying asleep. 
+私は寝つきが悪く，また夜中によく目がさめます。
+[100-05]
+Oh my! You aren't going out dressed like that, are you? 
+まあ！そんな格好で外に出るんじゃないでしょうね。
+[101-01]
+I lay on the grass looking at the clouds. 
+私は雲を見つめながら芝生に横たわっていた。
+[101-02]
+Don't waste time playing video games! 
+テレビゲームなんかしてちゃだめでしょ。
+[101-03]
+My office is in the heart of Manhattan, surrounded by skyscrapers. 
+私の会社はマンハッタンの中心部にあり周囲を超高層ビルに囲まれています。
+[101-04]
+The goal gave Japan an insurance point, making the score 4-1. 
+そのゴールで日本はだめ押し点を入れ，得点を４対１にした。
+[101-05]
+Each speaker will make a 20-minute presentation, followed by a question and answer session. 
+各講演者は20分のプレゼンテーションを行い，その後に質疑応答があります。
+[102-01]
+The children jumped up and down, very excited. 
+子供達はとても興奮して飛び跳ねた。
+[102-02]
+Excited by the news, we jumped up and down for joy. 
+その知らせに歓喜して私達は飛び跳ねた。
+[102-03]
+Sitting there alone, she seemed to be waiting for someone. 
+彼女はそこに一人で座って誰かを待っている様子でした。
+[102-04]
+Opening the velvet box, he took out a silver ring. 
+そのベルベットの箱を開けて，彼は銀の指輪を取り出した。
+[103-01]
+Born in Hong Kong in 1965, he was brought up in Beijing. 
+彼は1965年に香港で生まれ，北京で育ちました。
+[103-02]
+Having lost their home, they have no place to go. 
+家を失い，彼らにはどこにも行くところがない。
+[103-03]
+Having lost their home, they had no place to go. 
+家を失い，彼らにはどこにも行くところがなかった。
+[103-04]
+Having failed three times, I didn't want to try again. 
+すでに３度失敗しており，もうチャレンジする気にはならなかった。
+[104-01]
+Not knowing how to respond, I simply laughed. 
+どう答えていいかわからず，私はただあははと笑った。
+[104-02]
+I failed to recognize her at first, not having seen her for 20 years. 
+最初は彼女だと気づきませんでした。なにせ20年も会っていなかったのです。
+[104-03]
+Never having been in an earthquake and not knowing what to do, I just sat there and waited for it to be over. 
+地震はその時が初めてで，どうしたらよいのかわからず，ただそこにじっと座って地震が終わるのを待っていた。
+[105-01]
+Seeing him approach, she quickly put it away. 
+彼が近づいてくるのを見て，彼女は素早くそれを片づけた。
+[105-02]
+Seen from the air, the island resembles a whale. 
+上空から見るとその島は鯨に似ている。
+[105-03]
+China's economic power is still weak compared with that of Japan. 
+中国の経済力は日本と比較するとまだ弱い。
+[106-01]
+He's wise, considering his age. 
+彼は若いのに知恵がある。
+[106-02]
+Generally speaking, the Japanese are modest and patient. 
+一般的に言うと，日本人は控えめで我慢強い。
+[106-03]
+Speaking of part-time jobs, that reminds me of a terrible experience. 
+アルバイトと言えば，悲惨な思い出があってね。
+[106-04]
+Judging from his accent, he's probably from the Tohoku area. 
+ことばのなまりから判断すると，彼はたぶん東北の出身だね。
+[107-01]
+She stared at me, tears running down her cheeks. 
+彼女は私をじっと見つめた。涙が彼女の頬を伝っていた。
+[107-02]
+He was leaning against the wall, his arms folded across his chest. 
+彼は腕組みをして壁にもたれていた。
+[107-03]
+She stood up from the chair with tears running down her cheeks. 
+彼女は椅子から立ち上がった。涙が彼女の頬を伝っていた。
+[107-04]
+He sat with his legs crossed and his arms folded across his chest. 
+彼は脚を組み，腕組みをして座っていた。
+[107-05]
+There were lots of children running around with no clothes on. 
+服も身につけずに走り回っている子供がたくさんいた。
+[107-06]
+Don't talk with your mouth full. Sit up straight. 
+口一杯頬張ったまま話しちゃだめ。背筋を伸ばしてまっすぐ座りなさい。
+[108-01]
+Have you heard the news? 
+例のニュース，聞いた？
+[108-02]
+Have you heard that Beth is getting married in January? 
+ベスが１月に結婚するっていう話，聞いた？ 
+[108-03]
+Have you heard Beth is getting married in January? 
+ベスが１月に結婚するっていう話，聞いた？ 
+[108-04]
+She said it was popular, especially among women in their twenties. 
+それは特に20代の女性の間で人気があると彼女は言いました。
+[108-05]
+“Do you think they'll accept our offer?” “I don't think so.” 
+「先方が我々の申し出を受け入れると思うかい？」「そうは思いません」
+[108-06]
+The trouble with him is that he never keeps his promises. 
+彼は約束を守らないのが問題だ。
+[108-07]
+“Please tell him that Bill called.” “OK, I'll tell him you called.” 
+「ビルから電話があったとお伝えください」「わかりました。伝えておきます」
+[109-01]
+I'm certain that I turned off the gas. 
+ガスは確かに消しました。
+[109-02]
+“Are you sure you turned off the gas?” “Uh-huh.” 
+「火の元は大丈夫？」「うん」
+[109-03]
+I'm afraid we are closing in five minutes. 
+あと５分で閉店なんです。
+[109-04]
+He seems proud that he is no longer treated like a child. 
+もう子供扱いされなくなったことを彼は誇らしく思っているようです。
+[109-05]
+Do come in and sit down. I'm so glad you are here. 
+さあさあ中に入ってお座りください。本当によく来てくださいました。
+[109-06]
+“Sorry I'm late. Have you been waiting long?” “No, not really.” 
+「遅れてすみません。待ちましたか？」「いえ，そんなに」
+[109-07]
+I'm not surprised she didn't make it in America. 
+彼女がアメリカで成功しなかったことに驚きはないね。
+[110-01]
+It's a miracle that it worked. 
+うまくいったのは奇跡だね。
+[110-02]
+I'm proud of the fact that I've never missed a class. 
+私は１度も授業を休んだことがないというのが自慢です。
+[110-03]
+She denied rumors that she was getting divorced. 
+彼女は，近く自分が離婚するという噂を否定した。
+[110-04]
+I have a feeling we're being followed. 
+誰かに後をつけられているような気がする。
+[111-01a]
+Do you know that he is married? 
+彼が結婚しているということを知っていますか？ 
+[111-01b]
+Do you know he is married? 
+彼が結婚しているということを知っていますか？ 
+[111-02a]
+Do you know if he is married or single? 
+彼が結婚しているのか独身なのかを知っていますか？ 
+[111-02b]
+Do you know whether he is married or single? 
+彼が結婚しているのか独身なのかを知っていますか？ 
+[111-03a]
+I'll ask my boss if I can have a day off. 
+休みを取っていいか上司に聞いてみます。
+[111-03b]
+I'll ask my boss whether I can have a day off. 
+休みを取っていいか上司に聞いてみます。
+[111-04a]
+I wonder if I was able to make myself understood. 
+私の言いたいことはちゃんと伝わっただろうか。
+[111-04b]
+I wonder whether I was able to make myself understood. 
+私の言いたいことはちゃんと伝わっただろうか。
+[111-05a]
+I'm not sure if I can attend, but I'll try my best. 
+出席できるかどうかわかりませんが，できるだけ努力します。
+[111-05b]
+I'm not sure whether I can attend, but I'll try my best. 
+出席できるかどうかわかりませんが，できるだけ努力します。
+[111-06]
+The real question is whether we should continue to do so. 
+本当の問題は，我々がそうし続けるべきかどうかということです。
+[111-07]
+It all depends on whether you really want to do it or not. 
+要は君が本当にそれをしたいと思っているか否かだよ。
+[112-01]
+Who is it from? 
+それ，誰から？
+[112-02]
+I wonder who it's from. Let me see. It says “Santa.” 
+誰からかな。えーっと …「サンタ」って書いてある。
+[112-03]
+I can't express how grateful I am. 
+何ともお礼の言いようがありません。
+[112-04]
+Please tell me how I can assist you. 
+私でお役に立てることがあればおっしゃってください。
+[112-05]
+We should ask ourselves why our children are getting worse. 
+我々は，なぜ我々の子供達が悪くなってきているのかを自問すべきです。
+[112-06]
+What I do is my own affair. 
+私が何をしようと私の勝手です。
+[113-01]
+You know what I mean, right? 
+私の言いたいことはわかるでしょ？
+[113-02]
+What you say is quite different from what I heard from him. 
+君の話は僕が彼から聞いた話とずいぶん違うぞ。
+[113-03]
+Help yourself to whatever you like. 
+何でも好きなものをご自由にお取りください。
+[113-04]
+Whoever is happy will make others happy too. 
+自分が幸せな人はみな，他人をも幸せにします。
+[114-01]
+This is what you must do to avoid breaking the law. 
+これはあなたが法律に違反しないようにするために行わねばならないことです。
+[114-02]
+“That's how I persuaded my wife.” “I see.” 
+「そうやって妻を説得したんですよ」「なるほど」
+[114-03]
+“Doesn't it look like Mt. Fuji?” “Yes, that's why it's called Tacoma Fuji.” 
+「富士山に似ていませんか？」「ええ，だからタコマ富士と呼ばれています」
+[114-04]
+This is where you can listen to, download, and order my CDs. 
+こちらで私のＣＤを聞いたり，ダウンロードしたり，注文することができます。
+[114-05]
+This is when we have to be strong and look ahead. 
+今こそ我々は強い心を持って，しっかり前を見なければならないのです。
+[115-01]
+“Do you know how old he is?” “No. How old?” 
+「彼が何歳か知ってる？」「いいや。何歳なの？」
+[115-02]
+“How old do you think he is?” “Oh, I'd say maybe 22, 23.” 
+「彼は何歳だと思う？」「ああ，たぶん２２，３じゃないかな」
+[115-03]
+Who does he think he is? Some kind of expert? 
+あいつは何様のつもりだ。いっぱしの専門家か？
+[115-04]
+Um, what did you say your name was again? 
+えーっと，お名前は何とおっしゃいましたっけ。
+[115-05]
+How do you know he was lying? 
+どうして彼がうそをついていたってわかるんですか？
+[116-01]
+The police still haven't found the person who did it. 
+警察はまだ犯人を見つけていません。
+[116-02]
+Look. The gas station that used to be here is gone. 
+あっ，ここにあったガソリンスタンドがなくなってるよ。
+[116-03]
+We live in a society which shares the same culture and values. 
+私達は同じ文化と価値観を共有する社会に暮らしています。
+[117-01]
+Mother Teresa is the woman whom I admire the most. 
+マザー・テレサは私が最も素晴らしいと思う女性です。
+[117-02]
+Pick one color that you like. 
+お好きな色を１つ選んでください。
+[117-03]
+Mother Teresa is the woman I admire the most. 
+マザー・テレサは私が最も素晴らしいと思う女性です。
+[117-04]
+Pick one color you like. 
+お好きな色を一つ選んでください。
+[118-01]
+Unfortunately, we can't publish all the letters we receive. 
+残念ながら，頂いたお便りを全て紹介することはできません。
+[118-02]
+Luck is something you create using your ability. 
+運も実力のうちです。
+[118-03]
+The man Meg goes out with is tall, dark and handsome. 
+メグが付き合っている男性は背が高くて色黒でハンサムなの。
+[118-04]
+This is the same house they lived in in the movie “ET.” 
+これは映画「ET」の中で彼らが暮らしていたのと同じ家です。
+[119-01]
+I've got a friend whose first name is the same as yours. 
+私には，あなたと同じファースト・ネームの友達がいます。
+[119-02]
+The woman whose purse was stolen chased after the thief. 
+ハンドバッグを取られた女性は泥棒の後を追いかけた。
+[119-03]
+There was an Australian guy there whose name I've forgotten. 
+そこには，名前は忘れましたが，オーストラリア人の男性がいましたよ。
+[119-04]
+He tends to use words whose meanings he is not sure of. 
+彼は自分でも意味がよくわかっていないことばを使う傾向があります。
+[120-01]
+This is the building in which I work. I'm on the seventh floor. 
+これは私が働いているビルです。私は７階にいます。
+[120-02]
+In the pub I ran into an old friend with whom I went to high school. 
+そのパブで，私はかつて一緒に高校に通っていた旧友に出くわした。
+[121-01]
+I'd like to obtain a position in which I can apply my knowledge and skills. 
+自分のもっている知識と技能を活用できるポストにつければと思います。
+[121-02]
+We provide special support for students for whom English is their second language. 
+私達は，英語が第２言語である学生達に特別なサポートを提供しています。
+[121-03]
+There are over 500 international students, most of whom are from Asia. 
+留学生の数は500人以上で，その大半はアジアから来ています。
+[122-01]
+Asakusa is the town where I was born and raised. 
+浅草は私が生まれ育った町です。
+[122-02]
+This is the area where a major earthquake is most likely to occur. 
+ここは大きな地震が最も起こりやすい地域です。
+[122-03]
+This is the season when cherry blossoms are beautiful in Japan. 
+今，日本は桜の花が美しい季節です。
+[122-04]
+There are times when I feel empty and lonely. 
+私は，むなしく，孤独な気持ちになる時があります。
+[122-05]
+Long time no see! When was the last time that we met? 
+久しぶりだねー！　前に会ったのはいつだったっけ？
+[123-01]
+There are two main reasons why I quit drinking. 
+私が飲酒をやめた理由は主に２つあります。
+[123-02]
+I sold the piano, for the simple reason that I didn't use it. 
+ピアノを売りました。使っていないという単純な理由からです。
+[123-03]
+There are many ways that computers can save us time. 
+コンピューターは色々な形で時間を節約してくれます。
+[123-04]
+“That's the way he is in the classroom.” “Unbelievable!” 
+「彼は教室の中ではそんなふうにしていますよ」「信じられないです」
+[123-05]
+There are many ways in which computers can save us time. 
+コンピューターは色々な形で時間を節約してくれます。
+[123-06a]
+August 15th is the day on which World War II ended. 
+８月15日は第二次世界大戦が終わった日です。
+[123-06b]
+August 15th is the day when World War II ended. 
+８月15日は第二次世界大戦が終わった日です。
+[123-06c]
+August 15th is the day that World War II ended. 
+８月15日は第二次世界大戦が終わった日です。
+[123-07a]
+St. Andrews is the town in which golf was invented. 
+セント・アンドリュースはゴルフが生まれた町です。
+[123-07b]
+St. Andrews is the town where golf was invented. 
+セント・アンドリュースはゴルフが生まれた町です。
+[124-01]
+“I graduated from college in 1970.” “That's the year I was born.” 
+「私が大学を卒業したのは1970年です」「それって私が生まれた年ですよ」
+[124-02]
+Do you realize this is the third time you have failed? 
+失敗はこれが３度目だとわかっているのか？
+[124-03]
+The reason I called was to see if you had any plans for tomorrow. 
+明日，何か予定があるのかなと思って電話したんだけど。
+[125-01]
+We employ people who fit our “Customer First” policy. 
+私達は，「顧客第一」主義に合致する人物を採用しています。
+[125-02]
+This is Philip Chan, who I work with. 
+こちらは一緒に仕事をしているフィリップ・チャンです。
+[125-03]
+The earth, which moves around the sun, is called a planet. 
+太陽の周囲を回っている地球は惑星と呼ばれます。
+[125-04]
+I've been in the hospital for five days, which is driving me crazy. 
+入院して今日で５日目なんですが，頭がおかしくなりそうです。
+[125-05]
+I hate lazy people, which is why I hate myself at times. 
+私は怠け者が大嫌いです。だから時々自分のことが嫌になります。
+[126-01]
+How can I eat all these vegetables before they go bad? 
+どうしたらこれだけの野菜を腐らないうちに全部食べられるかな。
+[126-02]
+What are you planning to do after you retire? 
+退職後は何をする予定ですか？
+[126-03]
+There have been many changes around here since I was a little girl. 
+私が小さい頃からこの辺りもずいぶんと変わりました。
+[126-04]
+This is where I grew up until I was nine years old. 
+ここは私が９歳まで育った場所です。
+[127-01]
+What do you do when you have free time? 
+暇な時は何をしていますか？
+[127-02]
+While you're there, can you get me some batteries? 
+ついでに電池も買ってきてくれる？ 
+[127-03]
+As time passed, our relationship got worse. 
+時がたつにつれて我々の関係は悪化した。
+[127-04]
+I'll let you know as soon as I find out. 
+わかり次第すぐに知らせます。
+[127-05]
+I twisted my ankle while playing basketball. 
+バスケットをしている最中に足首をひねってしまった。
+[127-06]
+You push it from behind, and I'll pull it. 
+君は後ろから押すんだ。僕は引っ張るから。
+[128-01]
+By the time I got to the office, the meeting had already started. 
+会社に着いた時にはすでに会議が始まっていた。
+[128-02]
+I fell in love with this poem the moment I read it. 
+読んだ瞬間にこの詩が好きになりました。
+[128-03]
+You are better every time I see you. 
+見るたびにうまくなってるね。
+[128-04]
+Now that you're here, why don't you stay a while? 
+せっかく来たんだから，ちょっとゆっくりしていきなよ。
+[129-01]
+“Do you mind if I smoke?” “Well, yes. Actually I do mind.” 
+「たばこを吸ってもかまいませんか？」「あー，いいえ，実際のところ，困ります」
+[129-02]
+You'll get fired if you don't get your work done. 
+ちゃんと働かなかったら君はクビになるよ。
+[129-03]
+You'll get fired unless you get your work done. 
+ちゃんと働かない限り君はクビだよ。
+[129-04]
+You have nothing to worry about as long as you're prepared. 
+備えあれば憂いなしだよ。
+[129-05]
+Once something has happened, it's too late. 
+何か起こってしまってからでは遅いんだよ。
+[130-01]
+I didn't tell my mother because I was afraid of being punished. 
+母には話しませんでした。罰を受けるのが怖かったからです。
+[130-02]
+“Why did you choose those shoes?” “Because I liked the color.” 
+「どうしてあの靴にしたの？」「色が気に入ったから」
+[130-03]
+Since it's your birthday, I'll buy you a drink. 
+君の誕生日だから，一杯おごるよ。
+[130-04]
+Please drive carefully, as the road is rather narrow. 
+慎重に運転してくださいね。道幅がかなり狭いので。
+[130-05]
+Let me draw a map so you can find the shop easily. 
+その店がすぐ見つかるように地図を描きましょう。
+[130-06]
+Print this map so that you won't get lost.  
+道に迷わないように，この地図を印刷しておいてください。
+[131-01]
+Don't complain and do as you're told. 
+文句を言わずに言われたとおりにやりなさい。
+[131-02]
+As I said before, I oppose the building of this highway. 
+前にも言いましたように，私はこの道路の建設には反対なのです。
+[131-03]
+Life is short; therefore we should live the way we want to. 
+人生は短い。それゆえ，我々は生きたいように生きるべきだ。
+[131-04]
+Like I said, I don't even know where to begin. 
+だからさ，どこから手をつければいいのかすらわからないんだよ。
+[131-05]
+Her classmates ignored her as if she didn't exist. 
+クラスメート達は彼女をまるで存在しないかのように無視した。
+[132-01]
+Although the operation is not without risk, he intends to have it done. 
+その手術にリスクがないわけではないが，彼はそれを行うつもりでいる。
+[132-02]
+She told our parents, even though I had told her not to. 
+親には言うなと言っておいたのに，彼女はしゃべってしまった。
+[132-03]
+I love science, though I'm not good at it at all. 
+僕は理科が大好きです。全然得意ではないんですけどね。
+[132-04]
+It was pretty good, though a little boring in some parts. 
+なかなか良かったよ。ちょっと退屈な部分もあったけど。
+[132-05]
+I like to drink Coke, while she prefers Pepsi. 
+私はコカコーラが好きですが，彼女はペプシの方が好きです。
+[133-01]
+Whether we do it now or later, it has to be done sometime. 
+今やるにせよ後でやるにせよ，いつかはそれをやらねばならない。
+[133-02]
+You'll have to deal with it, whether you like it or not. 
+その問題には，否応なしに，対処を迫られることになりますよ。
+[133-03]
+No matter what I say, he always disagrees with me. 
+何を言っても，彼とは意見が食い違います。
+[133-04]
+No matter how much I eat, I never gain weight. 
+私はいくら食べても体重が増えないんです。
+[133-05]
+Whatever I do, I do my best. 
+私は何をするにもベストを尽くすようにしています。
+[133-06]
+Please don't hesitate to contact us whenever you need help. 
+困った時はいつでも遠慮なく私達に連絡してください。
+[134-01]
+“Freeze! Stay where you are!” “OK, OK, don't shoot!” 
+「動かないで！そこでじっとして！」「わかったから撃たないでくれ！」
+[134-02]
+I've hidden it where no one will find it. 
+誰にも見つからないところに隠しておいたよ。
+[134-03]
+She is recognized and asked for autographs wherever she goes. 
+彼女はどこへ行っても気づかれてサインを求められる。
+[134-04]
+“Wow! What a crowd!” “It's crowded everywhere we go.” 
+「うわー，すごい人込み」「どこへ行っても込んでるね」
+[134-05]
+“Is he against it?” “No, he's for it, as far as I know.” 
+「彼はそれに反対？」「いいえ，私の知る限りでは，彼はそれに賛成です」
+[134-06]
+It was so funny that I burst into laughter. 
+おかしくて吹き出してしまいました。
+[135-01]
+It may be true. 
+それは本当のことかもしれない。
+[135-02]
+It might be true. 
+それは本当のことかもしれない。
+[136-01]
+I miss you. 
+君がいなくてさみしい。
+[136-02]
+I'll miss you. 
+君がいなくなるとさみしいよ。
+[136-03]
+I will be twenty years old on my next birthday. 
+今度の誕生日で二十歳になります。
+[136-04]
+Play something on the piano--anything will do. 
+ピアノで何か弾いてよ。何でもいいから。
+[136-05]
+Perhaps this time it won't rain. 
+今回は雨は降らないんじゃないかな。
+[136-06]
+He'll probably say no, but it's worth asking anyway. 
+彼はたぶん「ノー」と言うだろうけど，とりあえず聞いてみる価値はある。
+[136-07]
+Do you mind if I smoke? 
+たばこを吸ってもかまいませんか？
+[136-08]
+I don't know if this will work, but it's worth a try. 
+これがうまくいくかどうかはわからないけど，やってみる価値はある。
+[137-01]
+I'll bring you a menu right away. 
+ただいまメニューをお持ちします。
+[137-02]
+I won't take no for an answer. 
+いやとは言わせませんよ。
+[137-03]
+“Will you marry me?” “Yes, I will.” 
+「僕と結婚してくれる？」「ええ，喜んで」
+[137-04]
+“Won't you join us?” “I'd love to.” 
+「一緒にやらない？」「ええ，ぜひ」
+[137-05]
+I'm going to fly to Fukuoka instead of going by Shinkansen. 
+福岡へは新幹線ではなく飛行機で行きます。
+[137-06]
+I'm gonna fly to Fukuoka instead of going by Shinkansen. 
+福岡へは新幹線ではなく飛行機で行きます。
+[138-01]
+By early November, she will have written her fourth novel. 
+11月初めまでに，彼女は４作目の小説を書き終えます。
+[138-02]
+In July, my father will have been dead for three years. 
+この７月で，父が亡くなって３年になります。
+[138-03]
+I wonder what I will be doing ten years from now. 
+10年後，僕は何をしているのかなあ。
+[138-04]
+Will you join us for dinner? 
+夕食をご一緒しませんか？
+[138-05]
+Will you be joining us for dinner? 
+夕食はご一緒なさいますか？
+[138-06]
+I had a great time. I'll see you later. Take care. 
+すごく楽しかったよ。じゃあ，また後日。元気でね。
+[138-07]
+I had a great time. I'll be seeing you. Take care. 
+とても楽しかったです。ではまた。お元気で。
+[139-01]
+I can count to ten in Russian. 
+ロシア語で10まで数えることができますよ。
+[139-02]
+“I can't thank you enough.” “You're quite welcome.” 
+「お礼の言いようもありません」「とんでもないです」
+[139-03]
+“Hello? Can you hear me?” “What? Can you speak up?” 
+「もしもし？ 聞こえますか？」「何ですか？大きな声で話してもらえますか？」
+[139-04]
+Can somebody call me an ambulance? 
+誰か救急車を呼んでくれますか？
+[139-05]
+I'll ask my boss if I can have a day off. 
+休みを取っていいか上司に聞いてみます。
+[139-06]
+Can I come one day to observe your class? 
+いつかクラスを見学しに行ってもいいですか？
+[139-07]
+“Can I help you?” “No thanks. I'm just looking.” 
+「何かお役に立てますでしょうか？」「いえ，ちょっと見ているだけです」
+[139-08]
+Can you drop me off at the corner? 
+そこの角で降ろしてもらえますか？
+[140-01]
+This sort of thing can go on forever. 
+こういうことがいつまでも続く可能性がありますね。
+[140-02]
+Don't worry. Anyone can make mistakes. 
+気にしないで。誰だってミスはあるんだから。
+[140-03]
+It can be very windy on top of the hill. 
+丘の頂上はとても強い風が吹くことがあります。
+[140-04]
+You'll see it on your left. You can't miss it. 
+それは左手にあります。必ずわかりますから。
+[140-05]
+“He can't be that silly, can he?” 
+彼がそんなに愚かなはずはないよね？ 
+[140-06]
+Who can it be at this hour? It's almost midnight. 
+こんな時間にいったい誰？ もうすぐ12時だっていうのに。
+[141-01]
+It may sound strange, but it's common. 
+それは変に聞こえるかもしれませんが，よくあるケースなんです。
+[141-02]
+You may not like it, but I'm in charge here. 
+君は気に入らないかもしれないが，ここの責任者はこの私だ。
+[141-03]
+It may rain this weekend. 
+週末は雨かもしれないね。
+[141-04]
+I may not be able to return calls until after business hours. 
+営業時間後まで，折り返しのお電話ができないかもしれません。
+[141-05]
+During the test, you may take a break to go to the rest room. 
+試験中，休憩を取ってトイレに行ってもかまいません。
+[141-06] 
+“May I eat this cake, Mommy?” “No, you may not.” 
+「ママ，このケーキ食べてもいい？」「だめです」
+[141-07]
+“May I take your order?” “Yes. Can I have the same as him?” 
+「お決まりですか？」「ええ。あの人と同じものをもらえますか？」
+[142-01]
+You must learn to remain calm. 
+君は感情を抑えることを覚えなければいけないね。
+[142-02]
+You mustn't wear make-up to school. 
+お化粧をして学校に来てはいけません。
+[142-03] 
+“Must I wear a jacket and tie?” “No, you don't have to.” 
+「上着とネクタイを着用しなくてはいけませんか？」「いえ，その必要はないです」
+[142-04]
+“Do I have to wear a jacket and tie?” “No, you don't have to.” 
+「上着とネクタイを着用しなくてはいけませんか？」「いえ，その必要はないです」
+[142-05]
+I had to work twelve hours a day, six days a week. 
+私は一日12時間，週６日働かなければならなかった。
+[142-06]
+“That must be Steve over there.” “It can't be.” 
+「あそこにいるの，スティーブだよね」「そんなわけないじゃん」
+[142-07]
+There has to be a reason for what he did. 
+彼がそんなことをしたのには何かわけがあるに違いない。
+[143-01]
+He's on another line now. Shall I have him call you back? 
+今，別の電話に出ております。あとで電話をかけさせましょうか？
+[143-02]
+“When shall we meet?” “How about Saturday evening?” 
+「いつお会いしましょうか？」「土曜の晩はどうですか？」
+[143-03]
+You should take an umbrella with you. 
+傘を持っていった方がいいですよ。
+[143-04]
+You shouldn't drink and drive. 
+お酒を飲んで運転するのはよくないよ。
+[143-05]
+“When should we meet next?” “When is good for you?” 
+「次に会うのはいつにする？」「いつが都合いいの？」
+[143-06]
+Where can he be? He should be home by now. 
+あいつはいったいどこにいるんだ？ もう家に帰っているはずなんだが。
+[143-07]
+His flight should arrive at the airport shortly. 
+彼の乗った飛行機はまもなく空港に到着するはずです。
+[144-01]
+You really ought to see a doctor about that. 
+それ，医者に診てもらった方がいいよ，ほんとに。
+[144-02]
+We ought not to take part in such activities. 
+私達はそのような活動には参加すべきではありません。
+[144-03]
+I'm still working on it but it ought to be ready by noon tomorrow. 
+今まだやっているところですが，明日の正午までには仕上がる見込みです。
+[144-04]
+Come on, we'd better hurry up, or we'll miss the bus. 
+ほら，急がないとバスに乗り遅れるよ。
+[144-05]
+For the time being, you'd better not tell anyone about this. 
+しばらくは，このことを誰にも話さない方がいいよ。
+[145-01]
+She might not want to see me anymore. 
+彼女はもう僕に会いたくないのかもしれないな。
+[145-02]
+I might be a few minutes late, but I'll be there. 
+少し遅れるかもしれないけど，ちゃんとそっちへ行くから。
+[145-03]
+To be honest, I was worried that it might be cancer or something. 
+正直，癌か何かじゃないかと心配していたんですよ。
+[145-04]
+I thought I might find you here. Can I interrupt you for a second? 
+ひょっとして君がここに来てるんじゃないかと思ってね。ちょっとだけいいかな？
+[145-05]
+I asked him, “May I see some samples of your work?” 
+「あなたの作品のサンプルをいくつか見させてもらえますか？」と私は彼に尋ねた。
+[145-06]
+I asked him if I might see some samples of his work. 
+私は彼に，作品のサンプルをいくつか見させてもらえないかと尋ねた。
+[146-01]
+“I'm so hungry I could eat a horse!” “Me too! Let's go have dinner.” 
+「腹ぺこだ」「私も。ご飯を食べに行こう」
+[146-02]
+This wine could be proudly served in any restaurant. 
+このワインはどんなレストランに出しても恥ずかしくない代物です。
+[146-03]
+Maybe we could go for a drink tonight. 
+今晩あたり一杯どう？
+[146-04]
+“How do you feel now?” “I couldn't be happier.” 
+「今の気分は？」「最高です！」
+[146-05]
+This could be our last chance. 
+ひょっとしたら，これがラストチャンスかもしれない。
+[146-06]
+It could be delayed until 2010 or later. 
+それは2010年かそれ以降までずれ込む可能性がある。
+[147-01]
+At the age of four she could already play the violin. 
+彼女は４歳の時にはすでにバイオリンを弾くことができた。
+[147-02]
+In those days you could buy a flat in central London for 10,000 pounds. 
+当時はロンドンの中心にあるマンションが１万ポンドで買えたんですよ。
+[147-03]
+It was so funny that I couldn't help laughing. 
+すごくおかしくて，笑いをこらえることができなかった。
+[147-04]
+I wonder if I was able to make myself understood. 
+ちゃんと理解してもらえたかなあ。
+[147-05]
+Were you able to see him? 
+彼にはちゃんと会えたの？
+[147-06]
+I must admit I wasn't able to get beyond page 20 in this book. 
+正直言うとね，この本は20頁まで読んで挫折したんだ。
+[147-07]
+I must admit I couldn't get beyond page 20 in this book. 
+正直言うとね，この本は20頁まで読んで挫折したんだ。
+[148-01]
+“What would be a good Christmas present?” “What about Harry Potter books?” 
+「クリスマス・プレゼントは何がいいかなあ」「ハリー・ポッターの本はどう？」
+[148-02]
+He would never do such a terrible thing. 
+彼はそんなひどいことをする人じゃないよ。
+[148-03]
+I would stay away from used stuff no matter who it comes from. 
+元の所有者が誰であれ，私なら中古品には手を出しませんけどね。
+[148-04]
+“Both sides must be blamed.” “I thought you'd say that.” 
+「まあ，どっちもどっちだね」「そう言うと思ったよ」
+[148-05]
+He promised me that he would always love me. 
+彼は私に変わらぬ愛を約束しました。
+[148-06]
+As a child I would often go fishing with my grandpa. 
+子供の頃，よくおじいちゃんと魚釣りに行きました。
+[149-01]
+“Which would you like, beef or fish?” “Beef, please.” 
+「牛肉か魚のどちらになさいますか？」「牛肉をお願いします」
+[149-02]
+I'd like to make a reservation for Friday night at 7:30. 
+金曜の夜７時半に予約をしたいのですが。
+[149-03]
+“Won't you join us?” “I'd love to.” 
+「一緒にやらない？」「ええ，ぜひ」
+[149-04]
+We have ice cream and pudding tonight. Which would you prefer? 
+今晩はアイスクリームとプリンがあるけど，どっちがいい？
+[149-05]
+“Would you give me a hand?” “I'd be glad to.” 
+「手を貸していただけますか？」「ええ，喜んで」
+[149-06]
+“Would you mind repeating that for me?” “OK.” 
+「もう１度言っていただいていいですか？」「わかりました」
+[149-07]
+“Please have a seat.” “No, thank you. I'd rather stand.” 
+「どうぞ座ってください」「いえ，けっこうです。立ってる方がいいので」
+[149-08]
+“How much do you earn?” “I'm sorry, I'd rather not say.” 
+「収入はどのくらいですか？」「ごめんなさい，ちょっとそういうことは」
+[150-01]
+Would you hold my bag so I can put on my coat? 
+コートを着るから，バッグを持っててくださる？
+[150-02]
+I hate to bother you, but could you please answer my question? 
+お忙しいところ恐縮なのですが，質問に答えていただいていいですか？
+[150-03]
+“Could you do me a favor?” “What is it?” “Would you lend me a hundred dollars?” 
+「ちょっとお願いを聞いてくれる？」「何？」「僕に100ドル貸してくれるかな」
+[150-04]
+“Could I borrow this for a minute?” “Sure, go ahead.” 
+「これ，ちょっとお借りしていいですか？」「ええ，どうぞ」
+[150-05]
+I wonder if you could help me. 
+手伝っていただいてもいいでしょうか。
+[151-01]
+They must have made this up, don't you think? 
+これって絶対やらせだよね。そう思わない？
+[151-02]
+It must have cost a fortune to build this garden. 
+この庭を造るにはさぞかしお金がかかっただろうね。
+[151-03]
+Now that I think about it, I may have been wrong. 
+今思うと，私の考えが間違っていたのかもしれません。
+[151-04]
+You may not have heard of them yet, but in time you will. 
+彼らのことはまだ聞いたことがないかもしれないけど，そのうち耳にするよ。
+[151-05]
+Oh, come on, you can't have forgotten everything, can you? 
+おいおい，全部忘れたなんて言うんじゃないだろうな。
+[151-06]
+He can't have left already, can he? 
+まさか，もう行っちゃったなんてことはないよね。
+[152-01]
+She might not have considered me as a close friend. 
+彼女は私のことを親友とは見なしていなかったのかもしれない。
+[152-02]
+I can't believe you did that--you might have been killed! 
+そんなことするなんて信じられん。お前，死んでたかもしれないんだよ。
+[152-03]
+As you might have noticed, I'm a big fan of rock music. 
+すでにお気づきかもしれませんが，私は大のロックファンなんです。
+[152-04]
+“You could've at least called me.” “I was going to.” 
+「電話ぐらいしてくれたらよかったのに」「そうするつもりだったんだよ」 
+[152-05]
+I can't believe you did that--you could have been killed! 
+そんなことするなんて信じられん。お前，死んでたかもしれないんだぞ。
+[152-06]
+The trip to Australia couldn't have been better. 
+オーストラリア旅行は最高によかったよ。
+[153-01]
+I would have liked a higher ceiling. 
+ほんとはもう少し高い天井がよかったんですけど。 
+[153-02]
+It wasn't your fault--it would have happened sooner or later. 
+それは君のせいじゃない。遅かれ早かれ起こっていたことだよ。 
+[153-03]
+Without your help I would never have made such progress. 
+あなたの助けなしには私は決してこんなに上達していませんでした。 
+[153-04]
+I should have asked somebody else to do it. 
+誰か他の人間にそれを頼むべきだったよ。
+[153-05]
+I ought to have asked somebody else to do it. 
+誰か他の人間にそれを頼むべきだったよ。
+[153-06]
+“It's a little something to say thanks.” “Oh, you shouldn't have.” 
+「これ，ほんのお礼にと思って」「まあ，そんなのいいのに」
+[153-07]
+I mailed it on Monday, so it should have gotten there by now. 
+月曜日に送ったので，もう向こうに着いているはずです。
+[154-01]
+If you won 300 million yen in the lottery, would you still work? 
+仮に宝くじで３億円当たったとして，それでもなお仕事をしますか？
+[154-02]
+I would never return to this resort, even if they paid me. 
+もうこのリゾート地に来るのはごめんだよ。たとえ金を払うと言われてもね。
+[154-03]
+If you were older, you might understand. 
+君がもう少し大人なら，わかるかもしれないんだけどね。
+[154-04]
+What would I do if I were in that situation? 
+仮に私がその状況に置かれていたら，どうするだろうか。
+[154-05]
+I would stay here again if I were to visit Bali in the future. 
+将来バリに来るようなことがあったら，またここに宿泊するわ。
+[154-06]
+I would stay here again if I should visit Bali in the future. 
+将来バリに来るようなことがあったら，またここに宿泊するわ。
+[155-01]
+If it hadn't been so expensive, I would have bought it. 
+あんなに高くなけりゃ，買ってたんだけどなあ。
+[155-02]
+I could have warned you if you'd asked. 
+聞いてくれたら，ちゃんと注意してあげられたのに。
+[155-03]
+If we had acted sooner, things might have been different. 
+もし我々がもっと早く行動していたら，状況は違っていたかもしれない。
+[155-04]
+If the police had acted sooner, she would still be alive. 
+もし警察がもっと早く行動していたら，彼女は今も生きていただろう。
+[155-05]
+If you had followed the map, we wouldn't be lost. 
+ちゃんと地図通りに行ってれば迷わなかったのに。
+[155-06]
+If I were rich, I would have bought that Porsche we saw yesterday. 
+俺が金持ちなら，昨日のあのポルシェを買ってたんだけどなあ。
+[156-01]
+I wish I was thinner. I wish my head wasn't so big. 
+もっとやせていたらなあ。もっと顔が小さければなあ。
+[156-02]
+You're a brave man. I wish I had the courage to do what you did. 
+君は勇敢な男だ。君と同じことをする勇気が僕にあればと思うよ。
+[156-03]
+Ugh, I wish I didn't have to go to work tomorrow. 
+あー，明日は仕事に行きたくないなあ。
+[156-04]
+Looking back, I wish I had studied harder. 
+今振り返ると，もっと勉強しておけばよかったと思う。
+[156-05]
+I wish I had spent more time enjoying myself. 
+もっと遊んでおけばよかったなあ。
+[156-06]
+I wish I could get rid of this headache. 
+この頭痛が治ったらなあ。
+[156-07]
+I wish they would stop making noise. 
+彼らが騒音を出すのをやめてくれればいいんだが。
+[157-01]
+How much would it be if I bought this one as well? 
+これも一緒に買ったとしたら，いくらになるでしょうか。
+[157-02]
+Would it be all right if I turned the radio on? 
+ラジオをつけてもかまいませんか？
+[157-03]
+Would you mind if I turned the radio on? 
+ラジオをつけてもかまいませんか？
+[157-04]
+I'd be grateful if you would reply as soon as you can. 
+できるだけ早くお返事を頂ければありがたいです。
+[157-05]
+I wish you would help me with my problem. 
+私のこの悩みをなんとかしてもらえればと思うのですが。
+[158-01]
+If water boils, it changes into steam. 
+水が沸騰すると水蒸気に変わる。
+[158-02]
+If you mix black and white, you get gray. 
+黒と白を混ぜると，灰色になります。
+[158-03]
+You'll get fired if you don't get your work done. 
+ちゃんと働かなかったらクビになるよ。
+[158-04]
+Wow, this looks tough. You must be smart if you figured it out. 
+わぁ，難しそう。こんなのがわかったのなら，あなたきっと頭がいいんだね。
+[158-05]
+This is for you. I hope you'll like it. 
+これ，おみやげ。気に入ってくれるといいんだけど。
+[158-06]
+I hope I didn't wake you. 
+起こさなかった？
+[159-01]
+Don't take that ladder away. I'm using it. 
+そのはしごを持っていかないでくれ。今使ってるから。
+[159-02]
+“Whose fault is that?” “It's yours.” 
+「それって誰のせい？」「君だよ」
+[159-03]
+I recommend renting a car if you can afford it. 
+余裕があれば，レンタカーを借りることをすすめます。
+[159-04]
+You'll have to deal with it, whether you like it or not. 
+好むと好まざるとにかかわらず，その問題には対処を迫られますよ。
+[159-05]
+“Who is it?” “It's me. Elizabeth.” “Hi, Betty. Come on in.” 
+「どなたですか？」「私。エリザベス」「やあ，ベティ。さあ入って」
+[159-06]
+If it's a boy, we'll name him Edward. 
+男の子だったらエドワードという名前にします。
+[159-07]
+It's started raining, so I'll drive you home. 
+雨が降ってきたから，車で家まで送るよ。
+[159-08]
+It was supposed to be sunny and warm, but it's cloudy and cold. 
+晴れて暖かくなるということでしたけど，曇ってて寒いですね。
+[159-09]
+It's getting dark outside. 
+外が暗くなってきたな。
+[159-10]
+It's about 950 miles, or 1530 kilometers, from Los Angeles to Seattle. 
+ロサンゼルスからシアトルまで約950マイルもしくは1530キロです。
+[159-11]
+Once something has happened, it's too late. 
+何か起こってしまってからでは遅いんだよ。
+[159-12]
+Let me pay the bill. It's my turn. 
+私に払わせてください。今回は私の番ですから。
+[159-13]
+“Wow! What a crowd!” “It's crowded everywhere we go.” 
+「うわー，すごい人込み」「どこへ行っても込んでるね」
+[160-01]
+Wake up! It's already past eight. 
+起きなさい！もう８時過ぎよ。
+[160-02]
+“What day is it? Wednesday?” “That's right.” 
+「今日は何曜日？ 水曜？」「そうだよ」
+[160-03]
+It's getting dark outside. It's time we went home. 
+外が暗くなってきた。もう帰る時間だ。
+[160-04]
+It's about time we got a new washing machine. 
+そろそろ洗濯機を買い換える時期だね。
+[160-05]
+It has been more than a century since the college was established. 
+その大学が創立されてからもう１世紀以上が経ちます。
+[160-06]
+“How long is it since we last met?” “Five years, I believe.” 
+「前に会ってからもうどのくらい経つかねぇ」「５年だと思います」
+[160-07]
+It will be years before these investments yield profits. 
+これらの投資が利益を生むまでには何年かかかります。
+[160-08]
+It was a long time before I heard from him again. 
+彼から再び連絡があったのはだいぶ時間が経ってからでした。
+[161-01]
+It's dangerous to run to catch the train. 
+駆け込み乗車は危険です。
+[161-02]
+Would it be possible to put it off till the end of March? 
+３月末までそれを延期していただくことは可能でしょうか。
+[161-03]
+I often find it difficult to translate my thoughts into words. 
+私はよく自分の思っていることをことばにするのが難しいと感じます。
+[161-04]
+It's natural for her to get angry. 
+彼女が怒るのは当然だよ。
+[161-05]
+It's nice of you to say so. 
+そう言ってもらえてうれしいです。
+[161-06]
+It's fun being here. We all like it here. 
+ここにいるのは楽しいです。我々はみんなここが気に入っています。
+[161-07]
+“Well, it was nice meeting you.” “Nice meeting you too. Bye.” 
+「お会いできてよかったです」「こちらこそ。では」
+[161-08]
+Perhaps it's no use telling her anything. 
+たぶん彼女に何を言ってもむだだよ。
+[162-01]
+Is it true that his family once owned three factories? 
+彼の家がかつて３つ工場を所有していたというのは本当？
+[162-02]
+It's wonderful you have a friend like her. 
+あなたに彼女のような友達がいるのは素晴らしいことですよ。
+[162-03]
+It seems that you are improving all the time. 
+君は常に上達しているようだね。
+[162-04]
+It is said that the mansion is haunted by the ghost of a child. 
+その館には子供の幽霊が出ると言われています。
+[162-05]
+It's amazing how quickly time goes by. 
+時間が経つのってほんとに早いよね。
+[162-06]
+It doesn't matter what you study in college as long as you enjoy it. 
+大学では何を勉強してもかまいません。それが楽しければ。
+[162-07]
+It makes no difference whether you are male or female, young or old. 
+性別や年齢は全く関係ないです。
+[162-08]
+Wouldn't it be nice if we could spend more time together? 
+一緒に過ごせる時間をもっと増やせたら素敵じゃない？
+[163-01]
+It was Burns that scored four goals in the final. 
+決勝戦で４ゴールを挙げたのはバーンズだった。
+[163-02]
+It was four goals that Burns scored in the final. 
+バーンズが決勝戦で挙げたのは４ゴールだった。
+ [163-03]
+It was in the final that Burns scored four goals. 
+バーンズが４ゴールを挙げたのは決勝戦でだった。
+[163-04]
+It's just that kind of attitude that really makes me mad. 
+しゃくにさわるのは，まさにああいう態度なんだよな。
+[163-05]
+It was on July 4th, 1776 that the thirteen states declared independence. 
+その13州が独立を宣言したのは1776年７月４日でした。
+[163-06]
+It was my music teacher who got me interested in jazz. 
+私がジャズに興味をもつきっかけとなったのは私の音楽の先生でした。
+[163-07]
+What is it that you're trying to say? 
+結局，何が言いたいの？
+[163-08]
+Why is it that you don't believe in God? 
+あなたが神を信じないのはいったい何故ですか？
+[164-01]
+You look prettier with your hair down. 
+君は髪をおろした方がかわいいよ。
+[164-02]
+If we had acted sooner, things might have been different. 
+我々がもっと早く行動していたら，状況は違っていたかもしれない。
+[164-03]
+I'm visiting today to introduce our newest product. 
+今日は当社の新製品をご紹介にまいりました。
+[164-04]
+Which route will get us there the fastest? 
+どのルートで行くのが一番早いですか？
+[164-05]
+Which is more important, money or honor? 
+お金か名誉か，どちらがより重要ですか？
+[164-06]
+Pardon me? Please speak a little more slowly. 
+何とおっしゃいましたか？ もう少しゆっくりお願いします。
+[164-07]
+It's one of the oldest and most famous cities in the world. 
+それは世界で最も古く最も有名な都市の１つです。
+[164-08]
+The police examined his room most carefully. 
+警察は彼の部屋を最も注意深く調べた。
+[165-01]
+It was a slow start, but we got better as the game went on. 
+出だしは鈍かったが，試合が進むにつれて我々は良くなった。
+[165-02]
+Attack is the best form of defense. 
+攻撃は最大の防御だよ。
+[165-03]
+She is best known for her role in the movie “Pretty Woman.” 
+彼女は映画「プリティー・ウーマン」での役で最もよく知られている。
+[165-04]
+“Are you feeling all right now?” “Better, I guess.” 
+「どう？もう気分は大丈夫？」「たぶん」
+[165-05]
+We should ask ourselves why our children are getting worse. 
+我々は，なぜ子供達が悪くなってきているのかを自問すべきだ。
+[165-06]
+Frankly, this is the worst show I have ever seen. 
+正直，これって私が今までに見た中で最もひどい番組だわ。
+[165-07]
+My bet is I did best in English and worst in math. 
+予想だと英語が一番良く出来て，数学が一番だめだったと思う。
+[166-01]
+A prize will be given to whoever sells the most tickets. 
+誰でも一番多くチケットを売った人に賞品が出ます。
+[166-02]
+I wish I had spent more time enjoying myself. 
+もっと遊んでおけばよかったなあ。
+[166-03]
+He is the youngest of all and has the least experience. 
+彼はみんなの中で一番年少で，また最も経験が少ない。
+[166-04]
+Which is more important, money or honor? 
+お金と名誉，どちらがより大切ですか？
+[166-05]
+I come here less often these days. 
+最近，ここへ来る回数が減っています。
+[166-06]
+Of all the subjects, I hate PE the most. 
+全ての科目の中で，私は体育が一番嫌いです。
+[166-07]
+Now, let's talk less and work more. 
+さあ，おしゃべりを少なくして，もっと仕事をしましょう。
+[167-01]
+The gap between the rich and the poor is becoming wider and wider. 
+富裕層と貧困層の格差がどんどん広がっています。
+[167-02]
+They say people are reading less and less. 
+人々の活字離れが進んでいるそうです。
+[167-03]
+The two restaurants are one block apart, and “Fiesta” is the more formal of the two. 
+その２つのレストランは１区画離れており，「フィエスタ」の方がより格式的です。
+[167-04]
+I worked all the harder because I was praised. 
+私はほめられてなお一層仕事に熱が入った。
+[167-05]
+I want to get started as soon as possible--the sooner, the better. 
+できるだけ早く始めたいんです。早ければ早いほどいいんです。
+[167-06]
+The more effort you make, the more you get out of it. 
+努力すればするほど，そこから得るものも大きい。
+[168-01]
+My girlfriend is two years older than me. 
+僕の彼女は僕より２歳年上です。
+[168-02]
+My girlfriend is two years older than I am. 
+僕の彼女は僕より２歳年上です。
+[168-03]
+You have more than me! That's not fair! 
+私より多いなんてずるい！ 
+[168-04]
+You have more than I do! That's not fair! 
+私より多いなんてずるい！ 
+[168-05]
+Some scientists get less attention than they deserve. 
+実力に見合う注目を得ていない科学者もいます。
+[168-06]
+Trade policy is more important today than it was in the past. 
+今日，貿易政策は，過去よりもさらに重要性が増している。
+[169-01]
+I wish I was as cool as him. 
+俺もあいつと同じくらいかっこよけりゃなぁ。
+[169-02]
+If only I were as cool as he is. 
+ああ，僕も彼と同じくらいかっこよかったらなあ。
+[169-03]
+We ran away from the place as fast as we could. 
+我々はその場から一目散に逃げ去った。
+[169-04]
+Jim looked as ill as he had sounded on the phone. 
+ジムは電話で話した時の様子と同じように体調が悪そうだった。
+[169-05]
+Actually, it's not as simple as that. 
+現実には，それほど単純ではありません。 
+[169-06]
+My brother is not as clever as he thinks he is. 
+兄は，本人が思っているほど賢くはない。
+[169-07]
+The man on my right was as big as a sumo wrestler. 
+私の右側にいた男性はお相撲さんのように大きかった。
+[170-01]
+In area, it is about five times as large as the United Kingdom. 
+面積では，それは英国の約５倍あります。
+[170-02]
+The job took only half as long as I expected. 
+その仕事は予想の半分の時間しかかからなかった。
+[170-03]
+I work twice as much as I used to and get half as much for it. 
+私は今，以前の倍働き，それに対して半分の額を受け取っています。
+[170-04]
+Europe has twice as many people as the U.S. 
+ヨーロッパはアメリカの２倍の人口があります。
+[170-05]
+I hear that teenagers today drink twice as much soda as milk. 
+今日の10代の若者は牛乳の２倍の炭酸飲料を飲んでいるのだそうです。
+[170-06]
+He is 100 times richer than me. 
+彼は私より100倍金持ちです。
+[170-07]
+They offered me three times my present salary! 
+先方は私に現在の給料の３倍出すと言ってきたのよ。
+

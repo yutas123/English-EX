@@ -1,5 +1,6 @@
 ENGLISH_EX-CD/
 public/audio/
+public/dictation/audio/
 node_modules/
 .next/
 .env*

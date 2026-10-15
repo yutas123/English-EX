@@ -112,6 +112,7 @@ async function homeScreen() {
       </div>
       <button class="btn ghost block" id="bm-list" style="margin-top:10px" ${bm ? "" : "disabled"}>★ ブックマーク一覧 (${bm})</button>
     </div>
+    <a class="btn ghost block" href="dictation.html" style="margin-bottom:6px">🎧 ディクテーション練習へ</a>
     <h2>単元</h2>
     <div class="units">${idx.map((u) => {
       const ids = all.filter((k) => k.startsWith(u.unit + "-"));
