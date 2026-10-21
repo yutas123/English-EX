@@ -203,13 +203,15 @@ function lessonScreen(lesson, only) {
     if (!text.trim()) return;
     const c = clips[st.i], r = judge(text, c.en), d = diffHtml(text, r.b);
     const errs = r.ok ? [] : N.classify(r.a, r.b);
-    if (r.ok) { st.ok++; done[c.id] = 1; save(); } else { st.ng++; if (!st.wrong.includes(c)) st.wrong.push(c); N.addMiss(c.id, text.trim(), errs); }
+    // 正解の語のうち一致したのが3割未満なら聞き取れなかったものとし、ミスの集計には入れない
+    const gaveUp = !r.ok && r.b.length - errs.filter((e) => e.a).length < r.b.length * 0.3;
+    if (r.ok) { st.ok++; done[c.id] = 1; save(); } else { st.ng++; if (!st.wrong.includes(c)) st.wrong.push(c); if (!gaveUp) N.addMiss(c.id, text.trim(), errs); }
     const last = st.i === clips.length - 1;
     app.innerHTML = `<div class="card">
         <div class="q-meta"><span>${c.id} <button class="chip bm" data-bm="${c.id}">${N.isBm(c.id) ? "★" : "☆"}</button></span><span>${st.i + 1} / ${clips.length}</span></div>
         <div class="sub">あなたの入力</div><div class="en ${r.ok ? "dok" : ""}" style="line-height:1.6">${d.input}</div>
         <div class="sub" style="margin-top:10px">正解</div><div class="en ${r.ok ? "dok" : ""}" style="line-height:1.6">${r.ok ? esc(c.en) : d.answer}</div>
-        ${errs.length ? `<div class="errs">${errs.map((e) => `<span class="etag">${esc(N.KINDS[e.k])}${e.a || e.i ? `：${esc(e.i || "なし")} → ${esc(e.a || "なし")}` : ""}</span>`).join("")}</div>` : ""}
+        ${gaveUp ? '<div class="sub" style="margin-top:8px">聞き取れなかった文として、ミス記録には入れていません</div>' : errs.length ? `<div class="errs">${errs.map((e) => `<span class="etag">${esc(N.KINDS[e.k])}${e.a || e.i ? `：${esc(e.i || "なし")} → ${esc(e.a || "なし")}` : ""}</span>`).join("")}</div>` : ""}
         <div class="jp" style="margin-top:12px">${esc(c.ja)}</div>
         <div class="actions"><button class="btn ghost" id="play">🔊 再生</button><button class="btn ghost" id="retry">もう一度挑戦</button><button class="btn" id="next">${last ? "結果を見る" : "次へ"}</button></div>
         <p class="sub">Ctrl+↓: 再生/停止 ／ Ctrl+←: 頭から ／ Enter: ${last ? "結果へ" : "次へ"}</p>
