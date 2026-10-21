@@ -21,3 +21,11 @@ model DictationDone {
   id        String   @id
   updatedAt DateTime @updatedAt
 }
+
+// ディクテーションの文ごとのメモ（ブックマーク・ミス記録）。dataは { bm, miss:[...] }、uは最終更新(ms)
+model DictationNote {
+  id        String   @id // 例: "001-01"
+  data      Json
+  u         BigInt
+  updatedAt DateTime @updatedAt
+}

@@ -90,3 +90,12 @@ dialog::backdrop { background: rgba(0,0,0,.45); }
 .lcell.full { background: var(--ok); border-color: var(--ok); color: #fff; } .lcell.full b { color: #fff; font-size: 14px; }
 .party { font-size: 48px; line-height: 1.2; animation: pop .5s ease-out; }
 @keyframes pop { 0% { transform: scale(.3); opacity: 0 } 70% { transform: scale(1.2) } 100% { transform: scale(1); opacity: 1 } }
+button, a.btn { touch-action: manipulation; -webkit-tap-highlight-color: transparent; }
+.rd-en { font-size: 19px; line-height: 1.6; margin: 4px 0 10px; }
+.rd-ja { margin-top: 10px; padding-top: 8px; border-top: 1px dashed var(--line); font-size: 16px; }
+.chip.bm { padding: 0 8px; font-size: 18px; margin-left: 4px; }
+.errs { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
+.etag { font-size: 12px; padding: 2px 8px; border-radius: 10px; background: var(--bg); border: 1px solid var(--ng); color: var(--ng); }
+.kind { position: relative; overflow: hidden; display: flex; justify-content: space-between; width: 100%; margin-top: 6px; font: inherit; font-size: 14px; padding: 8px 10px; border-radius: 8px; border: 1px solid var(--line); background: var(--bg); color: var(--fg); cursor: pointer; text-align: left; }
+.kind i { position: absolute; left: 0; bottom: 0; height: 3px; background: var(--ng); }
+.kind.on { border-color: var(--brand); }

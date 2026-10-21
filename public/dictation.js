@@ -1,4 +1,5 @@
 // ディクテーション練習（ReStart）。音声を聞いて英文を打ち込み、正誤判定する。
+import * as N from "./dnotes.js";
 const $ = (s) => document.querySelector(s);
 const app = $("#app"), titleEl = $("#title"), backBtn = $("#back"), player = $("#player");
 const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
@@ -67,9 +68,13 @@ function diffHtml(input, b) {
 }
 
 let lessons = [];
-const restart = () => { try { player.currentTime = 0; player.play().catch(() => {}); } catch { /* 無視 */ } };
+// スマホ対策: play() はタップ操作の中で同期的に呼ぶ。読み込み前なら再生開始位置は0なのでそのまま呼べばよい
+const restart = () => {
+  try { if (player.readyState >= 1) player.currentTime = 0; } catch { /* 無視 */ }
+  player.play().catch(() => {}); syncBtn();
+};
 // 再生中なら停止、停止中なら続きから（終了後は頭から）再生
-const toggle = () => { if (!player.paused) player.pause(); else if (player.ended) restart(); else player.play().catch(() => {}); };
+const toggle = () => { if (!player.paused) player.pause(); else if (player.ended) restart(); else player.play().catch(() => {}); syncBtn(); };
 // 共通ショートカット: Ctrl+↓ 再生/停止、Ctrl+← 頭から再生
 function audioKeys(e) {
   if (!e.ctrlKey) return false;
@@ -78,10 +83,59 @@ function audioKeys(e) {
   return false;
 }
 const syncBtn = () => { const b = $("#play"); if (b) b.textContent = player.paused ? "🔊 再生" : "⏹ 停止"; };
-player.addEventListener("play", syncBtn); player.addEventListener("pause", syncBtn); player.addEventListener("ended", syncBtn);
+["play", "playing", "pause", "ended", "emptied", "error"].forEach((ev) => player.addEventListener(ev, syncBtn));
 let onKey = null; // 画面ごとのキー操作
 document.addEventListener("keydown", (e) => onKey && !e.isComposing && !e.repeat && onKey(e));
 function setView(title, back) { titleEl.textContent = title; backBtn.onclick = back; onKey = null; scrollTo(0, 0); }
+
+function bindBm() {
+  app.querySelectorAll("[data-bm]").forEach((b) => {
+    b.addEventListener("mousedown", (e) => e.preventDefault());
+    b.onclick = () => { b.textContent = N.toggleBm(b.dataset.bm) ? "★" : "☆"; };
+  });
+}
+const allClips = () => lessons.flatMap((l) => l.clips);
+const custom = (title, clips) => ({ no: 0, custom: true, title, clips });
+
+/* ---------- ブックマーク一覧 ---------- */
+function bookmarkScreen() {
+  setView("★ ブックマーク", listScreen);
+  const clips = allClips().filter((c) => N.isBm(c.id));
+  if (!clips.length) { app.innerHTML = '<p class="sub">ブックマークはまだありません。問題画面の ☆ を押すと追加できます。</p>'; return; }
+  app.innerHTML = `<button class="btn block" id="go" style="margin-bottom:12px">この ${clips.length} 問に挑戦</button>` + clips.map((c) => `<div class="card">
+      <div class="q-meta"><span>${c.id}${done[c.id] ? " ✓" : ""}</span><button class="chip" data-un="${c.id}">★ 外す</button></div>
+      <div class="rd-en">${esc(c.en)}</div><div class="jp">${esc(c.ja)}</div>
+      <div class="actions"><button class="btn ghost" data-pl="${c.id}">🔊 再生</button></div></div>`).join("");
+  $("#go").onclick = () => lessonScreen(custom("★ ブックマーク", clips), clips);
+  app.querySelectorAll("[data-un]").forEach((b) => (b.onclick = () => { N.toggleBm(b.dataset.un); bookmarkScreen(); }));
+  app.querySelectorAll("[data-pl]").forEach((b) => (b.onclick = () => { player.src = `dictation/audio/${b.dataset.pl}.mp3`; player.load(); player.play().catch(() => {}); }));
+}
+
+/* ---------- ミス記録（要因別の集計） ---------- */
+function missScreen(kind) {
+  setView("📊 ミス記録", listScreen);
+  const byId = Object.fromEntries(allClips().map((c) => [c.id, c]));
+  const rows = Object.entries(N.notes).filter(([id, n]) => n.miss.length && byId[id]);
+  if (!rows.length) { app.innerHTML = '<p class="sub">ミスの記録はまだありません。間違えると要因が自動で分類されて記録されます。</p>'; return; }
+  const count = {}; let total = 0;
+  for (const [, n] of rows) for (const m of n.miss) for (const e of m.errs) { count[e.k] = (count[e.k] || 0) + 1; total++; }
+  const kinds = Object.keys(N.KINDS).filter((k) => count[k]).sort((x, y) => count[y] - count[x]);
+  const list = rows.filter(([, n]) => !kind || n.miss.some((m) => m.errs.some((e) => e.k === kind)))
+    .sort((x, y) => y[1].miss.length - x[1].miss.length || y[1].miss.at(-1).t - x[1].miss.at(-1).t);
+  app.innerHTML = `<div class="card"><div class="sub">ミスの要因（誤りの箇所 ${total} 件）</div>${kinds.map((k) => `<button class="kind ${kind === k ? "on" : ""}" data-k="${k}">
+      <span>${esc(N.KINDS[k])}</span><b>${count[k]}</b><i style="width:${(count[k] / total) * 100}%"></i></button>`).join("")}
+      ${kind ? '<button class="btn ghost block" id="all" style="margin-top:8px">絞り込みを解除</button>' : ""}</div>
+    <button class="btn block" id="go" style="margin-bottom:12px">${kind ? "この要因の" : "ミスした"} ${list.length} 文に挑戦</button>` +
+    list.map(([id, n]) => { const c = byId[id], last = n.miss.at(-1); return `<div class="card">
+      <div class="q-meta"><span>${id}${done[id] ? " ✓" : ""}</span><span>ミス ${n.miss.length} 回</span></div>
+      <div class="rd-en">${esc(c.en)}</div>
+      <div class="sub">前回の入力: ${esc(last.inp)}</div>
+      <div class="errs">${[...new Set(n.miss.flatMap((m) => m.errs.map((e) => e.k)))].map((k) => `<span class="etag">${esc(N.KINDS[k])}</span>`).join("")}</div></div>`; }).join("");
+  app.querySelectorAll("[data-k]").forEach((b) => (b.onclick = () => missScreen(kind === b.dataset.k ? null : b.dataset.k)));
+  if (kind) $("#all").onclick = () => missScreen();
+  const clips = list.map(([id]) => byId[id]);
+  $("#go").onclick = () => lessonScreen(custom("ミスした文", clips), clips);
+}
 
 /* ---------- レッスン一覧 ---------- */
 const cleared = (l) => l.clips.filter((c) => done[c.id]).length;
@@ -96,7 +150,10 @@ function listScreen() {
     const n = cleared(l), len = l.clips.length, cls = n === len ? "full" : n ? "part" : "";
     return `<button class="lcell ${cls}" data-l="${l.no}"><span>${String(l.no).padStart(2, "0")}</span><b>${n === len ? "✓" : `${n}/${len}`}</b>${cls === "part" ? `<i style="width:${(n / len) * 100}%"></i>` : ""}</button>`;
   }).join("");
-  app.innerHTML = `<div class="card hero">
+  const nbm = Object.keys(N.notes).filter(N.isBm).length, nmiss = Object.values(N.notes).filter((x) => x.miss.length).length;
+  app.innerHTML = `<a class="btn ghost block" href="reader.html" style="margin-bottom:8px">📖 英文・和訳・音声ページへ</a>
+    <div class="actions" style="margin:0 0 12px"><button class="btn ghost" id="bmlist">★ ブックマーク (${nbm})</button><button class="btn ghost" id="misslist">📊 ミス記録 (${nmiss})</button></div>
+    <div class="card hero">
       <div class="sub">クリアした文</div>
       <div class="big">${got}<small> / ${total}</small> <span class="pct">${pct}%</span></div>
       <div class="bar"><i style="width:${(got / total) * 100}%"></i></div>
@@ -105,6 +162,7 @@ function listScreen() {
     </div>
     <div class="legend sub"><i class="lg"></i>未着手 <i class="lg part"></i>途中 <i class="lg full"></i>完全クリア</div>
     <div class="lgrid">${cells}</div>`;
+  $("#bmlist").onclick = bookmarkScreen; $("#misslist").onclick = () => missScreen();
   if (next) $("#cont").onclick = () => lessonScreen(next);
   app.querySelectorAll("[data-l]").forEach((b) => (b.onclick = () => lessonScreen(lessons.find((l) => l.no === +b.dataset.l))));
 }
@@ -112,22 +170,24 @@ function listScreen() {
 /* ---------- 練習 ---------- */
 function lessonScreen(lesson, only) {
   const clips = only || lesson.clips, st = { i: 0, ok: 0, ng: 0, wrong: [] };
-  const label = `レッスン ${String(lesson.no).padStart(2, "0")}`;
+  const label = lesson.custom ? lesson.title : `レッスン ${String(lesson.no).padStart(2, "0")}`;
   setView(label, listScreen);
 
   function question() {
     const c = clips[st.i];
     onKey = null;
-    player.src = `dictation/audio/${c.id}.mp3`;
+    player.src = `dictation/audio/${c.id}.mp3`; player.load();
     app.innerHTML = `<div class="card">
-        <div class="q-meta"><span>${c.id}</span><span>${st.i + 1} / ${clips.length}</span></div>
+        <div class="q-meta"><span>${c.id} <button class="chip bm" data-bm="${c.id}">${N.isBm(c.id) ? "★" : "☆"}</button></span><span>${st.i + 1} / ${clips.length}</span></div>
         <textarea class="ans" id="ans" rows="3" placeholder="聞こえた英文を入力" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false"></textarea>
         <div class="actions"><button class="btn ghost" id="play">🔊 再生</button><button class="btn ghost" id="head">⏮ 頭から</button><button class="btn" id="send">送信</button></div>
         <p class="sub">Ctrl+↓: 再生/停止 ／ Ctrl+←: 頭から ／ Ctrl+Enter または Enter: 送信</p>
       </div>`;
     const ta = $("#ans");
-    $("#play").onclick = () => { toggle(); ta.focus(); };
-    $("#head").onclick = () => { restart(); ta.focus(); };
+    bindBm();
+    app.querySelectorAll(".actions button").forEach((b) => b.addEventListener("mousedown", (e) => e.preventDefault())); // ボタンで入力欄のフォーカスを奪わない
+    $("#play").onclick = toggle;
+    $("#head").onclick = restart;
     $("#send").onclick = () => submit(ta.value);
     ta.onkeydown = (e) => {
       e.stopPropagation(); // 送信直後に有効になる画面側のキー処理へ同じ入力が伝わらないように
@@ -136,23 +196,26 @@ function lessonScreen(lesson, only) {
       if (e.key === "Enter") { e.preventDefault(); submit(ta.value); }
       else if (e.key === " " && !ta.value) { e.preventDefault(); toggle(); }
     };
-    ta.focus(); restart();
+    ta.focus(); restart(); syncBtn();
   }
 
   function submit(text) {
     if (!text.trim()) return;
     const c = clips[st.i], r = judge(text, c.en), d = diffHtml(text, r.b);
-    if (r.ok) { st.ok++; done[c.id] = 1; save(); } else { st.ng++; if (!st.wrong.includes(c)) st.wrong.push(c); }
+    const errs = r.ok ? [] : N.classify(r.a, r.b);
+    if (r.ok) { st.ok++; done[c.id] = 1; save(); } else { st.ng++; if (!st.wrong.includes(c)) st.wrong.push(c); N.addMiss(c.id, text.trim(), errs); }
     const last = st.i === clips.length - 1;
     app.innerHTML = `<div class="card">
-        <div class="q-meta"><span>${c.id}</span><span>${st.i + 1} / ${clips.length}</span></div>
+        <div class="q-meta"><span>${c.id} <button class="chip bm" data-bm="${c.id}">${N.isBm(c.id) ? "★" : "☆"}</button></span><span>${st.i + 1} / ${clips.length}</span></div>
         <div class="sub">あなたの入力</div><div class="en ${r.ok ? "dok" : ""}" style="line-height:1.6">${d.input}</div>
         <div class="sub" style="margin-top:10px">正解</div><div class="en ${r.ok ? "dok" : ""}" style="line-height:1.6">${r.ok ? esc(c.en) : d.answer}</div>
+        ${errs.length ? `<div class="errs">${errs.map((e) => `<span class="etag">${esc(N.KINDS[e.k])}${e.a || e.i ? `：${esc(e.i || "なし")} → ${esc(e.a || "なし")}` : ""}</span>`).join("")}</div>` : ""}
         <div class="jp" style="margin-top:12px">${esc(c.ja)}</div>
         <div class="actions"><button class="btn ghost" id="play">🔊 再生</button><button class="btn ghost" id="retry">もう一度挑戦</button><button class="btn" id="next">${last ? "結果を見る" : "次へ"}</button></div>
         <p class="sub">Ctrl+↓: 再生/停止 ／ Ctrl+←: 頭から ／ Enter: ${last ? "結果へ" : "次へ"}</p>
       </div>`;
     player.pause();
+    bindBm();
     $("#play").onclick = toggle;
     $("#retry").onclick = question;
     const next = () => (last ? result() : (st.i++, question()));
@@ -167,7 +230,7 @@ function lessonScreen(lesson, only) {
   function result() {
     onKey = null;
     st.wrong = st.wrong.filter((c) => !done[c.id]); // 挑戦し直して正解した文は除く
-    const perfect = isComplete(lesson), nextL = lessons.find((l) => l.no === lesson.no + 1);
+    const perfect = !lesson.custom && isComplete(lesson), nextL = lesson.custom ? null : lessons.find((l) => l.no === lesson.no + 1);
     app.innerHTML = `<div class="card" style="text-align:center">
         ${perfect ? '<div class="party">🎉</div><div class="verdict ok">レッスン完全クリア！</div>' : ""}
         <div class="sub">${label}</div>
@@ -185,5 +248,5 @@ function lessonScreen(lesson, only) {
   question();
 }
 
-fetch("dictation/lessons.json").then((r) => r.json()).then((j) => { lessons = j; listScreen(); pull(); })
+fetch("dictation/lessons.json").then((r) => r.json()).then((j) => { lessons = j; listScreen(); pull(); N.pull().then((c) => { if (c && !app.querySelector("textarea") && titleEl.textContent === "ディクテーション") listScreen(); }); })
   .catch(() => { app.innerHTML = '<p class="sub">教材を読み込めませんでした。</p>'; });
