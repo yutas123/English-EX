@@ -1,5 +1,5 @@
 // ディクテーションの文ごとのメモ: ブックマークとミス記録（端末 + サーバー同期）
-// notes[id] = { bm: bool, miss: [{ t, inp, errs: [{ k, i, a }] }], u }
+// notes[id] = { bm: bool, chk: bool（英文ページの完了）, miss: [{ t, inp, errs: [{ k, i, a }] }], u }
 const KEY = "english-ex-dictation-notes-v1";
 export let notes = (() => { try { return JSON.parse(localStorage.getItem(KEY)) || {}; } catch { return {}; } })();
 const saveLocal = () => { try { localStorage.setItem(KEY, JSON.stringify(notes)); } catch { /* 保存不可でも継続 */ } };
@@ -18,6 +18,8 @@ const get = (id) => (notes[id] ||= { bm: false, miss: [], u: 0 });
 function touch(id) { get(id).u = Date.now(); dirty.add(id); saveLocal(); push(); }
 
 export const isBm = (id) => !!notes[id]?.bm;
+export const isChk = (id) => !!notes[id]?.chk;
+export function toggleChk(id) { get(id).chk = !get(id).chk; touch(id); return get(id).chk; }
 export function toggleBm(id) { get(id).bm = !get(id).bm; touch(id); return get(id).bm; }
 export function addMiss(id, inp, errs) {
   const n = get(id); n.miss.push({ t: Date.now(), inp, errs }); n.miss = n.miss.slice(-30); touch(id);
@@ -34,13 +36,13 @@ export async function pull() {
       const l = notes[id];
       if (!l) { notes[id] = s; changed = true; continue; }
       const seen = new Set(l.miss.map((m) => m.t)), extra = (s.miss || []).filter((m) => !seen.has(m.t));
-      const bm = (s.u || 0) > (l.u || 0) ? !!s.bm : l.bm;
-      if (extra.length || bm !== l.bm) {
-        l.miss = [...l.miss, ...extra].sort((x, y) => x.t - y.t).slice(-30); l.bm = bm; l.u = Math.max(l.u || 0, s.u || 0); changed = true;
+      const newer = (s.u || 0) > (l.u || 0), bm = newer ? !!s.bm : l.bm, chk = newer ? !!s.chk : !!l.chk;
+      if (extra.length || bm !== l.bm || chk !== !!l.chk) {
+        l.miss = [...l.miss, ...extra].sort((x, y) => x.t - y.t).slice(-30); l.bm = bm; l.chk = chk; l.u = Math.max(l.u || 0, s.u || 0); changed = true;
       }
       if ((l.u || 0) > (s.u || 0) || l.miss.length > (s.miss || []).length) dirty.add(id); // 端末側にだけある分を送る
     }
-    for (const id of Object.keys(notes)) if (!items[id] && (notes[id].bm || notes[id].miss.length)) dirty.add(id);
+    for (const id of Object.keys(notes)) if (!items[id] && (notes[id].bm || notes[id].chk || notes[id].miss.length)) dirty.add(id);
     saveLocal(); if (dirty.size) push();
     return changed;
   } catch { return false; }
