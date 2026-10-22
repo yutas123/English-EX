@@ -75,10 +75,16 @@ const setSrc = (id) => {
   if (player.getAttribute("src") === url) return false;
   player.src = url; player.load(); return true;
 };
+// 常に頭から鳴らす。連打で seek や play が中断されて無音になることがあるので、失敗したら再生可能になった時点でやり直す
 const restart = () => {
-  try { if (player.readyState >= 1) player.currentTime = 0; } catch { /* 無視 */ }
-  player.play().catch(() => {}); syncBtn();
+  const go = () => { try { player.currentTime = 0; } catch { /* 無視 */ } return player.play(); };
+  try { player.pause(); } catch { /* 無視 */ }
+  const p = go();
+  if (p) p.catch(() => { player.addEventListener("canplay", () => go().catch(() => {}), { once: true }); });
+  syncBtn();
 };
+const mobile = matchMedia("(pointer: coarse)").matches; // スマホ・タブレットは「頭から」だけにする
+const playBtns = (mid) => (mobile ? `<button class="btn ghost" id="head" style="touch-action:manipulation">🔊 頭から再生</button>` : `<button class="btn ghost" id="play">🔊 再生</button>${mid}`);
 // 再生中なら停止、停止中なら続きから（終了後は頭から）再生。連打しても取りこぼさないよう、直前の操作から短時間の停止は無視して再生を優先する
 let lastPlayAt = 0;
 const toggle = () => {
@@ -192,13 +198,13 @@ function lessonScreen(lesson, only) {
     app.innerHTML = `<div class="card">
         <div class="q-meta"><span>${c.id} <button class="chip bm" data-bm="${c.id}">${N.isBm(c.id) ? "★" : "☆"}</button></span><span>${st.i + 1} / ${clips.length}</span></div>
         <textarea class="ans" id="ans" rows="3" placeholder="聞こえた英文を入力" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false"></textarea>
-        <div class="actions"><button class="btn ghost" id="play">🔊 再生</button><button class="btn ghost" id="head">⏮ 頭から</button><button class="btn" id="send">送信</button></div>
+        <div class="actions">${playBtns('<button class="btn ghost" id="head">⏮ 頭から</button>')}<button class="btn" id="send">送信</button></div>
         <p class="sub">Ctrl+↓: 再生/停止 ／ Ctrl+←: 頭から ／ Ctrl+Enter または Enter: 送信</p>
       </div>`;
     const ta = $("#ans");
     bindBm();
     app.querySelectorAll(".actions button").forEach((b) => b.addEventListener("mousedown", (e) => e.preventDefault())); // ボタンで入力欄のフォーカスを奪わない
-    $("#play").onclick = toggle;
+    if ($("#play")) $("#play").onclick = toggle;
     $("#head").onclick = restart;
     $("#send").onclick = () => submit(ta.value);
     ta.onkeydown = (e) => {
@@ -225,12 +231,13 @@ function lessonScreen(lesson, only) {
         <div class="sub" style="margin-top:10px">正解</div><div class="en ${r.ok ? "dok" : ""}" style="line-height:1.6">${r.ok ? esc(c.en) : d.answer}</div>
         ${gaveUp ? '<div class="sub" style="margin-top:8px">聞き取れなかった文として、ミス記録には入れていません</div>' : errs.length ? `<div class="errs">${errs.map((e) => `<span class="etag">${esc(N.KINDS[e.k])}${e.a || e.i ? `：${esc(e.i || "なし")} → ${esc(e.a || "なし")}` : ""}</span>`).join("")}</div>` : ""}
         <div class="jp" style="margin-top:12px">${esc(c.ja)}</div>
-        <div class="actions"><button class="btn ghost" id="play">🔊 再生</button><button class="btn ghost" id="retry">もう一度挑戦</button><button class="btn" id="next">${last ? "結果を見る" : "次へ"}</button></div>
+        <div class="actions">${playBtns("")}<button class="btn ghost" id="retry">もう一度挑戦</button><button class="btn" id="next">${last ? "結果を見る" : "次へ"}</button></div>
         <p class="sub">Ctrl+↓: 再生/停止 ／ Ctrl+←: 頭から ／ Enter: ${last ? "結果へ" : "次へ"}</p>
       </div>`;
     player.pause();
     bindBm();
-    $("#play").onclick = toggle;
+    if ($("#play")) $("#play").onclick = toggle;
+    if ($("#head")) $("#head").onclick = restart;
     $("#retry").onclick = question;
     const next = () => (last ? result() : (st.i++, question()));
     $("#next").onclick = next;
