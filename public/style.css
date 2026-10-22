@@ -25,6 +25,7 @@ button.btn.ok { background: var(--ok); border-color: var(--ok); color: #fff; }
 button.btn.ng { background: var(--ng); border-color: var(--ng); color: #fff; }
 button.btn.block { display: block; width: 100%; }
 button.btn:disabled { opacity: .45; }
+button.btn.hit { background: var(--brand); color: var(--brand-fg); transform: scale(.97); }
 .units { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 10px; }
 .unit { display: block; width: 100%; text-align: left; font: inherit; color: inherit; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 10px 12px; cursor: pointer; }
 .unit b { font-size: 20px; margin-right: 6px; }

@@ -75,12 +75,13 @@ const setSrc = (id) => {
   if (player.getAttribute("src") === url) return false;
   player.src = url; player.load(); return true;
 };
-// 常に頭から鳴らす。連打で seek や play が中断されて無音になることがあるので、失敗したら再生可能になった時点でやり直す
+// 常に頭から鳴らす。スマホは再生し終えた音声に currentTime=0 + play() が効かないことがあるので、終了後や失敗したときは読み込み直してから鳴らす
 const restart = () => {
-  const go = () => { try { player.currentTime = 0; } catch { /* 無視 */ } return player.play(); };
-  try { player.pause(); } catch { /* 無視 */ }
-  const p = go();
-  if (p) p.catch(() => { player.addEventListener("canplay", () => go().catch(() => {}), { once: true }); });
+  const reload = () => { player.load(); player.play().catch(() => player.addEventListener("canplay", () => player.play().catch(() => {}), { once: true })); };
+  if (player.ended) { reload(); syncBtn(); return; }
+  try { player.pause(); player.currentTime = 0; } catch { /* 無視 */ }
+  const p = player.play();
+  if (p) p.catch(reload);
   syncBtn();
 };
 const mobile = matchMedia("(pointer: coarse)").matches; // スマホ・タブレットは「頭から」だけにする
@@ -99,6 +100,14 @@ function audioKeys(e) {
   if (e.key === "ArrowDown") { e.preventDefault(); toggle(); return true; }
   if (e.key === "ArrowLeft") { e.preventDefault(); restart(); return true; }
   return false;
+}
+// タッチ端末では click を待たず指を離した瞬間に実行する（入力欄にフォーカスがあるとき、キーボードや画面のずれで click が届かないことがあるため）。キーボード操作の click も拾う
+function onTap(btn, fn) {
+  let last = 0;
+  const flash = () => { btn.classList.add("hit"); setTimeout(() => btn.classList.remove("hit"), 250); }; // 押した瞬間に色を変えて、受け付けたことを見せる
+  btn.addEventListener("pointerdown", (e) => { e.preventDefault(); flash(); }); // 入力欄のフォーカスを奪わない
+  btn.addEventListener("pointerup", (e) => { if (e.pointerType === "mouse") return; last = Date.now(); fn(); });
+  btn.addEventListener("click", () => { if (Date.now() - last > 700) fn(); });
 }
 const syncBtn = () => { const b = $("#play"); if (b) b.textContent = player.paused ? "🔊 再生" : "⏹ 停止"; };
 ["play", "playing", "pause", "ended", "emptied", "error"].forEach((ev) => player.addEventListener(ev, syncBtn));
@@ -205,7 +214,7 @@ function lessonScreen(lesson, only) {
     bindBm();
     app.querySelectorAll(".actions button").forEach((b) => b.addEventListener("mousedown", (e) => e.preventDefault())); // ボタンで入力欄のフォーカスを奪わない
     if ($("#play")) $("#play").onclick = toggle;
-    $("#head").onclick = restart;
+    onTap($("#head"), restart);
     $("#send").onclick = () => submit(ta.value);
     ta.onkeydown = (e) => {
       e.stopPropagation(); // 送信直後に有効になる画面側のキー処理へ同じ入力が伝わらないように
@@ -214,7 +223,7 @@ function lessonScreen(lesson, only) {
       if (e.key === "Enter") { e.preventDefault(); submit(ta.value); }
       else if (e.key === " " && !ta.value) { e.preventDefault(); toggle(); }
     };
-    ta.focus(); restart(); syncBtn();
+    restart(); ta.focus(); syncBtn();
   }
 
   function submit(text) {
@@ -237,8 +246,8 @@ function lessonScreen(lesson, only) {
     player.pause();
     bindBm();
     if ($("#play")) $("#play").onclick = toggle;
-    if ($("#head")) $("#head").onclick = restart;
-    $("#retry").onclick = question;
+    if ($("#head")) onTap($("#head"), restart);
+    onTap($("#retry"), question);
     const next = () => (last ? result() : (st.i++, question()));
     $("#next").onclick = next;
     $("#next").focus();
