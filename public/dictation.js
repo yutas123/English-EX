@@ -69,12 +69,24 @@ function diffHtml(input, b) {
 
 let lessons = [];
 // スマホ対策: play() はタップ操作の中で同期的に呼ぶ。読み込み前なら再生開始位置は0なのでそのまま呼べばよい
+// 同じ音声なら load() し直さない（連打で再生待ちが中断され、鳴らなくなるのを防ぐ）
+const setSrc = (id) => {
+  const url = `dictation/audio/${id}.mp3`;
+  if (player.getAttribute("src") === url) return false;
+  player.src = url; player.load(); return true;
+};
 const restart = () => {
   try { if (player.readyState >= 1) player.currentTime = 0; } catch { /* 無視 */ }
   player.play().catch(() => {}); syncBtn();
 };
-// 再生中なら停止、停止中なら続きから（終了後は頭から）再生
-const toggle = () => { if (!player.paused) player.pause(); else if (player.ended) restart(); else player.play().catch(() => {}); syncBtn(); };
+// 再生中なら停止、停止中なら続きから（終了後は頭から）再生。連打しても取りこぼさないよう、直前の操作から短時間の停止は無視して再生を優先する
+let lastPlayAt = 0;
+const toggle = () => {
+  const now = Date.now();
+  if (!player.paused) { if (now - lastPlayAt < 400) return; player.pause(); }
+  else { lastPlayAt = now; if (player.ended) restart(); else player.play().catch(() => {}); }
+  syncBtn();
+};
 // 共通ショートカット: Ctrl+↓ 再生/停止、Ctrl+← 頭から再生
 function audioKeys(e) {
   if (!e.ctrlKey) return false;
@@ -108,7 +120,7 @@ function bookmarkScreen() {
       <div class="actions"><button class="btn ghost" data-pl="${c.id}">🔊 再生</button></div></div>`).join("");
   $("#go").onclick = () => lessonScreen(custom("★ ブックマーク", clips), clips);
   app.querySelectorAll("[data-un]").forEach((b) => (b.onclick = () => { N.toggleBm(b.dataset.un); bookmarkScreen(); }));
-  app.querySelectorAll("[data-pl]").forEach((b) => (b.onclick = () => { player.src = `dictation/audio/${b.dataset.pl}.mp3`; player.load(); player.play().catch(() => {}); }));
+  app.querySelectorAll("[data-pl]").forEach((b) => (b.onclick = () => { setSrc(b.dataset.pl); try { if (player.readyState >= 1) player.currentTime = 0; } catch { /* 無視 */ } player.play().catch(() => {}); }));
 }
 
 /* ---------- ミス記録（要因別の集計） ---------- */
@@ -176,7 +188,7 @@ function lessonScreen(lesson, only) {
   function question() {
     const c = clips[st.i];
     onKey = null;
-    player.src = `dictation/audio/${c.id}.mp3`; player.load();
+    setSrc(c.id);
     app.innerHTML = `<div class="card">
         <div class="q-meta"><span>${c.id} <button class="chip bm" data-bm="${c.id}">${N.isBm(c.id) ? "★" : "☆"}</button></span><span>${st.i + 1} / ${clips.length}</span></div>
         <textarea class="ans" id="ans" rows="3" placeholder="聞こえた英文を入力" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false"></textarea>
