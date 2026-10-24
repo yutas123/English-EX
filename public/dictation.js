@@ -309,6 +309,33 @@ function listen() {
     try { r.start(); } catch (e) { rej(String(e)); }
   });
 }
+/* Azure Pronunciation Assessment（本格採点）。未設定・失敗時は上のブラウザ音声認識に切り替える */
+const SDK_URL = "https://cdn.jsdelivr.net/npm/microsoft-cognitiveservices-speech-sdk@1.40.0/distrib/browser/microsoft.cognitiveservices.speech.sdk.bundle-min.js";
+const az = { sdk: null, tok: "", region: "", at: 0, off: false, busy: null };
+const azReady = () => !!(az.sdk && az.tok && Date.now() - az.at < 8 * 60e3);
+// SDKとトークンを先に用意しておく（iPhone はタップの中で同期的にマイクを開く必要があるため）
+function azPrep() {
+  if (az.off || azReady() || az.busy) return;
+  az.busy = (async () => {
+    if (!window.SpeechSDK) await new Promise((ok, ng) => { const s = document.createElement("script"); s.src = SDK_URL; s.onload = ok; s.onerror = ng; document.head.appendChild(s); });
+    const r = await fetch("/api/speech-token", { cache: "no-store" });
+    if (r.status === 503) { az.off = true; return; } // 未設定
+    if (!r.ok) throw new Error("token");
+    const j = await r.json();
+    az.sdk = window.SpeechSDK; az.tok = j.token; az.region = j.region; az.at = Date.now();
+  })().catch(() => {}).finally(() => { az.busy = null; });
+}
+function azAssess(ref) {
+  const S = az.sdk, cfg = S.SpeechConfig.fromAuthorizationToken(az.tok, az.region);
+  cfg.speechRecognitionLanguage = "en-US";
+  try { cfg.setProperty(S.PropertyId.Speech_SegmentationSilenceTimeoutMs, "1500"); } catch { /* 古いSDKでは無視 */ } // 初心者はゆっくり区切って話すので、途中の間で打ち切らない
+  const pa = new S.PronunciationAssessmentConfig(ref, S.PronunciationAssessmentGradingSystem.HundredMark, S.PronunciationAssessmentGranularity.Phoneme, true);
+  pa.phonemeAlphabet = "IPA";
+  const r = new S.SpeechRecognizer(cfg, S.AudioConfig.fromDefaultMicrophoneInput());
+  pa.applyTo(r);
+  return new Promise((ok, ng) => r.recognizeOnceAsync((x) => { r.close(); ok(x); }, (e) => { r.close(); ng(e); }));
+}
+
 function pronListScreen() {
   setView("🎤 発音練習", listScreen);
   const cells = lessons.map((l) => {
@@ -317,6 +344,14 @@ function pronListScreen() {
   }).join("");
   app.innerHTML = `<p class="sub">お手本を聞いて、同じように英文を言います。機械が正しく聞き取れた語の割合が点数になります（${PASS}点以上で合格）。</p><div class="lgrid">${cells}</div>`;
   app.querySelectorAll("[data-l]").forEach((b) => (b.onclick = () => pronScreen(lessons.find((l) => l.no === +b.dataset.l))));
+}
+// 点数・色分けの結果表示と保存（Azure / ブラウザ認識の共通部分）
+function finish(c, res, { s, words, missed, detail, weak }) {
+  const q = pron[c.id] || { best: 0, n: 0 };
+  pron[c.id] = { best: Math.max(q.best, s), n: q.n + 1, t: Date.now(), miss: missed, ...(weak ? { weak } : {}) };
+  savePron();
+  res.innerHTML = `<div style="text-align:center"><div class="big">${s}<small style="font-size:18px">点</small></div><div class="verdict ${s >= PASS ? "ok" : ""}">${s >= 95 ? "完璧！" : s >= PASS ? "合格！" : s >= 50 ? "惜しい！もう一度" : "お手本をよく聞いてもう一度"}</div></div>
+    <div class="sub" style="margin-top:8px">赤：通じにくい語 ／ <span class="wk">黄：もう少し</span></div><div class="en" style="line-height:1.6">${words}</div>${detail}`;
 }
 function pronScreen(lesson, i = 0) {
   setView(`🎤 レッスン ${String(lesson.no).padStart(2, "0")}`, pronListScreen);
@@ -333,7 +368,7 @@ function pronScreen(lesson, i = 0) {
   onTap($("#head"), () => { if (rec) rec.stop(); setSrc(c.id); restart(); });
   $("#prev").onclick = () => { if (rec) rec.abort(); pronScreen(lesson, i - 1); };
   $("#next").onclick = () => { if (rec) rec.abort(); last ? pronListScreen() : pronScreen(lesson, i + 1); };
-  if (!SR) { res.textContent = "このブラウザでは音声認識が使えません。iPhone は Safari で開いてください。"; mic.disabled = true; return; }
+  azPrep();
   const idle = () => { mic.textContent = "🎤 話す"; };
   onTap(mic, async () => {
     if (rec) { rec.stop(); return; } // 聞き取り中にもう一度押すと、そこで話し終わりにする
@@ -341,6 +376,26 @@ function pronScreen(lesson, i = 0) {
     player.pause(); player.removeAttribute("src"); player.load();
     mic.textContent = "⏹ 聞いています…"; res.textContent = "";
     await new Promise((r) => setTimeout(r, 250));
+    if (azReady()) {
+      try {
+        const x = await azAssess(c.en), S = az.sdk;
+        idle(); azPrep();
+        if (x.reason !== S.ResultReason.RecognizedSpeech) { res.textContent = "声を検知できませんでした。押してすぐ、少し大きめの声でどうぞ。"; return; }
+        const nb = JSON.parse(x.properties.getProperty(S.PropertyId.SpeechServiceResponse_JsonResult)).NBest[0], pa = nb.PronunciationAssessment;
+        const ws = nb.Words.filter((w) => w.PronunciationAssessment.ErrorType !== "Insertion");
+        const bad = (w) => w.PronunciationAssessment.ErrorType === "Omission" || w.PronunciationAssessment.AccuracyScore < 60;
+        const words = ws.map((w) => `<span class="${bad(w) ? "dng" : w.PronunciationAssessment.AccuracyScore < 80 ? "wk" : ""}">${esc(w.Word)}</span>`).join(" ");
+        const weak = ws.flatMap((w) => (w.Phonemes || []).filter((p) => p.PronunciationAssessment.AccuracyScore < 60).map((p) => ({ w: w.Word, p: p.Phoneme, s: Math.round(p.PronunciationAssessment.AccuracyScore) })));
+        finish(c, res, { s: Math.round(pa.PronScore), words, missed: ws.filter(bad).map((w) => w.Word), weak,
+          detail: `<div class="sub" style="margin-top:8px">正確さ ${Math.round(pa.AccuracyScore)} ／ なめらかさ ${Math.round(pa.FluencyScore)} ／ 言えた割合 ${Math.round(pa.CompletenessScore)}</div>
+            ${weak.length ? `<div class="sub" style="margin-top:8px">弱い音</div><div>${weak.map((x) => `<span class="etag">${esc(x.w)}：/${esc(x.p)}/ ${x.s}点</span>`).join("")}</div>` : ""}` });
+      } catch (e) {
+        idle(); azPrep();
+        res.textContent = String(e?.message || e).includes("Permission") || String(e).includes("denied") ? "マイクが許可されていません。Safari のマイク許可を確認してください。" : "採点に失敗しました。もう一度試してください。";
+      }
+      return;
+    }
+    if (!SR) { idle(); res.textContent = az.busy ? "採点の準備中です。数秒待ってからもう一度押してください。" : "このブラウザでは音声認識が使えません。iPhone は Safari で開いてください。"; return; }
     let alts;
     try { alts = await listen(); } catch (e) {
       idle();
@@ -360,12 +415,7 @@ function pronScreen(lesson, i = 0) {
     });
     const words = toks.map((x) => (x.ok ? esc(x.tok) : `<span class="dng">${esc(x.tok)}</span>`)).join(" ");
     const missed = toks.filter((x) => !x.ok).map((x) => x.tok.replace(/[^A-Za-z']/g, "")).filter(Boolean);
-    const q = pron[c.id] || { best: 0, n: 0 };
-    pron[c.id] = { best: Math.max(q.best, best.s), n: q.n + 1, t: Date.now(), miss: missed };
-    savePron();
-    res.innerHTML = `<div style="text-align:center"><div class="big">${best.s}<small style="font-size:18px">点</small></div><div class="verdict ${best.s >= PASS ? "ok" : ""}">${best.s >= 95 ? "完璧！" : best.s >= PASS ? "合格！" : best.s >= 50 ? "惜しい！もう一度" : "お手本をよく聞いてもう一度"}</div></div>
-      <div class="sub" style="margin-top:8px">通じなかった語は赤で表示</div><div class="en" style="line-height:1.6">${words}</div>
-      <div class="sub" style="margin-top:8px">機械にはこう聞こえました</div><div>${esc(best.t)}</div>`;
+    finish(c, res, { s: best.s, words, missed, detail: `<div class="sub" style="margin-top:8px">機械にはこう聞こえました</div><div>${esc(best.t)}</div>` });
   });
 }
 
