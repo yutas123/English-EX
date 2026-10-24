@@ -101,3 +101,9 @@ button, a.btn { touch-action: manipulation; -webkit-tap-highlight-color: transpa
 .kind i { position: absolute; left: 0; bottom: 0; height: 3px; background: var(--ng); }
 .kind.on { border-color: var(--brand); }
 .wk { color: #b7791f; font-weight: 700; }
+.phs { display: flex; flex-wrap: wrap; gap: 6px; justify-content: center; margin: 10px 0 6px; }
+.ph { display: inline-flex; flex-direction: column; align-items: center; min-width: 40px; padding: 4px 8px; border-radius: 10px; border: 2px solid transparent; background: var(--okbg); font-size: 22px; line-height: 1.2; }
+.ph small { font-size: 11px; color: var(--sub); font-weight: 600; }
+.ph.wk { color: #b7791f; } .ph.dng { color: var(--ng); text-decoration: none; }
+.ph.tg { border-color: var(--fg); font-weight: 700; }
+.ph.wk { background: #fdf3d8; } .ph.dng { background: #fde4e4; }

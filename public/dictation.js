@@ -1,5 +1,6 @@
 // ディクテーション練習（ReStart）。音声を聞いて英文を打ち込み、正誤判定する。
 import * as N from "./dnotes.js";
+import { initSounds } from "./sounds.js";
 const $ = (s) => document.querySelector(s);
 const app = $("#app"), titleEl = $("#title"), backBtn = $("#back"), player = $("#player");
 const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
@@ -331,6 +332,7 @@ function azAssess(ref) {
   try { cfg.setProperty(S.PropertyId.Speech_SegmentationSilenceTimeoutMs, "1500"); } catch { /* 古いSDKでは無視 */ } // 初心者はゆっくり区切って話すので、途中の間で打ち切らない
   const pa = new S.PronunciationAssessmentConfig(ref, S.PronunciationAssessmentGradingSystem.HundredMark, S.PronunciationAssessmentGranularity.Phoneme, true);
   pa.phonemeAlphabet = "IPA";
+  try { pa.nbestPhonemeCount = 5; } catch { /* 古いSDKでは無視 */ } // 「別の音に聞こえた」の候補（r を言って l に聞こえた、など）
   const r = new S.SpeechRecognizer(cfg, S.AudioConfig.fromDefaultMicrophoneInput());
   pa.applyTo(r);
   return new Promise((ok, ng) => r.recognizeOnceAsync((x) => { r.close(); ok(x); }, (e) => { r.close(); ng(e); }));
@@ -342,7 +344,8 @@ function pronListScreen() {
     const n = l.clips.filter((c) => (pron[c.id]?.best || 0) >= PASS).length, len = l.clips.length, cls = n === len ? "full" : n ? "part" : "";
     return `<button class="lcell ${cls}" data-l="${l.no}"><span>${String(l.no).padStart(2, "0")}</span><b>${n === len ? "✓" : `${n}/${len}`}</b>${cls === "part" ? `<i style="width:${(n / len) * 100}%"></i>` : ""}</button>`;
   }).join("");
-  app.innerHTML = `<p class="sub">お手本を聞いて、同じように英文を言います。機械が正しく聞き取れた語の割合が点数になります（${PASS}点以上で合格）。</p><div class="lgrid">${cells}</div>`;
+  app.innerHTML = `<button class="btn block" id="snd" style="margin-bottom:12px">🔤 音の特訓（r/l・th など苦手な音を1つずつ）</button><p class="sub">お手本を聞いて、同じように英文を言います。機械が正しく聞き取れた語の割合が点数になります（${PASS}点以上で合格）。</p><div class="lgrid">${cells}</div>`;
+  $("#snd").onclick = () => sounds.listScreen();
   app.querySelectorAll("[data-l]").forEach((b) => (b.onclick = () => pronScreen(lessons.find((l) => l.no === +b.dataset.l))));
 }
 // 点数・色分けの結果表示と保存（Azure / ブラウザ認識の共通部分）
@@ -354,7 +357,7 @@ function finish(c, res, { s, words, missed, detail, weak }) {
     <div class="sub" style="margin-top:8px">赤：通じにくい語 ／ <span class="wk">黄：もう少し</span></div><div class="en" style="line-height:1.6">${words}</div>${detail}`;
 }
 function pronScreen(lesson, i = 0) {
-  setView(`🎤 レッスン ${String(lesson.no).padStart(2, "0")}`, pronListScreen);
+  setView(lesson.custom ? lesson.title : `🎤 レッスン ${String(lesson.no).padStart(2, "0")}`, pronListScreen);
   const c = lesson.clips[i], last = i === lesson.clips.length - 1, p = pron[c.id];
   setSrc(c.id);
   app.innerHTML = `<div class="card">
@@ -370,13 +373,17 @@ function pronScreen(lesson, i = 0) {
   $("#next").onclick = () => { if (rec) rec.abort(); last ? pronListScreen() : pronScreen(lesson, i + 1); };
   azPrep();
   const idle = () => { mic.textContent = "🎤 話す"; };
+  let azBusy = false; // Azure は途中で止められないので、採点中の押し直しは無視する（二重に始まって結果を上書きしてしまうため）
   onTap(mic, async () => {
+    if (azBusy) return;
     if (rec) { rec.stop(); return; } // 聞き取り中にもう一度押すと、そこで話し終わりにする
     // iPhone は再生した音声を持ったままだとマイクが無音になることがあるので、お手本を手放してから聞き取る
     player.pause(); player.removeAttribute("src"); player.load();
-    mic.textContent = "⏹ 聞いています…"; res.textContent = "";
+    const useAz = azReady();
+    azBusy = useAz;
+    mic.textContent = useAz ? "🎤 聞いています…（話し終わると自動で採点）" : "⏹ 聞いています…"; res.textContent = "";
     await new Promise((r) => setTimeout(r, 250));
-    if (azReady()) {
+    if (useAz) {
       try {
         const x = await azAssess(c.en), S = az.sdk;
         idle(); azPrep();
@@ -392,7 +399,7 @@ function pronScreen(lesson, i = 0) {
       } catch (e) {
         idle(); azPrep();
         res.textContent = String(e?.message || e).includes("Permission") || String(e).includes("denied") ? "マイクが許可されていません。Safari のマイク許可を確認してください。" : "採点に失敗しました。もう一度試してください。";
-      }
+      } finally { azBusy = false; }
       return;
     }
     if (!SR) { idle(); res.textContent = az.busy ? "採点の準備中です。数秒待ってからもう一度押してください。" : "このブラウザでは音声認識が使えません。iPhone は Safari で開いてください。"; return; }
@@ -418,6 +425,8 @@ function pronScreen(lesson, i = 0) {
     finish(c, res, { s: best.s, words, missed, detail: `<div class="sub" style="margin-top:8px">機械にはこう聞こえました</div><div>${esc(best.t)}</div>` });
   });
 }
+
+const sounds = initSounds({ app, $, esc, setView, player, onTap, az, azReady, azPrep, azAssess, clips: allClips, back: pronListScreen, startPron: (l) => pronScreen(l) });
 
 fetch("dictation/lessons.json").then((r) => r.json()).then((j) => { lessons = j; listScreen(); pull(); N.pull().then((c) => { if (c && !app.querySelector("textarea") && titleEl.textContent === "ディクテーション") listScreen(); }); })
   .catch(() => { app.innerHTML = '<p class="sub">教材を読み込めませんでした。</p>'; });
