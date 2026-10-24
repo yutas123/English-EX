@@ -180,6 +180,7 @@ function listScreen() {
   const nbm = Object.keys(N.notes).filter(N.isBm).length, nmiss = Object.values(N.notes).filter((x) => x.miss.length).length;
   app.innerHTML = `<a class="btn ghost block" href="reader.html" style="margin-bottom:8px">📖 英文・和訳・音声ページへ</a>
     <div class="actions" style="margin:0 0 12px"><button class="btn ghost" id="bmlist">★ ブックマーク (${nbm})</button><button class="btn ghost" id="misslist">📊 ミス記録 (${nmiss})</button></div>
+    <button class="btn ghost block" id="pronlist" style="margin-bottom:12px">🎤 発音練習（マイクで採点）</button>
     <div class="card hero">
       <div class="sub">クリアした文</div>
       <div class="big">${got}<small> / ${total}</small> <span class="pct">${pct}%</span></div>
@@ -189,6 +190,7 @@ function listScreen() {
     </div>
     <div class="legend sub"><i class="lg"></i>未着手 <i class="lg part"></i>途中 <i class="lg full"></i>完全クリア</div>
     <div class="lgrid">${cells}</div>`;
+  $("#pronlist").onclick = pronListScreen;
   $("#bmlist").onclick = bookmarkScreen; $("#misslist").onclick = () => missScreen();
   if (next) $("#cont").onclick = () => lessonScreen(next);
   app.querySelectorAll("[data-l]").forEach((b) => (b.onclick = () => lessonScreen(lessons.find((l) => l.no === +b.dataset.l))));
@@ -276,6 +278,91 @@ function lessonScreen(lesson, only) {
     $("#home").onclick = listScreen;
   }
   question();
+}
+
+/* ---------- 発音練習（ブラウザの音声認識で「通じるか」を採点） ---------- */
+const SR = window.SpeechRecognition || window.webkitSpeechRecognition;
+const PKEY = "english-ex-pron-v1"; // pron[id] = { best, n, t, miss:[直近で通じなかった語] }
+let pron = (() => { try { return JSON.parse(localStorage.getItem(PKEY)) || {}; } catch { return {}; } })();
+const savePron = () => { try { localStorage.setItem(PKEY, JSON.stringify(pron)); } catch { /* 保存不可でも継続 */ } };
+const PASS = 80; // この点以上で「合格」扱い
+// 認識結果 a が正解 b のどの語を拾えたか（LCS）
+function hitSet(a, b) {
+  const n = a.length, m = b.length, L = Array.from({ length: n + 1 }, () => new Array(m + 1).fill(0));
+  for (let i = n - 1; i >= 0; i--) for (let j = m - 1; j >= 0; j--) L[i][j] = a[i] === b[j] ? L[i + 1][j + 1] + 1 : Math.max(L[i + 1][j], L[i][j + 1]);
+  const hit = new Set();
+  for (let i = 0, j = 0; i < n && j < m;) { if (a[i] === b[j]) { hit.add(j); i++; j++; } else if (L[i + 1][j] >= L[i][j + 1]) i++; else j++; }
+  return hit;
+}
+let rec = null;
+// 1回聞き取って、候補の文字列を返す。話し終わりは自動で検知する
+function listen() {
+  return new Promise((res, rej) => {
+    const r = (rec = new SR());
+    let got = [];
+    r.lang = "en-US"; r.maxAlternatives = 5; r.interimResults = false;
+    r.onresult = (e) => { got = [...e.results[0]].map((x) => x.transcript); };
+    r.onerror = (e) => rej(e.error);
+    r.onend = () => { rec = null; res(got); };
+    try { r.start(); } catch (e) { rej(String(e)); }
+  });
+}
+function pronListScreen() {
+  setView("🎤 発音練習", listScreen);
+  const cells = lessons.map((l) => {
+    const n = l.clips.filter((c) => (pron[c.id]?.best || 0) >= PASS).length, len = l.clips.length, cls = n === len ? "full" : n ? "part" : "";
+    return `<button class="lcell ${cls}" data-l="${l.no}"><span>${String(l.no).padStart(2, "0")}</span><b>${n === len ? "✓" : `${n}/${len}`}</b>${cls === "part" ? `<i style="width:${(n / len) * 100}%"></i>` : ""}</button>`;
+  }).join("");
+  app.innerHTML = `<p class="sub">お手本を聞いて、同じように英文を言います。機械が正しく聞き取れた語の割合が点数になります（${PASS}点以上で合格）。</p><div class="lgrid">${cells}</div>`;
+  app.querySelectorAll("[data-l]").forEach((b) => (b.onclick = () => pronScreen(lessons.find((l) => l.no === +b.dataset.l))));
+}
+function pronScreen(lesson, i = 0) {
+  setView(`🎤 レッスン ${String(lesson.no).padStart(2, "0")}`, pronListScreen);
+  const c = lesson.clips[i], last = i === lesson.clips.length - 1, p = pron[c.id];
+  setSrc(c.id);
+  app.innerHTML = `<div class="card">
+      <div class="q-meta"><span>${c.id}</span><span>${i + 1} / ${lesson.clips.length}${p ? ` ・ 最高 ${p.best}点` : ""}</span></div>
+      <div class="rd-en" id="en">${esc(c.en)}</div><div class="jp">${esc(c.ja)}</div>
+      <div class="actions"><button class="btn ghost" id="head" style="touch-action:manipulation">🔊 お手本</button><button class="btn" id="mic" style="touch-action:manipulation">🎤 話す</button></div>
+      <div id="res" class="sub" style="margin-top:12px"></div>
+      <div class="actions" style="margin-top:12px"><button class="btn ghost" id="prev"${i ? "" : " disabled"}>前へ</button><button class="btn ghost" id="next">${last ? "一覧へ" : "次へ"}</button></div>
+    </div>`;
+  const mic = $("#mic"), res = $("#res");
+  onTap($("#head"), () => { if (rec) rec.stop(); restart(); });
+  $("#prev").onclick = () => { if (rec) rec.abort(); pronScreen(lesson, i - 1); };
+  $("#next").onclick = () => { if (rec) rec.abort(); last ? pronListScreen() : pronScreen(lesson, i + 1); };
+  if (!SR) { res.textContent = "このブラウザでは音声認識が使えません。iPhone は Safari で開いてください。"; mic.disabled = true; return; }
+  const idle = () => { mic.textContent = "🎤 話す"; };
+  onTap(mic, async () => {
+    if (rec) { rec.stop(); return; } // 聞き取り中にもう一度押すと、そこで話し終わりにする
+    player.pause();
+    mic.textContent = "⏹ 聞いています…"; res.textContent = "";
+    let alts;
+    try { alts = await listen(); } catch (e) {
+      idle();
+      res.textContent = e === "not-allowed" || e === "service-not-allowed" ? "マイクまたは音声認識が許可されていません。iPhone の設定（Safari のマイク、キーボードの「音声入力」）を確認してください。" : e === "aborted" ? "" : "うまく聞き取れませんでした。もう一度試してください。";
+      return;
+    }
+    idle();
+    if (!alts.length) { res.textContent = "声が聞こえませんでした。もう一度どうぞ。"; return; }
+    const b = norm(c.en);
+    let best = null; // 候補のうち一番近いものを採用する
+    for (const t of alts) { const hit = hitSet(norm(t), b), s = Math.round((hit.size / b.length) * 100); if (!best || s > best.s) best = { t, hit, s }; }
+    // 表示は英文の元の語順のまま、拾えなかった語だけ赤くする
+    let k = 0;
+    const toks = c.en.split(/\s+/).map((tok) => {
+      const len = norm(tok).length, ok = len === 0 || [...Array(len).keys()].every((x) => best.hit.has(k + x));
+      k += len; return { tok, ok };
+    });
+    const words = toks.map((x) => (x.ok ? esc(x.tok) : `<span class="dng">${esc(x.tok)}</span>`)).join(" ");
+    const missed = toks.filter((x) => !x.ok).map((x) => x.tok.replace(/[^A-Za-z']/g, "")).filter(Boolean);
+    const q = pron[c.id] || { best: 0, n: 0 };
+    pron[c.id] = { best: Math.max(q.best, best.s), n: q.n + 1, t: Date.now(), miss: missed };
+    savePron();
+    res.innerHTML = `<div style="text-align:center"><div class="big">${best.s}<small style="font-size:18px">点</small></div><div class="verdict ${best.s >= PASS ? "ok" : ""}">${best.s >= 95 ? "完璧！" : best.s >= PASS ? "合格！" : best.s >= 50 ? "惜しい！もう一度" : "お手本をよく聞いてもう一度"}</div></div>
+      <div class="sub" style="margin-top:8px">通じなかった語は赤で表示</div><div class="en" style="line-height:1.6">${words}</div>
+      <div class="sub" style="margin-top:8px">機械にはこう聞こえました</div><div>${esc(best.t)}</div>`;
+  });
 }
 
 fetch("dictation/lessons.json").then((r) => r.json()).then((j) => { lessons = j; listScreen(); pull(); N.pull().then((c) => { if (c && !app.querySelector("textarea") && titleEl.textContent === "ディクテーション") listScreen(); }); })
