@@ -301,7 +301,9 @@ function listen() {
     const r = (rec = new SR());
     let got = [];
     r.lang = "en-US"; r.maxAlternatives = 5; r.interimResults = false;
-    r.onresult = (e) => { got = [...e.results[0]].map((x) => x.transcript); };
+    r.onaudiostart = () => { got.audio = true; };
+    r.onspeechstart = () => { got.speech = true; };
+    r.onresult = (e) => { const f = { audio: got.audio, speech: got.speech }; got = [...e.results[0]].map((x) => x.transcript); Object.assign(got, f); };
     r.onerror = (e) => rej(e.error);
     r.onend = () => { rec = null; res(got); };
     try { r.start(); } catch (e) { rej(String(e)); }
@@ -328,15 +330,17 @@ function pronScreen(lesson, i = 0) {
       <div class="actions" style="margin-top:12px"><button class="btn ghost" id="prev"${i ? "" : " disabled"}>前へ</button><button class="btn ghost" id="next">${last ? "一覧へ" : "次へ"}</button></div>
     </div>`;
   const mic = $("#mic"), res = $("#res");
-  onTap($("#head"), () => { if (rec) rec.stop(); restart(); });
+  onTap($("#head"), () => { if (rec) rec.stop(); setSrc(c.id); restart(); });
   $("#prev").onclick = () => { if (rec) rec.abort(); pronScreen(lesson, i - 1); };
   $("#next").onclick = () => { if (rec) rec.abort(); last ? pronListScreen() : pronScreen(lesson, i + 1); };
   if (!SR) { res.textContent = "このブラウザでは音声認識が使えません。iPhone は Safari で開いてください。"; mic.disabled = true; return; }
   const idle = () => { mic.textContent = "🎤 話す"; };
   onTap(mic, async () => {
     if (rec) { rec.stop(); return; } // 聞き取り中にもう一度押すと、そこで話し終わりにする
-    player.pause();
+    // iPhone は再生した音声を持ったままだとマイクが無音になることがあるので、お手本を手放してから聞き取る
+    player.pause(); player.removeAttribute("src"); player.load();
     mic.textContent = "⏹ 聞いています…"; res.textContent = "";
+    await new Promise((r) => setTimeout(r, 250));
     let alts;
     try { alts = await listen(); } catch (e) {
       idle();
@@ -344,7 +348,7 @@ function pronScreen(lesson, i = 0) {
       return;
     }
     idle();
-    if (!alts.length) { res.textContent = "声が聞こえませんでした。もう一度どうぞ。"; return; }
+    if (!alts.length) { res.textContent = !alts.audio ? "マイクが始まりませんでした。もう一度押してください。続くときは Safari のマイク許可と設定の「音声入力」を確認してください。" : !alts.speech ? "マイクは動いていますが、声を検知できませんでした。押してすぐ、少し大きめの声でどうぞ。" : "声は検知しましたが、言葉として認識できませんでした。もう一度どうぞ。"; return; }
     const b = norm(c.en);
     let best = null; // 候補のうち一番近いものを採用する
     for (const t of alts) { const hit = hitSet(norm(t), b), s = Math.round((hit.size / b.length) * 100); if (!best || s > best.s) best = { t, hit, s }; }
